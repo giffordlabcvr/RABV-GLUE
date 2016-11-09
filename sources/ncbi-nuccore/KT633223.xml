@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KT633223</GBSeq_locus>
+  <GBSeq_length>200</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>15-FEB-2016</GBSeq_update-date>
+  <GBSeq_create-date>15-FEB-2016</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate IP6527_12_dog_SP nucleoprotein mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>KT633223</GBSeq_primary-accession>
+  <GBSeq_accession-version>KT633223.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KT633223.1|</GBSeqid>
+    <GBSeqid>gi|989016624</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..200</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Castilho,J.G.</GBAuthor>
+        <GBAuthor>de Oliveira,R.N.</GBAuthor>
+        <GBAuthor>de Souza,D.N.</GBAuthor>
+        <GBAuthor>Carnieli,P. Jr.</GBAuthor>
+        <GBAuthor>Batista,H.B.</GBAuthor>
+        <GBAuthor>Achkar,S.M.</GBAuthor>
+        <GBAuthor>Macedo,C.I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular characterization of rabies virus isolated from dogs and cats in Sao Paulo state, Brazil between 2005 to 2014</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..200</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Castilho,J.G.</GBAuthor>
+        <GBAuthor>de Oliveira,R.N.</GBAuthor>
+        <GBAuthor>de Souza,D.N.</GBAuthor>
+        <GBAuthor>Carnieli,P. Jr.</GBAuthor>
+        <GBAuthor>Batista,H.B.</GBAuthor>
+        <GBAuthor>Achkar,S.M.</GBAuthor>
+        <GBAuthor>Macedo,C.I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (01-SEP-2015) Virology, Pasteur Institute of Sao Paulo, A. Paulista 393, Cerqueira Cesar., Sao Paulo 01311000, Brazil</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Assembly Method Chromas v. 2.31; Bioedit v. 7.0.9.0; Mega v. 4 Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..200</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>200</GBInterval_to>
+          <GBInterval_accession>KT633223.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>IP6527_12_dog_SP</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2012</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..141</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>141</GBInterval_to>
+          <GBInterval_accession>KT633223.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AME30402.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>VYTRIMMNGGRLKRSHIRRYVSVSSNHQTRPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>3'UTR</GBFeature_key>
+      <GBFeature_location>142..200</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>142</GBInterval_from>
+          <GBInterval_to>200</GBInterval_to>
+          <GBInterval_accession>KT633223.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gtttatactcgaatcatgatgaatggaggtcgactaaaaagatcacacataaggaggtatgtctcagtcagctctaatcatcaaactcgccctaactcgtttgcggagtttttaaacaaaacatactcgagtgactcgtgaggagttgaacaacaagattgcaaacaccaacgagatgtatacatctctcatgaaaaaaa</GBSeq_sequence>
+</GBSeq>

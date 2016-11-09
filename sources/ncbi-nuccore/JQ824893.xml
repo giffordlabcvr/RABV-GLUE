@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JQ824893</GBSeq_locus>
+  <GBSeq_length>1575</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>08-APR-2013</GBSeq_update-date>
+  <GBSeq_create-date>12-DEC-2012</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate EfV1 glycoprotein (G) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>JQ824893</GBSeq_primary-accession>
+  <GBSeq_accession-version>JQ824893.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|JQ824893.1|</GBSeqid>
+    <GBSeqid>gi|428697002</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Davis,A.D.</GBAuthor>
+        <GBAuthor>Gordy,P.A.</GBAuthor>
+        <GBAuthor>Bowen,R.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Unique characteristics of bat rabies viruses in big brown bats (Eptesicus fuscus)</GBReference_title>
+      <GBReference_journal>Arch. Virol. 158 (4), 809-820 (2013)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1007/s00705-012-1551-0</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>23208279</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Davis,A.D.</GBAuthor>
+        <GBAuthor>Gordy,P.A.</GBAuthor>
+        <GBAuthor>Bowen,R.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (21-MAR-2012) Infectious Diseases, Wadsworth Center, 5668 State Farm Road, Slingerlands, NY 12159, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JQ824893.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>EfV1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>salivary gland</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Eptesicus fuscus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>USA: Colorado</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2000</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JQ824893.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JQ824893.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AFZ61860.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MIPHALLSVPLLISSLCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCNSLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPMPDACRAAYNWKTAGDPRYEESLHNPYPDYHWLRTVKTTKESLIIISPSVADLDPYDKSLHSRIFPGGKCLGITISSTYCSTNHDYTIWMPEEARLGTSCDIFTNSKGKRASKGGRTCGFVDERGLYKSLKGACKLKLCGVPGLRLMDGTWVAIQTPNETKWCSPDQLVNVHDFRSDEIEHLVVEELIRKREECLDALESIMTTKSVSFRRLSNLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEIIPSRGCLKVGGRCHPHVNGVFFNGIILGPDGHILIPEMQSSLLQQHMELLESSVIPLIHPLADPSTVFKDGDEAEDFVEVHLPDVHQQVSGVDLGLPDWGKYVLMSAGALATVMLTIFLITCCRRVKSAESVQQGLGESGRKVSVAPQNGKVMSSWEYYKSGGGTRL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgatccctcacgctcttctgtctgtgcctcttctaatttcctcgttgtgtttcgggaaattccccatctacacgataccagacaagctcggcccttggagtcccatcgacatacatcacctcagctgtcctaacaatttggttgtggaggatgagggatgcaacagtctgtcagggttttcttacatggaactgaaggtgggatacatctctgccataaaagttaatgggttcacttgtactggtgttgtgacagaagctgagacctacaccaactttgttggttacgtcaccaccacattcaagagaaaacacttccgccctatgccggatgcatgcagagccgcatacaactggaagacggccggcgatcctagatatgaagagtcccttcacaatccttatcctgattaccattggctaaggactgtaaaaaccaccaaagaatcccttattatcatatcgccaagtgtggctgatttggacccctacgacaaatctcttcattcaagaatcttccctggtgggaaatgcttgggaataacaatctcttccacctactgttcaactaaccatgattatactatctggatgcccgaagaagcaagactcgggacatcttgtgacatttttaccaacagcaaagggaagagagcatccaaggggggtaggacttgtggattcgtggatgaacggggcttgtataagtctctaaaaggggcatgtaaacttaagctgtgcggagttcctggacttagacttatggatggaacgtgggtcgctattcagacaccaaatgagaccaaatggtgctctcctgatcagctggtgaatgtacatgactttcgctcagatgagatagaacatctcgtcgtggaggagttgatcaggaaaagggaagaatgtctagatgcactggagtccatcatgactacaaaatcagtaagcttcaggcgtctcagcaacttgaggaaacttgttcctgggtttggaaaggcatatactatattcaacaaaaccttaatggaggctgatgctcactacaagtcagttcggacttggaatgaaatcatcccctcaagagggtgcctgaaagtcggagggaggtgtcatcctcatgtgaatggagtgtttttcaatggtataattttgggtccggatgggcatatcctgattccggagatgcaatcatccctcctccaacagcatatggagctgttagaatcctctgtaatccccttaatacatcctctggcagacccatcaacagtcttcaaggacggtgatgaggcggaggactttgttgaggttcaccttccggacgttcaccaacaggtctcaggggttgacctcggtctcccagactgggggaagtatgtgctgatgagtgcaggtgctctagcaaccgtgatgctgacaatattcttgataacctgttgcagaagggtcaagagtgcagaatcagtacaacaaggtcttggtgagtcaggaaggaaagtgtcggtagctccccaaaacggaaaagtcatgtcctcatgggaatattacaagagtggaggcgggaccaggctgtga</GBSeq_sequence>
+</GBSeq>

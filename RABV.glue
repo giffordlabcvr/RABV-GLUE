@@ -1,0 +1,28 @@
+delete project rabv
+
+create project rabv "GLUE project for the rabies virus (RABV)" --minVersion 0.1.50
+
+schema-project rabv
+
+	run file glue/rabvFieldDefinitions.glue
+
+exit
+
+project rabv
+
+	run file glue/projectSettings.glue
+    
+	# NCBI sequences 
+	#create module --fileName modules/rabvNcbiImporter.xml ncbiImporter
+	#module ncbiImporter import
+	
+	import source sources/ncbi-nuccore 
+
+	# populate certain fields following XML config
+	create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
+	module genbankXmlPopulator populate
+
+
+	#import source sources/ncbi-refseqs
+ 
+exit

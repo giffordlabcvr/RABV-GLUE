@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KF482531</GBSeq_locus>
+  <GBSeq_length>446</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>20-NOV-2013</GBSeq_update-date>
+  <GBSeq_create-date>20-NOV-2013</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate D144 nucleoprotein gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>KF482531</GBSeq_primary-accession>
+  <GBSeq_accession-version>KF482531.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KF482531.1|</GBSeqid>
+    <GBSeqid>gi|558045328</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..446</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Mahardika,G.N.</GBAuthor>
+        <GBAuthor>Dibia,N.</GBAuthor>
+        <GBAuthor>Budayanti,N.S.</GBAuthor>
+        <GBAuthor>Susilawathi,N.M.</GBAuthor>
+        <GBAuthor>Subrata,K.</GBAuthor>
+        <GBAuthor>Darwinata,A.E.</GBAuthor>
+        <GBAuthor>Wignall,F.S.</GBAuthor>
+        <GBAuthor>Richt,J.A.</GBAuthor>
+        <GBAuthor>Valdivia-Granda,W.A.</GBAuthor>
+        <GBAuthor>Sudewi,R.A.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Phylogenetic Analysis and Victim Contact Tracing of Rabiesvirus from Human and Dog Cases in Bali, Indonesia</GBReference_title>
+      <GBReference_journal>Epidemiol. Infect. (2014) In press</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..446</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Mahardika,G.N.</GBAuthor>
+        <GBAuthor>Dibia,N.</GBAuthor>
+        <GBAuthor>Budayanti,N.S.</GBAuthor>
+        <GBAuthor>Susilawathi,N.M.</GBAuthor>
+        <GBAuthor>Darwinata,A.E.</GBAuthor>
+        <GBAuthor>Sudewi,R.A.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (31-JUL-2013) Animal Biomedical and Molecular Biology Laboratory, Udayana University, Sesetan-Markisa 6, Denpasar, Bali 80226, Indonesia</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..446</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>446</GBInterval_to>
+          <GBInterval_accession>KF482531.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>D144</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis lupus familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Indonesia: Bali</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2010</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>I</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;446</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>446</GBInterval_to>
+          <GBInterval_accession>KF482531.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AHA49878.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>APDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGSWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMTTHKM</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gctccagacttaaacaaggcctataagtcagtcctgtctggtatgaatgccgccaagcttgatcctgatgatgtgtgttcctatttagcagccgcaatgcagttctttgaaggaacatgccctgaagactggaccagttatggaatcttgattgcacgaaagggggacaagattactcctgactctcttgtagagattaaacgcactgatgtagaagggagttgggccttgacgggaggtatggagttgacgagagatcccacagtctcagagcatgcatccttagtcggtttgctcttaagtctatataggttgagcaaaatatcgggacaaaacaccggcaactacaagacaaacatcgcggataggatagagcagatttttgaaactgccccttttgtcaagattgtggagcaccatactctgatgacaactcacaagatgtg</GBSeq_sequence>
+</GBSeq>

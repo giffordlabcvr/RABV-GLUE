@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KJ957449</GBSeq_locus>
+  <GBSeq_length>1353</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>29-OCT-2014</GBSeq_update-date>
+  <GBSeq_create-date>29-OCT-2014</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate RV2970N nucleoprotein (N) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>KJ957449</GBSeq_primary-accession>
+  <GBSeq_accession-version>KJ957449.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KJ957449.1|</GBSeqid>
+    <GBSeqid>gi|699125076</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Zieger,U.</GBAuthor>
+        <GBAuthor>Marston,D.A.</GBAuthor>
+        <GBAuthor>Sharma,R.</GBAuthor>
+        <GBAuthor>Chikweto,A.</GBAuthor>
+        <GBAuthor>Tiwari,K.</GBAuthor>
+        <GBAuthor>Sayyid,M.</GBAuthor>
+        <GBAuthor>Louison,B.</GBAuthor>
+        <GBAuthor>Goharriz,H.</GBAuthor>
+        <GBAuthor>Voller,K.M.</GBAuthor>
+        <GBAuthor>Breed,A.C.</GBAuthor>
+        <GBAuthor>Werling,D.</GBAuthor>
+        <GBAuthor>Fooks,A.R.</GBAuthor>
+        <GBAuthor>Horton,D.L.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>The phylogeography of rabies in grenada, west indies, and implications for control</GBReference_title>
+      <GBReference_journal>PLoS Negl Trop Dis 8 (10), E3251 (2014)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1371/journal.pntd.0003251</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>25330178</GBReference_pubmed>
+      <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Zieger,U.</GBAuthor>
+        <GBAuthor>Marston,D.A.</GBAuthor>
+        <GBAuthor>Sharma,R.</GBAuthor>
+        <GBAuthor>Chikweto,A.</GBAuthor>
+        <GBAuthor>Tiwari,K.</GBAuthor>
+        <GBAuthor>Sayyid,M.</GBAuthor>
+        <GBAuthor>Louison,B.</GBAuthor>
+        <GBAuthor>Goharriz,H.</GBAuthor>
+        <GBAuthor>Voller,K.M.</GBAuthor>
+        <GBAuthor>Breed,A.C.</GBAuthor>
+        <GBAuthor>Werling,D.</GBAuthor>
+        <GBAuthor>Fooks,A.R.</GBAuthor>
+        <GBAuthor>Horton,D.L.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (10-JUN-2014) Virology, Animal Health and Veterinary Laboratories Agency, Woodham Lane, Addlestone, Surrey KT15 3NB, UK</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Assembly Method SeqMan Pro (DNAStar) v. v11.1 Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KJ957449.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>RV2970N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>mongoose</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Grenada</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>04-Mar-2013</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>original Lab ID:R33</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KJ957449.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KJ957449.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AIU40925.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPCITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALAGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAKEAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKTDVALADDGTVNSDDEDYFSGETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgctgacaagattgtattcaaagtcaataatcaggtggtctcgttgaagcctgagatcatcgtggaccaatatgagtacaagtaccctgcgatcaaagatttgaaaaagccctgcataaccctagggaaagcccccgacttaaacaaggcatacaagtcagttttatcaggcatgaatgcagccaaacttgatccggatgatgtatgttcctacttggcggcagcaatgcagttcttcgaggggacgtgtccggaagactggaccagctatggaatcctgattgcacgaaaaggggacaagatcaccccagattctctggtggaaataaagcgtactgatgtagaagggaattgggctctcgcaggaggcatggaattaaccagagaccccactgtctctgagcatgcgtccttggtcggccttctcttgagtctgtataggctgagcaaaatatctggacaaaacaccggcaactataaaacaaacattgcggacaggatagagcagattttcgaaacagccccttttgttaaaatcgtagaacaccacactctaatgacgactcacaaaatgtgtgctaactggagcactataccgaatttcagatttctggccggaacctacgacatgtttttctcccggattgagcatctatattccgcaatcagagtgggcacagttgttactgcttatgaagactgctcagggctggtatcgtttactgggttcataaagcagatcaatctcactgcaaaagaagcgatactatacttcttccacaagaactttgaggaagaaataagaagaatgtttgagccagggcaggagacagctgttcctcactcatatttcattcacttccgttcactcggcttgagtgggaagtctccttattcatctaatgccgttggtcatgtgtttaatctcattcactttgttggatgctacatgggccaagtcagatctctaaatgcaacagttattgctgcgtgtgctcctcatgagatgtctgttctagggggctatttgggagaagaattcttcgggaaaggaacattcgaaagaagattcttcagagatgagaaagaacttcaagaatacgaggcggctgaactgacaaagactgatgtggcattggctgatgacggaactgtcaactctgacgatgaggattacttttccggtgaaaccagaagcccagaggctgtttatacccgaatcatgatgaacggaggtcgattgaagagatcgcacatacggagatatgtctcagtcagttccaatcatcaagcccgtccaaactcgttcgccgagtttctgaacaagacatattcaagtgactcataa</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>GQ851425</GBSeq_locus>
+  <GBSeq_length>515</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>08-SEP-2010</GBSeq_update-date>
+  <GBSeq_create-date>08-SEP-2010</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate RRV-FL-88-205 G-L intergenic region, complete sequence</GBSeq_definition>
+  <GBSeq_primary-accession>GQ851425</GBSeq_primary-accession>
+  <GBSeq_accession-version>GQ851425.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|GQ851425.1|</GBSeqid>
+    <GBSeqid>gi|306030002</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..515</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Szanto,A.G.</GBAuthor>
+        <GBAuthor>Nadin-Davis,S.A.</GBAuthor>
+        <GBAuthor>Rosatte,R.C.</GBAuthor>
+        <GBAuthor>White,B.N.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Genetic tracking of the raccoon rabies virus in eastern North America</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..515</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Szanto,A.G.</GBAuthor>
+        <GBAuthor>Nadin-Davis,S.A.</GBAuthor>
+        <GBAuthor>Rosatte,R.C.</GBAuthor>
+        <GBAuthor>White,B.N.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (27-AUG-2009) Environmental &amp; Life Sciences Graduate Program, Trent University, DNA Profiling and Forensic Research Centre, 2140, East Bank Drive, DNA Building, Peterborough, Ontario K9J 7B8, Canada</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..515</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>515</GBInterval_to>
+          <GBInterval_accession>GQ851425.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>RRV-FL-88-205</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>raccoon</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>USA: Florida</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>1988</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>misc_feature</GBFeature_key>
+      <GBFeature_location>1..515</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>515</GBInterval_to>
+          <GBInterval_accession>GQ851425.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>G-L intergenic region</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>ggagggctgcctcatccacacactatgttcggaaaactgctcccctctgatacatggaagattatcctgccttgacaatcccccatggactctgtccaacagggtaaatttcgaagtcaagaaactttcatcgaccatctcacccgaccagacacagtcatgtggactttgatgatgtatgaagcatttttatagtatcagcgactaatggtgctctcaccctctaaggactggtaccaaaggttgtggacagactaaccgacatctcagacaaccctgtttcttagcttgggcagaggctgtgagaagctcctctaccttaaactaaaacagtgatcagctgagaaaactgatttgcctcctatgaaggacacaagcaatagatcacaatcatctcacatcccaataagttgtgcataactactaagggctgggccatctaatctcctcaatcaagaaaaaaactgtgagacagagaaatccttaacaacacttctcatcctgaacactgcacc</GBSeq_sequence>
+</GBSeq>

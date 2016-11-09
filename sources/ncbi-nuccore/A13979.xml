@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>A13979</GBSeq_locus>
+  <GBSeq_length>1710</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>PAT</GBSeq_division>
+  <GBSeq_update-date>28-FEB-1994</GBSeq_update-date>
+  <GBSeq_create-date>28-FEB-1994</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus gene for glycoprotein</GBSeq_definition>
+  <GBSeq_primary-accession>A13979</GBSeq_primary-accession>
+  <GBSeq_accession-version>A13979.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>emb|A13979.1|</GBSeqid>
+    <GBSeqid>pat|EP|0162757|1</GBSeqid>
+    <GBSeqid>gi|492946</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1710</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Lathe,R.</GBAuthor>
+        <GBAuthor>Kieny,M.P.</GBAuthor>
+        <GBAuthor>Drillien,R.</GBAuthor>
+        <GBAuthor>Lecocq,J.P.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Vaccine for rabies and process for its preparation</GBReference_title>
+      <GBReference_journal>Patent: EP 0162757-A1 1 27-NOV-1985; TRANSGENE S.A</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1710</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1710</GBInterval_to>
+          <GBInterval_accession>A13979.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>unassigned RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>28..1602</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>28</GBInterval_from>
+          <GBInterval_to>1602</GBInterval_to>
+          <GBInterval_accession>A13979.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>CAA01139.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MVPQALLFVPLLVFPLCFGKFPIYTILDKLGPWXPIDIHHLSCPNNLVVEDEGCTNLSGFSYMELKVGYILAIKMNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAYNWKMAGDPRYEESLHNPYPDYRWLRTVKTTKESLVIISPSVADLDPYDRSLHSRVFPSGKCSGVAVSSTYCSTNHDYTIWMPENPRLGMSCDIFTNSRGKRASKGSETCGFVDERGLYKSLKGACKLKLCGVLGLRLMDGTWVAMQTSNETKWCPPDQLVNLHDFRSDEIEHLVVEELVRKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEILPSKGCLRVGGRCHPHVNGVFFNGIILGPDGNVLIPEMQSSLLQQHMELLESSVIPLVHPLADPSTVFKDGDEAEDFVEVHLPDVHNQVSGVDLGLPNWGKYVLLSAGALTALMLIIFLMTCCRRVNRSEPTQHNLRGTGREVSVTPQSGKIISSWESHKSGGETRL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>ctgcagggggggggggggggaggaaagatggttcctcaggctctcctgtttgtaccccttctggtttttccattgtgttttgggaaattccctatttacacgatactagacaagcttggtccctggngcccgattgacatacatcacctcagctgcccaaacaatttggtagtggaggacgaaggatgcaccaacctgtcagggttctcctacatggaacttaaagttggatacatcttagccataaaaatgaacgggttcacttgcacaggcgttgtgacggaggctgaaacctacactaacttcgttggttatgtcacaaccacgttcaaaagaaagcatttccgcccaacaccagatgcatgtagagccgcgtacaactggaagatggccggtgaccccagatatgaagagtctctacacaatccgtaccctgactaccgctggcttcgaactgtaaaaaccaccaaggagtctctcgttatcatatctccaagtgtagcagatttggacccatatgacagatcccttcactcgagggtcttccctagcgggaagtgctcaggagtagcggtgtcttctacctactgctccactaaccacgattacaccatttggatgcccgagaatccgagactagggatgtcttgtgacatttttaccaatagtagagggaagagagcatccaaagggagtgagacttgcggctttgtagatgaaagaggcctatataagtctttaaaaggagcatgcaaactcaagttatgtggagttctaggacttagacttatggatggaacatgggtcgcgatgcaaacatcaaatgaaaccaaatggtgccctcccgatcagttggtgaacctgcacgactttcgctcagacgaaattgagcaccttgttgtagaggagttggtcaggaagagagaggagtgtctggatgcactagagtccatcatgacaaccaagtcagtgagtttcagacgtctcagtcatttaagaaaacttgtccctgggtttggaaaagcatataccatattcaacaagaccttgatggaagccgatgctcactacaagtcagtcagaacttggaatgagatcctcccttcaaaagggtgtttaagagttggggggaggtgtcatcctcatgtgaacggggtgtttttcaatggtataatattaggacctgacggcaatgtcttaatcccagagatgcaatcatccctcctccagcaacatatggagttgttggaatcctcggttatcccccttgtgcaccccctggcagacccgtctaccgttttcaaggacggtgacgaggctgaggattttgttgaagttcaccttcccgatgtgcacaatcaggtctcaggagttgacttgggtctcccgaactgggggaagtatgtattactgagtgcaggngccctnactgccttgatgttgataattttcctgatgacatgttgtagaagagtcaatcgatcagaacctacgcaacacaatctcagagggacagggagggaggtgtcagtcactccccaaagcgggaagatcatatcttcatgggaatcacacaagagtgggggtgagaccagactgtgaggactggccgtcctttcaacgatccaagtcctgaagatcacctccccttggggggttctttttaaaaaaaaaaaaaaaaaaaaaaaaaccccccccccccccctgcag</GBSeq_sequence>
+</GBSeq>

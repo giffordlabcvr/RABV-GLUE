@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AF177086</GBSeq_locus>
+  <GBSeq_length>594</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>19-MAR-2003</GBSeq_update-date>
+  <GBSeq_create-date>21-AUG-2001</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate j21579 glycoprotein gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>AF177086</GBSeq_primary-accession>
+  <GBSeq_accession-version>AF177086.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|AF177086.1|</GBSeqid>
+    <GBSeqid>gi|15216421</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..594</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Sabeta,C.T.</GBAuthor>
+        <GBAuthor>Bingham,J.</GBAuthor>
+        <GBAuthor>Nel,L.H.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular epidemiology of canid rabies in Zimbabwe and South Africa</GBReference_title>
+      <GBReference_journal>Virus Res. 91 (2), 203-211 (2003)</GBReference_journal>
+      <GBReference_pubmed>12573499</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..594</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Sabeta,C.T.</GBAuthor>
+        <GBAuthor>Bingham,J.</GBAuthor>
+        <GBAuthor>Nel,L.H.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (10-AUG-1999) Microbiology and Plant Pathology, University of Pretoria, Lunnon Road, Pretoria 0001, South Africa</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..594</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>594</GBInterval_to>
+          <GBInterval_accession>AF177086.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>j21579</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>isolated from Zimbabwean jackal</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..128</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>128</GBInterval_to>
+          <GBInterval_accession>AF177086.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>cytoplasmic domain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>3</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAK92269.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>NRPESTQCSLGGTGRKGSVTSQSGKVISSWESYKSGGETRL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>misc_feature</GBFeature_key>
+      <GBFeature_location>129..594</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>129</GBInterval_from>
+          <GBInterval_to>594</GBInterval_to>
+          <GBInterval_accession>AF177086.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>glycoprotein-L protein intergenic region</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>tcaatcgaccagaatctacgcaatgcagtctcggagggacagggaggaaggggtcggtcacttcccaaagcgggaaggtcatatcttcatgggagtcatataaaagtgggggtgagactagattgtaaaagctggtcatcctttcgacgcttcaagttctgaaggtcacctccccttggggttggggggaatctctgagttcaacagtcctccttgaactccatgcaacagggtagattcaggagtcatgaaactttcatttatcatctcagttgatcaaacaaggtcatgttgattctcataatacgggaaattttctaacagtttcagtgaccaaccggtgctttcattctccaggaacctgagatcacaggttgtagacgggccaagaggtatttcgggtgactccgtgcttaggcacagacagaggtcatagtacgtcccataatggcagactcaacatgagtcgattgagaaaggcaatctgcctccaatgaaggacataagcaatagctcacgatcatcttgcatctcagcaaattgtgcataattataaagggctgggtcatctaagcttttcagtcgagaaaaaaa</GBSeq_sequence>
+</GBSeq>

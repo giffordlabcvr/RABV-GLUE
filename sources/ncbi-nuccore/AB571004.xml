@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AB571004</GBSeq_locus>
+  <GBSeq_length>1365</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>23-SEP-2010</GBSeq_update-date>
+  <GBSeq_create-date>23-SEP-2010</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus N mRNA for nucleoprotein, complete cds, isolate: MGL-22</GBSeq_definition>
+  <GBSeq_primary-accession>AB571004</GBSeq_primary-accession>
+  <GBSeq_accession-version>AB571004.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|AB571004.1|</GBSeqid>
+    <GBSeqid>gi|307574598</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Boldbaatar,B.</GBAuthor>
+        <GBAuthor>Inoue,S.</GBAuthor>
+        <GBAuthor>Tuya,N.</GBAuthor>
+        <GBAuthor>Dulam,P.</GBAuthor>
+        <GBAuthor>Batchuluun,D.</GBAuthor>
+        <GBAuthor>Sugiura,N.</GBAuthor>
+        <GBAuthor>Okutani,A.</GBAuthor>
+        <GBAuthor>Kaku,Y.</GBAuthor>
+        <GBAuthor>Noguchi,A.</GBAuthor>
+        <GBAuthor>Kotaki,A.</GBAuthor>
+        <GBAuthor>Yamada,A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular epidemiology of rabies virus in mongolia, 2005-2008</GBReference_title>
+      <GBReference_journal>Jpn. J. Infect. Dis. 63 (5), 358-363 (2010)</GBReference_journal>
+      <GBReference_pubmed>20859006</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1365</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Boldbaatar,B.</GBAuthor>
+        <GBAuthor>Inoue,S.</GBAuthor>
+        <GBAuthor>Tuya,N.</GBAuthor>
+        <GBAuthor>Dulam,P.</GBAuthor>
+        <GBAuthor>Batchuluun,D.</GBAuthor>
+        <GBAuthor>Noguchi,A.</GBAuthor>
+        <GBAuthor>Akira,K.</GBAuthor>
+        <GBAuthor>Yamada,A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (02-JUL-2010) Contact:Bazartseren Boldbaatar Nihon University, College of Bioresource Sciences, Department of Veterinary Medicine; Kameino 1866, Fujisawa, Kanagawa 252-8510, Japan</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1365</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1365</GBInterval_to>
+          <GBInterval_accession>AB571004.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>MGL-22</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain tissue of dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis lupus familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Mongolia:Tuv</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>lat_lon</GBQualifier_name>
+          <GBQualifier_value>44 N 106 E</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2007</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collected_by</GBQualifier_name>
+          <GBQualifier_value>Boldbaatar Bazartseren</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>identified_by</GBQualifier_name>
+          <GBQualifier_value>Boldbaatar Bazartseren</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>PCR_primers</GBQualifier_name>
+          <GBQualifier_value>fwd_name: P1, fwd_seq: acagacagcgtcaattgcaaagc, rev_name: 304, rev_seq: ttgacgaagatcttgctcat</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>genotype 1</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>AB571004.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>AB571004.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>BAJ19501.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLNKAYKSVLSGLNAAKLDPDDVCSYLAAAMQLFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVPEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFIKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYETAELTKTDVALADDGTVNSDDEDYFSGETRSPEAVYARIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtctccctgaagcctgagattatcgtggatcaatatgaatacaagtaccctgcgatcaaggacttgaaaaagcccagtatcaccctggggaaggcccccgatttgaataaggcatataagtcagttttgtcaggtttgaatgctgccaagcttgatcctgatgatgtatgttcctacttagcagccgcaatgcagctctttgaggggacatgtcctgaagactggaccagctacggaatcctgattgcacgaaaaggagataagatcaccccagattctcttgtggagataaagcgtactgatgtagaagggaattgggctttgacaggaggaatggaactgacgagggaccccactgttcccgagcatgcatctttagtcggtcttctcttgagtctgtataggctgagcaaaatatcggggcaaaacaccggtaactataagacaaacattgcagataggatagaacaaattttcgagacagccccttttattaaaatcgtggaacatcatactctgatgacaactcacaagatgtgtgccaattggagtactataccaaacttcagattcttggccgggacctacgacatgtttttctcccggattgagcatctatattcggcaatcagagtaggaacggtggtcactgcttatgaggattgctctgggctggtatcgtttactgggttcataaaacagataaatctcactgcaagggaagcaatactatatttcttccacaaaaacttcgaggaagagatcagaagaatgtttgagccagggcaggagacagctgttcctcactcttatttcattcacttccgttcattgggcctaagtgggaagtccccttattcgtcgaatgcagttggtcatgtgttcaatctcattcactttgtcggatgttatatggggcaagtaagatctctgaatgcaacagttattgctgcatgtgctccccatgaaatgtctgttttggggggctatctgggagaggagttcttcgggaaaggaacgttcgagagaagattcttcagagacgagaaagaactccaagagtatgagacggctgaattgacaaagactgacgtggcgctggcagatgacggaacggtcaattcggatgacgaggactacttttccggtgagaccagaagccccgaagctgtttatgcccgaatcatgatgaatggaggtcgactaaagagatcgcacatacgaagatatgtttcagtaagctccaatcaccaagctcgtccgaactcgtttgccgagtttctaaacaagacgtattctagtgactcataaggagttgaataa</GBSeq_sequence>
+</GBSeq>

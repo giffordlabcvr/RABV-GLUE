@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KJ152774</GBSeq_locus>
+  <GBSeq_length>1353</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>11-AUG-2014</GBSeq_update-date>
+  <GBSeq_create-date>05-AUG-2014</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus strain NMSH01 nucleoprotein gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>KJ152774</GBSeq_primary-accession>
+  <GBSeq_accession-version>KJ152774.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KJ152774.1|</GBSeqid>
+    <GBSeqid>gi|630866198</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Feng,Y.</GBAuthor>
+        <GBAuthor>Wang,W.</GBAuthor>
+        <GBAuthor>Guo,J.</GBAuthor>
+        <GBAuthor>Alatengheli</GBAuthor>
+        <GBAuthor>Li,Y.</GBAuthor>
+        <GBAuthor>Yang,G.</GBAuthor>
+        <GBAuthor>Su,N.</GBAuthor>
+        <GBAuthor>Zhang,L.</GBAuthor>
+        <GBAuthor>Xu,W.</GBAuthor>
+        <GBAuthor>Sheng,Z.</GBAuthor>
+        <GBAuthor>Ma,L.</GBAuthor>
+        <GBAuthor>Gui,J.</GBAuthor>
+        <GBAuthor>Dejide</GBAuthor>
+        <GBAuthor>Lin,H.</GBAuthor>
+        <GBAuthor>Tu,C.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Disease outbreaks caused by steppe-type rabies viruses in China</GBReference_title>
+      <GBReference_journal>Epidemiol. Infect. (2014) In press</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1017/S0950268814001952</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>25078967</GBReference_pubmed>
+      <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Feng,Y.</GBAuthor>
+        <GBAuthor>Tu,C.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (16-JAN-2014) Diagnostic Laboratory on Rabies and Wildlife-associated Viral Zoonoses, Changchun Veterinary Research Institute, 666 Liuying West Rd., Jingyue Economic Development Zone, Changchun, Jilin 130122, China</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KJ152774.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>NMSH01</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>serotype</GBQualifier_name>
+          <GBQualifier_value>I</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>sheep</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>China</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>03-Apr-2013</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KJ152774.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AHZ08730.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKINNQVVSLKPEIIVDQYEYKYPAIKDLKKPCITLGKAPDLNKAYKSILSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGNKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKTDVALADDGTVHSDDEDYFSGETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaaatcaataatcaggtggtctctttgaagcctgagatcatagtggatcaatatgaatacaagtaccctgctatcaaagatttgaaaaagccctgtataaccctggggaaagcccccgacttaaacaaagcatacaagtcaattttatcaggcatgaatgctgccaagctagatcctgatgatgtatgttcctacttggcagcagcaatgcagttctttgaggggacgtgtccggaagactggaccagctatggaatcttgattgcacgaaaaggaaacaagatcaccccggattctctggtggagataaagcgtactgatgtagaaggaaattgggctctgacaggaggcatggaattgactagggaccccactgtctctgaacatgcgtctttggtaggtcttctcttgagtctgtataggttgagcaaaatatcaggacaaaacactggtaactataaaacaaacatcgcagataggatagagcagattttcgagaccgccccttttgttaagatcgtggaacaccacactctaatgacgactcacaaaatgtgtgctaactggagtactataccgaatttcagatttttggccgggacctacgacatgtttttctcccggattgagcatctatattcagcaatcagagtgggcacggttgttactgcttatgaagactgttcaggtctggtatcatttacagggttcataaagcagatcaatctcaccgcaagagaagcaatattatacttcttccacaagaactttgaggaagagataagaagaatgtttgagccagggcaggagacagctgttcctcactcctatttcatccacttccgttcactaggcttgagcgggaagtctccttattcatcaaatgctgttggtcatgtgttcaatctcattcactttgttggatgctatatgggtcaagtcagatccctaaatgcaacagttattgccgcatgtgctcctcatgagatgtctgttctagggggctatctgggagaagagttcttcgggaaaggaacattcgagagaagattcttcagagatgagaaagaacttcaagaatacgaggcagctgaactgacaaagactgacgtggctttggcagatgatggaactgtccactctgacgatgaggactacttttccggagaaaccagaagtccagaagccgtttatactcgaatcatgatgaatggaggtcgactaaagagatcgcatatacggagatatgtctcagtcagttcaaatcatcaagctcgtccaaactcatttgccgagtttctaaacaagacatattcgagtgactcttaa</GBSeq_sequence>
+</GBSeq>

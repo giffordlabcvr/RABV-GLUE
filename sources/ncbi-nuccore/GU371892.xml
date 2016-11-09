@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>GU371892</GBSeq_locus>
+  <GBSeq_length>799</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>06-FEB-2010</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate ICAD20-RG nucleoprotein (N) mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>GU371892</GBSeq_primary-accession>
+  <GBSeq_accession-version>GU371892.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|GU371892.1|</GBSeqid>
+    <GBSeqid>gi|285013141</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..799</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Reddy,G.B.</GBAuthor>
+        <GBAuthor>Singh,R.</GBAuthor>
+        <GBAuthor>Singh,R.P.</GBAuthor>
+        <GBAuthor>Singh,K.P.</GBAuthor>
+        <GBAuthor>Gupta,P.K.</GBAuthor>
+        <GBAuthor>Desai,A.</GBAuthor>
+        <GBAuthor>Shankar,S.K.</GBAuthor>
+        <GBAuthor>Ramakrishnan,M.A.</GBAuthor>
+        <GBAuthor>Verma,R.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular characterization of Indian rabies virus isolates by partial sequencing of nucleoprotein (N) and phosphoprotein (P) genes</GBReference_title>
+      <GBReference_journal>Virus Genes 43 (1), 13-17 (2011)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1007/s11262-011-0601-0</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>21452061</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..799</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Manjunatha Reddy,G.B.</GBAuthor>
+        <GBAuthor>Singh,R.</GBAuthor>
+        <GBAuthor>Singh,K.P.</GBAuthor>
+        <GBAuthor>Vijayan,N.</GBAuthor>
+        <GBAuthor>Subhadra,P.K.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (31-DEC-2009) Centre for Animal Disease Research and Diagnosis, Indian Veterinary Research Institute, Izatnagar, Bareilly, U.P. 243 122, India</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..799</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>799</GBInterval_to>
+          <GBInterval_accession>GU371892.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>ICAD20-RG</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>goat</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>India</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2009</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>PCR_primers=fwd_name: Rab/N/533F, rev_name: Rab/N/1339R</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;799</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>799</GBInterval_to>
+          <GBInterval_accession>GU371892.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;799</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>799</GBInterval_to>
+          <GBInterval_accession>GU371892.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ADC32600.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>IADRIEQIFETAPFVKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTASEAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAGCAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYETAELTKTDVALADDGTVNSDDEDYFSGETRSPEAVYARIIMNGGRLKRSHIRRYVSVSSN</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>attgcagacaggatagagcagattttcgagacagccccttttgttaaaatcgtggaacaccatactctgatgacaactcacaaaatgtgtgccaattggagtactataccaaacttcagattcttagcagggacctacgacatgtttttctctcggattgagcacttgtattcagcgatcagagtaggcacagtagtcactgcttatgaggactgctcggggctggtgtcgtttactgggttcataaagcagataaatctcactgcaagtgaggcaatactatatttcttccacaaaaacttcgaggaagagataagaagaatgtttgagccggggcaagagacagctgttcctcactcctatttcattcacttccgttcactgggcttgagtgggaaatccccttattcatcaaatgcagttggtcatgtgttcaatctcattcactttgttggatgctacatggggcaagtaaggtccctaaatgcaacggtcattgccggatgtgctcctcatgagatgtctgttttagggggctacttaggggaggagttcttcgggaagggaacgttcgaaaggagattcttcagagacgagaaagaacttcaagaatatgagacggcagaattgacaaaaactgacgtggcactggcagatgacggaactgtcaattcggatgacgaggactacttctccggtgaaaccaggagccccgaagctgtttatgctcgaatcataatgaacggaggccgactaaagagatcgcacatacggagatatgtctcagtcagttccaatc</GBSeq_sequence>
+</GBSeq>

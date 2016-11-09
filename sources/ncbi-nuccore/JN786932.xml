@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JN786932</GBSeq_locus>
+  <GBSeq_length>894</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>18-FEB-2012</GBSeq_update-date>
+  <GBSeq_create-date>18-FEB-2012</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate KRVC1005 phosphoprotein (P) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>JN786932</GBSeq_primary-accession>
+  <GBSeq_accession-version>JN786932.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|JN786932.1|</GBSeqid>
+    <GBSeqid>gi|375280915</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..894</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Yang,D.-K.</GBAuthor>
+        <GBAuthor>Kim,H.-H.</GBAuthor>
+        <GBAuthor>Song,J.-Y.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular characterization of Phosphoprotein of Rabies Viruses (RABV) circulating in Korea</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..894</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Yang,D.-K.</GBAuthor>
+        <GBAuthor>Kim,H.-H.</GBAuthor>
+        <GBAuthor>Song,J.-Y.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (26-SEP-2011) Viral Disease Division, Animal, Plant and Fisheries Quarantine and Inspection Agency, 175 Anyang-Ro, Manan-gu, Anyang, Gyeonggi 430-757, Republic of Korea</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..894</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>894</GBInterval_to>
+          <GBInterval_accession>JN786932.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>KRVC1005</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis lupus familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>South Korea</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2010</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..894</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>894</GBInterval_to>
+          <GBInterval_accession>JN786932.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>P</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..894</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>894</GBInterval_to>
+          <GBInterval_accession>JN786932.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>P</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>phosphoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AFA44209.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MSKIFVNPSAIRAGLADLEMAEETVDLINKNIEDNQAHLQGEPIEVDNLPEDMRRLQLDDKEPSNLGGVTTAGECKYREDFQMDEGEDPNVLFQSYLDNVGVQIVRQMRSGERFLKIWSQTVEEIISYVAVNFPNPPGRSSEDKSTQTIGRELKKETTSISSQRDSQSSKARMAAQAASGPPALEWSATNEEDDLSVEAEIAHQIAESFSKKYKFPSRSSGIFLYNFEQLKMNLDDIVKEAKNVPGVARLAHDGSKLPLRCVLGWVGLANSKKFQLLVEPDKLNKIMQDDLNRYVSS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgagcaaaatctttgtcaatccgagcgcaatccgagccggtctagctgacctcgagatggctgaagagactgttgatctgatcaataaaaacatagaagataatcaggctcatctccagggagaacccatagaggtggacaatctccctgaggacatgaggcggctccagctggacgataaagaaccttctaaccttggcggggtgaccacagcgggggaatgcaagtatcgggaagactttcagatggatgaaggggaggaccctaacgtcctcttccagtcatacctggacaatgttggagtccagatagtcagacaaatgagatcaggggaaagatttcttaagatatggtcacaaaccgtggaggagatcatatcttatgttgcggtcaactttcctaaccctccagggaggtcttcggaggacaaatcaacccagactattggccgagaacttaagaaggagactacatccatttcttcccagagagacagccaatcttcgaaagccaggatggcggctcaagctgcctccggtcctccagctctcgaatggtctgccaccaacgaggaggatgatctatcagtggaagctgagattgctcaccaaattgctgaaagcttttccaagaaatacaagtttccttctcgatcatcagggatattcttgtataactttgagcagttaaaaatgaacctcgatgacatagttaaagaggcaaaaaatgtgccaggtgttgcccgtctagcccatgatggatctaaactccctctaagatgtgtactggggtgggttggtctggccaattccaaaaaattccagttgttagtcgagcctgacaagttaaataaaattatgcaagacgatctgaatcgctatgtatccagctaa</GBSeq_sequence>
+</GBSeq>

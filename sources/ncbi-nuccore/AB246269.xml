@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AB246269</GBSeq_locus>
+  <GBSeq_length>203</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>03-OCT-2006</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus N gene for nucleoprotein, partial cds, strain: BRbv287</GBSeq_definition>
+  <GBSeq_primary-accession>AB246269</GBSeq_primary-accession>
+  <GBSeq_accession-version>AB246269.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|AB246269.1|</GBSeqid>
+    <GBSeqid>gi|115500526</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Ogawa,A.</GBAuthor>
+        <GBAuthor>Sato,G.</GBAuthor>
+        <GBAuthor>Sato,T.</GBAuthor>
+        <GBAuthor>Itou,T.</GBAuthor>
+        <GBAuthor>Samara,S.I.</GBAuthor>
+        <GBAuthor>Carvalho,A.A.</GBAuthor>
+        <GBAuthor>Nociti,D.P.</GBAuthor>
+        <GBAuthor>Ito,F.H.</GBAuthor>
+        <GBAuthor>Sakai,T.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Geographical distribution of vampire bat-related cattle rabies in Brazil</GBReference_title>
+      <GBReference_journal>J. Vet. Med. Sci. 68 (10), 1097-1100 (2006)</GBReference_journal>
+      <GBReference_pubmed>17085890</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..203</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Sato,G.</GBAuthor>
+        <GBAuthor>Sato,T.</GBAuthor>
+        <GBAuthor>Itou,T.</GBAuthor>
+        <GBAuthor>Ito,F.H.</GBAuthor>
+        <GBAuthor>Sakai,T.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (06-JAN-2006) Contact:Yuki Kobayashi Nihon University, Nihon University Veterinary Research Center; 1866 Kameino, Fujisawa, Kanagawa 252-0805, Japan</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..203</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>203</GBInterval_to>
+          <GBInterval_accession>AB246269.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>BRbv287</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>cattle</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;203</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>203</GBInterval_to>
+          <GBInterval_accession>AB246269.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;203</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>203</GBInterval_to>
+          <GBInterval_accession>AB246269.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>2</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>BAF33867.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>VVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLHKAYKSILSGMNAAKLDPDDVCSYLAAAMQF</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>agtggtctccctgaagcctgaaattattgtggaccaatatgagtacaagtacccggctatcaaagacctgaagaagcccagtataaccttaggaaaagctcctgatttgcataaagcatacaaatcaattttgtctggcatgaacgcagccaaactcgaccctgatgatgtatgctcttatctggctgccgcaatgcagttct</GBSeq_sequence>
+</GBSeq>

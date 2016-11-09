@@ -1,0 +1,13 @@
+<!-- Parvoviridae genus reference sequences from NCBI -->
+<ncbiImporter>
+  <giNumberFieldName>gb_gi_number</giNumberFieldName>
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-refseqs</sourceName>
+  <specificPrimaryAccessions>
+
+     <!-- RABV reference strain -->
+    <primaryAccession>NC_001542</primaryAccession>
+
+  </specificPrimaryAccessions>  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+</ncbiImporter>

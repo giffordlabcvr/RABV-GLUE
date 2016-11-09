@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JB615623</GBSeq_locus>
+  <GBSeq_length>1575</GBSeq_length>
+  <GBSeq_strandedness>double</GBSeq_strandedness>
+  <GBSeq_moltype>DNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>PAT</GBSeq_division>
+  <GBSeq_update-date>12-OCT-2013</GBSeq_update-date>
+  <GBSeq_create-date>12-OCT-2013</GBSeq_create-date>
+  <GBSeq_definition>Sequence 287 from Patent WO2013068430</GBSeq_definition>
+  <GBSeq_primary-accession>JB615623</GBSeq_primary-accession>
+  <GBSeq_accession-version>JB615623.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>emb|JB615623.1|</GBSeqid>
+    <GBSeqid>pat|WO|2013068430|287</GBSeqid>
+    <GBSeqid>gi|549175255</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>PREHAUD,C.</GBAuthor>
+        <GBAuthor>LAFON,M.</GBAuthor>
+        <GBAuthor>WOLFF,N.</GBAuthor>
+        <GBAuthor>KHAN,Z.</GBAuthor>
+        <GBAuthor>TERRIEN,E.</GBAuthor>
+        <GBAuthor>VITRY,S.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>HIGH MAST2-AFFINITY POLYPEPTIDES AND USES THEREOF</GBReference_title>
+      <GBReference_journal>Patent: WO 2013068430-A2 287 16-MAY-2013; PASTEUR INSTITUT [FR], CENTRE NAT RECH SCIENT [FR], UNIV PARIS CURIE [FR]</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JB615623.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>unassigned DNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JB615623.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>unnamed protein product</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>CDI30171.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MVPQVLLFVLLLGFSLCFGKFPIYTIPDKLGPWSPIDIHHLRCPNNLVVEDEGCINLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAYNWKMAGDPRYEESLQNPYPDYHWLRTVRTTKESLIIISPSVTDLDPYDKSLHSRVFPGGKCSGITVSSTYCSTNHDYTIWMPENPRPGTPCDIFTNSRGKRASNGNKTCGFVDERGLYKSLKGACRLKLCGVLGLRLMDGTWVAMQTSDETKWCSPDQLVNLHDFRSDEIEHLVVEELVKKREECLDTLESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEIIPSKGCLKVGGRCHPHVNGVFFNGIILGPDDRVLIPEMQSSLLRQHMELLESSVIPLMHPLADPSTVFKEGDEAEDFVEVHLPDVYKQISGVDLGLPNWGKYVLMTAGAMIGLVLIFSLMTWCRRANRPESKQRSFGGTGGNVSVTSQSGKVIPSWESYKSGGEIRL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggttcctcaggttcttttgtttgtactccttctgggtttttcgttgtgtttcgggaagttccccatttacacgataccagacaaacttggtccctggagccctattgacatacaccatctccgctgtccaaataacctggttgtggaggatgaaggatgtatcaacctgtccgggttctcctacatggaactcaaagtgggatacatctcagccatcaaagtgaacgggttcacttgcacaggtgttgtgacagaggcagagacctacaccaactttgttggttatgtcacaaccacattcaagagaaagcatttccgccccaccccagacgcatgtagagccgcgtataactggaagatggccggtgaccccagatatgaagagtccctacaaaatccataccccgactaccactggcttcgaactgtaagaaccaccaaagagtccctcattatcatatccccaagtgtgacagatttggacccatatgacaaatcccttcactcaagggtcttccctggcggaaagtgctcaggaataacggtgtcctctacctactgctcaactaaccatgattacaccatttggatgcccgagaatccgagaccagggacaccttgtgacatttttaccaatagcagagggaagagagcatccaacgggaacaagacttgcggctttgtggatgaaagaggcctgtataagtctctaaaaggagcatgcaggctcaagttatgtggagttcttggacttagacttatggatggaacatgggtcgcgatgcaaacatcagatgagaccaaatggtgctctccagatcagttggtgaatttgcacgactttcgctcagacgagattgagcatctcgttgtggaggagttagtcaagaaaagagaggaatgtctggatacattagagtccatcatgaccaccaagtcagtaagtttcagacgtctcagtcacctgagaaaacttgtcccagggtttggaaaagcatataccatattcaacaaaaccttgatggaggctgatgctcactacaagtcagtccggacctggaatgagatcatcccctcaaaagggtgtttgaaagttggaggaaggtgccatcctcatgtgaacggggtgtttttcaatggtataatattagggcctgacgaccgtgtcctaatcccagagatgcaatcatccctcctccggcaacatatggagttgttggaatcttcagttatccccctgatgcaccccctggctgacccttctacagttttcaaagaaggtgatgaggctgaggattttgttgaagttcacctccccgatgtgtacaaacagatctcaggggttgacctgggtctcccgaactggggaaagtatgtattgatgactgcaggggccatgattggcctggtgttgatattttccctaatgacatggtgcagaagagccaatcgaccagaatcgaaacaacgcagttttggagggacaggggggaatgtgtcagtcacttcccaaagcggaaaagtcataccttcatgggaatcatataagagtggaggtgagatcagactgtga</GBSeq_sequence>
+</GBSeq>

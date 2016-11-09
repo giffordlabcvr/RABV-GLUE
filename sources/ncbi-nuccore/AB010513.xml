@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AB010513</GBSeq_locus>
+  <GBSeq_length>278</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>28-MAY-2013</GBSeq_update-date>
+  <GBSeq_create-date>05-FEB-1998</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus gene for nucleoprotein, partial cds, isolate: No.515</GBSeq_definition>
+  <GBSeq_primary-accession>AB010513</GBSeq_primary-accession>
+  <GBSeq_accession-version>AB010513.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|AB010513.1|</GBSeqid>
+    <GBSeqid>gi|2832983</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Minamoto,N.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Rabies virus nucleoprotein gene of street virus from Thailand, No.515</GBReference_title>
+      <GBReference_journal>Published Only in Database (1998)</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..278</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Minamoto,N.</GBAuthor>
+        <GBAuthor>Sugiyama,M.</GBAuthor>
+        <GBAuthor>Ito,N.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (19-JAN-1998) Contact:Naoto Ito Gifu University, Faculty of Applied Biological Sciences; 1-1 Yanagido, Gifu, Gifu 501-1193, Japan</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..278</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>278</GBInterval_to>
+          <GBInterval_accession>AB010513.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>No.515</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..&gt;276</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>276</GBInterval_to>
+          <GBInterval_accession>AB010513.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;276</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>276</GBInterval_to>
+          <GBInterval_accession>AB010513.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>BAA24637.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGSCPEDWTSY</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtctccttgaagccagagattatcgtggatcagtatgagtataaatacccagccatcaaggacttgaagaaacctagtataactctagggaaggctcctgacctgaataaagcatacaagtcagtcctgtctggcatgaacgctgccaagcttgatcctgatgatgtgtgttcttacttggcagccgcaatgcaattctttgagggatcatgccctgaggactggaccagctatgg</GBSeq_sequence>
+</GBSeq>

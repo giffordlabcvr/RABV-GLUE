@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KC576524</GBSeq_locus>
+  <GBSeq_length>690</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>20-APR-2013</GBSeq_update-date>
+  <GBSeq_create-date>20-APR-2013</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate RV/Bangladesh/2012/CVASU-2 nonfunctional nucleoprotein (N) gene, partial sequence</GBSeq_definition>
+  <GBSeq_primary-accession>KC576524</GBSeq_primary-accession>
+  <GBSeq_accession-version>KC576524.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KC576524.1|</GBSeqid>
+    <GBSeqid>gi|478733437</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..690</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Das,S.</GBAuthor>
+        <GBAuthor>Islam,M.S.</GBAuthor>
+        <GBAuthor>Hossain,M.A.</GBAuthor>
+        <GBAuthor>Das,A.</GBAuthor>
+        <GBAuthor>Kamaruddin,K.M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular characterization of rabies virus isolates from Chittagong region, Bangladesh</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..690</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Das,S.</GBAuthor>
+        <GBAuthor>Islam,M.S.</GBAuthor>
+        <GBAuthor>Hossain,M.A.</GBAuthor>
+        <GBAuthor>Das,A.</GBAuthor>
+        <GBAuthor>Kamaruddin,K.M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (04-FEB-2013) Department of Molecular Biology and Genetics, Aarhus University, Blichers Alle 20, Tjele 8830, Denmark</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..690</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>690</GBInterval_to>
+          <GBInterval_accession>KC576524.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>RV/Bangladesh/2012/CVASU-2</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Connochaetes taurinus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Bangladesh: Chittagong</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>25-Mar-2012</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>complement(&lt;1..&gt;690)</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>690</GBInterval_from>
+          <GBInterval_to>1</GBInterval_to>
+          <GBInterval_iscomp value="true"/>
+          <GBInterval_accession>KC576524.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>misc_feature</GBFeature_key>
+      <GBFeature_location>complement(&lt;1..&gt;690)</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>690</GBInterval_from>
+          <GBInterval_to>1</GBInterval_to>
+          <GBInterval_iscomp value="true"/>
+          <GBInterval_accession>KC576524.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>nonfunctional nucleoprotein due to mutation</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gcagtgaggtttatctgctttatgaaccccgtaaacgacaccagccctgagcagtcctcagcagtgactaccgtgcctactctgatcgctgaatacaggtgctcaatccgggagaaaaacatgtcggtccctgccaagaatctgaagtttggtatggtactccaattggcacacattttggtcgtcatcagagtatggtgttccacgattttaataaaaggggctgtctcgaagatctgctctatcctatctgcaatatttgttttattaccggtgttttgcccggatattttgctcagcctgtacagactcaagagaagaccgactaaagacgcatgctcgggaacagtggggtccctcgttagttccattcctcccgtcaaagcccaattcccttctacatcagtacgctttatctccacgagagaatccggggtgatcttatctccttttcttgcaatcaaagatcccatagctagtccagtcttcaggacatgtcccttcgaagaactgcatcgcagctgcgtaggaacatacatcatcagggtcaagcttggcagcatttcaagcctgataagactgacttgtatgctttgttcaaatcgggggctttccctagagtactggstctttaagacttcaagtyycwtgatagcagggtactttgtactcatattgatcccacactcc</GBSeq_sequence>
+</GBSeq>

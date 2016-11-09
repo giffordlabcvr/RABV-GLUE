@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JX871879</GBSeq_locus>
+  <GBSeq_length>1575</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>15-APR-2013</GBSeq_update-date>
+  <GBSeq_create-date>12-JAN-2013</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate A11-3055 glycoprotein (G) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>JX871879</GBSeq_primary-accession>
+  <GBSeq_accession-version>JX871879.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|JX871879.1|</GBSeqid>
+    <GBSeqid>gi|440553156</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Ellison,J.A.</GBAuthor>
+        <GBAuthor>Johnson,S.R.</GBAuthor>
+        <GBAuthor>Kuzmina,N.</GBAuthor>
+        <GBAuthor>Gilbert,A.</GBAuthor>
+        <GBAuthor>Carson,W.C.</GBAuthor>
+        <GBAuthor>VerCauteren,K.C.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Multidisciplinary approach to epizootiology and pathogenesis of bat rabies viruses in the United States</GBReference_title>
+      <GBReference_journal>Zoonoses Public Health 60 (1), 46-57 (2013)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1111/zph.12019</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>23137052</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Kuzmina,N.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (26-SEP-2012) Division of High Consequence Pathogens and Pathology, Centers for Disease Control and Prevention, 1600 Clifton Rd, Atlanta, GA 30333, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Assembly Method BioEdit v. 7.0.5.3 Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JX871879.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>A11-3055</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Eptesicus fuscus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>ecotype</GBQualifier_name>
+          <GBQualifier_value>Lb</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>USA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2011</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JX871879.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>JX871879.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AGC12046.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MIPQALLFVPLLIPSLCLGEFPIYTIPDKLGPWSPIDIHHLSCPNNLVAENDGCTSLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAHDWKMAGDPRYEASLQNPYPDYHWLRTVKTTKESLVIISPSVADLDPYDKSLHSRVFPSGKCLGITVSSTYCSTNHDYTIWMPVEPRLGTSCDIFTNSRGKRASKGGRVCGFVDERGLYKSLKGACRLKLCGVPGIRLLDGTWVSIQTSEDIKWCPPDRLVNLHDFHSDEIEHLVVAELIKRRENCLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVKTWNEVIPSKGCLEVGGRCHPHVNGVFFNGIILGPDGNVLIPEMQSSLLQQHMELLESSVIPLMHPLADPSTVFKEGDEAEDFVEVHLPDVHKQVSDVDLGLPSWGKYLLISAGALAILILAIVLIICCRRVNKTGSTQRGHRESGGKMSVVPQNGKIISSWELYKSESETGL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgattcctcaggctcttctgtttgtgcctctcttgattccctctctgtgtcttggggaattccccatctacacgataccagacaagctcggcccttggagccctatcgacatacatcatctcagctgtcccaacaatctggttgcagaaaacgacgggtgcaccagtctgtcagggttttcctatatggaactgaaggtgggatacatctctgccataaaggtgaacgggttcacttgtaccggtgttgtgacagaagcagagacctacaccaactttgtcggttacgtcactaccacattcaagaggaagcacttccgcccgacgccagatgcctgcagagccgcacacgactggaagatggccggtgatcccagatatgaagcttcccttcaaaatccttatcctgattaccattggctacggaccgtaaaaaccaccaaggagtcacttgttattatatccccgagtgttgctgatttggacccttacgacaagtcccttcattcaagagttttccccagtgggaagtgtttggggataacagtctcttccacctactgctcaaccaaccatgattacaccatctggatgcccgtagaaccaagacttggaacatcttgtgatatttttaccaatagcagagggaagagagcatccaaggggggcagagtttgtggattcgtggatgaaaggggcttatacaagtctctcaaaggagcatgcagactcaagctgtgcggagtccccgggatccggctgttggacggaacatgggtctcaatccagacatccgaagatatcaagtggtgccctcctgatcgattagtgaatctacacgactttcactcggatgaaatagaacatcttgttgtagcagaattaatcaagaggagggaaaattgtctagatgcactggagtccatcatgaccaccaaatcagtgagcttcagacgtctcagtcacttgaggaaacttgttcctgggtttgggaaggcatacaccatattcaacaagaccttaatggaagctgatgctcattacaagtcagttaagacttggaacgaagttatcccttcgaaaggttgcctggaagtcggagggagatgtcatccccatgtgaacggagtattcttcaatggtataattttgggtccggatggaaatgttctgatccctgagatgcagtcttccttgcttcaacaacatatggagctgttagagtcttctgtcatccctctgatgcatcccttggcagacccatcaacagtcttcaaggagggtgatgaggcggaagactttgttgaggttcatcttccagatgtccacaagcaggtttcggatgttgaccttggccttccgagttgggggaagtatctgttgattagtgcaggtgccttggcaatactgattctggcgatcgtcttaataatatgttgtaggagggtcaataagacaggatccacacagagaggtcatagggaatcaggagggaaaatgtctgtagtacctcaaaacgggaagatcatatcctcatgggagttgtacaaaagtgaaagtgagactgggctgtga</GBSeq_sequence>
+</GBSeq>

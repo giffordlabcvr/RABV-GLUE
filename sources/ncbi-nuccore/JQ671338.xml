@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JQ671338</GBSeq_locus>
+  <GBSeq_length>1353</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>08-DEC-2012</GBSeq_update-date>
+  <GBSeq_create-date>08-DEC-2012</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate Dog/jr5110/2011 nucleoprotein (N) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>JQ671338</GBSeq_primary-accession>
+  <GBSeq_accession-version>JQ671338.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|JQ671338.1|</GBSeqid>
+    <GBSeqid>gi|426308953</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>David,D.</GBAuthor>
+        <GBAuthor>Dveres,N.</GBAuthor>
+        <GBAuthor>Davidson,I.</GBAuthor>
+        <GBAuthor>Yagil,J.</GBAuthor>
+        <GBAuthor>Dvorkin,Z.</GBAuthor>
+        <GBAuthor>Oved,Z.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Translocation of dog rabies from northern Israel to Jerusalem</GBReference_title>
+      <GBReference_journal>Refu Vet 67 (3), 139-141 (2012)</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>David,D.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (16-FEB-2012) Rabies Laboratory, Kimron Veterinary Institute, Derech Hamacabim, Bet Dagan 50250, Israel</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Assembly Method MRGA v. 4.1 Sequencing Technology 454 ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>JQ671338.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>Dog/jr5110/2011</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Israel</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2011</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>genetic variant VII</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>JQ671338.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>JQ671338.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AFY24243.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPCITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKTDVALADDGTVNSDDEDYFSGETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSNDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtctctttgaagcctgagattatcgtggatcaatatgagtacaagtaccctgctatcaaagatttgaaaaagccctgtataaccctagggaaagcccccgacttaaacaaagcatacaagtcagttttatcaggcatgaatgcagccaaacttgatcctgatgatgtatgctcctacttggcagcagctatgcagttttttgaggggacgtgtccggaagactggaccagctatggaatcctgattgcacgaaaaggagacaagatcactccggattctctggtggagataaagcgtactgatgtagaaggaaattgggctctgacaggaggcatggaactgacaagagaccccactgtctctgaacatgcgtctttagtcggtcttctcttgagtctgtataggttgagcaaaatatcaggacaaaacactggtaactacaagacaaacatcgcagacaggatagagcagattttcgagacagccccttttgttaaaatcgtggaacaccataccctaatgacaactcacaaaatgtgtgctaattggagtactataccgaacttcagatttttggccggaacctacgacatgtttttctcccggattgagcatctatattcagcaatcagagtgggcacagttgttactgcttatgaagactgttcaggtttggtatcgtttactgggttcataaaacagatcaatctcaccgcaagagaagcaatactatacttcttccacaaaaactttgaggaagagatcagaaggatgttcgagccaggacaggagacagctgttcctcactcttatttcattcacttccgttcactaggcttgagtgggaagtctccttattcatcgaacgctgttggtcatgtgttcaatctcattcactttgttggatgctatatgggtcaagtcagatccctaaatgcgacagttattgccgcgtgtgctcctcatgagatgtctgttctggggggctatctgggagaagaattcttcgggaaaggaacattcgagagaagattcttcagggatgaaaaggaacttcaagaatacgaagcagctgaactgacgaagactgacgtggcattagcagatgatggaaccgtcaactctgatgatgaggattacttctccggtgaaaccagaagtccggaagctgtttatactcgaataatgatgaatggaggtcgactaaagagatcacatatacggagatacgtctcagtcagttcgaatcatcaagcccgtccaaactcatttgctgaatttctaaacaagacgtattcgaacgactcataa</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>E02022</GBSeq_locus>
+  <GBSeq_length>2123</GBSeq_length>
+  <GBSeq_strandedness>double</GBSeq_strandedness>
+  <GBSeq_moltype>DNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>PAT</GBSeq_division>
+  <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+  <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+  <GBSeq_definition>DNA sequence coding for rabies virus G-protein</GBSeq_definition>
+  <GBSeq_primary-accession>E02022</GBSeq_primary-accession>
+  <GBSeq_accession-version>E02022.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|E02022.1|</GBSeqid>
+    <GBSeqid>pat|JP|1989171489|1</GBSeqid>
+    <GBSeqid>gi|2170270</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_keywords>
+    <GBKeyword>JP 1989171489-A/1</GBKeyword>
+  </GBSeq_keywords>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..2123</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Sakamoto,S.</GBAuthor>
+        <GBAuthor>Ide,T.</GBAuthor>
+        <GBAuthor>Tokiyoshi,Y.</GBAuthor>
+        <GBAuthor>Yamamoto,M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>GENE FRAGMENT CODING GLYCOPROTEIN OF RABIES VIRUS AND PRODUCTION OF RABIES VIRUS GLYCOPROTEIN USING SAID FRAGMENT</GBReference_title>
+      <GBReference_journal>Patent: JP 1989171489-A 1 06-JUL-1989; CHEMO SERO THERAPEUT RES INST</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>OS Rabies virus (Rabies virus)~PN JP 1989171489-A/1~PD 06-JUL-1989~PF 26-DEC-1987 JP 1987330896~PI SAKAMOTO SHINICHI, IDE TOSHIO, TOKIYOSHI YUKIO, PI YAMAMOTO MICHITAKA~PC C12N15/00,A61K39/205,C07H21/04,C12P21/02,(C12P21/02,C12R1:91), PC (C12P21/02,~PC C12R1:865);~CC strandedness: Double;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~CC *source: strain=N.HL strain;~FH Key Location/Qualifiers~FH~FT 5'UTR 1..65~FT CDS 66..1640~FT /product="Rabies virus G-protein" FT 3'UTR 1641..2123</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..2123</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>2123</GBInterval_to>
+          <GBInterval_accession>E02022.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>unassigned DNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaactattaacatccctcaaaagacttagggaaagatggttccgcaagctcttctgcttgtacccattctgggtttttcctcgtgtttcgggaaattccctatttacacgataccagacacacttggtccctggagcccgatcgatatacatcatctcagttgcccaaacaatttggttgtagaggacgaaggatgcaccaacctgtcagggttctcctacatggaacttaaagttggacacatctcagccataaaggtgaacgggttcacttgcacaggcgttgtaacagaggcagaaacctacactaactttgttggttatgtcaccaccactttcaaaagaaagcatttccgcccaacaccagatgcttgtagagctgcgtacaactggaagatggccggtgaccccagatatgaagagtctctacacagtccgtaccctgactaccattggcttcgaactgtaaaaaccacaaaggagtccctcgttatcatatctccaagtgtggtagatttggacccatatgacaactcccttcactcgagggtcttccctagcggaaagtgctcaggaataacagtatcttctgtctactgctcaactaaccacgattacaccgtttggatgcctgaaagtctgagactagggacatcttgtgacatttttaccaatagtagagggaagagagtatccaaggggagcaagacctgtggctttgtagatgaaagaggcctatataagtctctaaaaggcgcatgcaaactcaagttgtgtggagttcgtggacttagacttatggacggaacatgggtcgcgatgcagacatcaaatgagaccaaatggtgtcctcccgatcagttggttaatctgcacgaccttcgctcagatgaaatcgagcatcttgttatagaggagttggtcaagaaaagagaggagtgtctggatgcattagagtccatcataaccaccaagtcagtgagtttcagacgtctcagttatttaagaaaacttgtccccgggttcggaaaagcatataccatattcaacaagaccttgatggaggctgaagctcactacaagtcagtcaggacttggaatgagatcatcccctcaaaaggatgtttgagagttggagggaggtgtcatcctcatgtaaacggggtgtttttcaatggtataatattagggcctgacggtcatgttttaatcccagagatgcaatcatccctcctccagcaacatatagagttattggaatcctcagttattcccctgatgcacccccttgcagacccgttcacagttttcaaggacggcgatgagactgaggattttatagaagttcaccttcccgatgtgcacgaacaagtctcaggggttgacctgggtctcccgaactggggggagtatgtattactaagtgcagggaccttgattgccttgatgttgataattttcctaatgacatgttgtagaaaagtcgatcggccagaatctacacaacgcagtctcagagggacaggaaggaatgtgtcagtcacctcccaaagcgggaaattcataccttcatgggagtcgtataaaagtgggggtgagactggactgtgaagatttgtcatcttttcgacgcttcaagttctgaagataaccttccctctaagctggggggaatctctgagttcaatagtcctccttgaactccattcaacagggtggattcaaaagtcatgagactttcattaatcatctcagttgatcaaacaaggtcatgtagattctcataattcgggaaatcttctagtagtttcagtgaccgacagtgctttcattccccaggaactgatgtcaaaggttgttgacgggtcaagaggtatttctgatgactccgtgcgtgggcccggacagaggtcatagtacgtcccatgatagcggactcagcatgagtcgattgagaaaagtaatctgcctcccatgaaggacaccggcaataactcacaatcatcttgcatctcagcgaagtgtgcataattataaaggggctagatcatctaagcttttcagttgagaaaaaaaaaaaaaaaaaaaaaaaaa</GBSeq_sequence>
+</GBSeq>

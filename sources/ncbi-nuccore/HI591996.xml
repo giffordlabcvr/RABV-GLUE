@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>HI591996</GBSeq_locus>
+  <GBSeq_length>12</GBSeq_length>
+  <GBSeq_strandedness>double</GBSeq_strandedness>
+  <GBSeq_moltype>DNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>PAT</GBSeq_division>
+  <GBSeq_update-date>04-NOV-2010</GBSeq_update-date>
+  <GBSeq_create-date>04-NOV-2010</GBSeq_create-date>
+  <GBSeq_definition>Sequence 11 from Patent WO2010116258</GBSeq_definition>
+  <GBSeq_primary-accession>HI591996</GBSeq_primary-accession>
+  <GBSeq_accession-version>HI591996.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>emb|HI591996.1|</GBSeqid>
+    <GBSeqid>pat|WO|2010116258|11</GBSeqid>
+    <GBSeqid>gi|311630439</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Prehaud,C.</GBAuthor>
+        <GBAuthor>Lafon,M.</GBAuthor>
+        <GBAuthor>Schnell,M.J.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Neuron generation, regeneration and protection</GBReference_title>
+      <GBReference_journal>Patent: WO 2010116258-A1 11 14-OCT-2010; PASTEUR INSTITUT [FR]</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..12</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>12</GBInterval_to>
+          <GBInterval_accession>HI591996.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>unassigned DNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gagaccagactg</GBSeq_sequence>
+</GBSeq>

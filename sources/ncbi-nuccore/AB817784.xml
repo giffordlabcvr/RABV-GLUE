@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AB817784</GBSeq_locus>
+  <GBSeq_length>515</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>14-JUN-2013</GBSeq_update-date>
+  <GBSeq_create-date>14-JUN-2013</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus viral cRNA, G-L intergenic region, isolate: H-802-09</GBSeq_definition>
+  <GBSeq_primary-accession>AB817784</GBSeq_primary-accession>
+  <GBSeq_accession-version>AB817784.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|AB817784.1|</GBSeqid>
+    <GBSeqid>gi|512380853</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Matsumoto,T.</GBAuthor>
+        <GBAuthor>Ahmed,K.</GBAuthor>
+        <GBAuthor>Karunanayake,D.</GBAuthor>
+        <GBAuthor>Wimalaratne,O.</GBAuthor>
+        <GBAuthor>Nanayakkara,S.</GBAuthor>
+        <GBAuthor>Perera,D.</GBAuthor>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Nishizono,A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular epidemiology of human rabies viruses in Sri Lanka</GBReference_title>
+      <GBReference_journal>Infect. Genet. Evol. 18C, 160-167 (2013)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1016/j.meegid.2013.05.018</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>23722023</GBReference_pubmed>
+      <GBReference_remark>DOI:10.1016/j.meegid.2013.05.018; Publication Status: Available-Online prior to print</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..515</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Matsumoto,T.</GBAuthor>
+        <GBAuthor>Ahmed,K.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (11-APR-2013) Contact:Takashi Matsumoto Oita University, Microbiology; 1-1 Hasama, Yufu, Oita 879-5593, Japan</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..515</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>515</GBInterval_to>
+          <GBInterval_accession>AB817784.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>H-802-09</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>human brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Homo sapiens 78 years old female</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Sri Lanka:Colombo</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>Jun-2009</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>misc_feature</GBFeature_key>
+      <GBFeature_location>1..515</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>515</GBInterval_to>
+          <GBInterval_accession>AB817784.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>G-L intergenic region; noncoding region</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>tggcaggtcatctcttctgtacttcgggtccggaggatcaccgcctcttggggttagggagaacctccagatttaacagtcccctttgggctccgtgcaacagggtaaattcatgagtcaagagactttcattaatcatctcaatcgatcagatgtggtcaggtagagtgtaatattctgggaaatcttctagcagtttctgtgaccaacggtgctttcattcttcaagaactgataccaaaggttgtggacaggccgaggaacatctcagatgattacctgttggagcatggatggaggctatagtatgtcctttgatacaagactgaacaggagtcaactgagagaagcaatttacctcctatgaaggacacaagcaatagatcacaatcatctcgcatcttagcaaagcgtgcataattacaaagggctgggtcatctaagcttttcagccgagaaaaaaactgcaggacatgaggccagctagcaacacttctcatcttaagattatcacc</GBSeq_sequence>
+</GBSeq>

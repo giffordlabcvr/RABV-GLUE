@@ -1,0 +1,38 @@
+  create feature whole_genome "Whole genome"
+  feature whole_genome set metatag INFORMATIONAL true
+
+  create feature leader -p whole_genome "3' Leader"
+
+  create feature N -p whole_genome "N"
+  feature N 
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    exit
+
+  create feature VP35 -p whole_genome "M1"
+  feature M1 
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    exit
+
+  create feature M2 -p whole_genome "M2"
+  feature M2 
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    exit
+
+  create feature G -p whole_genome "G"
+  feature G 
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    exit
+
+  create feature L -p whole_genome "L (RNA polymerase)"
+  feature L 
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    exit
+
+  create feature 5UTR -p whole_genome "5' UTR"
+
+

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>EU478515</GBSeq_locus>
+  <GBSeq_length>1350</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>28-FEB-2009</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate 139BF nucleoprotein (N) gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>EU478515</GBSeq_primary-accession>
+  <GBSeq_accession-version>EU478515.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|EU478515.1|</GBSeqid>
+    <GBSeqid>gi|186886128</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1350</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Talbi,C.</GBAuthor>
+        <GBAuthor>Holmes,E.C.</GBAuthor>
+        <GBAuthor>de Benedictis,P.</GBAuthor>
+        <GBAuthor>Faye,O.</GBAuthor>
+        <GBAuthor>Nakoune,E.</GBAuthor>
+        <GBAuthor>Gamatie,D.</GBAuthor>
+        <GBAuthor>Diarra,A.</GBAuthor>
+        <GBAuthor>Elmamy,B.O.</GBAuthor>
+        <GBAuthor>Sow,A.</GBAuthor>
+        <GBAuthor>Adjogoua,E.V.</GBAuthor>
+        <GBAuthor>Sangare,O.</GBAuthor>
+        <GBAuthor>Dundon,W.G.</GBAuthor>
+        <GBAuthor>Capua,I.</GBAuthor>
+        <GBAuthor>Sall,A.A.</GBAuthor>
+        <GBAuthor>Bourhy,H.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Evolutionary history and dynamics of dog rabies virus in western and central Africa</GBReference_title>
+      <GBReference_journal>J. Gen. Virol. 90 (PT 4), 783-791 (2009)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1099/vir.0.007765-0</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>19264663</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1350</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>De Benedictis,P.</GBAuthor>
+        <GBAuthor>Sow,A.</GBAuthor>
+        <GBAuthor>Dundon,W.G.</GBAuthor>
+        <GBAuthor>Capua,I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (11-FEB-2008) Research &amp; Development, Istituto Zooprofilattico Sperimentale Delle Venezie, Viale dell'Universita' 10, Legnaro, Padova 35020, Italy</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1350</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1350</GBInterval_to>
+          <GBInterval_accession>EU478515.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>139BF</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Burkina Faso</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2007</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..&gt;1350</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1350</GBInterval_to>
+          <GBInterval_accession>EU478515.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;1350</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1350</GBInterval_to>
+          <GBInterval_accession>EU478515.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ACC93472.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQLFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMYFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKTDVALADDGTVNSDDEDYFSGETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtttctctgaagccagagattatcgtggatcagtatgagtacaaataccctgctatcaaagacttgaagaagcccagtataaccttagggaaagcccctgatttaaacaaagcatacaagtcagttttatcaggtatgaatgctgccaagcttgatcctgacgatgtatgttcctatttggcagctgcaatgcaactctttgaagggacatgtcctgaagactggaccagctatgggatcttgattgcaagaaagggagacaagatcaccccagattctcttgtggagatcaagcgtacggatgtagagggaaactgggctctgacaggaggtatggaactgacgagagaccccacagtttctgaacatgcatctttagtcggtctgctcttgagtctgtataggttaagcaaaatatcgggacaaaacacaggcaactacaagacaaacattgcagatcggatagagcagatttttgagacagcccctttcgttaaaattgtggaacatcatactctgatgacaactcataaaatgtgcgctaattggagtactataccgaacttccgattcttggccggaacatacgatatgtatttctcccggattgagcatctatattcagccatcagagtgggcacagtagtcactgcttatgaagattgctctgggctggtgtcgttcacagggttcataaaacagataaatctcacggcaagagaagcaatactatatttcttccacaagaactttgaagaagagatacgaagaatgttcgagccagggcaggagaccgcggtccctcactcctatttcattcacttccgctcgttaggtctgagcgggaaatccccatattcgtcaaatgcagtaggtcatgtattcaatcttattcactttgttggatgttatatgggtcaggtcaggtctttgaatgcgacggtcattgctgcatgtgctcctcatgagatgtctgtcctagggggttatctaggggaagagttttttggaaaaggcacattcgaaaggagattctttagagacgaaaaagaactccaagaatatgaggcagctgaattgacaaagactgatgtggcactggcagatgacggaaccgttaactctgatgatgaggattatttttctggtgagaccaggagtcccgaggccgtttatactcggatcatgatgaacggagggcgactaaagagatctcacataaggagatatgtttcagtcagttccaatcatcaagcccgcccaaactcatttgctgagttcctaaacaaaacatattctagtgactca</GBSeq_sequence>
+</GBSeq>

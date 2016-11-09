@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>DQ521240</GBSeq_locus>
+  <GBSeq_length>579</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>05-JUN-2006</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate INDN5 nucleoprotein (N) mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>DQ521240</GBSeq_primary-accession>
+  <GBSeq_accession-version>DQ521240.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|DQ521240.1|</GBSeqid>
+    <GBSeqid>gi|104571237</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..579</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Nadin-Davis,S.A.</GBAuthor>
+        <GBAuthor>Turner,G.</GBAuthor>
+        <GBAuthor>Paul,J.P.</GBAuthor>
+        <GBAuthor>Madhusudana,S.N.</GBAuthor>
+        <GBAuthor>Wandeler,A.I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Emergence of Arctic-like rabies lineage in India</GBReference_title>
+      <GBReference_journal>Emerging Infect. Dis. 13 (1), 111-116 (2007)</GBReference_journal>
+      <GBReference_pubmed>17370523</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..579</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Nadin-Davis,S.A.</GBAuthor>
+        <GBAuthor>Paul,J.P.V.</GBAuthor>
+        <GBAuthor>Turner,G.</GBAuthor>
+        <GBAuthor>Madhusudana,S.</GBAuthor>
+        <GBAuthor>Wandeler,A.I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (27-APR-2006) Rabies Centre of Expertise, Ottawa Laboratory Fallowfield, Canadian Food Inspection Agency, 3851 Fallowfield Rd, Ottawa, ON K2H 8P9, Canada</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..579</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>579</GBInterval_to>
+          <GBInterval_accession>DQ521240.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>INDN5</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>cat</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>India</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2004</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;579</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>579</GBInterval_to>
+          <GBInterval_accession>DQ521240.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;579</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>579</GBInterval_to>
+          <GBInterval_accession>DQ521240.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ABF72976.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>FFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALTGGMELTRDPTIPEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFIKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRM</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>ttctttgagggaacatgtcctgaagattggaccagctatggaatcctgattgcacgaaaaggagacaagatcaccccggattctcttgtggagataaagcgtactgatgtagaagggaattgggctttgacgggaggaatggaactgacgagggaccccactattcccgagcatgcgtctttagttggtcttctcttgagtctatataggctgagcaaaatatcagggcaaaacactggtaactataagacaaacattgcagataggatagagcaaatttttgagacagccccttttattaaaatcgtggaacatcatactctgatgacaactcacaaaatgtgtgccaattggagtactataccaaacttcagattcttggccgggacttacgacatgtttttctcccggattgagcatctatattcagcaatcagagtaggcacagtagtcactgcttatgaggattgctctgggctggtatcgttcactgggttcataaaacagataaatctaactgcaagagaagcaatactatatttcttccacaaaaacttcgaagaagagataagaagaatg</GBSeq_sequence>
+</GBSeq>

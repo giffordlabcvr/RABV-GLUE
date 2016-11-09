@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AF369296</GBSeq_locus>
+  <GBSeq_length>920</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>03-DEC-2009</GBSeq_update-date>
+  <GBSeq_create-date>21-MAY-2001</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate V265.BFX phosphoprotein (P) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>AF369296</GBSeq_primary-accession>
+  <GBSeq_accession-version>AF369296.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|AF369296.1|</GBSeqid>
+    <GBSeqid>gi|14162059</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..920</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Nadin-Davis,S.A.</GBAuthor>
+        <GBAuthor>Abdel-Malik,M.</GBAuthor>
+        <GBAuthor>Armstrong,J.</GBAuthor>
+        <GBAuthor>Wandeler,A.I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Lyssavirus P gene characterisation provides insights into the phylogeny of the genus and identifies structural similarities and diversity within the encoded phosphoprotein</GBReference_title>
+      <GBReference_journal>Virology 298 (2), 286-305 (2002)</GBReference_journal>
+      <GBReference_pubmed>12127791</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..920</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Nadin-Davis,S.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (09-APR-2001) Rabies Centre of Expertise, Animal Diseases Research Institute, 3851 Fallowfield Rd, Nepean, Ottawa, ONT K2H 8P9, Canada</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..920</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>920</GBInterval_to>
+          <GBInterval_accession>AF369296.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>V265.BFX</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>African bat-eared fox</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..920</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>920</GBInterval_to>
+          <GBInterval_accession>AF369296.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>P</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..894</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>894</GBInterval_to>
+          <GBInterval_accession>AF369296.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>P</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>phosphoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAK55022.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MSKIFVNPSAIRAGLADLEMAEETIDLINRNIEDNQAHLQGEPIEVDNLPEDMRRLHLDDGKSSNLGEMSRTEEGKYREDFQMDEGEDPSLLFQSYLDNVGVQMVRQMRSGERFLKIWSQTVEEIISYVTVNFPNPSGRSSEDKSTQTTGREPKKETTSTPSQRESQSSKAKMAAQAASGPPALEWSATNEEDDLSVEAEIAHQIAESFSKKYKFPSRSSGIFLYNFEQLKMNLDDIVKEAKNVPGVTRLAHDGSKLPLRCVLGWVALANSRKFQLLVEADKLNKIMQDDLNRYTSC</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgagcaagatcttcgtcaatccgagtgctatcagagccggtctggccgatcttgagatggctgaagagactattgatctgatcaatagaaatatagaagacaatcaggctcatctccagggggagcctatagaagtggacaatctcccagaggacatgaggcgacttcacttggatgatggaaaatcgtccaacctcggtgagatgtccaggacggaggaaggcaaatatcgagaggactttcagatggatgaaggagaggatcctagcctcctcttccagtcgtacctggacaacgttggggtccaaatggtcagacaaatgaggtcaggagaaaggttcctcaagatatggtcacagaccgtagaagagattatatcctatgtcacagtcaacttccccaacccctcaggaaggtcctcagaggacaaatcgacccaaaccactggtcgagaacccaagaaggagacaacatccactccctctcagagagaaagccaatcctcgaaagccaagatggcggctcaagctgcctctggccctccggcccttgaatggtcggctaccaacgaggaggatgatctatcagtagaggccgagatcgctcatcagattgctgaaagcttttccaagaagtacaagtttccctctcgatcttcagggatattcttgtataattttgagcagttgaaaatgaaccttgatgatatagttaaggaggcaaaaaatgtaccaggcgtgactcgtttggcccatgacggatctaaactccccctaaggtgtgtactgggatgggtcgctctggccaattcaagaaaattccaattgttggtcgaagcagacaagctgaacaaaatcatgcaagacgatttgaaccgctatacatcctgctagcgaaccttttaaactcagtccctcta</GBSeq_sequence>
+</GBSeq>

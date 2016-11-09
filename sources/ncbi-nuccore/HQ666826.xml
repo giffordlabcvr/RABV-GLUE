@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>HQ666826</GBSeq_locus>
+  <GBSeq_length>320</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>30-JUL-2011</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate brnl249-01 nucleoprotein gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>HQ666826</GBSeq_primary-accession>
+  <GBSeq_accession-version>HQ666826.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|HQ666826.1|</GBSeqid>
+    <GBSeqid>gi|321266795</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..320</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Queiroz,L.H.</GBAuthor>
+        <GBAuthor>Lopes,M.C.</GBAuthor>
+        <GBAuthor>Campos,A.C.A.</GBAuthor>
+        <GBAuthor>Cunha,E.M.S.</GBAuthor>
+        <GBAuthor>Albas,A.</GBAuthor>
+        <GBAuthor>Carvalho,C.</GBAuthor>
+        <GBAuthor>Pedro,W.A.</GBAuthor>
+        <GBAuthor>Silva,E.C.</GBAuthor>
+        <GBAuthor>Lot,M.C.</GBAuthor>
+        <GBAuthor>Inacio,S.V.</GBAuthor>
+        <GBAuthor>Araujo,D.B.</GBAuthor>
+        <GBAuthor>Favoretto,S.R.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Diversity of rabies virus isolated from non-haematophagous bats from Southeastern Brazil</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..320</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Campos,A.C.A.</GBAuthor>
+        <GBAuthor>Favoretto,S.R.</GBAuthor>
+        <GBAuthor>Queiroz,L.H.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (30-NOV-2010) Curso de Medicina Veterinaria-FOA, UNESP - Univ. Estadual Paulista, R Clovis Pestana, 793, Aracatuba, SP 16050680, Brazil</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..320</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>320</GBInterval_to>
+          <GBInterval_accession>HQ666826.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>brnl249-01</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Nyctinomops laticaudatus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2001</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>1-Rabies</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..267</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>267</GBInterval_to>
+          <GBInterval_accession>HQ666826.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ADW78614.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>EKELKEYEAAELTKTEAALADDGTVNSDDEDYFSSETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gagaaagaacttaaagagtatgaggcagctgaattgacgaagactgaggctgctttggcagatgacggaactgtcaattctgatgacgaggactacttctctagtgagaccaggagtcctgaggcggtttacactaggatcatgatgaatgggggtagactgaagagatcacacataaggagatatgtctcggtaagttccaatcatcaagctcgccctaattcattcgctgagtttttgaataagacatactcgagtgactcgtaaagagttgagcagcaagattgtaagcactaataaattgtatacatccttcatga</GBSeq_sequence>
+</GBSeq>

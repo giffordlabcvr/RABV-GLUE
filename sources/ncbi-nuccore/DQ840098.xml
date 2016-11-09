@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>DQ840098</GBSeq_locus>
+  <GBSeq_length>1410</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>23-AUG-2006</GBSeq_update-date>
+  <GBSeq_create-date>23-AUG-2006</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus from India nonfunctional nucleocapsid protein gene, complete sequence</GBSeq_definition>
+  <GBSeq_primary-accession>DQ840098</GBSeq_primary-accession>
+  <GBSeq_accession-version>DQ840098.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|DQ840098.1|</GBSeqid>
+    <GBSeqid>gi|112791334</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1410</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Desai,A.</GBAuthor>
+        <GBAuthor>Nagaraja,T.</GBAuthor>
+        <GBAuthor>Madhusudhana,S.N.</GBAuthor>
+        <GBAuthor>Ravi,V.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Complete nucleotide sequence of rabies virus nucleoprotein gene isolated from an infected dog brain in India</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1410</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Desai,A.</GBAuthor>
+        <GBAuthor>Nagaraja,T.</GBAuthor>
+        <GBAuthor>Madhusudhana,S.N.</GBAuthor>
+        <GBAuthor>Ravi,V.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (09-JUL-2006) Neurovirology, National Institute of Mental Health and Neurosciences, Hosur Road, Bangalore, Karnataka 560029, India</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1410</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1410</GBInterval_to>
+          <GBInterval_accession>DQ840098.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>serotype</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>infected dog brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>India</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>misc_feature</GBFeature_key>
+      <GBFeature_location>1..1410</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1410</GBInterval_to>
+          <GBInterval_accession>DQ840098.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>nonfunctional nucleocapsid protein due to mutation</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatttcgacatttttgtattcaaagtcaataatcaggtggtctctttgaagcctgagattatcgtggatcaatatgagtacaagtaccctgctatcaaagacttgaagaagcccagtatcaccctagggaaagccccagatttgaacaaagcatacaagtcagttttatcaggcttaaatgctgccaagcttgatcctgatgatgtatgttcctacttagcagctgcaatgcagttctttgaagggacatgtcctgaagactggaccagctacgggatcttgatcgcaagaaaaggagataagatcaccccggattctcttgtggagataaagcgtactgatgtagaagggaattgggctttgacgggaggaatggaactgacgagggaccccactgttcccgagcatgcgtcattagtcggtcttctcttgagtctgtacaggttgagcaaaatatctgggcaaaacaccggcactataagacaaatttgcagatcggatagagcagatcttcgagacacccctttattaaatcgtggaacacctactctgcgacaactcacaaatgtgtgccattggagtacataccaaacttcaaatcttagccgggaccactggcatcgtatcaaatcttcagcaacgacctattacatgtttctatcacggattcagcacttgtatttatcgatcatagtaggcacagtagtcactgcttatgaggactgctcggggctggtgtcgtttactgggttcataaagcagataaatctcactgcaagggaggcaatactatatttcttccacaaaaatttcgaggaagagataagacgaatgtttgagccggggcaagagacagctgttcctcactcctatttcattcacttccgttcactgggcttgagtgggaagtccccttattcatcaaatgcagttggtcatgtgttcaatctcattcactttgttggatgctacatggggcaagtaaggtccctaaatgcaacggtcattgccggatgtgctcctcatgagatgtctgttttagggggctacttatgggaggagttcttcgggaagggaacgttcgaaaggagattcttcagagacgaaaaagaacttcaagaatatgagacggcagaattgacagtatctgacgtggcgctggcagatgacggaactgtcaattcggatgacgaggactacttctccggtgaaaccaggagccccgaagctgtttatgctcgaatcatgatgaacggaggccgactaaatagatcgcacatacggagatatgtttctatcgaaacaatcacccagctcgtccgaagctttcgcatgggagttctagtttagttcgagacacccctttatcaaatcgtggaacacctactctgtgacaacgaacaaatg</GBSeq_sequence>
+</GBSeq>

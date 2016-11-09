@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>EU006547</GBSeq_locus>
+  <GBSeq_length>1345</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>23-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>24-JUL-2007</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate hOH05G glycoprotein (G) mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>EU006547</GBSeq_primary-accession>
+  <GBSeq_accession-version>EU006547.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|EU006547.1|</GBSeqid>
+    <GBSeqid>gi|152207515</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1345</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Henderson,J.C.</GBAuthor>
+        <GBAuthor>Biek,R.</GBAuthor>
+        <GBAuthor>Hanlon,C.A.</GBAuthor>
+        <GBAuthor>O'Dee,S.</GBAuthor>
+        <GBAuthor>Real,L.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Rabies Virus in Raccoons, Ohio, 2004</GBReference_title>
+      <GBReference_journal>Emerging Infect. Dis. 14 (4), 650-652 (2008)</GBReference_journal>
+      <GBReference_pubmed>18394286</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1345</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Henderson,J.C.</GBAuthor>
+        <GBAuthor>Biek,R.</GBAuthor>
+        <GBAuthor>Hanlon,C.A.</GBAuthor>
+        <GBAuthor>O'Dee,S.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+        <GBAuthor>Real,L.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Phylogenetic insights into the 2004 emergence of raccoon Rabies virus in Ohio</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>3</GBReference_reference>
+      <GBReference_position>1..1345</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Henderson,J.C.</GBAuthor>
+        <GBAuthor>Biek,R.</GBAuthor>
+        <GBAuthor>Hanlon,C.A.</GBAuthor>
+        <GBAuthor>O'Dee,S.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+        <GBAuthor>Real,L.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (28-JUN-2007) Department of Biology, Center for Disease Ecology, Emory University, 1510 Clifton Road, Atlanta, GA 30322, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1345</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1345</GBInterval_to>
+          <GBInterval_accession>EU006547.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>hOH05G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain tissue lysate</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>raccoon</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>USA: Ohio, Mahoning County</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>01-May-1996</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>state reference number: SM3222</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;1345</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1345</GBInterval_to>
+          <GBInterval_accession>EU006547.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;1345</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1345</GBInterval_to>
+          <GBInterval_accession>EU006547.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ABS30845.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>YTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCNSLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPMPDACRSAYNWKMAGDPRYEESLHNPYPDYHWLRTVKTTKESLIIISPSVADLDPYDKSLHSRIFPGGKCTGLTVSSTYCSTNHDYTIWMPEKAGLGTSCDIFTNSKGKRASKGGKTCGFVDERGLYKSLKGACKLKLCGVSGLRLMDGTWVAIQTLDETKWCSPDQLVNLHDFHSDELEHLVVEELVRKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWSEIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLQQHVELLESSVIPLMHPLADPSAVFKDGDEAEDFVEVHLPDVHKQISGVDLGLPSWGKYMLMIAGALTTLM</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>tacacaataccagacaagctaggtccttggagtcctatcgacatacatcatctcagttgtcccaataatcttgttgtggaagacgaggggtgtaatagtctgtcggggttttcttacatggaactaaaagtgggatacatctctgccataaaagtgaacgggttcacttgtactggtgtcgtgacggaagccgagacctacactaacttcgttggttatgtcaccaccacattcaagagaaaacactttcgcccgatgcccgatgcatgtagatccgcatacaattggaaaatggcaggcgatcctaggtatgaagagtcccttcacaacccataccctgattatcattggctgcggacagttaaaaccaccaaggagtctcttatcatcatctcaccaagtgtggctgacctagacccgtatgacaaatcccttcattcaaggatttttcctggggggaaatgcacgggtctaacagtctcttccacctactgctcgaccaaccatgactacaccatctggatgcctgaaaaagcagggctcgggacatcttgtgacatcttcaccaatagtaaagggaagagagcgtctaaaggaggcaagacttgtggatttgtggacgagagaggtttgtataagtccttgaaaggagcttgtaagctcaagctgtgcggagtttctgggcttagacttatggatggaacttgggttgcgattcagacattggatgaaaccaaatggtgctctcctgatcaactggtgaatctgcatgacttccactcggatgagcttgagcatcttgttgtagaggagttggttagaaagagggaggaatgtctggatgcattagaatccatcatgaccaccaaatcagtaagcttcagacgtctaagccacctgagaaaactagttcctgggtttgggaaggcatacaccatattcaacaaaaccctaatggaggccgatgcccactacaagtccgttcggacttggagcgagatcatcccctcaaaagggtgtttgagagtaggggggagatgtcatcctcatgtaaatggagtatttttcaatggcatcattctaggtccggacgggcatgtgttgatcccagaaatgcagtcatcccttctccaacaacatgtggaactgttggagtcctcagtgatccccctcatgcaccccctggcagatccttcagcagttttcaaagatggtgacgaggcagaggattttgttgaggttcatctcccagatgttcacaaacagatctcaggggtggacctaggcctcccaagctggggaaagtatatgctgatgattgcaggtgctctaacgactctaatgc</GBSeq_sequence>
+</GBSeq>

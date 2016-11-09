@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AY987478</GBSeq_locus>
+  <GBSeq_length>1592</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>19-APR-2005</GBSeq_update-date>
+  <GBSeq_create-date>19-APR-2005</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate CHAND03 glycoprotein mRNA, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>AY987478</GBSeq_primary-accession>
+  <GBSeq_accession-version>AY987478.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|AY987478.1|</GBSeqid>
+    <GBSeqid>gi|62546270</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1592</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Tirumurugaan,K.G.</GBAuthor>
+        <GBAuthor>Jayakumar,R.</GBAuthor>
+        <GBAuthor>Hariharan,S.</GBAuthor>
+        <GBAuthor>Singh,C.K.</GBAuthor>
+        <GBAuthor>Nainar,A.M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Phylogenetic analysis of glycoprotein gene sequences of Indian isolate of rabies virus</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1592</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Tirumurugaan,K.G.</GBAuthor>
+        <GBAuthor>Jayakumar,R.</GBAuthor>
+        <GBAuthor>Hariharan,S.</GBAuthor>
+        <GBAuthor>Singh,C.K.</GBAuthor>
+        <GBAuthor>Nainar,A.M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (29-MAR-2005) Animal Biotechnology, Madras Veterinary College, Vepery High Road, Chennai, Tamil Nadu 600007, India</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1592</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1592</GBInterval_to>
+          <GBInterval_accession>AY987478.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>CHAND03</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>India: Chandigarch</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>1999</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>9..1583</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>9</GBInterval_from>
+          <GBInterval_to>1583</GBInterval_to>
+          <GBInterval_accession>AY987478.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAX85993.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MVPQALLFVPLLVFSLCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCTNLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFRRKHFRPTPDACRAAYNWKLAGDPRYEESLHNPYPDYHWLRTVKTTKESLVIISPSVADLDPYDRSLHSRVFPGGKCSGVAVSSTYCSTNHDYTIWMPENPRLGKSCDIFTNSRGKRASKGGETCGFVDERGLYKSLKGACKLKLCGVLGLRLMDGTWVAMQTSNETKWCPPGQLVNLHDFRSDEIEHLVVEELVKKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNDIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLQQHMELLESSVIPLMHPLADPSTVFKDGDEAEDFVEVLLPDVHKLISGVDLGLPSWGKYVLMSAGVLTVLMLIIFLMTCCRKSQSSSVTNNSPRGMGRKVSVTSQNGKVISSWESYKNGGETGQ</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gcggatccatggttcctcaggctctcctgtttgtgccccttctggtgttttcactgtgtttcgggaagttccccatttacacgataccagacaagcttggaccctggagtcctattgatatacatcatctcagctgtccaaacaatctggttgtagaggatgaaggatgcaccaacctatcaggattctcctacatggagctcaaagtaggatacatctcagcaataaaagtgaacggcttcacttgtacaggtgtggttacagaggcggagacttacactaacttcgttggttatgtcaccaccacattcagaagaaagcactttcgcccaacacccgatgcgtgtagggccgcgtacaactggaaactggccggcgaccccagatatgaagagtccctgcacaatccataccctgactaccattggcttcggactgttaaaaccaccaaggagtctctcgtcatcatatccccaagtgtggcagatttggacccatatgacagatcccttcactcgagggtctttcctggcgggaagtgctcaggagtagcggtgtcttctacctactgctccactaaccacgattacaccatttggatgcccgagaatccgagactagggaagtcttgtgacatttttaccaacagtagagggaagagagcatccaaagggggcgagacttgcggctttgtagatgaaagaggcctatataagtctttaaaaggagcatgcaaactcaagttatgtggagttctcggacttagacttatggatggaacatgggtcgcgatgcaaacatccaatgaaaccaaatggtgccctcccggtcagttggtgaatttgcacgactttcgctcagacgaaattgagcaccttgttgtagaggagttggtcaagaagagagaggagtgtctggatgcactagagtccatcatgaccaccaagtcagtgagtttcagacgtctcagtcatttaagaaaacttgtccctgggtttggaaaagcatataccatattcaacaagaccttgatggaagccgatgctcactacaagtcagtcagaacttggaatgatatcatcccttcaaaagggtgtctaagagtcggaggaaggtgtcatcctcacgtgaatggggtattttttaatggcataatattgggccctgatggccatgttctgatcccggagatgcagtcatccctcctccaacaacacatggagttgttggagtcctcagtcatccccttaatgcatccattagcagacccgtcaacagttttcaaggacggtgatgaggcagaagattttgttgaggtcctccttccggatgtgcacaaactgatctcaggggttgatctcggtcttcccagctgggggaagtatgtgttaatgagtgcaggtgtcctaacagtactgatgttgatcattttcttgatgacgtgttgcaggaagagtcaatcatccagcgtcacaaataacagtcccagggggatggggaggaaagtgtctgtcaccagccagaacgggaaggtcatatcttcctgggagtcatataaaaacgggggtgagaccggacagtgaggtaccgga</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>HM582496</GBSeq_locus>
+  <GBSeq_length>609</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>28-JAN-2014</GBSeq_update-date>
+  <GBSeq_create-date>28-JAN-2014</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus strain CZJ0804D matrix protein (M) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>HM582496</GBSeq_primary-accession>
+  <GBSeq_accession-version>HM582496.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|HM582496.1|</GBSeqid>
+    <GBSeqid>gi|302027746</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..609</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Wu,H.</GBAuthor>
+        <GBAuthor>Wang,L.</GBAuthor>
+        <GBAuthor>Tao,X.</GBAuthor>
+        <GBAuthor>Li,H.</GBAuthor>
+        <GBAuthor>Rayner,S.</GBAuthor>
+        <GBAuthor>Liang,G.</GBAuthor>
+        <GBAuthor>Tang,Q.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Genetic diversity and molecular evolution of the rabies virus matrix protein gene in China</GBReference_title>
+      <GBReference_journal>Infect. Genet. Evol. 16, 248-253 (2013)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1016/j.meegid.2013.02.009</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>23453987</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..609</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Tang,Q.</GBAuthor>
+        <GBAuthor>Wu,H.</GBAuthor>
+        <GBAuthor>Li,H.</GBAuthor>
+        <GBAuthor>Liang,G.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (21-JUN-2010) Department of Viral Encephalitis, National Institute for Viral Disease Control and Prevention,Chinese Center for Disease Control and Prevention, 100 Yingxin St. Xuan Wu District, Beijing 100052, China</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..609</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>609</GBInterval_to>
+          <GBInterval_accession>HM582496.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>CZJ0804D</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis lupus familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>China</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..609</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>609</GBInterval_to>
+          <GBInterval_accession>HM582496.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>M</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..609</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>609</GBInterval_to>
+          <GBInterval_accession>HM582496.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>M</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>matrix protein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ADK90843.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MNFLRKIVKNCRDEDTHKPFSASAPPDDDDLWLPPPEYVPLKELTGKKNMRNFCINGEVKVCSPNGYSFRILRHILRSFDEIYSGNHRMIGLVKVVIGLALSGAPVPEGMNWVYKLRRTLIFQWADSRGPLEGEELEYSQEITWDDDTEFVGLQIRVSARQCHIQGRIWCINMNSRACQLWSDMSLQTQRSEEDKDSSLLLE</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgaactttctacgtaaaatagtgaaaaactgcagggatgaggacactcataagcccttctccgcatcggctcctccagatgatgatgacctatggctgccccctcctgaatatgttccgttgaaagaactcacgggcaagaaaaacatgaggaacttttgtatcaacggagaggtcaaggtgtgcagtccgaacggctattcgttcaggatcttgcggcacattctaagatcatttgatgagatatattctggaaatcacagaatgatcggattagtcaaggtcgttattggactggctttatcaggggctccagtccctgaaggcatgaactgggtatacaagttgaggaggactcttatcttccaatgggctgattccaggggccctcttgagggggaggagttggaatactctcaagaaatcacctgggatgacgatactgagtttgtcggattgcaaataagagtgagcgcaagacagtgtcatattcagggcaggatctggtgtatcaacatgaattctagagcatgtcaattgtggtctgacatgtctcttcagacacaaaggtctgaggaagacaaggactcttctctgcttctagaataa</GBSeq_sequence>
+</GBSeq>

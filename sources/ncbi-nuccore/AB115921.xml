@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AB115921</GBSeq_locus>
+  <GBSeq_length>1575</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>30-JUL-2003</GBSeq_update-date>
+  <GBSeq_create-date>30-JUL-2003</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus gene for glycoprotein, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>AB115921</GBSeq_primary-accession>
+  <GBSeq_accession-version>AB115921.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|AB115921.1|</GBSeqid>
+    <GBSeqid>gi|33342179</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Minamoto,N.</GBAuthor>
+        <GBAuthor>Sugiyama,M.</GBAuthor>
+        <GBAuthor>Inagaki,A.</GBAuthor>
+        <GBAuthor>Susetya,H.</GBAuthor>
+        <GBAuthor>Ito,N.</GBAuthor>
+        <GBAuthor>Mudiarto,G.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Sequential analysis of glycoprotein of a field rabies virus in Indonesia</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Minamoto,N.</GBAuthor>
+        <GBAuthor>Sugiyama,M.</GBAuthor>
+        <GBAuthor>Inagaki,A.</GBAuthor>
+        <GBAuthor>Susetya,H.</GBAuthor>
+        <GBAuthor>Mudiarto,G.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (28-JUL-2003) Makoto Sugiyama, Gifu University, Laboratory of Zoonotic Diseases, Faculty of Agriculture; 1-1 Yanagido, Gifu-city, Gifu 501-1193, Japan (E-mail:sugiyama@cc.gifu-u.ac.jp, Tel:81-58-293-2949(ex.2949), Fax:81-58-293-2949)</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>AB115921.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>SN01-23</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Indonesia:Sumatra</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>isolated in 2001</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>AB115921.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>BAC80267.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MIPQALLFVPLLVFPLCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCTNLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAYNWKMAGDPRYEESLHNPYPDYHWLRTVKTTKESLVIISPSVADLDPYDKSLHSRVFPNGKCLGITVSSTYCSTNHDYTIWMPENPRLGTSCDIFTNSRGKRASKGSKTCGFVDERGLYKSLKGACKLKLCGVLGLRLMDGTWVALQTSDETKWCSPDQLVNLHDFHSDEIEHLVVEELVKKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSIRTWNEIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLHQHMELLESSVIPLMHPLADPSTVFKDGDEAEDFVEVHLPDVHKQISGVDLGLPNWGKYVLMSAGALTVLMLMIFLVTCCRKANRAESIQHSLGETGRKVSVTSQNGRVISSWESYKSRGETKL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgattcctcaagctcttttgtttgtaccccttctcgttttcccgttgtgtttcgggaaattccccatttacacgataccggacaaacttggtccatggagtcccattgatatacatcatctcagctgtccgaataatctggttgtggaagatgaaggatgcaccaatctgtctggattctcctacatggaactcaaagtaggatacatttcagccataaaagtgaacggatttacctgtacaggtgtagtgacagaagcagaaacctacacaaactttgttggttatgtcaccaccacgtttaagagaaagcacttccgcccgacgccagatgcatgcagagccgcatacaactggaagatggccggtgaccccaggtatgaggagtctctgcacaacccatacccagactatcattggctccgaactgtaaagaccaccaaggagtcccttgtcatcatatctccaagcgtcgcagatttggacccgtacgataaatcccttcactcgagagtctttcctaacggaaaatgcttaggaataacagtgtcgtctacctactgctctaccaaccacgactacaccatctggatgcctgaaaaccctagactggggacttcgtgtgacattttcaccaatagcagagggaagagggcatccaaagggagcaagacttgtggatttgtggatgaaagaggcttgtacaagtctctaaaaggggcatgcaaactgaagctatgtggggttcttggacttagacttatggatggaacatgggttgctcttcagacgtcagatgagaccaaatggtgctctcctgatcagctagtgaacctacacgactttcactcggatgagattgaacatcttgtagtggaggagttggtaaagaagagggaagagtgtctagacgcactggaatccattatgaccacaaaatccgtgagtttcagacgtcttagtcacttaagaaagctagtccctgggtttggaaaggcgtataccatattcaacaaaaccttgatggaggctgatgctcactacaaatcaatccggacttggaatgagatcatcccttctaaggggtgtctaagagttggggggagatgtcatcctcatgtaaacggggtgtttttcaatggcatcatactgggtcctgacggacatgttttaatcccagaaatgcaatcgtccctcctccatcagcatatggagttgttggagtcctcagtcatccccttgatgcaccccttagcagacccatcaacggtctttaaagacggtgacgaggcggaggactttgttgaggtccaccttccggatgtgcacaagcagatctcaggggttgatctcggtctcccgaattgggggaagtacgtgctgatgagtgcaggtgctctgactgtgttgatgttgatgattttcttagtgacatgctgcagaaaagctaatagagcagaatcaatacaacacagtctcggagagacggggaggaaagtgtcggtaacttctcaaaacggaagggtaatatcttcatgggaatcatataagagcagaggtgagaccaagctgtag</GBSeq_sequence>
+</GBSeq>

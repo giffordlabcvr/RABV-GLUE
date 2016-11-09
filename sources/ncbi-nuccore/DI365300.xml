@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>DI365300</GBSeq_locus>
+  <GBSeq_length>1575</GBSeq_length>
+  <GBSeq_strandedness>double</GBSeq_strandedness>
+  <GBSeq_moltype>DNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>PAT</GBSeq_division>
+  <GBSeq_update-date>08-JUL-2014</GBSeq_update-date>
+  <GBSeq_create-date>08-JUL-2014</GBSeq_create-date>
+  <GBSeq_definition>KR 1020130111581-A/1: Rabies Glycoprotein Virus-Like Particles (VLPs)</GBSeq_definition>
+  <GBSeq_primary-accession>DI365300</GBSeq_primary-accession>
+  <GBSeq_accession-version>DI365300.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|DI365300.1|</GBSeqid>
+    <GBSeqid>pat|KR|1020130111581|1</GBSeqid>
+    <GBSeqid>gi|662623139</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_keywords>
+    <GBKeyword>KR 1020130111581-A/1</GBKeyword>
+  </GBSeq_keywords>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Smith,G.</GBAuthor>
+        <GBAuthor>Liu,Y.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Rabies Glycoprotein Virus-Like Particles (VLPs)</GBReference_title>
+      <GBReference_journal>Patent: KR 1020130111581-A 1 10-OCT-2013; NOVAVAX, INC</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>KN KR 1020137014262-A/1~AN KR 1020137014262~AD 2013-06-03~PN KR 1020130111581~PD 2013-10-10~AT Rabies Glycoprotein Virus-Like Particles (VLPs)~AI Smith, Gale|Liu, Ye~AA NOVAVAX, INC~PR US 61/410,767=2011-11-05~OS Rabies virus~TY DNA</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>DI365300.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>unassigned DNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggtgccccaggctctgctcttcgtgcctttgctggtcttcccactctgcttcggcaagttccccatctacaccatccctgacaagctgggcccctggtcccctatcgacatccaccacttgtcttgccctaacaacctggtggtcgaggacgaaggctgcactaacttgtccggattctcttacatggagctgaaagtgggttacatctccgctatcaagatgaacggcttcacttgcaccggagtggtcaccgaggccgaaacttacaccaacttcgtgggctacgtcaccactaccttcaagaggaagcacttcagaccaactcccgacgcttgcagggctgcctacaactggaagatggccggagacccaagatacgaggaatccctgcacaacccttacccagactaccactggctccgtaccgtgaagactaccaaggagtccctggtcatcatctccccatctgtcgctgacctcgacccctacgaccgtagcttgcactcaagagtcttcccaggtggaaactgcagcggagtggccgtctcctctacttactgctcaaccaaccacgactacactatctggatgccagagaacccccgcctgggcatgagctgcgacatcttcaccaactcacgtggaaagcgcgcctccaagggttctgagacttgcggcttcgtggacgaaaggggtttgtacaagtccctgaagggcgcttgcaagctcaagttgtgcggcgtgctgggactcagattgatggacggcacctgggtcgccatgcagactagcaacgagaccaagtggtgcccccctggacaactcgtgaacttgcacgacttccgttcagacgagatcgaacacctggtggtcgaggaactcgtcaagaagcgcgaggaatgcctggacgctctcgagagcatcatgactaccaagagcgtgtcattccgtcgcttgtcacacctgaggaagctcgtccccggtttcggcaaggcctacactatcttcaacaagaccctcatggaggctgacgcccactacaagtccgtgcgtacctggaacgaaatcatcccctctaagggttgcctgcgtgtcggaggtagatgccaccctcacgtgaacggagtcttcttcaacggtatcatcctgggtcctgacggcaacgtgctcatcccagagatgcaaagctcactcttgcagcaacacatggaactgctcgtgtcctctgtcatccctctcatgcacccattggctgaccccagcaccgtcttcaagaacggcgacgaggccgaagacttcgtggaggtccacctgccagacgtgcacgaacgcatctccggagtcgacctgggtctccccaactggggaaagtacgtgttgctgtctgctggtgccctcaccgctttgatgctgatcatcttcttgatgacttgctggaggagagtcaacaggtctgagcctactcagcacaacctgaggggaaccggtagagaagtgtccgtcactccacaatctggaaagatcatcagctcatgggagagctacaagtcaggcggagaaaccggtctgtaa</GBSeq_sequence>
+</GBSeq>

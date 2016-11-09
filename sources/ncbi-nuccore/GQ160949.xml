@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>GQ160949</GBSeq_locus>
+  <GBSeq_length>1320</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>20-JUN-2009</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus strain 08SaoSebastiaodaGramaSP5790E nucleoprotein (N) gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>GQ160949</GBSeq_primary-accession>
+  <GBSeq_accession-version>GQ160949.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|GQ160949.1|</GBSeqid>
+    <GBSeqid>gi|239925917</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1320</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Macedo,C.I.</GBAuthor>
+        <GBAuthor>Carnieli,P. Jr.</GBAuthor>
+        <GBAuthor>Fahl,W.O.</GBAuthor>
+        <GBAuthor>Lima,J.Y.</GBAuthor>
+        <GBAuthor>Oliveira,R.N.</GBAuthor>
+        <GBAuthor>Achkar,S.M.</GBAuthor>
+        <GBAuthor>Castilho,J.G.</GBAuthor>
+        <GBAuthor>Carrieri,M.L.</GBAuthor>
+        <GBAuthor>Kotait,I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Genetic characterization of Rabies virus isolated from bovines and equines between 2007 and 2008 in the states of Sao Paulo and Minas Gerais, Brazil</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1320</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Macedo,C.I.</GBAuthor>
+        <GBAuthor>Carnieli,P. Jr.</GBAuthor>
+        <GBAuthor>Fahl,W.O.</GBAuthor>
+        <GBAuthor>Lima,J.Y.</GBAuthor>
+        <GBAuthor>Oliveira,R.N.</GBAuthor>
+        <GBAuthor>Achkar,S.M.</GBAuthor>
+        <GBAuthor>Castilho,J.G.</GBAuthor>
+        <GBAuthor>Carrieri,M.L.</GBAuthor>
+        <GBAuthor>Kotait,I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (14-MAY-2009) Virology, Pasteur Institut, Av. Paulista, 393, Sao Paulo, Sao Paulo 01311-000, Brazil</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1320</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1320</GBInterval_to>
+          <GBInterval_accession>GQ160949.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>08SaoSebastiaodaGramaSP5790E</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>equine</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;1320</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1320</GBInterval_to>
+          <GBInterval_accession>GQ160949.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;1320</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1320</GBInterval_to>
+          <GBInterval_accession>GQ160949.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ACS35586.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>HNQVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLHKAYKSILSGMNAAKLDPDDVCSYLAAAMQFFEGSCPEDWTSYGILIARKGDKITPDSLVDIRRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFAKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREALLYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIATCAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKAETALADDGTVNSDDEDYFSSETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQTRPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>cataatcaggtggtttccctgaagcctgaaattattgtggaccaatatgagtacaagtacccggctatcaaagacctgaagaagcccagtataaccttaggaaaagctcctgatttgcataaagcatacaaatcaattttgtctggcatgaacgcagccaaactcgatcctgatgatgtatgctcttatctggctgccgcaatgcagttctttgagggatcatgtcctgaggactggactagctatggaatcctgatagctcggaagggagataagatcaccccggattctcttgtggacataagacgtactgatgtggaagggaattgggctctgacagggggcatggagttgacaagggaccctactgtttcagagcatgcatctctggttggccttctattaagtttatataggttgagcaaaatctctggacagaataccggcaattacaagacaaacatcgcggatagaatagagcagattttcgagacagccccctttgcaaagatcgtagaacatcatactttgatgactacccacaaaatgtgcgctaactggagtaccataccaaatttcagattcctggctggaacttatgacatgtttttctcccggattgaacatttgtattcagctattagagtaggcacagttgtcactgcttatgaggactgctcaggactggtgtcatttacagggtttataaaacaaataaatctcactgcgagagaagcactattgtacttcttccacaagaactttgaggaagaaataagaagaatgttcgagcctgggcaagagactgctgttccccattcctattttattcattttcgttcattgggtttgagtgggaaatctccttattcatccaatgcagttggtcatgtattcaacctcattcactttgttggatgttatatgggtcaggtgagatctttaaatgcaacagtgattgcaacatgtgccccgcatgagatgtctgttcttgggggctatttgggggaggagtttttcggaaaaggaacttttgaaaggagattcttcagagacgagaaagaacttcaggaatatgaagcagctgaattgacaaaagctgaaacggccctagcagatgacggaacagtcaattctgatgatgaggactacttctccagcgaaaccaggagtccagaagcagtttacacacgaatcatgatgaatggaggtagactgaaaagatcacacataaggaggtatgtctcagtcagctctaatcatcaaactcgccctaactcatttgcggagtttttaaacaaaacatactcgagtgactcg</GBSeq_sequence>
+</GBSeq>

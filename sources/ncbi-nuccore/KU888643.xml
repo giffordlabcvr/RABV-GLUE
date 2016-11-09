@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KU888643</GBSeq_locus>
+  <GBSeq_length>1575</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>30-MAR-2016</GBSeq_update-date>
+  <GBSeq_create-date>30-MAR-2016</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate 9811CHI glycoprotein (G) gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>KU888643</GBSeq_primary-accession>
+  <GBSeq_accession-version>KU888643.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KU888643.1|</GBSeqid>
+    <GBSeqid>gi|1009428255</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>De Benedictis,P.</GBAuthor>
+        <GBAuthor>Minola,A.</GBAuthor>
+        <GBAuthor>Rota Nodari,E.</GBAuthor>
+        <GBAuthor>Aiello,R.</GBAuthor>
+        <GBAuthor>Zecchin,B.</GBAuthor>
+        <GBAuthor>Salomoni,A.</GBAuthor>
+        <GBAuthor>Foglierini,M.</GBAuthor>
+        <GBAuthor>Agatic,G.</GBAuthor>
+        <GBAuthor>Vanzetta,F.</GBAuthor>
+        <GBAuthor>Lavenir,R.</GBAuthor>
+        <GBAuthor>Lepelletier,A.</GBAuthor>
+        <GBAuthor>Bentley,E.</GBAuthor>
+        <GBAuthor>Weiss,R.</GBAuthor>
+        <GBAuthor>Cattoli,G.</GBAuthor>
+        <GBAuthor>Capua,I.</GBAuthor>
+        <GBAuthor>Sallusto,F.</GBAuthor>
+        <GBAuthor>Wright,E.</GBAuthor>
+        <GBAuthor>Lanzavecchia,A.</GBAuthor>
+        <GBAuthor>Bourhy,H.</GBAuthor>
+        <GBAuthor>Corti,D.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Development of broad-spectrum human monoclonal antibodies for rabies post-exposure prophylaxis</GBReference_title>
+      <GBReference_journal>EMBO Mol Med (2016) In press</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.15252/emmm.201505986</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>26992832</GBReference_pubmed>
+      <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1575</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>De Benedictis,P.</GBAuthor>
+        <GBAuthor>Minola,A.</GBAuthor>
+        <GBAuthor>Nodari,E.R.</GBAuthor>
+        <GBAuthor>Aiello,R.</GBAuthor>
+        <GBAuthor>Zecchin,B.</GBAuthor>
+        <GBAuthor>Salomoni,A.</GBAuthor>
+        <GBAuthor>Foglierini,M.</GBAuthor>
+        <GBAuthor>Agatic,G.</GBAuthor>
+        <GBAuthor>Vanzetta,F.</GBAuthor>
+        <GBAuthor>Lavenir,R.</GBAuthor>
+        <GBAuthor>Lepelletier,A.</GBAuthor>
+        <GBAuthor>Bentley,E.M.</GBAuthor>
+        <GBAuthor>Weiss,R.</GBAuthor>
+        <GBAuthor>Cattoli,G.</GBAuthor>
+        <GBAuthor>Capua,I.</GBAuthor>
+        <GBAuthor>Sallusto,F.</GBAuthor>
+        <GBAuthor>Wright,E.</GBAuthor>
+        <GBAuthor>Lanzavecchia,A.</GBAuthor>
+        <GBAuthor>Bourhy,H.</GBAuthor>
+        <GBAuthor>Corti,D.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (07-MAR-2016) Faculty of Science and Technology, University of Westminster, 115 New Cavendish Street, London W1W 6UW, UK</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>KU888643.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>9811CHI</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Chile</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>1998</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>KU888643.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1575</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1575</GBInterval_to>
+          <GBInterval_accession>KU888643.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AMR71129.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MIPQVLLFVPLLVFSSCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCTNLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPMPDACRAAYNWKMAGDPRYEESLHNPYPDYHWLRTVKTTKESLVIISPSVADLDPYDKSLHSRVFPGGKCSGITVSSTCCSTNHDYTIWMPENPRLGTSCDIFTNSRGKRASKGGKTCGFVDERGLYKSLKGACKLKLCGVLGLRLMDGTWVAIQTSDEIKWCSPDQLVNLHDFHSDEIEHLVVEELVKKREECLDALETIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSIRTWNEIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLHQHMELLESSVIPLMHPLADPSTVFKDGDEAEDFVEVHLPDVHKQISGVDLGLPNWGKYVLISAGALTALMLTIFLMTCCRKTNRAESIQHSPGETGRKVSVTSHNGRVISSWESYKSGSETKL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgattcctcaagttcttttgtttgttccccttctagttttctcgtcgtgttttgggaaattccccatttacacgataccagacaaacttggtccatggagtcccatcgatatacatcacctcagctgtccgaacaatctggttgtggaagatgaaggatgcaccaatctgtctggattttcctacatggaactcaaagtgggatatatttcagccataaaagtgaacggattcacctgtacaggtgtggtgaccgaagcagaaacctacactaactttgttggttatgtcaccaccacatttaagagaaagcactttcgccctatgccggatgcgtgcagagccgcatacaactggaagatggctggtgaccccaggtatgaagagtctctgcacaatccgtaccccgactaccactggctccgaactgtcaagaccaccaaggagtcccttgtcatcatatctccgagcgttgcagatttggacccgtacgataaatcccttcactcgagagtttttcctggcggaaaatgctcaggaataaccgtgtcctccacttgctgctctactaaccacgactacaccatctggatgcctgaaaatcctagactgggaacttcatgtgacattttcaccaatagtagagggaagagggcatcaaaagggggcaagacctgtggatttgtggatgaaagaggcttgtacaagtctctaaagggagcatgcaagctgaagctatgtggggttctaggacttagacttatggacggaacatgggtcgcaattcagacatcagatgagatcaaatggtgctctcctgatcagctagtaaatctacacgactttcactcggatgagattgaacatcttgttgtggaggagttggtcaaaaagagggaagagtgtctggacgcactggagactattatgaccacaaagtccgtgagtttcagacgtcttagtcatttgaggaagctagtccctgggtttggaaaggcgtataccatattcaacaaaaccttgatggaggctgatgctcactacaaatcaatccggacttggaatgaaatcatcccctccaaagggtgtttaagagttggggggagatgtcatcctcatgtgaacggggtgttcttcaacggcattatactgggtcctgacggacatgttctaatcccagagatgcagtcgtccctcctccaccagcatatggaattgttggagtcctcagtcatccctttgatgcatcccttagcagacccgtcaacagtctttaaagacggcgacgaggcagaggactttgttgaggttcaccttccggatgtgcacaagcagatctcgggggttgatcttggtctcccaaactgggggaagtatgtgctgataagtgcaggtgctctgactgcattaatgttgacgattttcttaatgacgtgttgcagaaagactaatagagcagagtcaatacaacacagtcctggagagacagggaggaaagtgtcggtgacttctcacaacggaagggtcatatcttcatgggaatcatataaaagcggaagtgagaccaagctgtga</GBSeq_sequence>
+</GBSeq>

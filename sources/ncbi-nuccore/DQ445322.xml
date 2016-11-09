@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>DQ445322</GBSeq_locus>
+  <GBSeq_length>687</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>07-SEP-2012</GBSeq_update-date>
+  <GBSeq_create-date>19-JUL-2006</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate Cab1382ph01 nucleoprotein gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>DQ445322</GBSeq_primary-accession>
+  <GBSeq_accession-version>DQ445322.2</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|DQ445322.2|</GBSeqid>
+    <GBSeqid>gi|403389726</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..687</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Franka,R.</GBAuthor>
+        <GBAuthor>Constantine,D.G.</GBAuthor>
+        <GBAuthor>Kuzmin,I.</GBAuthor>
+        <GBAuthor>Velasco-Villa,A.</GBAuthor>
+        <GBAuthor>Reeder,S.A.</GBAuthor>
+        <GBAuthor>Streicker,D.</GBAuthor>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+        <GBAuthor>Wong,A.J.</GBAuthor>
+        <GBAuthor>Blanton,J.D.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>A new phylogenetic lineage of rabies virus associated with western pipistrelle bats (Pipistrellus hesperus)</GBReference_title>
+      <GBReference_journal>J. Gen. Virol. 87 (PT 8), 2309-2321 (2006)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1099/vir.0.81822-0</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>16847127</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..687</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Franka,R.</GBAuthor>
+        <GBAuthor>Constantine,D.G.</GBAuthor>
+        <GBAuthor>Kuzmin,I.</GBAuthor>
+        <GBAuthor>Velasco-Villa,A.</GBAuthor>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+        <GBAuthor>Streicker,D.</GBAuthor>
+        <GBAuthor>Reeder,S.A.</GBAuthor>
+        <GBAuthor>Blanton,J.D.</GBAuthor>
+        <GBAuthor>Wong,A.J.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (13-MAR-2006) DVRD/VRZB/Rabies, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30333, USA</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>3</GBReference_reference>
+      <GBReference_position>1..687</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Franka,R.</GBAuthor>
+        <GBAuthor>Constantine,D.G.</GBAuthor>
+        <GBAuthor>Kuzmin,I.</GBAuthor>
+        <GBAuthor>Velasco-Villa,A.</GBAuthor>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+        <GBAuthor>Streicker,D.</GBAuthor>
+        <GBAuthor>Reeder,S.A.</GBAuthor>
+        <GBAuthor>Blanton,J.D.</GBAuthor>
+        <GBAuthor>Wong,A.J.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (19-AUG-2011) DVRD/VRZB/Rabies, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30333, USA</GBReference_journal>
+      <GBReference_remark>Sequence update by submitter</GBReference_remark>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>On Sep 7, 2012 this sequence version replaced gi:90811844.</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..687</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>687</GBInterval_to>
+          <GBInterval_accession>DQ445322.2</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>Cab1382ph01</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain of naturally infected bat</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Pipistrellus hesperus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>USA: California, San Bernardino</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2001</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..687</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>687</GBInterval_to>
+          <GBInterval_accession>DQ445322.2</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ABD98181.2</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>AIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIATCAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKTELALADDGTVNSDDEDYFSSETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>gcaattagagtgggaacagtcgtcactgcttatgaggactgctcagggttggtgtcgtttacagggttcatcaagcaaataaatctcactgcaagagaagcaatactatatttcttccacaaaaacttcgaggaagagataagaagaatgtttgagccggggcaggaaaccgcagttcctcactcctatttcatccatttccgttcattgggcctaagtggaaaatctccgtattcatccaatgcagttggtcacgtgttcaacctcattcactttgttggatgttatatgggtcaagtgagatctctgaatgcaacagtcattgccacatgtgccccgcatgagatgtctgttctggggggttatttgggggaagagttttttggaaaaggaacttttgagagaagattctttagagacgagaaggagcttcaggaatatgaggcagctgaattaacgaagactgaattagccttggcagatgacggaacagtcaattctgacgatgaggactacttctctagtgagactcggagtccagaagctgtttatactcgaattatgatgaatgggggcaggctaaaaagatcacacataaggagatatgtctcagttagttccaatcatcaagctcgccccaattcattcgctgagtttctaaacaagacatactcgagtgattcgtaa</GBSeq_sequence>
+</GBSeq>

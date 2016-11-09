@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>DQ074978</GBSeq_locus>
+  <GBSeq_length>1598</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>04-JUL-2005</GBSeq_update-date>
+  <GBSeq_create-date>04-JUL-2005</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus from India glycoprotein G (gpG) mRNA, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>DQ074978</GBSeq_primary-accession>
+  <GBSeq_accession-version>DQ074978.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|DQ074978.1|</GBSeqid>
+    <GBSeqid>gi|68301905</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1598</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Agrawal,S.</GBAuthor>
+        <GBAuthor>Shasany,A.</GBAuthor>
+        <GBAuthor>Khanuja,S.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Plant transformation vector having street rabies virus (Indian strain) glycoprotein gene</GBReference_title>
+      <GBReference_journal>J. Plant Biochem. Biotechnol. (2005) In press</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1598</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Agrawal,S.</GBAuthor>
+        <GBAuthor>Shasany,A.</GBAuthor>
+        <GBAuthor>Khanuja,S.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (25-MAY-2005) Genetic Resources And Biotechnology Division, Central Institute Of Medicinal And Aromatic Plants, Near Kukrail Picnic Spot, Lucknow 226015, India</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1598</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1598</GBInterval_to>
+          <GBInterval_accession>DQ074978.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain of mad dog in the street</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>India</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>Indian</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..1598</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1598</GBInterval_to>
+          <GBInterval_accession>DQ074978.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>gpG</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>primer_bind</GBFeature_key>
+      <GBFeature_location>1..33</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>33</GBInterval_to>
+          <GBInterval_accession>DQ074978.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>13..1587</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>13</GBInterval_from>
+          <GBInterval_to>1587</GBInterval_to>
+          <GBInterval_accession>DQ074978.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>gpG</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>outer coat protein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAY89391.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MVPQALLFVPLLVFPLCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCTNLSGFSYMELKVGYISAIKMNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAYNWKMAGDPRYEESLHNPYPDYHWLRTVKTTKESLVIISPSVADLDPYDISLHSRVFPGGNCSGVAVSSTYCSTNHDYTIWMPENPRLGMSCDIFTNSRGKRESKGSETCGFVDERGLYKSLKGACKLKLCGVLGLRLMDGTWVAMQTSNETKWCPPGQLVNLHDFRSDEIEHLVVEELVRKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGNVLIPEMQSSLLQQHMELLVSSVIPLMHPLADPSTVFKNGDEAEDFVEVHLPDVHERISGVDLGLPNWGKYVLLSAGALTALMLIIFLMTCWRRVNRSEPTQHNLRGTGREVSVTPQSGKIISSWESHKSGGETRL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>primer_bind</GBFeature_key>
+      <GBFeature_location>complement(1573..1598)</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1598</GBInterval_from>
+          <GBInterval_to>1573</GBInterval_to>
+          <GBInterval_iscomp value="true"/>
+          <GBInterval_accession>DQ074978.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>tctagaggaaagatggttcctcaggctctcctgtttgtaccccttctggtttttccattgtgttttgggaaattccctatttacacgataccagacaagcttggtccctggagcccgattgacatacatcacctcagctgcccaaacaatttggtagtggaggacgaaggatgcaccaacctgtcagggttctcctacatggaacttaaagttggatacatctcagccataaaaatgaacgggttcacttgcacaggcgttgtgacggaggctgaaacctacactaacttcgttggttatgtcacaaccacgttcaaaagaaagcatttccgcccaacaccagatgcatgtagagccgcgtacaactggaagatggccggtgaccccagatatgaagagtctctacacaatccgtaccctgactaccactggcttcgaactgtaaaaaccaccaaggagtctctcgttatcatatctccaagtgtggcagatttggacccatatgacatatcccttcactcgagggtcttccctggcgggaattgctcaggagtagcggtgtcttctacctactgctccactaaccacgattacaccatttggatgcccgagaatccgagactagggatgtcttgtgacatttttaccaatagtagagggaagagagaatccaaagggagtgagacttgcggctttgtagatgaaagaggcctatataagtctttaaaaggagcatgcaaactcaagttatgtggagttctcggacttagacttatggatggaacatgggtcgcgatgcaaacatcaaatgaaaccaaatggtgccctcccggtcagttggtgaatttgcacgactttcgctcagacgaaattgagcaccttgttgtagaggagttggtcaggaagagagaggagtgtctggatgcactagagtccatcatgacaaccaagtcagtgagtttcagacgtctcagtcatttaagaaaacttgtccctgggtttggaaaagcatataccatattcaacaagaccttgatggaagccgatgctcactacaagtcagtcagaacttggaatgagatcatcccttcaaaagggtgtttaagagttggggggaggtgtcatcctcatgtaaacggggtatttttcaatggtataatattaggacctgacggcaatgtcttaatcccagagatgcaatcatccctcctccagcaacatatggagttgttggtatcctcggttatcccccttatgcaccccctggcagacccgtctaccgttttcaagaacggtgacgaggctgaggattttgttgaagttcaccttcccgatgtgcacgaacggatctcaggagttgacttgggtctcccgaactgggggaagtatgtattactgagtgcaggggccctgactgccttgatgttgataattttcctgatgacatgctggagaagagtcaatcgatcggaacctacacaacacaatctcagagggacagggagggaggtgtcagtcactccccaaagcgggaagatcatatcttcatgggaatcacacaagagcgggggtgagaccagactgtgaggactggatcc</GBSeq_sequence>
+</GBSeq>

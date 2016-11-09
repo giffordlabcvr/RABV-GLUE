@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JN109226</GBSeq_locus>
+  <GBSeq_length>400</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>04-APR-2012</GBSeq_update-date>
+  <GBSeq_create-date>04-APR-2012</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate RV0904MT724 nucleoprotein mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>JN109226</GBSeq_primary-accession>
+  <GBSeq_accession-version>JN109226.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|JN109226.1|</GBSeqid>
+    <GBSeqid>gi|382928571</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..400</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Cliquet,F.</GBAuthor>
+        <GBAuthor>Robardet,E.</GBAuthor>
+        <GBAuthor>Must,K.</GBAuthor>
+        <GBAuthor>Laine,M.</GBAuthor>
+        <GBAuthor>Peik,K.</GBAuthor>
+        <GBAuthor>Picard-Meyer,E.</GBAuthor>
+        <GBAuthor>Guiot,A.L.</GBAuthor>
+        <GBAuthor>Niin,E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Eliminating rabies in estonia</GBReference_title>
+      <GBReference_journal>PLoS Negl Trop Dis 6 (2), E1535 (2012)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1371/journal.pntd.0001535</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>22393461</GBReference_pubmed>
+      <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..400</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Niin,E.</GBAuthor>
+        <GBAuthor>Robardet,E.</GBAuthor>
+        <GBAuthor>Must,K.</GBAuthor>
+        <GBAuthor>Peik,K.</GBAuthor>
+        <GBAuthor>Picard-Meyer,E.</GBAuthor>
+        <GBAuthor>Guiot,A.L.</GBAuthor>
+        <GBAuthor>Cliquet,F.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (10-JUN-2011) Lyssavirus Unit, Anses Nancy, Technopole Agricole et Veterinaire, BP 40009, Malzeville 54220, France</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..400</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>400</GBInterval_to>
+          <GBInterval_accession>JN109226.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>RV0904MT724</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>raccoon dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Estonia</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2004</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;400</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>400</GBInterval_to>
+          <GBInterval_accession>JN109226.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AFG29808.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPCITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTGVEGNWALTGGMELTRDPT</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtctctttgaagcctgagattatagtggatcaatatgagtacaagtaccctgctatcaaagatttgaaaaagccctgtataaccctagggaaagcccccgacttaaacaaagcatacaagtcagtcctatcaggcatgaatgcagccaagcttgatcctgatgatgtatgttcctacttggcagcagcaatgcagttctttgaggggacgtgtccagaggattggaccagctatggaatcttgattgcacgaaaaggagacaagatcaccccagactctctggtagaaataaagcgtactggtgtagaaggaaattgggctctgacaggaggcatggaactgacaagggaccccactg</GBSeq_sequence>
+</GBSeq>

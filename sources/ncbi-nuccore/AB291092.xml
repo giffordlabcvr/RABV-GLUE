@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AB291092</GBSeq_locus>
+  <GBSeq_length>609</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>05-DEC-2008</GBSeq_update-date>
+  <GBSeq_create-date>01-AUG-2007</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus M gene for matrix protein, complete cds, strain: BR-DR1</GBSeq_definition>
+  <GBSeq_primary-accession>AB291092</GBSeq_primary-accession>
+  <GBSeq_accession-version>AB291092.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|AB291092.1|</GBSeqid>
+    <GBSeqid>gi|154347474</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Okuda,H.</GBAuthor>
+        <GBAuthor>Nakamura,K.</GBAuthor>
+        <GBAuthor>Sato,G.</GBAuthor>
+        <GBAuthor>Itou,T.</GBAuthor>
+        <GBAuthor>Carvalho,A.A.</GBAuthor>
+        <GBAuthor>Silva,M.V.</GBAuthor>
+        <GBAuthor>Mota,C.S.</GBAuthor>
+        <GBAuthor>Ito,F.H.</GBAuthor>
+        <GBAuthor>Sakai,T.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Genetic analysis of phosphoprotein and matrix protein of rabies viruses isolated in Brazil</GBReference_title>
+      <GBReference_journal>J. Vet. Med. Sci. 69 (11), 1145-1154 (2007)</GBReference_journal>
+      <GBReference_pubmed>18057829</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..609</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Okuda,H.</GBAuthor>
+        <GBAuthor>Nakamura,K.</GBAuthor>
+        <GBAuthor>Itou,T.</GBAuthor>
+        <GBAuthor>Ito,F.H.</GBAuthor>
+        <GBAuthor>Sakai,T.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (22-JAN-2007) Contact:Yuki Kobayashi Nihon University, Nihon University Veterinary Research Center; 1866 Kameino, Fujisawa, Kanagawa 252-0805, Japan</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..609</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>609</GBInterval_to>
+          <GBInterval_accession>AB291092.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>BR-DR1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Desmodus rotundus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..609</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>609</GBInterval_to>
+          <GBInterval_accession>AB291092.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>M</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..609</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>609</GBInterval_to>
+          <GBInterval_accession>AB291092.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>M</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>matrix protein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>BAF74670.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MNFLRKMVKNCRDEDTQKPSLISAPPDDDDLWLPPPEYVPLKELTGKKNMRNFCINGEVKVCSPNGYSFRILRHILRSFNELYSGNQRMIGLVKVVVGLALSGAPVPEGMNWVYKLRRTLIFQWADSRGPLEGEELEYSQEITWDDDAEFVGLEIRVSARQCHIQGRIWCINMNSRACQLWSDLSLQTQRSDEDKDSSVLLE</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atgaacttcctacgcaagatggtgaagaactgtagagatgaggacacccagaagccctctctcatatcagctcctccagatgacgatgatctatggttaccccccccggaatatgttccgttgaaggagctcacgggcaaaaagaacatgagaaatttctgcatcaatggggaagtcaaagtgtgtagtccaaacggctactcatttaggatcttgcggcacattttgagatcattcaatgagctctattctggaaatcaaagaatgattgggctagtcaaggttgttgttggattggcgttgtcaggggccccagttcctgagggtatgaactgggtatacaaattgaggagaaccctaattttccaatgggctgattccagaggccctctagaaggggaggaattggaatattctcaggagattacctgggatgatgatgcggagtttgtcggattggaaataagagtgagtgcaagacaatgccatattcaaggcaggatttggtgtattaacatgaactctcgagcatgtcagctatggtctgacctatccctccagactcaaaggtctgatgaggataaggattcttcagtgcttctggaatag</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>DQ129678</GBSeq_locus>
+  <GBSeq_length>1059</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>25-JUL-2005</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus (strain Ontario fox) isolate 93RABN02565 glycoprotein (G) gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>DQ129678</GBSeq_primary-accession>
+  <GBSeq_accession-version>DQ129678.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|DQ129678.1|</GBSeqid>
+    <GBSeqid>gi|70995005</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies virus Ontario fox</GBSeq_source>
+  <GBSeq_organism>Rabies virus Ontario fox</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1059</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Real,L.A.</GBAuthor>
+        <GBAuthor>Henderson,J.C.</GBAuthor>
+        <GBAuthor>Biek,R.</GBAuthor>
+        <GBAuthor>Snaman,J.</GBAuthor>
+        <GBAuthor>Jack,T.L.</GBAuthor>
+        <GBAuthor>Childs,J.E.</GBAuthor>
+        <GBAuthor>Stahl,E.</GBAuthor>
+        <GBAuthor>Waller,L.</GBAuthor>
+        <GBAuthor>Tinline,R.</GBAuthor>
+        <GBAuthor>Nadin-Davis,S.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Unifying the spatial population dynamics and molecular evolution of epidemic rabies virus</GBReference_title>
+      <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 102 (34), 12107-12111 (2005)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1073/pnas.0500057102</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>16103358</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1059</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Henderson,J.C.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (14-JUL-2005) Department of Biology, Center for Disease Ecology, Emory University, 1510 Clifton Road, Room 1100, Atlanta, GA 30322, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1059</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1059</GBInterval_to>
+          <GBInterval_accession>DQ129678.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies virus Ontario fox</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>Ontario Fox</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>93RABN02565</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>red fox</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:37132</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>tissue_type</GBQualifier_name>
+          <GBQualifier_value>brain</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Canada: Ontario</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>type</GBQualifier_name>
+          <GBQualifier_value>Ontario G type 3</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;1059</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1059</GBInterval_to>
+          <GBInterval_accession>DQ129678.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;1059</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1059</GBInterval_to>
+          <GBInterval_accession>DQ129678.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>G</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAZ17376.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>SRVFPSGKCLGITISSTYCSTNHDYTIWMPENLRLGTSCDIFTNSRGKRASKGSKTCGFVDERGLYKSLKGACKLKLCGVLGLRLMDGTWVAMQTSDETKWCPPDQLVNLHDFRSDEIEHLVVEELVKKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLQQHMELLESSVIPLMHPLADPSTVFKDGDEAEDFVEVHLPDVHKQISGVDLGLPNWGKYVLIIAGVLIAMILTIFLMTCCGRGNRPKSIQHSLGGIGRKVSATSQSGKVISSWESYKSGGET</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>tcgagggtctttcctagcgggaagtgcttgggaataacaatatcatctacctactgctcgactaaccatgattacaccatctggatgcccgagaatctgagattagggacatcttgtgacatctttaccaatagtagagggaagagagcatccaaagggagcaagacttgcggatttgttgacgaaagaggcttgtataagtctttgaagggggcatgcaagctcaaattatgtggggttctgggacttagacttatggacggaacgtgggtcgcgatgcaaacatcggatgagaccaagtggtgtccccctgatcagttggtgaatctacacgactttcgctcggacgaaatcgaacatcttgtcgtggaggagttggtcaagaaaagagaggagtgtttggatgccctagagtccatcatgactaccaagtcggtgagttttagacgtctcagccacttgagaaaacttgtccctgggttcggaaaagcatacaccatattcaacaaaaccttgatggaagctgatgctcactacaagtcggtccggacctggaatgagatcatcccctcaaaggggtgtttgagagttggagggaggtgtcatccccatgtaaacggagtgttttttaacggcataatactgggccctgacggccatgttctaatcccagagatgcaatcatccctccttcagcagcatatggagttgttggaatcatcagttatccctctgatgcatcctttagcagacccgtctacagtcttcaaggacggtgatgaagcagaggattttgttgaggttcaccttcccgatgtgcacaaacaaatctcaggggttgacctgggtctccccaactggggaaagtatgtcctaataattgcaggggtcctgattgccatgatattgacaatcttcttgatgacatgttgtggaagaggtaatcgacccaagtccatacaacacagtcttggagggataggaaggaaggtgtcagccacttcccaaagcgggaaggtcatatcttcgtgggagtcatataaaagcgggggtgagacc</GBSeq_sequence>
+</GBSeq>

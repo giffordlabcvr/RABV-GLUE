@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>HM368140</GBSeq_locus>
+  <GBSeq_length>405</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>13-MAY-2011</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate G68n_2008 from Ghana nucleoprotein (N) gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>HM368140</GBSeq_primary-accession>
+  <GBSeq_accession-version>HM368140.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|HM368140.1|</GBSeqid>
+    <GBSeqid>gi|307141109</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..405</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Hayman,D.T.</GBAuthor>
+        <GBAuthor>Johnson,N.</GBAuthor>
+        <GBAuthor>Horton,D.L.</GBAuthor>
+        <GBAuthor>Hedge,J.</GBAuthor>
+        <GBAuthor>Wakeley,P.R.</GBAuthor>
+        <GBAuthor>Banyard,A.C.</GBAuthor>
+        <GBAuthor>Zhang,S.</GBAuthor>
+        <GBAuthor>Alhassan,A.</GBAuthor>
+        <GBAuthor>Fooks,A.R.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Evolutionary history of rabies in ghana</GBReference_title>
+      <GBReference_journal>PLoS Negl Trop Dis 5 (4), E1001 (2011)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1371/journal.pntd.0001001</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>21483707</GBReference_pubmed>
+      <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..405</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Hayman,D.T.S.</GBAuthor>
+        <GBAuthor>Johnson,N.</GBAuthor>
+        <GBAuthor>Wakeley,P.</GBAuthor>
+        <GBAuthor>Alhassan,A.</GBAuthor>
+        <GBAuthor>Horton,D.L.</GBAuthor>
+        <GBAuthor>Banyard,A.C.</GBAuthor>
+        <GBAuthor>Zhang,S.</GBAuthor>
+        <GBAuthor>Fooks,A.R.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (28-MAY-2010) Rabies and Wildlife Zoonoses Group, Veterinary Laboratories Agency, Woodham Lane, Addlestone, Surrey KT15 3NB, UK</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..405</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>405</GBInterval_to>
+          <GBInterval_accession>HM368140.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>G68n_2008</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Canis familiaris</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Ghana</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>Mar-2008</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..&gt;405</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>405</GBInterval_to>
+          <GBInterval_accession>HM368140.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;405</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>405</GBInterval_to>
+          <GBInterval_accession>HM368140.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ADN34353.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQLFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtttccttgaagccagagattatcgtggatcaatatgagtacaaataccctgctatcaaagacttgaagaagcccagtataaccttagggaaagcccccgatttaaacaaagcatacaagtcagtcttatcaggcatgaatgctgccaagcttgatcctgatgatgtatgttcctatttggcagctgcaatgcaactctttgaagggacatgtcctgaagactggaccagctatggaatcttaattgcaagaaagggagacaagatcaccccagattctcttgtggagatcaagcgcacggatgtggaaggaaactgggctctgacaggaggtatggaactgacgagagaccccacggtttct</GBSeq_sequence>
+</GBSeq>

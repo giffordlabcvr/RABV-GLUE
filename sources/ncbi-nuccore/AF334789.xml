@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AF334789</GBSeq_locus>
+  <GBSeq_length>1589</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>27-FEB-2001</GBSeq_update-date>
+  <GBSeq_create-date>22-FEB-2001</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus glyoprotein gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>AF334789</GBSeq_primary-accession>
+  <GBSeq_accession-version>AF334789.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|AF334789.1|</GBSeqid>
+    <GBSeqid>gi|13095567</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1589</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Jayakumar,R.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (10-JAN-2001) Rabies Unit, Dept. of Animal Biotechnology, Madras Veterinary College, Tamil Nadu Veterinary and Animal Sciences University, Dept. of Animal Biotechnology, Vepery High Rd., Madras Veterinary College, Chennai, Tamil Nadu 600 007, India</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1589</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1589</GBInterval_to>
+          <GBInterval_accession>AF334789.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>India</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>Indian street virus isolate</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>7..1458</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>7</GBInterval_from>
+          <GBInterval_to>1458</GBInterval_to>
+          <GBInterval_accession>AF334789.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glyoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAK12336.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MVPQALLFVPLLVFPLCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCTNLSGFSYMELKVGYISAIKMNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAYNWKMAGDPRYEESLHNPYPDYHWLRTVKTTKESLVIISPSVADLDPYDRSLHSRVFPGGNCSGVAVSSTYCSTNHDYTIWMPENPRLGMSCDIFTNSRGKRASKGSETCGFVDERGLYKSLKGACKLKLCGVPGLRLMDGTWVAIQTSDETKWCPPDQLVNLHDFRSDEIEHLVVEELVKKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEIIPSKGCLRVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLQQHMELLESSVIPLMHPLADPSTVFKDGDEAEDFVEVLLPDVHKLISGVDLGLPSWGKYVLMSAGVLTVLMLMIFLMTCCRKS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>ggatccatggttcctcaggctctcctgtttgtaccccttctggtttttccattgtgttttgggaaattccctatttacacgataccagacaagcttggtccctggagcccgattgacatacatcacctcagctgcccaaacaatttggtagtggaggacgaaggatgcaccaacctgtcagggttctcctacatggaacttaaagttggatacatctcagccataaaaatgaacgggttcacttgcacaggcgttgtgacggaggctgaaacctacactaacttcgttggttatgtcacaaccacgttcaaaagaaagcatttccgcccaacaccagatgcatgtagagccgcgtacaactggaagatggccggtgaccccagatatgaagagtctctacacaatccgtaccctgactaccactggcttcgaactgtaaaaaccaccaaggagtctctcgttatcatatctccaagtgtggcagatttggacccatatgacagatcccttcactcgagggtcttccctggcgggaattgctcaggagtagcggtgtcttctacctactgctccactaaccacgattacaccatttggatgcccgagaatccgagactagggatgtcttgtgacatttttaccaatagtagagggaagagagcatccaaagggagtgagacttgcggctttgtagatgaaagaggcctgtataagtcgctaaaaggggcttgcaaactcaaattgtgtggggtgcccggactcagactcatggacggaacgtgggtcgcaattcagacgtcagatgagaccaaatggtgcccccctgatcagttagtaaatctacatgactttcgctcagatgaaatcgaacatctcgtcgtggaagaactagtcaagaaaagagaagagtgcctagatgcactggagtctatcatgaccaccaagtccgtaagtttcagacgtctcagtcacctgaggaaactcgtccctgggttcgggaaagcatatactatattcaacaaaaccttgatggaggctgatgctcattacaagtcagtccggacttggaacgagatcatcccctcaaaagggtgtctaagagtcggaggaagatgtcatcctcacgtgaatggggtattttttaatggcataatattgggccctgatggccatgttctgatcccggagatgcagtcatccctcctccaacaacacatggagttgttggaatcctcagtcatccccttaatgcatccattagcagacccgtcaacagttttcaaggatggtgatgaggcagaagattttgttgaggtcctccttccggatgtgcacaaactgatctcaggggttgatctcggtcttcccagctgggggaagtatgtgttaatgagtgcaggtgttctaacagtactgatgttgatgattttcttgatgacgtgttgcaggaagagttaatcaagcagggtcacaaacaacagtgggcccgaggggatggggaggaaagtgtctgtcacctcccagaacgggaaggtcatatcttcctgggagtcatataaaaacgggggcgagaccagactgtgaggtac</GBSeq_sequence>
+</GBSeq>

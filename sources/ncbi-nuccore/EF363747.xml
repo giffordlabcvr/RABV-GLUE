@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>EF363747</GBSeq_locus>
+  <GBSeq_length>1376</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>12-FEB-2007</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus strain IP3072Portel_Para/2004 nucleoprotein (N) gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>EF363747</GBSeq_primary-accession>
+  <GBSeq_accession-version>EF363747.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|EF363747.1|</GBSeqid>
+    <GBSeqid>gi|124579900</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1376</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Castilho,J.G.</GBAuthor>
+        <GBAuthor>Carnieli,P. Jr.</GBAuthor>
+        <GBAuthor>Durymanova,E.A.</GBAuthor>
+        <GBAuthor>Fahl,W.O.</GBAuthor>
+        <GBAuthor>Oliveira,R.D.</GBAuthor>
+        <GBAuthor>Macedo,C.I.</GBAuthor>
+        <GBAuthor>Travassos da Rosa,E.S.</GBAuthor>
+        <GBAuthor>Mantilla,A.</GBAuthor>
+        <GBAuthor>Carrieri,M.L.</GBAuthor>
+        <GBAuthor>Kotait,I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Human rabies transmitted by vampire bats: Antigenic and genetic characterization of rabies virus isolates from the Amazon region (Brazil and Ecuador)</GBReference_title>
+      <GBReference_journal>Virus Res. 153 (1), 100-105 (2010)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1016/j.virusres.2010.07.012</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>20637811</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1376</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Castilho,J.G.</GBAuthor>
+        <GBAuthor>Carnieli,P. Jr.</GBAuthor>
+        <GBAuthor>Oliveira,R.N.</GBAuthor>
+        <GBAuthor>Macedo,C.I.</GBAuthor>
+        <GBAuthor>Durymanova,E.</GBAuthor>
+        <GBAuthor>Fahl,W.O.</GBAuthor>
+        <GBAuthor>da Rosa,E.T.</GBAuthor>
+        <GBAuthor>Carrieri,M.L.</GBAuthor>
+        <GBAuthor>Kotait,I.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (16-JAN-2007) Diagnostic, Instituto Pasteur, Av. Paulista, 393, Sao Paulo 01311-000, Brazil</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1376</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1376</GBInterval_to>
+          <GBInterval_accession>EF363747.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>IP3072Portel_Para/2004</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Homo sapiens</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>&lt;1..1319</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1319</GBInterval_to>
+          <GBInterval_accession>EF363747.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..1319</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1319</GBInterval_to>
+          <GBInterval_accession>EF363747.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>3</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ABN14121.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>QVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLNKAYKSILSGMNAAKLDPDDVCSYLAAAMQFFEGSCPEDWTSYGILIARKGDKITPDSLVDIKRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFAKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREALLYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIATCAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKAETALADDGTVNSDDEDYFSSETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQTRPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atcaggtggtctctctgaagcctgaaattattgtggaccaatatgagtacaagtacccggccatcaaagacctgaagaagcccagtataaccttaggaaaagctcctgatttgaataaagcatacaaatcaattttgtctggcatgaacgcagccaaactcgaccctgatgatgtatgctcttatctggctgccgcaatgcagttctttgagggatcatgtcctgaggactggactagctatggaatcctgatagctcggaagggagataagatcaccccggattctcttgtggacataaaacgtaccgatgtggaagggaattgggctctaacagggggcatggagttgacaagggaccctactgtttcagagcatgcatctctggttggccttctcttgagtttatataggttgagcaaaatctctggacagaataccggcaattacaagacaaacatcgcggatagaatagagcagattttcgagacagccccctttgcaaagattgtagaacatcatactttgatgactacccacaaaatgtgtgctaactggagtaccataccaaatttcagattcttggctggaacttatgacatgtttttctcccggattgaacatttgtattcagctattagagtaggcacagttgtcactgcttatgaagactgctcaggactggtgtcatttacagggtttataaagcagataaatctcactgctagagaagcactattgtacttcttccacaagaactttgaggaagaaataagaagaatgtttgagcctgggcaagagactgctgttcctcattcttattttattcattttcgttcattgggcttgagtgggaaatctccttactcatccaatgcagttggtcatgtattcaacctcattcactttgttggatgttatatgggtcaggtgagatctttgaatgcaacagtgattgcaacttgtgccccgcatgagatgtctgttcttgggggctatttgggggaggagttttttggaaaaggaacttttgaaaggagattcttcagagacgagaaggaacttcaggaatatgaggcagctgaattgacaaaagctgaaacagccctggcagatgacggaacagtcaattctgacgatgaggactacttctccagtgaaaccaggagtccagaagcagtttatacacgaatcatgatgaatggaggtcgactaaagagatcacacataaggaggtatgtctcagtcagctctaatcatcaaactcgccctaactcgtttgctgagtttttaaacaaaacatactcgagtgactcgtgaggagttgaacaacaagattgtaaacaccaacgagatgtatacatctctcatgaaaaa</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>LC057612</GBSeq_locus>
+  <GBSeq_length>643</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>05-MAR-2016</GBSeq_update-date>
+  <GBSeq_create-date>05-MAR-2016</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus viral cRNA, G-L intergenic region, partial sequence, strain: BRbv1309</GBSeq_definition>
+  <GBSeq_primary-accession>LC057612</GBSeq_primary-accession>
+  <GBSeq_accession-version>LC057612.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>dbj|LC057612.1|</GBSeqid>
+    <GBSeqid>gi|1003403030</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>Itou,T.</GBAuthor>
+        <GBAuthor>Fukayama,T.</GBAuthor>
+        <GBAuthor>Mochizuki,N.</GBAuthor>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Deberaldini,E.R.</GBAuthor>
+        <GBAuthor>Carvalho,A.A.</GBAuthor>
+        <GBAuthor>Ito,F.H.</GBAuthor>
+        <GBAuthor>Sakai,T.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular epidemiological tracing of a cattle rabies outbreak lasting less than a month in Rio Grande do Sul in southern Brazil</GBReference_title>
+      <GBReference_journal>BMC Res Notes 9 (1), 87 (2016)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1186/s13104-016-1898-5</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>26868014</GBReference_pubmed>
+      <GBReference_remark>DOI:10.1186/s13104-016-1898-5; Publication Status: Online-Only</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..643</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Kobayashi,Y.</GBAuthor>
+        <GBAuthor>Ituo,T.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (01-JUN-2015) Contact:Yuki Kobayashi Nihon University, Veterinary Research Center; 1866 Kameino, Fujisawa, Kanagawa 252-0880, Japan</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..643</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>643</GBInterval_to>
+          <GBInterval_accession>LC057612.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>BRbv1309</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Bos taurus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil:Rio Grande do Sul</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2009</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>misc_feature</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;643</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>643</GBInterval_to>
+          <GBInterval_accession>LC057612.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>G-L intergenic region</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>acatcttgcgatcagaagactgcctacctttgagatctgggggactctctcatcttgaaggcccttcacatacttcatgtaacaaaataaattcaagagtcagaaaacattcattggccatctcagctgatcaaaaacagtcatgtagatttttatgatgtatgatgtattttgacagtgtcattgactaatggtgctctcatccctcaaggattgataccaaaggtgggggacagaccaactgccatctcaaacaactctatgattgagtccaagcagaggccatcgcgagttccactgcattagaccaggtagagactagttgagaaagacgatttgcctcctatgaaggacacaagcaataggtcataatcatcttacatcctgataaggtgcacataacgacaaatggatgaaccatccaagcctttcagtcaagaaaaaaactgtgaaatgtaggggcaatcagcaacacttctcatcccaagaactgcaccatgatgattgatccgggagaggttttcgacgaccccatcgatccgatcgagtcggaagccgagtcgagagggaaccccaccatccccaacatcttaagaaactctgactacaacctcaactctcccctgatagaagactctgccaa</GBSeq_sequence>
+</GBSeq>

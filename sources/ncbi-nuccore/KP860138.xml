@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KP860138</GBSeq_locus>
+  <GBSeq_length>1353</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>13-JAN-2016</GBSeq_update-date>
+  <GBSeq_create-date>13-JAN-2016</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus strain Cy2263 nucleoprotein gene, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>KP860138</GBSeq_primary-accession>
+  <GBSeq_accession-version>KP860138.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KP860138.1|</GBSeqid>
+    <GBSeqid>gi|972920303</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Tsai,K.J.</GBAuthor>
+        <GBAuthor>Hsu,W.C.</GBAuthor>
+        <GBAuthor>Chuang,W.C.</GBAuthor>
+        <GBAuthor>Chang,J.C.</GBAuthor>
+        <GBAuthor>Tu,Y.C.</GBAuthor>
+        <GBAuthor>Tsai,H.J.</GBAuthor>
+        <GBAuthor>Liu,H.F.</GBAuthor>
+        <GBAuthor>Wang,F.I.</GBAuthor>
+        <GBAuthor>Lee,S.H.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Emergence of a sylvatic enzootic formosan ferret badger-associated rabies in Taiwan and the geographical separation of two phylogenetic groups of rabies viruses</GBReference_title>
+      <GBReference_journal>Vet. Microbiol. 182, 28-34 (2016)</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1016/j.vetmic.2015.10.030</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>26711025</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1353</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Tsai,K.-J.</GBAuthor>
+        <GBAuthor>Hsu,W.-C.</GBAuthor>
+        <GBAuthor>Chuang,W.-C.</GBAuthor>
+        <GBAuthor>Chang,J.-C.</GBAuthor>
+        <GBAuthor>Tu,Y.-C.</GBAuthor>
+        <GBAuthor>Lee,S.-H.</GBAuthor>
+        <GBAuthor>Tsai,H.-J.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (25-FEB-2015) Animal Health Research Institute, Council of Agriculture, Executive Yuan, 376 Chung-Cheng Rd, Tamsui District, New Taipei City 25158, Taiwan R.O.C.</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KP860138.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>Cy2263</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>ferret badger</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Taiwan: Chiayi</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>Aug-2013</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..1353</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1353</GBInterval_to>
+          <GBInterval_accession>KP860138.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ALW83521.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADRIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPSITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWISYGILIAKKGDKITPDSLVDIRRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFIKIVEHHTLMTTHKMCANWSTIPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREALLYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAESTKTDVALADDGTVDSDDEDYFSGETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLSKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaggattgtatttaaagtcaataatcaagtggtctccttgaagcccgagatcattgtagatcaatatgaatacaaatatccggccatcaaagatttgaagaaaccgagtatcaccctagggaaggcccccgatttgaacaaagcgtacaagtcagtcctatctggcatgaatgctgccaagcttgatccggatgatgtgtgctcctacttagcagctgcaatgcaattttttgaagggacatgccctgaagactggatcagctatgggatcttgatcgcgaagaaaggggacaagattacccccgattccctcgtagatataagacgtactgacgtcgaagggaattgggccctgacgggaggtatggagttgacgagagaccccactgtttctgagcatgcgtccttagttggtcttctcttgagtctgtataggttgagcaaaatatcaggacaaaacaccggcaactacaagacaaacattgcagataggatagaacagatttttgagaccgcccctttcatcaagatcgtagaacaccatactctgatgacaactcacaagatgtgtgctaactggagtaccataccgaacttcagattcttggctggaacttacgacatgtttttctccaggattgagcatctgtattcagctattagagtaggtacagttgtcactgcctatgaagactgctcggggctagtatcatttacagggttcataaagcagataaatctcactgcaagagaggcattactatatttcttccacaagaatttcgaggaagagataagaagaatgttcgagcctgggcaagagaccgctgttcctcattcctatttcattcacttccggtcattgggcctgagtggaaagtcaccgtattcatcaaacgcagtgggtcatgtgttcaacctcatccactttgttggatgctatatgggtcaagtcagatctctcaatgccacagttattgccgcctgtgccccccatgagatgtctgttctgggaggctatttgggagaagagttttttggaaagggaacgtttgaaagaagattcttcagagatgagaaagaacttcaagagtatgaggcagctgagtcgactaaaactgatgtggcattggcagacgacggaactgttgactctgacgatgaagactacttttccggtgagaccaggagtcctgaagctgtctatacgcgaatcatgatgaacggaggtcgactaaagagatcacacataaggagatatgtttccgtcagttccaatcatcaagcacgtccaaactcctttgccgagtttttaagcaagacgtactctagtgactcgtga</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AF085333</GBSeq_locus>
+  <GBSeq_length>1572</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>01-SEP-1998</GBSeq_update-date>
+  <GBSeq_create-date>08-SEP-1998</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus glycoprotein mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>AF085333</GBSeq_primary-accession>
+  <GBSeq_accession-version>AF085333.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|AF085333.1|</GBSeqid>
+    <GBSeqid>gi|3550360</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1572</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Smith,J.S.</GBAuthor>
+        <GBAuthor>Yager,P.A.</GBAuthor>
+        <GBAuthor>Baer,G.M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>A rapid reproducible test for determining rabies neutralizing antibody</GBReference_title>
+      <GBReference_journal>Bull. World Health Organ. 48 (5), 535-541 (1973)</GBReference_journal>
+      <GBReference_pubmed>4544144</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1572</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Briggs,D.J.</GBAuthor>
+        <GBAuthor>Smith,J.S.</GBAuthor>
+        <GBAuthor>Mueller,F.L.</GBAuthor>
+        <GBAuthor>Schwenke,J.</GBAuthor>
+        <GBAuthor>Davis,R.D.</GBAuthor>
+        <GBAuthor>Gordon,C.R.</GBAuthor>
+        <GBAuthor>Schwitzer,K.</GBAuthor>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+        <GBAuthor>Yager,P.A.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>A comparison of two serological methods for detecting the immune response after rabies vaccination in dogs and cats being exported to rabies-free areas</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>3</GBReference_reference>
+      <GBReference_position>1..1572</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (19-AUG-1998) DVRD/VRZB/Rabies, Centers for Disease Control and Prevention, 1600 Clifton Rd, Atlanta, GA 30333, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1572</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1572</GBInterval_to>
+          <GBInterval_accession>AF085333.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>CVS-11 (RFFIT)</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;1572</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1572</GBInterval_to>
+          <GBInterval_accession>AF085333.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAC34683.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MVPQVLLFVPLLGFSLCFGKFPIYTIPDKLGPWSPIDIHHLSCPNNLVVEDEGCTNLSEFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPTPDACRAAYNWKMAGDPRYEESLHNPYPDYHWLRTVRTTKESLIIISPSVTDLDPYDKSLHSRVFPGGKCSGITVSSTYCSTNHDYTIWMPENPRPRTPCDIFTNSRGKRASKGNKTCGFVDERGLYKSLKGACRLKLCGVLGLRLMDGTWVAMQTSDETKWCPPDQLVNLHDFRSDEIEHLVVEELVKKREECLDALESIMTTKSVSFRRLSHLRKLVPGFGKAYTIFNKTLMEADAHYKSVRTWNEIIPSKGCLKVGGRCHPHVNGVFFNGIILGPDGHVLIPEMQSSLLQQHMELLKSSVIPLMHPLADPSTVFKEGDEAEDFVEVHLPDVYKQISGVDLGLPNWGKYVLMTAGAMIGLVLIFSLMTWCRRANRPESKQRSFGGTGRNVSVTSQSGKVIPSWESYKSGGEIRL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggttcctcaggttcttttgtttgtaccccttctgggtttttcgttgtgtttcgggaagttccccatttacacgataccagacaaacttggtccctggagccctattgacatacaccatctcagctgtccaaataacctggttgtggaggatgaaggatgtaccaacctgtccgagttctcctacatggaactcaaagtgggatacatctcagccatcaaagtgaacgggttcacttgcacaggtgttgtgacagaggcagagacctacaccaactttgttggttatgtcacaaccacattcaagagaaagcatttccgccccaccccagacgcatgtagagccgcgtataactggaagatggccggtgaccccagatatgaagagtccctacacaatccataccccgactaccactggcttcgaactgtaagaaccaccaaagagtccctcattatcatatccccaagtgtgacagatttggacccatatgacaaatcccttcactcaagggtcttccctggcggaaagtgctcaggaataacggtgtcctctacctactgctcaactaaccatgattacaccatttggatgcccgagaatccgagaccaaggacaccttgtgacatttttaccaatagcagagggaagagagcatccaaagggaacaagacttgcggctttgtggatgaaagaggcctgtataagtctctaaaaggagcatgcaggctcaagttatgtggagttcttggacttagacttatggatggaacatgggtcgcgatgcaaacatcagatgagaccaaatggtgccctccagatcagttggtgaatttgcacgactttcgctcagacgagattgagcatctcgttgtggaggagttagtcaagaaaagagaggaatgtctggatgcattagagtccatcatgaccaccaagtcagtaagtttcagacgtctcagtcacctgagaaaacttgtcccagggtttggaaaagcatataccatattcaacaaaaccttgatggaggctgatgctcactacaagtcagtccggacctggaatgagatcatcccctcaaaagggtgtttgaaagttggaggaaggtgccatcctcatgtgaacggggtgtttttcaatggtataatattagggcctgacggccatgtcctaatcccagagatgcaatcatccctcctccagcaacatatggagttgttgaaatcttcagttatccccctgatgcaccccctggcagacccttctacagttttcaaagaaggtgatgaggctgaggattttgttgaagttcacctccccgatgtgtacaaacagatctcaggggttgacctgggtctcccgaactggggaaagtatgtattgatgactgcaggggccatgattggcctggtgttgatattttccctaatgacatggtgcagaagagccaatcgaccagaatcgaaacaacgcagttttggagggacagggaggaatgtgtcagtcacttcccaaagcggaaaagtcataccttcatgggaatcatataagagtggaggtgagatcagactg</GBSeq_sequence>
+</GBSeq>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>JN656483</GBSeq_locus>
+  <GBSeq_length>567</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>24-JUN-2012</GBSeq_update-date>
+  <GBSeq_create-date>24-JUN-2012</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate Rvu09-03 nucleoprotein gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>JN656483</GBSeq_primary-accession>
+  <GBSeq_accession-version>JN656483.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|JN656483.1|</GBSeqid>
+    <GBSeqid>gi|392057878</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..567</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Picard-Meyer,E.</GBAuthor>
+        <GBAuthor>Robardet,E.</GBAuthor>
+        <GBAuthor>Moroz,D.</GBAuthor>
+        <GBAuthor>Trotsenko,Z.</GBAuthor>
+        <GBAuthor>Drozhzhe,Z.</GBAuthor>
+        <GBAuthor>Biarnais,M.</GBAuthor>
+        <GBAuthor>Solodchuk,V.</GBAuthor>
+        <GBAuthor>Smreczak,M.</GBAuthor>
+        <GBAuthor>Cliquet,F.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular epidemiology of rabies in Ukraine</GBReference_title>
+      <GBReference_journal>Arch. Virol. (2012) In press</GBReference_journal>
+      <GBReference_xref>
+        <GBXref>
+          <GBXref_dbname>doi</GBXref_dbname>
+          <GBXref_id>10.1007/s00705-012-1351-6</GBXref_id>
+        </GBXref>
+      </GBReference_xref>
+      <GBReference_pubmed>22661376</GBReference_pubmed>
+      <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..567</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Picard-Meyer,E.</GBAuthor>
+        <GBAuthor>Smreczak,M.</GBAuthor>
+        <GBAuthor>Robardet,E.</GBAuthor>
+        <GBAuthor>Moroz,D.</GBAuthor>
+        <GBAuthor>Biarnais,M.</GBAuthor>
+        <GBAuthor>Bisiuk,I.</GBAuthor>
+        <GBAuthor>Solodchouck,V.</GBAuthor>
+        <GBAuthor>Cliquet,F.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (08-SEP-2011) Lyssavirus Unit, Anses Nancy, Technopole Agricole et Veterinaire, Bp 40009, Malzeville 54220, France</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..567</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>567</GBInterval_to>
+          <GBInterval_accession>JN656483.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>Rvu09-03</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>cat</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Ukraine</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2009</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;567</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>567</GBInterval_to>
+          <GBInterval_accession>JN656483.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AFM53263.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPCITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGTKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMT</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtcttcaaagtcaataatcaggtggtctctttgaagcctgagattatagtggatcaatatgagtacaagtaccctgctatcaaagatttgaaaaagccctgtataaccctagggaaagcccccgacttaaacaaagcatacaagtcagttttatcaggcatgaatgctgccaaactagatcctgatgatgtatgttcctacttggccgcagcaatgcagttctttgaggggacgtgtccggaagactggaccagctatggaatcttgattgcacgaaaaggaaccaagatcaccccggattctctggtggaaataaagcgtactgatgtggaaggaaattgggctctgacaggaggcatggaattgactagggaccccactgtctctgaacatgcgtctttggtcggtcttctcttgagtctgtataggttgagcaaaatatcaggacaaaacactggtaactataaaacaaacatcgcagataggatagagcagattttcgagaccgcccctttcgttaaaatcgtggagcatcatactctaatgaca</GBSeq_sequence>
+</GBSeq>

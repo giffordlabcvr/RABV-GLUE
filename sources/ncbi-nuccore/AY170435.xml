@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>AY170435</GBSeq_locus>
+  <GBSeq_length>805</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>31-MAR-2003</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate 4872 glycoprotein gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>AY170435</GBSeq_primary-accession>
+  <GBSeq_accession-version>AY170435.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|AY170435.1|</GBSeqid>
+    <GBSeqid>gi|29417279</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..805</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Leslie,M.J.</GBAuthor>
+        <GBAuthor>Messenger,S.</GBAuthor>
+        <GBAuthor>Rohde,R.E.</GBAuthor>
+        <GBAuthor>Smith,J.</GBAuthor>
+        <GBAuthor>Cheshier,R.</GBAuthor>
+        <GBAuthor>Hanlon,C.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Bat-associated rabies virus in Skunks</GBReference_title>
+      <GBReference_journal>Emerging Infect. Dis. 12 (8), 1274-1277 (2006)</GBReference_journal>
+      <GBReference_pubmed>16965714</GBReference_pubmed>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..805</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Smith,J.</GBAuthor>
+        <GBAuthor>Messenger,S.</GBAuthor>
+        <GBAuthor>Leslie,M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>An outbreak of bat-associated rabies in skunks, Flagstaff AZ, 2001</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>3</GBReference_reference>
+      <GBReference_position>1..805</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Smith,J.</GBAuthor>
+        <GBAuthor>Messenger,S.</GBAuthor>
+        <GBAuthor>Leslie,M.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (30-OCT-2002) Rabies Laboratory, Centers for Disease Control and Prevention, 1600 Clifton Rd., Atlanta, GA 30333, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..805</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>805</GBInterval_to>
+          <GBInterval_accession>AY170435.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>4872</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>Myotis sp.</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>USA: Arizona, Flagstaff</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>isolated in 1999</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..&gt;805</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>805</GBInterval_to>
+          <GBInterval_accession>AY170435.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>3</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>glycoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAO45284.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>DIHHLSCPNNLVVEDEGCTSLSGFSYMELKVGYISAIKVNGFTCTGVVTEAETYTNFVGYVTTTFKRKHFRPMPDACRAAYNWKVAGDPRYEESLQNPYPDYSWLRTVKTTKESLIIISPSVADLDPYDKSLHSRVFPGGKCLGITISSTYCSTNHDYTIWMPEEARLGTSCDIFTNSRGKRASKGGKTCGFVDERGLYKSLKGACKLKLCGVPGLRLMDGTWVTIQTSDETKWCPSDQLVNLHDFHSDEIEHLVVEELVKKREECL</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>ttgacatacatcatctcagctgtcccaacaatttggttgtggaggacgaggggtgcaccagtctgtcagggttttcttacatggaactgaaggtggggtacatctctgccataaaggtgaacgggttcacttgtactggtgtcgtgacagaggccgagacctacaccaactttgttggttatgtcaccaccacattcaagagaaaacactttcgccctatgccagatgcatgcagagctgcatacaattggaaggtggccggtgatcctagatatgaagaatctcttcaaaatccttatcctgactacagttggctacggaccgtaaagaccaccaaagagtctcttattattatatctccaagtgtagcggatttggacccatacgacaaatcccttcattcaagagttttccctggtgggaagtgtttgggaataacaatctcttctacctactgctcaaccaaccatgattacaccatctggatgcctgaagaagcaagactcgggacatcttgtgacatttttaccaacagcagagggaagagagcatccaaggggggcaagacctgcggattcgtggacgaaaggggcttgtacaagtctttaaaaggagcatgtaaacttaagctgtgcggagttcccggactcagacttatggatggaacctgggtcacaattcagacatcagatgagaccaaatggtgcccttctgatcaactggtaaatctacatgactttcactcagatgagatagaacatcttgtcgtggaggagttggtcaagaagagggaagaatgtctgta</GBSeq_sequence>
+</GBSeq>

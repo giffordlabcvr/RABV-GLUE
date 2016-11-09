@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>FJ228523</GBSeq_locus>
+  <GBSeq_length>1350</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>cRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+  <GBSeq_create-date>08-MAR-2009</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus isolate 175Mxyucdg98 nucleoprotein (N) gene, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>FJ228523</GBSeq_primary-accession>
+  <GBSeq_accession-version>FJ228523.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|FJ228523.1|</GBSeqid>
+    <GBSeqid>gi|224487280</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..1350</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Velasco-Villa,A.</GBAuthor>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Elimination of enzootic dog rabies in the United States and its re-emergence in wild terrestrial carnivores</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..1350</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Velasco-Villa,A.</GBAuthor>
+        <GBAuthor>Orciari,L.A.</GBAuthor>
+        <GBAuthor>Rupprecht,C.E.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (22-SEP-2008) Nczved/Dvrd/Prb/Rabies Section, Centers for Disease Control and Prevention, 1600 Clifton Rd. NE Gs33, Atlanta, GA 30333, USA</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1350</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1350</GBInterval_to>
+          <GBInterval_accession>FJ228523.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>viral cRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolate</GBQualifier_name>
+          <GBQualifier_value>175Mxyucdg98</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>isolation_source</GBQualifier_name>
+          <GBQualifier_value>brain tissue naturally infected with rabies virus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>ecotype</GBQualifier_name>
+          <GBQualifier_value>Yucatan dog</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Mexico: Yucatan</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>1998</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>genotype</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>reservoir host is dog</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>gene</GBFeature_key>
+      <GBFeature_location>1..&gt;1350</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1350</GBInterval_to>
+          <GBInterval_accession>FJ228523.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>1..&gt;1350</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1350</GBInterval_to>
+          <GBInterval_accession>FJ228523.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial3 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>gene</GBQualifier_name>
+          <GBQualifier_value>N</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>ribonucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>ACN51702.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MDADKIVFKVNNQVVSLKPEIIVDQYEYKYPAIKDLKKPCITLGKAPDLNKAYKSVLSGMNAAKLDPDDVCSYLAAAMQFFEGTCPEDWTSYGILIARKGDKITPDSLVEIKRTDVEGNWALTGGMELTRDPTVSEHASLVGLLLSLYRLSKISGQNTGNYKTNIADRIEQIFETAPFVKIVEHHTLMTTHQMCANWSTLPNFRFLAGTYDMFFSRIEHLYSAIRVGTVVTAYEDCSGLVSFTGFIKQINLTAREAILYFFHKNFEEEIRRMFEPGQETAVPHSYFIHFRSLGLSGKSPYSSNAVGHVFNLIHFVGCYMGQVRSLNATVIAACAPHEMSVLGGYLGEEFFGKGTFERRFFRDEKELQEYEAAELTKTDVALADDGTVNSDDEDYFSGETRSPEAVYTRIMMNGGRLKRSHIRRYVSVSSNHQARPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggatgccgacaagattgtattcaaagtcaataatcaggtggtctctttgaagcctgagattatcgtggaccaatatgagtacaagtaccctgctatcaaagatttgaaaaagccctgtataaccctagggaaagcccccgacttaaacaaagcatacaagtcagttttatcaggcatgaatgctgctaaacttgatcccgatgatgtatgctcctacttggcagcagcaatgcagttctttgaggggacatgtccagaagactggaccagctatggaatcctgattgcacgaaaaggagacaagatcactccagactctctagtggagataaaacgtactgatgtagaagggaactgggctctgacaggaggcatggaactgacaagggaccccactgtctccgagcatgcatctttagttggtctcctcttgagtctatacaggctgagcaagatatcaggacaaaacactggtaactataagacaaacattgcagataggatagagcagattttcgagacagccccttttgttaagatcgtggagcatcataccctaatgacaactcaccaaatgtgtgctaattggagtactctaccaaacttcagatttttggccggaacctacgacatgtttttctcacgaattgagcacctgtattcagcgatcagagtgggcacagttgtcactgcttatgaggactgctccgggttggtatcgtttacagggttcataaaacagatcaatctcaccgcaagagaagcaatattatatttcttccacaagaactttgaggaagagataagaaggatgttcgagccagggcaggagacagctgtccctcactcttatttcattcatttccgttcgctaggcttgagtgggaagtctccttattcatcaaatgccgttggtcatgtgttcaatctcattcactttgtcggatgttatatgggtcaagtcagatctctaaatgctacggttattgctgcatgtgctcctcatgagatgtctgttctaggaggttatttgggagaggaattcttcgggaaaggaacatttgaaagaagattcttcagagatgagaaagaacttcaagaatatgaggcggctgaactgacgaagactgatgtagccctggcagatgatggaactgtcaactccgacgacgaggactatttctccggtgaaacaagaagtccagaagctgtctatactcgaatcatgatgaatggaggtcgactgaagagatcgcatatacggagatatgtctcagtcagttccaatcatcaagcccgtccaaactcattcgcagagttcctaaacaagacatattcgagtgactca</GBSeq_sequence>
+</GBSeq>

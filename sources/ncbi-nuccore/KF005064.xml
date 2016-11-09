@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>KF005064</GBSeq_locus>
+  <GBSeq_length>163</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>mRNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>18-AUG-2013</GBSeq_update-date>
+  <GBSeq_create-date>18-AUG-2013</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus strain VPSUSP184_Mae_do_Rio_Para nucleoprotein mRNA, partial cds</GBSeq_definition>
+  <GBSeq_primary-accession>KF005064</GBSeq_primary-accession>
+  <GBSeq_accession-version>KF005064.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|KF005064.1|</GBSeqid>
+    <GBSeqid>gi|530452895</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..163</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Peixoto,H.C.</GBAuthor>
+        <GBAuthor>Estevez,A.I.</GBAuthor>
+        <GBAuthor>Silva,S.S.</GBAuthor>
+        <GBAuthor>Ramos,O.S.</GBAuthor>
+        <GBAuthor>Silva,L.P.</GBAuthor>
+        <GBAuthor>Brandao,P.E.</GBAuthor>
+        <GBAuthor>Richtzenhain,L.J.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Molecular epidemiology of rabies virus isolated herbivores from Brazilian Amazon</GBReference_title>
+      <GBReference_journal>Unpublished</GBReference_journal>
+    </GBReference>
+    <GBReference>
+      <GBReference_reference>2</GBReference_reference>
+      <GBReference_position>1..163</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Peixoto,H.C.</GBAuthor>
+        <GBAuthor>Estevez,A.I.</GBAuthor>
+        <GBAuthor>Silva,S.S.</GBAuthor>
+        <GBAuthor>Ramos,O.S.</GBAuthor>
+        <GBAuthor>Silva,L.P.</GBAuthor>
+        <GBAuthor>Brandao,P.E.</GBAuthor>
+        <GBAuthor>Richtzenhain,L.J.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Direct Submission</GBReference_title>
+      <GBReference_journal>Submitted (02-MAY-2013) Faculdade de Medicina Veterinaria e Zootecnia, Universidade de Sao Paulo, Av. Prof. Dr. Orlando Marques de Paiva, numero 87, Sao Paulo 05508270, Brasil</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>##Assembly-Data-START## Sequencing Technology Sanger dideoxy sequencing ##Assembly-Data-END##</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..163</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>163</GBInterval_to>
+          <GBInterval_accession>KF005064.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>strain</GBQualifier_name>
+          <GBQualifier_value>VPSUSP184_Mae_do_Rio_Para</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>host</GBQualifier_name>
+          <GBQualifier_value>bovine</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>country</GBQualifier_name>
+          <GBQualifier_value>Brazil</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>collection_date</GBQualifier_name>
+          <GBQualifier_value>2007</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>PCR_primers</GBQualifier_name>
+          <GBQualifier_value>fwd_seq: tatactcgaatcatgatgaatggaggtcgact, rev_seq: ttgacgaagatcttgctcat</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>&lt;1..106</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>106</GBInterval_to>
+          <GBInterval_accession>KF005064.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_partial5 value="true"/>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>2</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>nucleoprotein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AGT29676.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>KRSHIRRYVSVSSNHQTRPNSFAEFLNKTYSSDS</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>aaaacgatcacatataaggaggtatgtctcagttagctctaatcatcaaactcgccctaactcgtttgcggagtttttaaacaaaacatactcgagtgactcgtgaggagttgaacaacaaaattgcaaacaccaatgagatgtatacatctctcatgaaaaa</GBSeq_sequence>
+</GBSeq>

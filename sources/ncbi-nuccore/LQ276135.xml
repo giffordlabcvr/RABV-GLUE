@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>LQ276135</GBSeq_locus>
+  <GBSeq_length>1572</GBSeq_length>
+  <GBSeq_strandedness>double</GBSeq_strandedness>
+  <GBSeq_moltype>DNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>PAT</GBSeq_division>
+  <GBSeq_update-date>05-OCT-2016</GBSeq_update-date>
+  <GBSeq_create-date>05-OCT-2016</GBSeq_create-date>
+  <GBSeq_definition>Sequence 2 from Patent WO2016073410</GBSeq_definition>
+  <GBSeq_primary-accession>LQ276135</GBSeq_primary-accession>
+  <GBSeq_accession-version>LQ276135.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>emb|LQ276135.1|</GBSeqid>
+    <GBSeqid>pat|WO|2016073410|2</GBSeqid>
+    <GBSeqid>gi|1073846049</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_authors>
+        <GBAuthor>CHIANG,Y.</GBAuthor>
+        <GBAuthor>PRAUSNITZ,M.R.</GBAuthor>
+        <GBAuthor>DEWITT,K.D.</GBAuthor>
+        <GBAuthor>ARYA,J.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>METHODS OF USING MICRONEEDLE VACCINE FORMULATIONS TO ELICIT IN ANIMALS PROTECTIVE IMMUNITY AGAINST RABIES VIRUS</GBReference_title>
+      <GBReference_journal>Patent: WO 2016073410-A1 2 12-MAY-2016; MERIAL INC [US], GEORGIA TECH RES INST [US]</GBReference_journal>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..1572</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>1572</GBInterval_to>
+          <GBInterval_accession>LQ276135.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>unassigned DNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>atggttcctcaagctctcctgtttgtaccccttctggtttttccgttgtgttttggaaaattccctatttacacaatcccagacaagcttggtccctggagcccgattgacatacatcacctcagctgcccaaacaatttggtagtggaggacgaaggatgcaccaacctgtcagggttctcctacatggaacttaaagttggatacatcttagccataaaaatgaacgggttcacttgcacaggcgttgtgacggaggctgaaacctacactaacttcgttggttatgtcacaaccacgttcaaaagaaagcatttccgcccaacaccagatgcatgtagagccgcgtacaactggaagatggccggtgaccccagatatgaagagtctctacacaatccgtaccctgactaccgctggcttcgaactgtaaaaaccaccaaggagtctctcgttatcatatctccaagtgtagcagatttggacccatatgacagatcccttcactcgagggtcttccctagcgggaagtgctcaggagtagcggtgtcttctacctactgctccactaaccacgattacaccatttggatgcccgagaatccgagactagggatgtcttgtgacatttttaccaatagtagagggaagagagcatccaaagggagtgagacttgcggctttgtagatgaaagaggcctatataagtctttaaaaggagcatgcaaactcaagttatgtggagttctaggacttagacttatggatggaacatgggtcgcgatgcaaacatcaaatgaaaccaaatggtgccctcccgatcagttggtgaacctgcacgactttcgctcagacgaaattgagcaccttgttgtagaggagttggtcaggaagagagaggagtgtctggatgcactagagtccatcatgacaaccaagtcagtgagtttcagacgtctcagtcatttaagaaaacttgtccctgggtttggaaaagcatataccatattcaacaagaccttgatggaagccgatgctcactacaagtcagtcagaacttggaatgagatcctcccttcaaaagggtgtttaagagttggggggaggtgtcatcctcatgtgaacggggtgtttttcaatggtataatattaggacctgacggcaatgtcttaatcccagagatgcaatcatccctcctccagcaacatatggagttgttggaatcctcggttatcccccttgtgcaccccctggcagacccgtctaccgttttcaaggacggtgacgaggctgaggattttgttgaagttcaccttcccgatgtgcacaatcaggtctcaggagttgacttgggtctcccgaactgggggaagtatgtattactgagtgcaggggccctgactgccttgatgttgataattttcctgatgacatgttgtagaagagtcaatcgatcagaacctacgcaacacaatctcagagggacagggagggaggtgtcagtcactccccaaagcgggaagatcatatcttcatgggaatcacacaagagtgggggtgagaccagactg</GBSeq_sequence>
+</GBSeq>

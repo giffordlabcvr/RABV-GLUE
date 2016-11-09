@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+  <GBSeq_locus>RAVMATRIX</GBSeq_locus>
+  <GBSeq_length>817</GBSeq_length>
+  <GBSeq_strandedness>single</GBSeq_strandedness>
+  <GBSeq_moltype>RNA</GBSeq_moltype>
+  <GBSeq_topology>linear</GBSeq_topology>
+  <GBSeq_division>VRL</GBSeq_division>
+  <GBSeq_update-date>15-JUN-1989</GBSeq_update-date>
+  <GBSeq_create-date>03-AUG-1993</GBSeq_create-date>
+  <GBSeq_definition>Rabies virus matrix (M) protein mRNA, complete cds</GBSeq_definition>
+  <GBSeq_primary-accession>M22013</GBSeq_primary-accession>
+  <GBSeq_accession-version>M22013.1</GBSeq_accession-version>
+  <GBSeq_other-seqids>
+    <GBSeqid>gb|M22013.1|RAVMATRIX</GBSeqid>
+    <GBSeqid>gi|333583</GBSeqid>
+  </GBSeq_other-seqids>
+  <GBSeq_keywords>
+    <GBKeyword>matrix protein</GBKeyword>
+  </GBSeq_keywords>
+  <GBSeq_source>Rabies lyssavirus</GBSeq_source>
+  <GBSeq_organism>Rabies lyssavirus</GBSeq_organism>
+  <GBSeq_taxonomy>Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae; Lyssavirus</GBSeq_taxonomy>
+  <GBSeq_references>
+    <GBReference>
+      <GBReference_reference>1</GBReference_reference>
+      <GBReference_position>1..817</GBReference_position>
+      <GBReference_authors>
+        <GBAuthor>Rayssiguier,C.</GBAuthor>
+        <GBAuthor>Cioe,L.</GBAuthor>
+        <GBAuthor>Withers,E.</GBAuthor>
+        <GBAuthor>Wunner,W.H.</GBAuthor>
+        <GBAuthor>Curtis,P.J.</GBAuthor>
+      </GBReference_authors>
+      <GBReference_title>Cloning of rabies virus matrix protein mRNA and determination of its amino acid sequence</GBReference_title>
+      <GBReference_journal>Virus Res. 5 (2-3), 177-190 (1986)</GBReference_journal>
+      <GBReference_pubmed>3765822</GBReference_pubmed>
+    </GBReference>
+  </GBSeq_references>
+  <GBSeq_comment>Original source text: Rabies virus (ERA strain) (passed in BHK/S13 cells), cDNA to viral RNA.</GBSeq_comment>
+  <GBSeq_feature-table>
+    <GBFeature>
+      <GBFeature_key>source</GBFeature_key>
+      <GBFeature_location>1..817</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>817</GBInterval_to>
+          <GBInterval_accession>M22013.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>organism</GBQualifier_name>
+          <GBQualifier_value>Rabies lyssavirus</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>mol_type</GBQualifier_name>
+          <GBQualifier_value>genomic RNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>db_xref</GBQualifier_name>
+          <GBQualifier_value>taxon:11292</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>mRNA</GBFeature_key>
+      <GBFeature_location>1..817</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>1</GBInterval_from>
+          <GBInterval_to>817</GBInterval_to>
+          <GBInterval_accession>M22013.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>product</GBQualifier_name>
+          <GBQualifier_value>matrix protein mRNA</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transcription</GBQualifier_name>
+          <GBQualifier_value>AACCACATTTTCATAGGCTTCTTCACAGGTAGATTCACTTCTGTTCACGGTGAAGACAGAGGCAAAGGCCATCCATTCAGGCAACTGACTTGTCTGCGTTCTTCTGTCTTTTTACAATCTCTGCTGTTTCCAGCCTTGTGGCCACAAATCCTGCAAAGCCTGCATCGAACACCACTGATAAAATGAACTTTCTACGTAAGATAGTGAAAAATTGCAGGGACGAGGACACTCAAAAACCCTCTCCCGTGTCAGCCCCTCTGGATGACGATGACTTGTGGCTTCCACCCCCTGAATACGTCCCGCTGAAAGAACTTACAAGCAAGAAGAACATGAGGAACTTTTGTATCAACGGAGGGGTTAAAGTGTGTAGCCCGAATGGTTACTCGTTCAGGATCCTGCGGCACATTCTGAAATCATTCGACGAGATATATTCTGGGAATCATAGGATGATCGGGTTAGTCAAAGTAGTTATTGGACTGGCTTTGTCAGGATCTCCAGTCCCTGAGGGCATGAACTGGGTATACAAATTGAGGAGAACCTTTATCTTCCAGTGGGCTGATTCCAGGGGCCCTCTTGAAGGGGAGGAGTTGGAATACTCTCAGGAGATCACTTGGGATGATGATACTGAGTTCGTCGGATTGCAAATAAGAGTGATTGCAAAACAGTGTCATATCCAGGGCAGAATCTGGTGTATCAACATGAACCCGAGAGCATGTCAACTATGGTCTGACATGTCTCTTCAGACACAAAGGTCCGAAGAGGACAAAGATTCCTCTCTGCTTCTAGAATAATCAGATTATATCCCGCAAATTTATCA</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+    <GBFeature>
+      <GBFeature_key>CDS</GBFeature_key>
+      <GBFeature_location>183..791</GBFeature_location>
+      <GBFeature_intervals>
+        <GBInterval>
+          <GBInterval_from>183</GBInterval_from>
+          <GBInterval_to>791</GBInterval_to>
+          <GBInterval_accession>M22013.1</GBInterval_accession>
+        </GBInterval>
+      </GBFeature_intervals>
+      <GBFeature_quals>
+        <GBQualifier>
+          <GBQualifier_name>note</GBQualifier_name>
+          <GBQualifier_value>matrix protein</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>codon_start</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>transl_table</GBQualifier_name>
+          <GBQualifier_value>1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>protein_id</GBQualifier_name>
+          <GBQualifier_value>AAA47214.1</GBQualifier_value>
+        </GBQualifier>
+        <GBQualifier>
+          <GBQualifier_name>translation</GBQualifier_name>
+          <GBQualifier_value>MNFLRKIVKNCRDEDTQKPSPVSAPLDDDDLWLPPPEYVPLKELTSKKNMRNFCINGGVKVCSPNGYSFRILRHILKSFDEIYSGNHRMIGLVKVVIGLALSGSPVPEGMNWVYKLRRTFIFQWADSRGPLEGEELEYSQEITWDDDTEFVGLQIRVIAKQCHIQGRIWCINMNPRACQLWSDMSLQTQRSEEDKDSSLLLE</GBQualifier_value>
+        </GBQualifier>
+      </GBFeature_quals>
+    </GBFeature>
+  </GBSeq_feature-table>
+  <GBSeq_sequence>aaccacattttcataggcttcttcacaggtagattcacttctgttcacggtgaagacagaggcaaaggccatccattcaggcaactgacttgtctgcgttcttctgtctttttacaatctctgctgtttccagccttgtggccacaaatcctgcaaagcctgcatcgaacaccactgataaaatgaactttctacgtaagatagtgaaaaattgcagggacgaggacactcaaaaaccctctcccgtgtcagcccctctggatgacgatgacttgtggcttccaccccctgaatacgtcccgctgaaagaacttacaagcaagaagaacatgaggaacttttgtatcaacggaggggttaaagtgtgtagcccgaatggttactcgttcaggatcctgcggcacattctgaaatcattcgacgagatatattctgggaatcataggatgatcgggttagtcaaagtagttattggactggctttgtcaggatctccagtccctgagggcatgaactgggtatacaaattgaggagaacctttatcttccagtgggctgattccaggggccctcttgaaggggaggagttggaatactctcaggagatcacttgggatgatgatactgagttcgtcggattgcaaataagagtgattgcaaaacagtgtcatatccagggcagaatctggtgtatcaacatgaacccgagagcatgtcaactatggtctgacatgtctcttcagacacaaaggtccgaagaggacaaagattcctctctgcttctagaataatcagattatatcccgcaaatttatca</GBSeq_sequence>
+</GBSeq>

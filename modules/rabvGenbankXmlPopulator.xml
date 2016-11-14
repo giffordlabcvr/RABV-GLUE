@@ -75,6 +75,11 @@
 					<matchPattern>.*[wW]olf.*</matchPattern>
 					<outputTemplate>Canis lupus</outputTemplate>
 				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[cC]oyote.*</matchPattern>
+					<outputTemplate>Canis latrans</outputTemplate>
+				</valueConverter>
+
 
 				<!-- #### Felids -->
 				<valueConverter>

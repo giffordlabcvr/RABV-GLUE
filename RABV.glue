@@ -12,17 +12,18 @@ project rabv
 
 	run file glue/projectSettings.glue
     
-	# NCBI sequences 
+	# Download NCBI sequences 
 	#create module --fileName modules/rabvNcbiImporter.xml ncbiImporter
 	#module ncbiImporter import
 	
 	import source sources/ncbi-nuccore 
-
+	
 	# populate certain fields following XML config
 	create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
 	module genbankXmlPopulator populate
 
 
 	#import source sources/ncbi-refseqs
+
  
 exit

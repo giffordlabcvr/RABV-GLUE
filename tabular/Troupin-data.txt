@@ -1,0 +1,322 @@
+Strain	Country	Species	Species_latin_binomial	Year	Subclade	Source	Accession	Reference
+86097BEN	Benin	Cat	Felis catus	1986	Africa-2	Original brain	KX148107	This study
+86036HAV	Burkina Faso	Dog 	Canis familiaris	1986	Africa-2	Mouse	KX148234	This study
+95047HAV	Burkina Faso	Dog 	Canis familiaris	1995	Africa-2	Original brain	KX148230	This study
+88003CAM	Cameroon	Dog 	Canis familiaris	1987	Africa-2	Original brain	KX148243	This study
+95002CAM	Cameroon	Dog 	Canis familiaris	1994	Africa-2	Original brain	KX148242	This study
+CAR_11_001	Central African Republic	Human 	Homo sapiens	2011	Africa-2	Saliva	KF977826	-4
+90021TCH	Chad	Dog 	Canis familiaris	1990	Africa-2	Original brain	KX148240	This study
+96009TCH	Chad	Dog 	Canis familiaris	1996	Africa-2	Original brain	KX148241	This study
+90024GUI	Guinea	Dog 	Canis familiaris	1990	Africa-2	Original brain	KX148244	This study
+01007CI	Ivory Coast	Dog 	Canis familiaris	2001	Africa-2	Original brain	KX148235	This study
+92037CI	Ivory Coast	Dog 	Canis familiaris	1992	Africa-2	Original brain	KX148232	This study
+92038CI	Ivory Coast	Dog 	Canis familiaris	1992	Africa-2	Original brain	KX148233	This study
+93011MAU	Mauritania	Dog 	Canis familiaris	1993	Africa-2	Original brain	KX148236	This study
+93012MAU	Mauritania	Dog 	Canis familiaris	1993	Africa-2	Original brain	KX148237	This study
+90010NIG	Niger	Dog 	Canis familiaris	1990	Africa-2	Original brain	KX148231	This study
+90012NIG	Niger	Dog 	Canis familiaris	1990	Africa-2	Original brain	KX148229	This study
+DRV_NG11	Nigeria	Dog 	Canis familiaris	2011	Africa-2	Original brain	KC196743	-23
+93003SEN	Senegal	Dog 	Canis familiaris	1991	Africa-2	Original brain	KX148238	This study
+93005SEN	Senegal	Dog 	Canis familiaris	1992	Africa-2	Original brain	KX148239	This study
+14016BOT	Botswana	Wildcat	Felis silvestris	2009	Africa-3	Original brain	KX148218	This study
+14017BOT	Botswana	Honey badger	Mellivora capensis	2009	Africa-3	Original brain	KX148219	This study
+14018AFS	South Africa	Feline	Und.	2000	Africa-3	Original brain	KX148223	This study
+15001AFS	South Africa	Yellow mongoose	Cynictis penicillata	2013	Africa-3	Original brain	KX148220	This study
+15002AFS	South Africa	Mongoose	Und.	2014	Africa-3	Original brain	KX148221	This study
+15003AFS	South Africa	Ground squirrel 	Xerus Inauris	2014	Africa-3	Original brain	KX148222	This study
+86083GRO	Greenland	Dog 	Canis familiaris	1980	Arctic-related – A	Mouse	KX148105	This study
+1410KOM	Russia	Deer	Und.	2008	Arctic-related – A	Original brain	JQ944707	Chupin et al., unpublished
+91004USA	USA	Striped skunk	Mephitis mephitis	1991	Arctic-related – A	Original brain	KX148224	This study
+91005USA	USA	Red fox	Vulpes vulpes	1990	Arctic-related – A	Original brain	KX148106	This study
+NNV_RAB_H	India	Human 	Homo sapiens	2006	Arctic-related – AL1a	Original brain	EF437215	Desai et al., unpublished
+RV61	India	Human 	Homo sapiens	1987	Arctic-related – AL1a	Mouse	KF154996	-16
+Serotype_1	India	Human 	Homo sapiens	2004	Arctic-related – AL1a	Saliva?	AY956319	Pfefferle et al., unpublished
+Pk_23	Pakistan	Cow	Bos taurus	2010	Arctic-related – AL1a	Mouse	HE802675	Hussain et al., unpublished
+Pk_24	Pakistan	Cow	Bos taurus	2007	Arctic-related – AL1a	Mouse	HE802676	Hussain et al., unpublished
+02052AFG	Afghanistan	Dog 	Canis familiaris	2002	Arctic-related – AL1b	Original brain	KX148225	This study
+04029AFG	Afghanistan	Dog 	Canis familiaris	2004	Arctic-related – AL1b	Original brain	KX148227	This study
+04035AFG	Afghanistan	Dog 	Canis familiaris	2002	Arctic-related – AL1b	Original brain	KX148226	This study
+CQH1202D	China	Dog 	Canis familiaris	2012	Arctic-related – AL2	?	KM272192	Guo et al., unpublished
+08F40	South Korea	Cattle	 Bos taurus	2008	Arctic-related – AL2	Original brain	KC171643	-25
+BD0406CC	South Korea	Raccoon dog	Nyctereutes procyonoides	2004	Arctic-related – AL2	Original brain	KC171644	-25
+BV9901PJ	South Korea	Raccoon dog	Nyctereutes procyonoides	1999	Arctic-related – AL2	Original brain	KC171645	-25
+99001NEP	Nepal	Dog 	Canis familiaris	1998	Arctic-related – AL3	Original brain	KX148228	This study
+02050CHI	China	Human 	Homo sapiens	1992	Asian – SEA1a	Mouse	KX148267	This study
+CQ92	China	Dog 	Canis familiaris	1992	Asian – SEA1a	?	GU345746	-7
+RV_J	China	Human 	Homo sapiens	1986	Asian – SEA1a	?	GU345747	-7
+03003INDO	Indonesia	Dog 	Canis familiaris	2003	Asian – SEA1a	Mouse	KX148266	This study
+98011CHI	China	Dog 	Canis familiaris	1998	Asian – SEA1b	Original brain	KX148265	This study
+JX10_37	China	Ferret badger	Melogale moschata	2010	Asian – SEA1b	Original brain	KF726853	-5
+JX09_17	China	Ferret badger	Melogale moschata	2009	Asian – SEA1b	Original brain	KC762941	-6
+BJ2011E	China	Horse	Equus ferus	2011	Asian – SEA1b	?	JQ423952	Chen et al., unpublished
+CJS0621D	China	Dog 	Canis familiaris	2006	Asian – SEA1b	Original brain	JQ970481	Tang et al., unpublished
+CJS0636D	China	Dog 	Canis familiaris	2006	Asian – SEA1b	Original brain	JQ970482	Tang et al., unpublished
+CJS0848D	China	Dog 	Canis familiaris	2008	Asian – SEA1b	Original brain	JQ970483	Tang et al., unpublished
+CJX0903D	China	Dog 	Canis familiaris	2009	Asian – SEA1b	Original brain	JQ970484	Tang et al., unpublished
+CJX0906D	China	Dog 	Canis familiaris	2009	Asian – SEA1b	Original brain	JQ970485	Tang et al., unpublished
+CNM1101C	China	Cow	Bos taurus	2011	Asian – SEA1b	Original brain	KC193267	Yin et al., unpublished
+CNM1104D	China	Dog	 Canis familiaris	2011	Asian – SEA1b	Original brain	KC252634	Yin et al., unpublished
+CSD0708D	China	Dog 	Canis familiaris	2007	Asian – SEA1b	Original brain	JQ970486	Tang et al., unpublished
+CSX0904D	China	Dog 	Canis familiaris	2009	Asian – SEA1b	Original brain	JQ970487	Tang et al., unpublished
+F04	China	Ferret badger	Melogale moschata	2008	Asian – SEA1b	Original brain	J712196	Wang et al., unpublished
+FJ008	China	Dog 	Canis familiaris	2008	Asian – SEA1b	?	FJ866835	Zhang et al., unpublished
+FJ009	China	Dog 	Canis familiaris	2008	Asian – SEA1b	?	FJ866836	Zhang et al., unpublished
+FJDRV	China	Dog 	Canis familiaris	2008	Asian – SEA1b	?	JN609295	Qi, unpublished
+GXHXN	China	Cattle	 Bos taurus	2009	Asian – SEA1b	Original brain	KC169986	-11
+IMDRV_13	China	Fallow deer	Dama dama	2013	Asian – SEA1b	Original brain	KJ564280	-13
+JZ13_Lv	China	Human 	Homo sapiens	2013	Asian – SEA1b	?	KJ004416	Wang et al., unpublished
+SH06	China	Dog 	Canis familiaris	2006	Asian – SEA1b	?	GU345748	-7
+WH11	China	Donkey	Equus asinus	2011	Asian – SEA1b	Original brain	JQ647510	-14
+Shaanxi_HZ	China	Dog 	Canis familiaris	2009	Asian – SEA1b	?	KC977995	-15
+02046CHI	China	Dog	 Canis familiaris	1994	Asian – SEA2a	Mouse	KX148264	This study
+CHN0802D	China	Dog 	Canis familiaris	2008	Asian – SEA2a	Original brain	JQ970480	Tang et al., unpublished
+GD_SH_01	China	Pig	Sus domesticus	2011	Asian – SEA2a	Original brain	JX088694	-10
+GX4	China	Dog 	Canis familiaris	1994	Asian – SEA2a	?	GU358653	-7
+HN10	China	Human 	Homo sapiens	2006	Asian – SEA2a	?	EU643590	-12
+JX09_18	China	Ferret badger	Melogale moschata	2009	Asian – SEA2b	Original brain	KF726852	-5
+JX08_45	China	Ferret badger	Melogale moschata	2008	Asian – SEA2b	?	GU647092	Zhao et al., unpublished
+DRV_AH08	China	Dog 	Canis familiaris	2008	Asian – SEA2b	Mouse	HQ450385	-9
+F02	China	Ferret badger	Melogale moschata	2008	Asian – SEA2b	Original brain	FJ712195	Wang et al., unpublished
+02006CBG	Cambodia	Dog	 Canis familiaris	1998	Asian – SEA3	Original brain	KX148249	This study
+99008CBG	Cambodia	Dog 	Canis familiaris	1999	Asian – SEA3	Original brain	KX148252	This study
+99011CBG	Cambodia	Dog	 Canis familiaris	1998	Asian – SEA3	Original brain	KX148251	This study
+99012CBG	Cambodia	Dog 	Canis familiaris	1998	Asian – SEA3	Original brain	KX148253	This study
+99016CBG	Cambodia	Dog 	Canis familiaris	1999	Asian – SEA3	Original brain	KX148250	This study
+CYN1009D	China	Dog 	Canis familiaris	2010	Asian – SEA3	Original brain	JQ730682	-8
+02003LAO	Laos	Dog 	Canis familiaris	2002	Asian – SEA3	Original brain	KX148258	This study
+02004LAO	Laos	Dog 	Canis familiaris	2002	Asian – SEA3	Original brain	KX148256	This study
+02005LAO	Laos	Dog 	Canis familiaris	2002	Asian – SEA3	Original brain	KX148257	This study
+99010LAO	Laos	Dog 	Canis familiaris	1999	Asian – SEA3	Original brain	KX148255	This study
+Lao2	Laos	Dog 	Canis familiaris	2011	Asian – SEA3	Original brain	AB981663	-18
+Lao4	Laos	Dog 	Canis familiaris	2011	Asian – SEA3	Original brain	AB981664	-18
+99009BIR	Myanmar	Dog 	Canis familiaris	1999	Asian – SEA3	Original brain	KX148247	This study
+99015BIR	Myanmar	Dog 	Canis familiaris	1999	Asian – SEA3	Original brain	KX148248	This study
+8764THA	Thailand	Human	Homo sapiens	1983	Asian – SEA3	Mouse	EU293111	-28
+QS_05	Thailand	Dog 	Canis familiaris	ND	Asian – SEA3	Mouse	JN786877	-29
+01016VNM	Vietnam	Dog	Canis familiaris	2001	Asian – SEA3	Mouse	KX148261	This study
+01016VNM	Vietnam	Dog	Canis familiaris	2001	Asian – SEA3	Mouse	KX148261e	This study
+04030PHI	Philippines	Dog 	Canis familiaris	2004	Asian – SEA4	Mouse	KX148260	This study
+94272PHI	Philippines	Dog 	Canis familiaris	1994	Asian – SEA4	Original brain	KX148259	This study
+94275PHI	Philippines	Dog 	Canis familiaris	1994	Asian – SEA4	Original brain	KX148263	This study
+94278PHI	Philippines	Dog 	Canis familiaris	1994	Asian – SEA4	Original brain	KX148262	This study
+94281PHI	Philippines	Dog 	Canis familiaris	1994	Asian – SEA4	Original brain	KX148261	This study
+R2012_26	Taiwan	Ferret badger	Melogale moschata	2012	Asian – SEA5	Original brain	KF620487	-27
+R2012_88	Taiwan	Ferret badger	Melogale moschata	2012	Asian – SEA5	Original brain	KF620488	-27
+R2013_01	Taiwan	Ferret badger	Melogale moschata	2013	Asian – SEA5	Original brain	KF620489	-27
+86117BRE	Brazil	Dog 	Canis familiaris	1986	Bat - DR	Original brain	KX148109	This study
+BR_AL1	Brazil	Bat 	Artibeus lituratus	1998	Bat - DR	Original brain	AB519641	-1
+BR_DR1	Brazil	Bat 	Desmodus rotundus	2000	Bat - DR	Original brain	AB519642	-1
+09035FRA	French Guiana	Bat 	Phyllostomidae stenodermatinae	2009	Bat - DR	Original brain	KX148100	This study
+90001FRA	French Guiana	Dog 	Canis familiaris	1990	Bat - DR	Original brain	KX148268	This study
+97004ARG	Argentina	Bat 	Tadarida brasiliensis	1997	Bat - TB	Mouse	KX148269	This study
+AZ3003	USA	Bat 	Antrozous pallidus	2009	Bat – AZ	N, P, M, G - original brain; L and termini - mouse	JQ685971	-19
+3645DR	Mexico	Human 	Homo sapiens	2009	Bat – DR	Mouse	JQ685953	-19
+EF	USA	Bat 	Eptesicus fuscus	1984	Bat – EF	mouse	JQ685920	-19
+WAEF03	USA	Bat 	Eptesicus fuscus	2004	Bat – EF	N, P, M, G - original brain; L and termini - mouse	JQ685925	-19
+2401	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bat – EF-W1	Original brain	JQ685934	-19
+A093500	USA	Bat 	Eptesicus fuscus	2009	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685898	-19
+A093504	USA	Bat 	Eptesicus fuscus	2009	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685950	-19
+AZ10_140	USA	Bat 	Eptesicus fuscus	2010	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685961	-19
+AZBAT_6763	USA	Bat 	Eptesicus fuscus	1985	Bat – EF-W1	Mouse	JQ685913	-19
+AZBAT_7453	USA	Bat	 Eptesicus fuscus	1975	Bat – EF-W1	Mouse	JQ685956	-19
+CA100	USA	Bat 	Eptesicus fuscus	2005	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685909	-19
+CO_Coyot_2	USA	Coyote	Canis latrans	2010	Bat – EF-W1	Original brain	JQ685917	-19
+SM1545	USA	Striped skunk	Mephitis mephitis	2005	Bat – EF-W1	Original brain	JQ685941	-19
+SM3844	USA	Bat 	Eptesicus fuscus	1995	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685974	-19
+SM3849	USA	Bat 	Eptesicus fuscus	1996	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685907	-19
+SM4862	USA	Bat 	Eptesicus fuscus	1999	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685946	-19
+SM4871	USA	Bat 	Eptesicus fuscus	1999	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685923	-19
+SM4872	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685960	-19
+SM5076	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685932	-19
+SM5077	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685911	-19
+SM5079	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685893	-19
+SM5081	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685904	-19
+SM5100	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685940	-19
+SM5101	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685958	-19
+SM5440	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685969	-19
+SM5441	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685962	-19
+SM5442	USA	Bat 	Eptesicus fuscus	2001	Bat – EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685897	-19
+SM5451	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685959	-19
+SM5470	USA	Striped skunk	Mephitis mephitis	2001	Bat – EF-W1	Original brain	JQ685966	-19
+SM5596	USA	Striped skunk	Mephitis mephitis	2004	Bat – EF-W1	Original brain	JQ685964	-19
+SM5950	USA	Gray fox	Urocyon cinereoargenteus	2004	Bat – EF-W1	Original brain	JQ685933	-19
+SM6709	USA	Cat	Felis catus	2005	Bat – EF-W1	Original brain	JQ685945	-19
+A11_1043	USA	Coyote	Canis latrans	2011	Bat – EF-W2	Original brain	JQ685973	-19
+AZBAT_6509	USA	Bat 	Eptesicus fuscus	1981	Bat – EF-W2	Mouse	JQ685942	-19
+CA04148	USA	Bat 	Eptesicus fuscus	2004	Bat – EF-W2	N, P, M, G - original brain; L and termini - mouse	JQ685903	-19
+OR05455	USA	Gray Fox	Urocyon cinereoargenteus	2010	Bat – EF-W2	Original brain	JQ685948	-19
+WA0173	USA	Bat 	Eptesicus fuscus	2000	Bat – EF-W2	N, P, M, G - original brain; L and termini - mouse	JQ685931	-19
+NJ2262	USA	Bat 	Lasiurus borealis	2005	Bat – LB	N, P, M, G - original brain; L and termini - mouse	JQ685919	-19
+TN209	USA	Bat 	Lasiurus borealis	2005	Bat – LB	N, P, M, G - original brain; L and termini - mouse	JQ685902	-19
+TN310	USA	Bat 	Lasiurus cinereus	2004	Bat – LC	N, P, M, G - original brain; L and termini - mouse	JQ685947	-19
+FL1010	USA	Bat 	Lasiurus intermedius	2002	Bat – LI	N, P, M, G - original brain; L and termini - mouse	JQ685916	-19
+TX4904	USA	Bat 	Lasiurus intermedius	2002	Bat – LI	N, P, M, G - original brain; L and termini - mouse	JQ685915	-19
+WA1185	USA	Bat 	Lasionycteris noctivagans	2003	Bat – LN	N, P, M, G - original brain; L and termini - mouse	JQ685895	-19
+FL769	USA	Bat 	Lasiurus seminolus	2003	Bat – LS	N, P, M, G - original brain; L and termini - mouse	JQ685900	-19
+TX5960	USA	Bat 	Lasiurus xanthinus	2002	Bat – LX	N, P, M, G - original brain; L and termini - mouse	JQ685910	-19
+FL1078	USA	Bat 	Myotis autroriparius	2001	Bat – MYsp	N, P, M, G - original brain; L and termini - mouse	JQ685921	-19
+OR05506	USA	Gray Fox	Urocyon cinereoargenteus	2010	Bat – MYsp	Original brain	JQ685918	-19
+OR8767	USA	Gray Fox	Urocyon cinereoargenteus	2005	Bat – MYsp	Original brain	JQ685957	-19
+AZ4490	USA	Bat 	Myotis yumanensis	2005	Bat – MYu	N, P, M, G - original brain; L and termini - mouse	JQ685955	-19
+A02_2971	USA	Bat 	Parastrellus Hesperus	2002	Bat – PH	N, P, M, G - original brain; L and termini - mouse	JQ685952	-19
+A02_2972	USA	Bat 	Parastrellus hesperus	2002	Bat – PH	N, P, M, G - original brain; L and termini - mouse	JQ685965	-19
+SHBRV_18	USA	Human 	Homo sapiens	1983	Bat – PS	Mouse	AY705373	-31
+TN186	USA	Bat 	Perimyotis subflavus	2005	Bat – PS	N, P, M, G - original brain; L and termini - mouse	JQ685922	-19
+Coati_3639	Mexico	Coati	Nasua narica	2009	Bat – TB	Mouse	JQ685963	-19
+FL385	USA	Bat 	Tadarida brasiliensis	2003	Bat – TB	N, P, M, G - original brain; L and termini - mouse	JQ685905	-19
+86058YOU	Montenegro	Cow	Bos taurus	1978	Cosmopolitan	Mouse	KX148104	This study
+86133SER	Serbia	Red fox	Vulpes vulpes	1972	Cosmopolitan	Mouse	KX148161	This study
+86054YOU	Bosnia and Herzegovina	Wolf	Canis lupus	1986	Cosmopolitan - EE	Mouse	KX148145	This study
+94033BEL	Belgium	Red fox	Vulpes vulpes	1994	Cosmopolitan - WE	Original brain	KX148125	This study
+86111YOU	Bosnia and Herzegovina	Red fox	Vulpes vulpes	1986	Cosmopolitan - WE	Mouse	KX148133	This study
+15006FRA	Algeria	Dog 	Canis familiaris	2015	Cosmopolitan – AF1a	Original brain	KX148197	This study
+88008ETH	Ethiopia	Dog 	Canis familiaris	1988	Cosmopolitan – AF1a	Original brain	KX148200	This study
+RV2985	Ethiopia	Ethiopian wolf 	Canis simensis	2014	Cosmopolitan – AF1a	Original brain	KP723638	-17
+95049GAB	Gabon	Dog 	Canis familiaris	1995	Cosmopolitan – AF1a	Original brain	KX148202	This study
+14015ITA	Kenya	Human 	Homo sapiens	2014	Cosmopolitan – AF1a	Original brain	KX148207	This study
+86031MOZ	Mozambique	Dog 	Canis familiaris	1986	Cosmopolitan – AF1a	Mouse	KX148203	This study
+04031MAR	Morocco	Dog 	Canis familiaris	2004	Cosmopolitan – AF1a	Original brain	KX148195	This study
+08342MAR	Morocco	Dog 	Canis familiaris	2008	Cosmopolitan – AF1a	Original brain	KX148193	This study
+89017MAR	Morocco	Dog 	Canis familiaris	1989	Cosmopolitan – AF1a	Original brain	KX148194	This study
+90016MAR	Morocco	Dog 	Canis familiaris	1990	Cosmopolitan – AF1a	Original brain	KX148196	This study
+RV2627	Morocco	Cow	Bos taurus	2009	Cosmopolitan – AF1a	Original brain	KF155001	-16
+86003BRE	Nigeria	Dog 	Canis familiaris	1986	Cosmopolitan – AF1a	Original brain	KX148201	This study
+93006SOM	Somalia	Jackal	Canis mesomelas	1993	Cosmopolitan – AF1a	Original brain	KX148199	This study
+93128SOM	Somalia	Dog 	Canis familiaris	1993	Cosmopolitan – AF1a	Original brain	KX148198	This study
+92029CAR	Central African Republic	Dog 	Canis familiaris	1992	Cosmopolitan – AF1b	Original brain	KX148208	This study
+92030NAM	Namibia	Dog 	Canis familiaris	1992	Cosmopolitan – AF1b	Original brain	KX148204	This study
+178J09	Namibia	Jackal	Und.	2009	Cosmopolitan – AF1b	?	JX473838	Scott et al., unpublished
+192J09	Namibia	Jackal	Und.	2009	Cosmopolitan – AF1b	?	JX473839	Scott et al., unpublished
+239K09	Namibia	Namibian kudu	Tragelaphus strepsiceros	2009	Cosmopolitan – AF1b	?	JX473840	Scott et al., unpublished
+240K09	Namibia	Namibian kudu	Tragelaphus strepsiceros	2009	Cosmopolitan – AF1b	?	JX473841	Scott et al., unpublished
+94289RWA	Rwanda	Dog 	Canis familiaris	1994	Cosmopolitan – AF1b	Original brain	KX148205	This study
+87021AFS	South Africa	Human 	Homo sapiens	1981	Cosmopolitan – AF1b	Mouse	KX148103	This study
+96013TAN	Tanzania	Dog 	Canis familiaris	1996	Cosmopolitan – AF1b	Original brain	KX148206	This study
+RV2772	Tanzania	Dog 	Canis familiaris	2009	Cosmopolitan – AF1b	Original brain	KF155002	-16
+04033MAD	Madagascar	Dog 	Canis familiaris	2004	Cosmopolitan – AF1c	Original brain	KX148209	This study
+86046MAD	Madagascar	Dog 	Canis familiaris	1986	Cosmopolitan – AF1c	Original brain	KX148211	This study
+98002MAD	Madagascar	Human 	Homo sapiens	1998	Cosmopolitan – AF1c	Original brain	KX148210	This study
+86092EGY	Egypt	Human 	Homo sapiens	1979	Cosmopolitan – AF4	Mouse	KX148101	This study
+RV2324	Israel	Dog 	Canis familiaris	1950	Cosmopolitan – AF4	?	KF154998	-16
+91001USA	USA	Skunk	Und.	1982	Cosmopolitan – AM1	Mouse	KX148213	This study
+1088	USA	Woodchuck	Marmota monax	2008	Cosmopolitan – AM1	Mouse	AB645847	-30
+NC1234	USA	Striped skunk	Mephitis mephitis	ND	Cosmopolitan – AM1	Original brain	JQ685967	-19
+NC839	USA	Striped skunk	Mephitis mephitis	1984	Cosmopolitan – AM1	Original brain	JQ685944	-19
+91010MEX	Mexico	Human 	Homo sapiens	1991	Cosmopolitan – AM2a	Mouse	KX148112	This study
+91014MEX	Mexico	Dog 	Canis familiaris	1991	Cosmopolitan – AM2a	Original brain	KX148110	This study
+91015MEX	Mexico	Dog 	Canis familiaris	1991	Cosmopolitan – AM2a	Original brain	KX148111	This study
+91026MEX	Mexico	Dog 	Canis familiaris	1991	Cosmopolitan – AM2a	Mouse	KX148102	This study
+DRV_Mexico	Mexico	Dog 	Canis familiaris	ND	Cosmopolitan – AM2a	Mouse	HQ450386	-20
+MEXSK3636	Mexico	Spotted skunk	Spilogale putorius	2009	Cosmopolitan – AM2b	Mouse	JQ685975	-19
+A10_0511	USA	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan – AM2b	Original brain	JQ685943	-19
+A10_0515	USA	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan – AM2b	Original brain	JQ685899	-19
+86001BRE	Brazil	Dog 	Canis familiaris	1986	Cosmopolitan – AM3a	Original brain	KX148216	This study
+95022BRE	Brazil	Dog 	Canis familiaris	1995	Cosmopolitan – AM3a	Original brain	KX148215	This study
+95023BRE	Brazil	Dog 	Canis familiaris	1995	Cosmopolitan – AM3a	Original brain	KX148214	This study
+BRdg335	Brazil	Dog 	Canis familiaris	2003	Cosmopolitan – AM3a	?	AB517659	Mochizuki et al., unpublished
+A11_5300	USA	Human 	Homo sapiens	2011	Cosmopolitan – AM3a	Original brain	KC737850	McGuone et al., unpublished
+86123BRE	Brazil	Dog 	Canis familiaris	1986	Cosmopolitan – AM3b	Mouse	KX148217	This study
+BR_Pfx1	Brazil	Brazilian wild fox	Dusicyon_sp.	2002	Cosmopolitan – AM3b	Original brain	AB362483	-2
+BR_Pfx3	Brazil	Brazilian wild fox	Dusicyon_sp.	2001	Cosmopolitan – AM3b	?	AB517660	Mochizuki et al., unpublished
+CA982	USA	Striped skunk	Mephitis mephitis	1994	Cosmopolitan – AM4	Original brain	JQ685894	-19
+CASK2	USA	Striped skunk	Mephitis mephitis	1974	Cosmopolitan – AM4	Original brain	JQ685970	-19
+WQ14_RF	China	Red fox	Vulpes vulpes	2014	Cosmopolitan – CA1	Original brain	KM016899	Liu et al., unpublished
+86082IRA	Iran	Sheep	Ovis aries	1974	Cosmopolitan – CA1	Mouse	KX148159	This study
+1350KRA	Russia	Dog 	Canis familiaris	2008	Cosmopolitan – CA1	Original brain	JQ944705	Chupin et al., unpublished
+8052f	Russia	Red fox	Vulpes vulpes	2011	Cosmopolitan – CA1	Mouse	KC595280	-24
+8053c	Russia	Cat	Felis catus	2011	Cosmopolitan – CA1	Mouse	KC595281	-24
+8054f	Russia	Red fox	Vulpes vulpes	2011	Cosmopolitan – CA1	Mouse	KC595282	-24
+8057f	Russia	Red fox	Vulpes vulpes	2011	Cosmopolitan – CA1	Mouse	KC595283	-24
+RV2516	Irak	Cow	Bos taurus	2010	Cosmopolitan – CA2	Original brain	KF155000	-16
+93019IRA	Iran	Jackal	Canis aureus	1993	Cosmopolitan – CA2	Original brain	KX148212	This study
+1352KRA	Russia	Dog 	Canis familiaris	2008	Cosmopolitan – CA2	Original brain	JQ944706	Chupin et al., unpublished
+92015HON	Hungary	Human 	Homo sapiens	1991	Cosmopolitan – CA3	Original brain	KX148160	This study
+1564NNO	Russia	Red fox	Vulpes vulpes	2008	Cosmopolitan – CA3	Original brain	JQ944708	Chupin et al., unpublished
+92002GER	Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan – CE	Original brain	KX148113	This study
+92010GER	Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan – CE	Original brain	KX148124	This study
+92012GER	Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan – CE	Original brain	KX148122	This study
+92017GER	Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan – CE	Original brain	KX148123	This study
+96045POL	Poland	Red fox	Vulpes vulpes	1993	Cosmopolitan – CE	Original brain	KX148119	This study
+96056POL	Poland	Red fox	Vulpes vulpes	1993	Cosmopolitan – CE	Original brain	KX148121	This study
+96077POL	Poland	Raccoon dog	Nyctereutes procyonoides	1994	Cosmopolitan – CE	Original brain	KX148118	This study
+96104POL	Poland	Red fox	Vulpes vulpes	1995	Cosmopolitan – CE	Original brain	KX148114	This study
+96140POL	Poland	Raccoon dog	Nyctereutes procyonoides	1993	Cosmopolitan – CE	Original brain	KX148120	This study
+96250POL	Poland	Red fox	Vulpes vulpes	1996	Cosmopolitan – CE	Original brain	KX148115	This study
+96256POL	Poland	Red fox	Vulpes vulpes	1996	Cosmopolitan – CE	Original brain	KX148116	This study
+97046POL	Poland	Red fox	Vulpes vulpes	1997	Cosmopolitan – CE	Original brain	KX148117	This study
+93080HON	Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan – EE	Original brain	KX148143	This study
+93083HON	Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan – EE	Original brain	KX148136	This study
+93089HON	Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan – EE	Original brain	KX148137	This study
+93091HON	Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan – EE	Original brain	KX148138	This study
+93093HON	Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan – EE	Original brain	KX148139	This study
+96135POL	Poland	Red fox	Vulpes vulpes	1992	Cosmopolitan – EE	Original brain	KX148141	This study
+96177POL	Poland	Red fox	Vulpes vulpes	1994	Cosmopolitan – EE	Original brain	KX148142	This study
+86109YOU	Serbia	Red fox	Vulpes vulpes	1986	Cosmopolitan – EE	Original brain	KX148140	This study
+94099SLN	Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan – EE	Original brain	KX148144	This study
+86081IRA	Iran	Dog 	Canis familiaris	1985	Cosmopolitan – ME1a	Mouse	KX148189	This study
+87002IRA	Iran	Wolf	Canis pallipes	1984	Cosmopolitan – ME1a	Mouse	KX148186	This study
+93008IRA	Iran	Jackal	Canis aureus	1976	Cosmopolitan – ME1a	Original brain	KX148190	This study
+93009IRA	Iran	Wolf	Canis pallipes	1991	Cosmopolitan – ME1a	Original brain	KX148188	This study
+96299IRA	Iran	Wolf	Canis pallipes	1996	Cosmopolitan – ME1a	Original brain	KX148185	This study
+96320IRA	Iran	Jackal	Canis aureus	1996	Cosmopolitan – ME1a	Original brain	KX148187	This study
+93030ISR	Israel	Fox	Und.	1993	Cosmopolitan – ME1a	Original brain	KX148180	This study
+93031ISR	Israel	Fox	Und.	1993	Cosmopolitan – ME1a	Original brain	KX148183	This study
+96306ISR	Israel	Dog 	Canis familiaris	1996	Cosmopolitan – ME1a	Original brain	KX148178	This study
+96307ISR	Israel	Dog 	Canis familiaris	1996	Cosmopolitan – ME1a	Original brain	KX148182	This study
+96312ISR	Israel	Dog 	Canis familiaris	1996	Cosmopolitan – ME1a	Original brain	KX148181	This study
+96314ISR	Israel	Jackal	Canis aureus	1996	Cosmopolitan – ME1a	Original brain	KX148179	This study
+96317ISR	Israel	Fox	Und.	1996	Cosmopolitan – ME1a	Original brain	KX148177	This study
+96324ISR	Israel	Cattle	 Bos taurus	1996	Cosmopolitan – ME1a	Original brain	KX148184	This study
+91034OMA	Oman	Camel	Camelus dromedarius	1990	Cosmopolitan – ME1a	Original brain	KX148169	This study
+91035OMA	Oman	Fox	Und.	1990	Cosmopolitan – ME1a	Original brain	KX148170	This study
+04034ARS	Saudi Arabia	Fox	Und.	2004	Cosmopolitan – ME1a	Original brain	KX148175	This study
+87006ARS	Saudi Arabia	Fox	Und.	1987	Cosmopolitan – ME1a	Original brain	KX148168	This study
+87007ARS	Saudi Arabia	Horse	Equus ferus	1987	Cosmopolitan – ME1a	Original brain	KX148172	This study
+97139ARS	Saudi Arabia	Red fox	Vulpes vulpes	1997	Cosmopolitan – ME1a	Original brain	KX148173	This study
+98001ARS	Saudi Arabia	Fox	Und.	1998	Cosmopolitan – ME1a	Original brain	KX148174	This study
+99004ARS	Saudi Arabia	Red fox	Vulpes vulpes	1998	Cosmopolitan – ME1a	Original brain	KX148175	This study
+91024EAU	United Arab Emirates	Fox	Und.	1991	Cosmopolitan – ME1a	Mouse	KX148171	This study
+93032ISR	Israel	Jackal	Canis aureus	1993	Cosmopolitan – ME1b	Original brain	KX148191	This study
+93033ISR	Israel	Dog 	Canis familiaris	1993	Cosmopolitan – ME1b	Original brain	KX148192	This study
+93100TUR	Turkey	Dog 	Canis familiaris	1993	Cosmopolitan – ME2	Original brain	KX148164	This study
+94001TUR	Turkey	Dog 	Canis familiaris	1993	Cosmopolitan – ME2	Original brain	KX148166	This study
+94002TUR	Turkey	Dog 	Canis familiaris	1993	Cosmopolitan – ME2	Original brain	KX148162	This study
+94005TUR	Turkey	Dog 	Canis familiaris	1993	Cosmopolitan – ME2	Original brain	KX148167	This study
+94009TUR	Turkey	Dog 	Canis familiaris	1993	Cosmopolitan – ME2	Original brain	KX148165	This study
+94016TUR	Turkey	Dog 	Canis familiaris	1993	Cosmopolitan – ME2	Original brain	KX148163	This study
+93038EST	Estonia	Red fox	Vulpes vulpes	1992	Cosmopolitan – NEE	Original brain	KX148148	This study
+93039EST	Estonia	Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan – NEE	Original brain	KX148149	This study
+93041EST	Estonia	Red fox	Vulpes vulpes	1993	Cosmopolitan – NEE	Original brain	KX148155	This study
+93042EST	Estonia	Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan – NEE	Original brain	KX148156	This study
+93043EST	Estonia	Raccoon dog	Nyctereutes procyonoides	1993	Cosmopolitan – NEE	Original brain	KX148157	This study
+93105EST	Estonia	Red fox	Vulpes vulpes	1993	Cosmopolitan – NEE	Original brain	KX148158	This study
+RV437	Estonia	Raccoon dog	Nyctereutes procyonoides	ND	Cosmopolitan – NEE	Mouse	KF154997	-16
+93046FIN	Finland	Red fox	Vulpes vulpes	1993	Cosmopolitan – NEE	Original brain	KX148146	This study
+93048FIN	Finland	Raccoon dog	Nyctereutes procyonoides	1988	Cosmopolitan – NEE	Original brain	KX148147	This study
+96026POL	Poland	Raccoon dog	Nyctereutes procyonoides	1986	Cosmopolitan – NEE	Original brain	KX148150	This study
+96042POL	Poland	Red fox	Vulpes vulpes	1996	Cosmopolitan – NEE	Original brain	KX148151	This study
+96097POL	Poland	Raccoon dog	Nyctereutes procyonoides	1996	Cosmopolitan – NEE	Original brain	KX148153	This study
+96142POL	Poland	Raccoon dog	Nyctereutes procyonoides	1996	Cosmopolitan – NEE	Original brain	KX148152	This study
+97078POL	Poland	Raccoon dog	Nyctereutes procyonoides	1997	Cosmopolitan – NEE	Original brain	KX148154a	IP
+184VNO	Russia	Raccoon dog	Nyctereutes procyonoides	2009	Cosmopolitan – NEE	Original brain	JQ944704	Chupin et al., unpublished
+PV_RefSeq	NA	Vaccine strain	Vaccine strain	ND	Cosmopolitan – Vac	NA	NC_001542	-21
+91047FRA	France	Red fox	Vulpes vulpes	1991	Cosmopolitan – WE	Original brain	KX148127	This study
+92044FRA	France	Red fox	Vulpes vulpes	1992	Cosmopolitan – WE	Original brain	KX148128	This study
+94029FRA	France	Red fox	Vulpes vulpes	1994	Cosmopolitan – WE	Original brain	KX148134	This study
+96002FRA	France	Red fox	Vulpes vulpes	1996	Cosmopolitan – WE	Original brain	KX148126	This study
+92001GER	Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan – WE	Original brain	KX148135	This study
+94086SLN	Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan – WE	Original brain	KX148131	This study
+94091SLN	Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan – WE	Original brain	KX148129	This study
+94094SLN	Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan – WE	Original brain	KX148132	This study
+94096SLN	Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan – WE	Original brain	KX148133	This study
+97002IND	India	Human 	Homo sapiens	1997	Indian Subcontinent	Original brain	KX148246	This study
+09029NEP	Nepal	Buffalo	Und.	2009	Indian Subcontinent	Original brain	KX148245	This study
+11001NEP	Nepal	Cattle	 Bos taurus	2011	Indian Subcontinent	Original brain	KX148108	This study
+H_1413_09	Sri Lanka	Golden palm civet	Paradoxurus zeylonensis	2009	Indian Subcontinent	Original brain	AB635373	-26
+RV2417	Sri Lanka	Dog 	Canis familiaris	2008	Indian Subcontinent	Original brain	KF154999	-16
+MEXSK13938	Mexico	Spotted skunk	Spilogale putorius	2007	RAC-SK – MexSK-1	Mouse	JQ685954	-19
+MEXSK3644	Mexico	Spotted skunk	Spilogale putorius	2009	RAC-SK – MexSK-1	Mouse	JQ685929	-19
+RRV_ON_99	Canada	Raccoon	Procyon lotor	1999	RAC-SK – RAC	Original brain	EU311738	-3
+RAC	USA	Raccoon	Procyon lotor	2003	RAC-SK – RAC	Mouse	JQ685901	-19
+A10_0512	USA	Striped skunk	Mephitis mephitis	2009	RAC-SK – SCSK	Original brain	JQ685968	-19
+A10_0514	USA	Striped skunk	Mephitis mephitis	2009	RAC-SK – SCSK	Original brain	JQ685938	-19

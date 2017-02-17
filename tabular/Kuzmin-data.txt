@@ -1,272 +1,270 @@
-Strain	Country	Location	Species_latin_binomial	Year	Subclade	Source	Accession	Genes sequenced	Reference
-SM5081	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685904	Complete genome	This study
-SM5080	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685927	N, P, M, G, L	This study
-SM5079	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685893	Complete genome	This study
-SM5077	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685911	Complete genome	This study
-SM5076	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685932	Complete genome	This study
-SM5074	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685935	N, P, M, G, L	This study
-SM4872	USA	 AZ/Flagstaff	Eptesicus fuscus	2001	EF-W1	Original brain	JQ685960	Complete genome	This study
-SM1545	USA	 AZ/Flagstaff	Mephitis mephitis	2005	EF-W1	Original brain	JQ685941	Complete genome	This study
-OR8767	USA	 OR	Urocyon cinereoargenteus	2009	MYsp	Original brain	JQ685957	Complete genome	This study
-CA100	USA	 CA	Eptesicus fuscus	2005	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685909	Complete genome	This study
-AZ2408	USA	 AZ/Flagstaff	Eptesicus fuscus	2005	EF-W1	Original brain	JQ685926	N, P, M, G, L	This study
-A093504	USA	 AZ/Flagstaff	Eptesicus fuscus	2009	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685950	Complete genome	This study
-Coati -3639	Mexico	 Cancun	Nasua narica	2009	TB	Mouse	JQ685963	Complete genome	This study
-2403	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685928	N, P, M, G, L	This study
-2402	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685896	N, P, M, G, L	This study
-2401	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685934	Complete genome	This study
-2400	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685912	N, P, M, G, L	This study
-2399	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685939	N, P, M, G, L	This study
-2398	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685892	N, P, M, G, L	This study
-2396	USA	 AZ/Flagstaff	Bassariscus astutus	2009	EF-W1	Original brain	JQ685937	N, P, M, G, L	This study
-2395	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685972	N, P, M, G, L	This study
-SM5075	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685949	N, P, M, G, L	This study
-2526	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685976	N, P, M, G, L	This study
-1060	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	EF-W1	Original brain	JQ685908	N, P, M, G, L	This study
-A093500	USA	 AZ/Flagstaff	Eptesicus fuscus	2009	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685898	Complete genome	This study
-SM6709	USA	 AZ/Flagstaff	Felis catus	2005	EF-W1	Original brain	JQ685945	Complete genome	This study
-SM5950	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2004	EF-W1	Original brain	JQ685933	Complete genome	This study
-SM5596	USA	 AZ/Flagstaff	Mephitis mephitis	2004	EF-W1	Original brain	JQ685964	Complete genome	This study
-SM5470	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685966	Complete genome	This study
-SM5451	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685959	Complete genome	This study
-SM5442	USA	 AZ/Flagstaff	Eptesicus fuscus	2001	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685897	Complete genome	This study
-SM5441	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685962	Complete genome	This study
-SM5440	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685969	Complete genome	This study
-SM5103	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685930	N, P, M, G, L	This study
-SM5102	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685906	N, P, M, G, L	This study
-SM5101	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685958	Complete genome	This study
-SM5100	USA	 AZ/Flagstaff	Mephitis mephitis	2001	EF-W1	Original brain	JQ685940	Complete genome	This study
-SM5450	USA	AZ/Flagstaff	Eptesicus fuscus	2001	EF-W1	Original brain	AY170413	N	[1]
-CO-Coyot-2010	USA	 CO	Canis latrans	2010	EF-W1	Original brain	JQ685917	Complete genome	This study
-OR05455	USA	 OR	Urocyon cinereoargenteus	2010	EF-W2	Original brain	JQ685948	Complete genome	This study
-OR05506	USA	 OR	Urocyon cinereoargenteus	2010	MYsp	Original brain	JQ685918	Complete genome	This study
-MXSK3636	Mexico		Spilogale putorius	2009	Cosmopolitan (MexSK-2)	Mouse	JQ685975	Complete genome	This study
-RAC	GA		Procyon lotor	2003	RAC	Mouse	JQ685901	Complete genome	This study
-NC1234	?		Mephitis mephitis	?	Cosmopolitan (NCSK)	Original brain	JQ685967	Complete genome	This study
-NC839	USA	 TN	Mephitis mephitis	1984	Cosmopolitan (NCSK)	Original brain	JQ685944	Complete genome	This study
-MXSK3644	Mexico		Spilogale putorius	2009	MexSK-1	Mouse	JQ685929	Complete genome	This study
-CASK2	USA	 CA	Mephitis mephitis	1974	Cosmopolitan (CASK)	Original brain	JQ685970	Complete genome	This study
-CA982	USA	 CA	Mephitis mephitis	1994	Cosmopolitan (CASK)	Original brain	JQ685894	Complete genome	This study
-A10-0515	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	Cosmopolitan (AZFX)	Original brain	JQ685899	Complete genome	This study
-A10-0514	USA	 AZ/Flagstaff	Mephitis mephitis	2009	SCSK	Original brain	JQ685938	Complete genome	This study
-A10-0512	USA	 AZ/Flagstaff	Mephitis mephitis	2009	SCSK	Original brain	JQ685968	Complete genome	This study
-A10-0511	USA	 AZ/Flagstaff	Urocyon cinereoargenteus	2009	Cosmopolitan (AZFX)	Original brain	JQ685943	Complete genome	This study
-MXSK13938	Mexico		Spilogale putorius	2007	MexSK-1	Mouse	JQ685954	Complete genome	This study
-FJ712194	China		Canis familiaris	2008	SE Aasia-2	?	FJ712194	Complete genome	[2]
-GU345746	China		Canis familiaris	1992	SE Aasia-2	?	GU345746	Complete genome	Meng et al., unpubliched
-8764THA	Thailand		Homo sapiens	1983	SE Asia - 3	?	EU293111	Complete genome	[3]
-GU345748	China		Canis familiaris	2006	SE Aasia-2	?	GU345748	Complete genome	Meng et al., unpubliched
-FJ712195	China		Melogale moschata	2008	SE Asia - 3	?	FJ712195	Complete genome	[2]
-9147FRA	France		Vulpes vulpes	1991	Cosmopolitan (EUR)	?	EU293115	Complete genome	[3]
-FJ712196	China		Melogale moschata	2008	SE Asia - 3	?	FJ712196	Complete genome	[2]
-GU358653	China		Canis familiaris	1994	SE Asia - 3	?	GU358653	Complete genome	Li et al., unpublished
-GU345747	China		Homo sapiens	1986	SE Asia -2	?	GU345747	Complete genome	Meng et al., unpubliched
-EU311738	Canada	 ON	Procyon lotor	1999	RAC	Original brain	EU311738	Complete genome	[4]
-EF437215	India		Homo sapiens	2006	Arctic-like	?	EF437215	Complete genome	Desai et al., unpublished
-rv61	UK (via India)		Homo sapiens	1987	Arctic-like	Mouse	AY352493	N	[5]; this study
-rv61	UK (via India)		Homo sapiens	1987	Arctic-like	Mouse	JQ685981	G	[5]; this study
-483a	Russia	 Yakutia	Vulpes lagopus	1986	Arctic	Mouse	AY352487	N	[5]; this study
-483a	Russia	 Yakutia	Vulpes lagopus	1986	Arctic	Mouse	JQ685982	G	[5]; this study
-304c	Russia	 Tyva	Vulpes corsac	1977	Arctic-like	Mouse	AY352459	N	[5]; this study
-304c	Russia	 Tyva	Vulpes corsac	1977	Arctic-like	Mouse	JQ685983	G	[5]; this study
-RV1596	Russia	 Pskov	Vulpes vulpes	1987	Cosmopolitan (EUR)	Mouse	AY352474	N	[5]
-U43432	Estonia		Nyctereutes procyonoides	1991	Cosmopolitan (EUR)	?	U43432	N	[6]
-U42706	Yugoslavia		Vulpes vulpes	1986	Cosmopolitan (EUR)	?	U42706	N	[6]
-U22481	Saudi Arabia		Vulpes vulpes	1987	Cosmopolitan (EUR)	?	U22481	N	[7]
-U22480	Oman		Vulpes vulpes	1990	Cosmopolitan (EUR)	?	U22480	N	[7]
-U22483	Iran		Canis lupus	1987	Cosmopolitan (EUR)	?	U22483	N	[7]
-U42703	Yugoslavia		Vulpes vulpes	1976	Cosmopolitan (EUR)	?	U42703	N	[6]
-9224TAN	Tanzania		Canis familiaris	1992	Cosmopolitan (Africa - 1)	?	U22648	N	[7]
-8670NGA	Nigeria		Homo sapiens	1983	Cosmopolitan (Africa - 1)	?	U22488	N	[7]
-8807ETH	Ethiopia		Crocuta crocuta	1987	Cosmopolitan (Africa - 1)	?	U22637	N	[7]
-8660GUI	Guinea		Canis familiaris	1986	Africa-2	?	U22487	N	[7]
-8636HAV	Burkina Faso		Canis familiaris	1986	Africa-2	?	EU853614	N	[7]
-AB041966	Sri Lanka		Canis familiaris	1996	SE Asia - 1	?	AB041966	N	[8]
-AY138549	Sri Lanka		Canis familiaris	1986	SE Asia - 1	?	AY138549	N	[9]
-EU086205	Philippines		Canis familiaris	2004	SE Asia - 3	?	EU086205	N	[10]
-AF467949	S. Africa		Cynictis penicillata		Africa - 3	?	AF467949	N	Jacob et al., unpublished
-A0905	USA	 AK	Canis familiaris	2006	Arctic	Original brain	EF611853	N	[11]; this study
-A0905	USA	 AK	Canis familiaris	2006	Arctic	Original brain	JQ685980	G	[11]; this study
-FJ866835	China		Canis familiaris	2008	SE Asia - 2	?	FJ866835	Complete genome	Zhang et al., unpublished
-EU643590	China		Homo sapiens	2006	SE Asia - 3	?	EU643590	Complete genome	[12]
-AB362483	Brazil		Lycalopex vetulus		Cosmopolitan	?	AB362483	Complete genome	[13]
-AY956319	Germany (via India)		Homo sapiens	2004	Arctic-like	?	AY956319	Complete genome	Pfefferle et al., unpublished
-WA1185	USA	 WA	Lasionycteris noctivagans	2003	LN	N, P, M, G - original brain; L and termini - mouse	JQ685895	Complete genome	This study
-WA0173	USA	 WA	Eptesicus fuscus	2000	EF-W2	N, P, M, G - original brain; L and termini - mouse	JQ685931	Complete genome	This study
-TX5960	USA	 TX	Lasiurus xanthinus	2002	LX	N, P, M, G - original brain; L and termini - mouse	JQ685910	Complete genome	This study
-TX4904	USA	 TX	Lasiurus intermedius	2002	LI	N, P, M, G - original brain; L and termini - mouse	JQ685915	Complete genome	This study
-TN310	USA	 TN	Lasiurus cinereus	2004	LC	N, P, M, G - original brain; L and termini - mouse	JQ685947	Complete genome	This study
-TN209	USA	 TN	Lasiurus borealis	2005	LB	N, P, M, G - original brain; L and termini - mouse	JQ685902	Complete genome	This study
-TN186	USA	 TN	Perimyotis subflavus	2005	PS	N, P, M, G - original brain; L and termini - mouse	JQ685922	Complete genome	This study
-NJ2262	USA	 NJ	Lasiurus borealis	2005	LB	N, P, M, G - original brain; L and termini - mouse	JQ685919	Complete genome	This study
-FL1078	USA	 FL	Myotis austroriparius	2001	MYsp	N, P, M, G - original brain; L and termini - mouse	JQ685921	Complete genome	This study
-FL769	USA	 FL	Lasiurus seminolus	2003	LS	N, P, M, G - original brain; L and termini - mouse	JQ685900	Complete genome	This study
-FL385	USA	 FL	Tadarida brasiliensis	2003	TB	N, P, M, G - original brain; L and termini - mouse	JQ685905	Complete genome	This study
-EF	USA	 PA	Eptesicus fuscus	1984	EF-E1	mouse	JQ685920	Complete genome	This study
-ca04148	USA	 CA	Eptesicus fuscus	2004	EF-W2	N, P, M, G - original brain; L and termini - mouse	JQ685903	Complete genome	This study
-AZ4490	USA	 AZ	Myotis yumanensis	2005	My	N, P, M, G - original brain; L and termini - mouse	JQ685955	Complete genome	This study
-AZ3003	USA	 AZ	Antrozous pallidus	2009	AP	N, P, M, G - original brain; L and termini - mouse	JQ685971	Complete genome	This study
-waef03	USA	 WA	Eptesicus fuscus	2004	EF-E2	N, P, M, G - original brain; L and termini - mouse	JQ685925	Complete genome	This study
-FL1010	USA	 FL	Lasiurus intermedius	2002	LI	N, P, M, G - original brain; L and termini - mouse	JQ685916	Complete genome	This study
-3645DR	Mexico		Homo sapiens	2009	DR	mouse	JQ685953	Complete genome	This study
-SHBRV18	USA		Homo sapiens		PS	mouse	AY705373	Complete genome	[14]
-9704ARG	Argentina		Tadarida brasilensis	1997	TB	?	EU293116	Complete genome	[3]
-EF40	Canada	 ON	Eptesicus fuscus	1995	EF-E1	?	AF351862	N	[15]
-EF3	Canada	 ON	Eptesicus fuscus	1972	EF-E2	?	AF351861	N	[15]
-wa1086	USA	 WA	Eptesicus fuscus	2003	EF-W2	Original brain	GU644851	N	[16]
-wa267	USA	 WA	Eptesicus fuscus	2000	EF-W2	Original brain	GU644682	N	[16]
-wa1043	USA	 WA	Eptesicus fuscus	2003	EF-W2	Original brain	GU644683	N	[16]
-ML4	Canada	 BC	Myotis lucifugus	1992	MYsp	?	AF351839	N	[15]
-ML6	Canada	 NS	Myotis lucifugus	1994	MYsp	?	AF351838	N	[15]
-MC2	Canada	 BC	Myotis californicus	1992	MYsp	?	AF351836	N	[15]
-ME1	Canada	 BC	Myotis evotis	1992	MYsp	?	AF351835	N	[15]
-IB-Ch	Chile		Tadarida sp	1988	TB	?	AF351850	N	[15]
-TB1	USA	 TX	Tadarida brasiliensis	?	TB	?	AF351849	N	[15]
-EF22	Canada	 BC	Eptesicus fuscus	1988	EF-W2	?	AF351830	N	[15]
-804	USA	 CA	Eptesicus fuscus	1987	EF-W2	?	AF394887	N	[17]
-EF72	USA	 CT	Eptesicus fuscus	1998	EF-E1	?	AF351854	N	[15]
-EF57	Canada	 ONT	Eptesicus fuscus	1997	EF-E1	?	AF351859	N	[15]
-EF71	USA	 CT	Eptesicus fuscus	1998	EF-E1	?	AF351860	N	[15]
-136	USA	 RA	Eptesicus fuscus	1984	EF-E1	?	AY039226	N	[17]
-EF34	Canada	 BC	Eptesicus fuscus	1972	EF-E2	?	AF351832	N	[15]
-906	USA	 WA	Eptesicus fuscus	1986	EF-E2	?	AY039227	N	[17]
-EF31	Canada	 SASK	Eptesicus fuscus	1989	EF-E2	?	AF351831	N	[15]
-EF3	Canada	 ONT	Eptesicus fuscus	1972	EF-E2	?	AF351861	N	[15]
-132	USA	 PA	Eptesicus fuscus	1972	EF-E2	?	AY039229	N	[17]
-EF19	Canada	 ALTA	Eptesicus fuscus	1991	EF-E2	?	AF351855	N	[15]
-3634DR	Mexico		Bovine	2009	DR	Mouse	JQ685936	N, P, M, G, L	This study
-A02-2972	USA	 AZ	Parastrellus hesperos	2002	PH	N, P, M, G - original brain; L and termini - mouse	JQ685965	Complete genome	This study
-A02-2971	USA	 CA	Parastrellus hesperos	2002	PH	N, P, M, G - original brain; L and termini - mouse	JQ685952	Complete genome	This study
-AZBAT-7453	USA	 AZ	Eptesicus fuscus	1975	EF-W1	Mouse	JQ685956	Complete genome	This study
-AZBAT-6763	USA	 AZ	Eptesicus fuscus	1985	EF-W1	Mouse	JQ685913	Complete genome	This study
-AZBAT-65094	USA	 AZ	Eptesicus fuscus	1981	EF-W2	Mouse	JQ685942	Complete genome	This study
-SM4862	USA	 AZ/Flagstaff	Eptesicus fuscus	1999	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685946	Complete genome	This study
-SM4871	USA	 AZ/Flagstaff	Eptesicus fuscus	1999	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685923	Complete genome	This study
-SM3844	USA	 AZ/Flagstaff	Eptesicus fuscus	1995	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685974	Complete genome	This study
-SM3849	USA	 AZ/Flagstaff	Eptesicus fuscus	1996	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685907	Complete genome	This study
-OR58	USA	 OR	Urocyon cinereoargenteus	2010	EF-W2	Original brain	JQ685977	N, P, M, G, L	This study
-OR703	USA	 OR	Urocyon cinereoargenteus	2010	EF-W2	Original brain	JQ685914	N, P, M, G, L	This study
-OR704	USA	 OR	Urocyon cinereoargenteus	2010	EF-W2	Original brain	JQ685924	N, P, M, G, L	This study
-OR43	USA	 OR	Urocyon cinereoargenteus	2000	MYsp	Original brain	JQ685979	N	This study
-OR43	USA	 OR	Urocyon cinereoargenteus	2000	MYsp	Original brain	JQ686013	G	This study
-OR59	USA	 OR	Urocyon cinereoargenteus	2006	MYsp	Original brain	JQ685978	N	This study
-OR59	USA	 OR	Urocyon cinereoargenteus	2006	MYsp	Original brain	JQ686012	G	This study
-A11-1043	USA	 OR	Canis latrans	2011	EF-W2	Original brain	JQ685973	Complete genome	This study
-AZ10-140	AZ/Flagstaff		Eptesicus fuscus	2010	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685961	Complete genome	This study
-AZ10-144	AZ/Flagstaff		Eptesicus fuscus	2010	EF-W1	N, P, M, G - original brain; L and termini - mouse	JQ685951	N, P, M, G, L	This study
-1741WC.SK	Canada		Mephitis mephitis	1992	Cosmopolitan (NCSK)	?	AF369286	P	[18]
-867WC.SK	Canada		Mephitis mephitis	1992	Cosmopolitan (NCSK)	?	AF369285	P	[18]
-9499.MYO	Canada		Vulpes vulpes	1993	MYsp 	?	AF369353	P	[18]
-B1.DG	Brazil		Canis familiaris	1993	Cosmopolitan (DOG-LA)	?	AF369314	P	[18]
-I15.DG	India		Canis familiaris	1995	SE Asia - 1	?	AF369309	P	[18]
-Ir5.DG	Iran		Canis familiaris	1993	Cosmopolitan (EUR)	?	AF369311	P	[18]
-ONT1.RFX	Canada		Mephitis mephitis	1991	Arctic	?	AF369265	P	[18]
-ONT2.RFX	Canada		Vulpes vulpes	1990	Arctic	?	AF369266	P	[18]
-P1.DG	Paraguay		Canis familiaris	1994	Cosmopolitan (DOG-LA)	?	AF369315	P	[18]
-RU7.FX	Kazakhstan		Vulpes vulpes	1988	Cosmopolitan (EUR)	?	AF369274	P	[18]
-RU9.RD	Russia		Nyctereutes procyonoides	1988	Arctic-like	?	AF369284	P	[18]
-V027.DG	Tunissia		Canis familiaris	1988	Cosmopolitan (Africa - 1)	?	AF369322	P	[18]
-V034.RFX	Switzerland		Vulpes vulpes	1987	Cosmopolitan (EUR)	?	AF369272	P	[18]
-V046.MG	S. Africa		Cynictis penicillata	1990	Africa - 3	?	AF369298	P	[18]
-V050.MG	S. Africa		Cynictis penicillata	1990	Africa - 3	?	AF369301	P	[18]
-V113.DG	Sri Lanka		Canis familiaris	1986	SE Asia - 1	?	AF369320	P	[18]
-V118.DG	Sri Lanka		Canis familiaris	1986	SE Asia - 1	?	AF369321	P	[18]
-V121.DG	Nepal		Canis familiaris	1989	Arctic-like	?	AF369317	P	[18]
-V211.SK	USA	 TX	Mephitis mephitis	1994	SCSK	?	AF369287	P	[18]
-V213.SK	USA	 TX	Mephitis mephitis	1994	Cosmopolitan (COY)	?	AF369289	P	[18]
-V216.SK	USA	 TX	Mephitis mephitis	1994	SCSK	?	AF369291	P	[18]
-V217.CO	USA	 TX	Canis latrans	1994	Cosmopolitan (COY)	?	AF369337	P	[18]
-V250.CD	S. Africa		Canis familiaris	1994	Cosmopolitan (Africa - 1)	?	AF369297	P	[18]
-V264.MG	S. Africa		Cynictis penicillata	1995	Africa - 3	?	AF369302	P	[18]
-V285.RFX	Check Republic		Vulpes vulpes	1992	Cosmopolitan (EUR)	?	AF369273	P	[18]
-V461.DG	Nigeria		Canis familiaris	1996	Africa - 2	?	AF369326	P	[18]
-V466.DG	Nigeria		Canis familiaris	1996	Cosmopolitan (DOG-LA)	?	AF369329	P	[18]
-V660.FX	Israel		Vulpes vulpes	?	Cosmopolitan (EUR)	?	AF369280	P	[18]
-V667.DG	Ethiopia		Canis familiaris	?	Cosmopolitan (Africa - 1)	?	AF369331	P	[18]
-V670.DG	Tanzania		Canis familiaris	?	Cosmopolitan (Africa - 1)	?	AF369333	P	[18]
-V458.DG	India		Bovine	1991	Arctic-like	?	AF369330	P	[18]
-058.BBB	Canada		Eptesicus fuscus	1993	EF-E1	?	AF369338	P	[18]
-2994.BBB	Canada		Eptesicus fuscus	1993	EF-E2	?	AF369339	P	[18]
-3694.MYO	Canada		Myotis sp	1996	MYsp 	?	AF369349	P	[18]
-4398.SHB	Canada		Lasionycteris noctivagans	1980	LN	?	AF369345	P	[18]
-4805.BBB	Canada		Eptesicus fuscus	1995	EF-E2	?	AF369350	P	[18]
-4887.LBB	Canada		Myotis lucifugus	1994	MYsp 	?	AF369344	P	[18]
-6832.RB	Canada		Lasiurus borealis	1991	LB	?	AF369351	P	[18]
-7890.LBB	Canada		Myotis lucifugus	1997	MYsp 	?	AF369352	P	[18]
-V077.SHB	Canada		Lasionycteris noctivagans	1988	LN	?	AF369346	P	[18]
-V078.BBB	Canada		Eptesicus fuscus	1988	EF-W2	?	AF369341	P	[18]
-V084.BBB	Canada		Eptesicus fuscus	1989	EF-E2	?	AF369340	P	[18]
-V089.LBB	Canada		Myotis lucifugus	1992	MYsp 	?	AF369343	P	[18]
-V102.MYO	Canada		Myotis evotis	1992	MYsp 	?	AF369354	P	[18]
-V103.HB	Canada		Lasiurus cinereus	1992	LC	?	AF369347	P	[18]
-V151.BBB	Canada		Eptesicus fuscus	1989	EF-E2	?	AF369355	P	[18]
-V158.SHB	Canada		Lasionycteris noctivagans	1991	LN	?	AF369356	P	[18]
-V170.BBB	Canada		Eptesicus fuscus	1993	EF-E2	?	AF369357	P	[18]
-V179.LBB	Canada		Myotis lucifugus	1993	MYsp 	?	AF369358	P	[18]
-V230.BBB	USA	 TX	Eptesicus fuscus	1994	EF-W1	?	AF369342	P	[18]
-V231.RB	USA	 TX	Lasiurus borealis	1994	LB	?	AF369348	P	[18]
-V235.FTB	USA	 TX	Tadarida brasiliensis	1994	TB	?	AF369359	P	[18]
-FL.RAC	USA	 FL	Procyon lotor	1987	RAC	?	AF369294	P	[18]
-NY.RAC	USA	 NY	Procyon lotor	1992	RAC	?	AF369293	P	[18]
-A10-3020	TX		Urocyon cinereoargenteus	2008	Cosmopolitan (TXFX)	Original brain	JQ685984	G	This study
-A10-3932	AZ		Urocyon cinereoargenteus	2010	Cosmopolitan (COY)	Original brain	JQ685985	G	This study
-A10-3013	TX		Mephitis mephitis	2009	SCSK	Original brain	JQ685986	G	This study
-A10-6931	MN		Vulpes vulpes		Cosmopolitan (NCSK)	Original brain	JQ685987	G	This study
-A10-1431	NH		Vulpes vulpes		Arctic	Original brain	JQ685988	G	This study
-A10-001	AZ		Urocyon cinereoargenteus	2010	Cosmopolitan (COY)	Original brain	JQ685989	G	This study
-Fox-9064	NH		Vulpes vulpes		Arctic	Original brain	JQ685990	G	This study
-A09-0255	OK		Canis lupus	2009	SCSK	Original brain	JQ685991	G	This study
-SL-cow	Sri Lanka		Bovine		SE Asia - 1	Original brain	JQ685992	G	This study
-A08-0500	CO		Felis catus	2008	SCSK	Original brain	JQ685993	G	This study
-A09-0103	AL		Canis latrans	2009	RAC	Original brain	JQ685994	G	This study
-Fox-8007	TX		Urocyon cinereoargenteus	2008	Cosmopolitan (TXFX)	Original brain	JQ685995	G	This study
-YUG1-WF	Yugoslavia		Bovine	1984	Cosmopolitan (EUR)	?	AF325463	G	[19]
-HUN1-HM	Hungary		Homo sapiens	1992	Cosmopolitan (EUR)	?	AF325462	G	[19]
-POL1-RD	Poland		Nyctereutes procyonoides	1985	Cosmopolitan (EUR)	?	AF325464	G	[19]
-MOR3-HM	Morocco		Homo sapiens	1990	Cosmopolitan (Africa -1 )	?	AF325469	G	[19]
-TUN1-HM	Tunissia		Homo sapiens	1986	Cosmopolitan (Africa -1 )	?	AF325466	G	[19]
-MEX1-DG	Mexico		Canis familiaris	1991	Cosmopolitan (DOG LA)	?	AF325477	G	[19]
-SAF1-MG	S. Africa		Cynictis penicillata	1987	Africa - 3	?	AF325485	G	[19]
-NIG1-DG	Niger		Canis familiaris	1990	Africa - 2	?	AF325480	G	[19]
-MAU1-CL	Mauritania		Camelus dromedarius	1986	Africa - 2	?	AF325483	G	[19]
-CAM1-UN	Cameroon		Canis familiaris	1988	Africa - 2	?	AF325481	G	[19]
-GUI1-DG	Guinea		Canis familiaris	1986	Africa - 2	?	AF325484	G	[19]
-MAL1-HM	Malaysia		Homo sapiens	1985	SE Asia - 3	?	AF325487	G	[19]
-NEP1-DG	Nepal		Canis familiaris	1989	SE Asia - 1	?	AF325489	G	[19]
-03003INDO	Indonesia		Canis familiaris	2003	SE Asia - 2	?		G	[10]
-05007CHI	China		Canis familiaris	2004	SE Asia - 2	?		G	[10]
-05005CHI	China		Canis familiaris	2005	SE Asia - 2	?	EU086146	G	[10]
-02046CHI	China		Canis familiaris	1994	SE Asia - 3	?	EU086144	G	[10]
-04030PHI	Philippines		Homo sapiens	2004	SE Asia - 3	?	EU086155	G	[10]
-9910LAO	Laos		Canis familiaris	1999	SE Asia - 3	?	EU086152	G	[10]
-MOR2-DG	Marocco		Canis familiaris	1987	Cosmopolitan (Africa -1 )	?	AF325467	G	[19]
-MAD1-DG	Madagascar		Canis familiaris	1985	Cosmopolitan (Africa -1 )	?	AF325478	G	[19]
-AB247428	Brazil		Desmodus rotundus	?	DR	?	AB247428	G	Sato, unpublished
-AB383164	Brazil		Non-hematophagous bat	?	LC	?	AB383164	G	Sato, unpublished
-AB383163	Brazil		Non-hematophagous bat	?	LC	?	AB383163	G	Sato, unpublished
-AB383165	Brazil		Non-hematophagous bat	?	EFu 	?	AB383165	G	[20]
-AB383166	Brazil		Non-hematophagous bat	?		?	AB383166	G	[20]
-AB383167	Brazil		Eumops auripendulus	?	EFu 	?	AB383167	G	[20]
-AB383168	Brazil		Eptesicus furinalis	?	EFu 	?	AB383168	G	[20]
-AB383170	Brazil		Eptesicus furinalis	?	EFu 	?	AB383170	G	[20]
-AB383171	Brazil		Eptesicus furinalis	?	EFu 	?	AB383171	G	[20]
-AB383172	Brazil		Nyctinomops laticaudatus	?	EFu 	?	AB383172	G	[20]
-USA8-BT	USA	 MT	Myotis sp	1981	MYsp 	?	AF325494	G	[19]
-USA9-BT	USA	 MT	Myotis sp	1982	MYsp 	?	AF325495	G	[19]
-U52946	USA	 CA	Homo sapiens	1994	LN	?	U52946	G	[21]
-A09-2561	USA	 IA	Eptesicus fuscus	2010	EF-E2	Original brain	JQ685996	G	This study
-A10-5170	USA	 ID	Myotis sp	2010	MYsp 	Original brain	JQ685997	G	This study
-T91-0038	USA	 CA	Myotis sp	1991	MYsp 	Original brain	JQ685998	G	This study
-T94-0237	USA	 CA	Lasiurus cinereus	1994	LC	Original brain	JQ685999	G	This study
-US07-010	USA	 NC	Perimyotis subflavus	2010	PS	Original brain	JQ686000	G	This study
-AW3565	USA	 AL	Lasionycteris noctivagans	2010	LN	Original brain	JQ686001	G	This study
-VS120-109	USA	 NC	Eptesicus fuscus	2010	EF-E1	Original brain	JQ686002	G	This study
-A10-5102	USA	 NC	Perimyotis subflavus	2010	PS	Original brain	JQ686003	G	This study
-A10-3672	USA	 AL	Lasionycteris noctivagans	2009	LN	Original brain	JQ686004	G	This study
-A10-3653	USA	 FL	Lasiurus intermedius	2008	LI	Original brain	JQ686005	G	This study
-WR93-1654	USA	 AZ	Antrozous pallidus	1993	AP	Original brain	JQ686006	G	This study
-LAH60	USA	 NC	Lasiurus borealis	2010	LB	Original brain	JQ686007	G	This study
-OR-062011	USA	 OR	Urocyon cinereoargenteus	2011	MYsp 	Original brain	JQ686011	G	This study
-A11-5404	USA	 AZ	Urocyon cinereoargenteus	2011	MYsp 	Original brain	JQ686008	G	This study
-A11-5737	USA	 VA	Vulpes vulpes	2011	PS	Original brain	JQ686009	G	This study
-A11-6191	USA	 WV	Fox (unidentified)	2011	EF-E1	Original brain	JQ686010	G	This study
+Accession,Strain,Country,Location,Species_latin_binomial,Year,Subclade,Source,Genes sequenced,Reference
+JQ685904,SM5081,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685927,SM5080,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685893,SM5079,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685911,SM5077,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685932,SM5076,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685935,SM5074,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685960,SM4872,USA, AZ/Flagstaff,Eptesicus fuscus,2001,EF-W1,Original brain,Complete genome,This study
+JQ685941,SM1545,USA, AZ/Flagstaff,Mephitis mephitis,2005,EF-W1,Original brain,Complete genome,This study
+JQ685957,OR8767,USA, OR,Urocyon cinereoargenteus,2009,MYsp,Original brain,Complete genome,This study
+JQ685909,CA100,USA, CA,Eptesicus fuscus,2005,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685926,AZ2408,USA, AZ/Flagstaff,Eptesicus fuscus,2005,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685950,A093504,USA, AZ/Flagstaff,Eptesicus fuscus,2009,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685963,Coati -3639,Mexico, Cancun,Nasua narica,2009,TB,Mouse,Complete genome,This study
+JQ685928,2403,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685896,2402,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685934,2401,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,Complete genome,This study
+JQ685912,2400,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685939,2399,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685892,2398,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685937,2396,USA, AZ/Flagstaff,Bassariscus astutus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685972,2395,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685949,SM5075,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685976,2526,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685908,1060,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685898,A093500,USA, AZ/Flagstaff,Eptesicus fuscus,2009,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685945,SM6709,USA, AZ/Flagstaff,Felis catus,2005,EF-W1,Original brain,Complete genome,This study
+JQ685933,SM5950,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2004,EF-W1,Original brain,Complete genome,This study
+JQ685964,SM5596,USA, AZ/Flagstaff,Mephitis mephitis,2004,EF-W1,Original brain,Complete genome,This study
+JQ685966,SM5470,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685959,SM5451,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685897,SM5442,USA, AZ/Flagstaff,Eptesicus fuscus,2001,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685962,SM5441,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685969,SM5440,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685930,SM5103,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685906,SM5102,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,N; P; M; G; L,This study
+JQ685958,SM5101,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+JQ685940,SM5100,USA, AZ/Flagstaff,Mephitis mephitis,2001,EF-W1,Original brain,Complete genome,This study
+AY170413,SM5450,USA,AZ/Flagstaff,Eptesicus fuscus,2001,EF-W1,Original brain,N,[1]
+JQ685917,CO-Coyot-2010,USA, CO,Canis latrans,2010,EF-W1,Original brain,Complete genome,This study
+JQ685948,OR05455,USA, OR,Urocyon cinereoargenteus,2010,EF-W2,Original brain,Complete genome,This study
+JQ685918,OR05506,USA, OR,Urocyon cinereoargenteus,2010,MYsp,Original brain,Complete genome,This study
+JQ685975,MXSK3636,Mexico,,Spilogale putorius,2009,Cosmopolitan (MexSK-2),Mouse,Complete genome,This study
+JQ685901,RAC,GA,,Procyon lotor,2003,RAC,Mouse,Complete genome,This study
+JQ685967,NC1234,0,,Mephitis mephitis,0,Cosmopolitan (NCSK),Original brain,Complete genome,This study
+JQ685944,NC839,USA, TN,Mephitis mephitis,1984,Cosmopolitan (NCSK),Original brain,Complete genome,This study
+JQ685929,MXSK3644,Mexico,,Spilogale putorius,2009,MexSK-1,Mouse,Complete genome,This study
+JQ685970,CASK2,USA, CA,Mephitis mephitis,1974,Cosmopolitan (CASK),Original brain,Complete genome,This study
+JQ685894,CA982,USA, CA,Mephitis mephitis,1994,Cosmopolitan (CASK),Original brain,Complete genome,This study
+JQ685899,A10-0515,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,Cosmopolitan (AZFX),Original brain,Complete genome,This study
+JQ685938,A10-0514,USA, AZ/Flagstaff,Mephitis mephitis,2009,SCSK,Original brain,Complete genome,This study
+JQ685968,A10-0512,USA, AZ/Flagstaff,Mephitis mephitis,2009,SCSK,Original brain,Complete genome,This study
+JQ685943,A10-0511,USA, AZ/Flagstaff,Urocyon cinereoargenteus,2009,Cosmopolitan (AZFX),Original brain,Complete genome,This study
+JQ685954,MXSK13938,Mexico,,Spilogale putorius,2007,MexSK-1,Mouse,Complete genome,This study
+FJ712194,FJ712194,China,,Canis familiaris,2008,SE Aasia-2,0,Complete genome,[2]
+GU345746,GU345746,China,,Canis familiaris,1992,SE Aasia-2,0,Complete genome,Meng et al.; unpubliched
+EU293111,8764THA,Thailand,,Homo sapiens,1983,SE Asia - 3,0,Complete genome,[3]
+GU345748,GU345748,China,,Canis familiaris,2006,SE Aasia-2,0,Complete genome,Meng et al.; unpubliched
+FJ712195,FJ712195,China,,Melogale moschata,2008,SE Asia - 3,0,Complete genome,[2]
+EU293115,9147FRA,France,,Vulpes vulpes,1991,Cosmopolitan (EUR),0,Complete genome,[3]
+FJ712196,FJ712196,China,,Melogale moschata,2008,SE Asia - 3,0,Complete genome,[2]
+GU358653,GU358653,China,,Canis familiaris,1994,SE Asia - 3,0,Complete genome,Li et al.; unpublished
+GU345747,GU345747,China,,Homo sapiens,1986,SE Asia -2,0,Complete genome,Meng et al.; unpubliched
+EU311738,EU311738,Canada, ON,Procyon lotor,1999,RAC,Original brain,Complete genome,[4]
+EF437215,EF437215,India,,Homo sapiens,2006,Arctic-like,0,Complete genome,Desai et al.; unpublished
+AY352493,rv61,UK (via India),,Homo sapiens,1987,Arctic-like,Mouse,N,[5]; this study
+JQ685981,rv61,UK (via India),,Homo sapiens,1987,Arctic-like,Mouse,G,[5]; this study
+AY352487,483a,Russia, Yakutia,Vulpes lagopus,1986,Arctic,Mouse,N,[5]; this study
+JQ685982,483a,Russia, Yakutia,Vulpes lagopus,1986,Arctic,Mouse,G,[5]; this study
+AY352459,304c,Russia, Tyva,Vulpes corsac,1977,Arctic-like,Mouse,N,[5]; this study
+JQ685983,304c,Russia, Tyva,Vulpes corsac,1977,Arctic-like,Mouse,G,[5]; this study
+AY352474,RV1596,Russia, Pskov,Vulpes vulpes,1987,Cosmopolitan (EUR),Mouse,N,[5]
+U43432,U43432,Estonia,,Nyctereutes procyonoides,1991,Cosmopolitan (EUR),0,N,[6]
+U42706,U42706,Yugoslavia,,Vulpes vulpes,1986,Cosmopolitan (EUR),0,N,[6]
+U22481,U22481,Saudi Arabia,,Vulpes vulpes,1987,Cosmopolitan (EUR),0,N,[7]
+U22480,U22480,Oman,,Vulpes vulpes,1990,Cosmopolitan (EUR),0,N,[7]
+U22483,U22483,Iran,,Canis lupus,1987,Cosmopolitan (EUR),0,N,[7]
+U42703,U42703,Yugoslavia,,Vulpes vulpes,1976,Cosmopolitan (EUR),0,N,[6]
+U22648,9224TAN,Tanzania,,Canis familiaris,1992,Cosmopolitan (Africa - 1),0,N,[7]
+U22488,8670NGA,Nigeria,,Homo sapiens,1983,Cosmopolitan (Africa - 1),0,N,[7]
+U22637,8807ETH,Ethiopia,,Crocuta crocuta,1987,Cosmopolitan (Africa - 1),0,N,[7]
+U22487,8660GUI,Guinea,,Canis familiaris,1986,Africa-2,0,N,[7]
+EU853614,8636HAV,Burkina Faso,,Canis familiaris,1986,Africa-2,0,N,[7]
+AB041966,AB041966,Sri Lanka,,Canis familiaris,1996,SE Asia - 1,0,N,[8]
+AY138549,AY138549,Sri Lanka,,Canis familiaris,1986,SE Asia - 1,0,N,[9]
+EU086205,EU086205,Philippines,,Canis familiaris,2004,SE Asia - 3,0,N,[10]
+AF467949,AF467949,S. Africa,,Cynictis penicillata,,Africa - 3,0,N,Jacob et al.; unpublished
+EF611853,A0905,USA, AK,Canis familiaris,2006,Arctic,Original brain,N,[11]; this study
+JQ685980,A0905,USA, AK,Canis familiaris,2006,Arctic,Original brain,G,[11]; this study
+FJ866835,FJ866835,China,,Canis familiaris,2008,SE Asia - 2,0,Complete genome,Zhang et al.; unpublished
+EU643590,EU643590,China,,Homo sapiens,2006,SE Asia - 3,0,Complete genome,[12]
+AB362483,AB362483,Brazil,,Lycalopex vetulus,,Cosmopolitan,0,Complete genome,[13]
+AY956319,AY956319,Germany (via India),,Homo sapiens,2004,Arctic-like,0,Complete genome,Pfefferle et al.; unpublished
+JQ685895,WA1185,USA, WA,Lasionycteris noctivagans,2003,LN,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685931,WA0173,USA, WA,Eptesicus fuscus,2000,EF-W2,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685910,TX5960,USA, TX,Lasiurus xanthinus,2002,LX,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685915,TX4904,USA, TX,Lasiurus intermedius,2002,LI,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685947,TN310,USA, TN,Lasiurus cinereus,2004,LC,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685902,TN209,USA, TN,Lasiurus borealis,2005,LB,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685922,TN186,USA, TN,Perimyotis subflavus,2005,PS,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685919,NJ2262,USA, NJ,Lasiurus borealis,2005,LB,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685921,FL1078,USA, FL,Myotis austroriparius,2001,MYsp,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685900,FL769,USA, FL,Lasiurus seminolus,2003,LS,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685905,FL385,USA, FL,Tadarida brasiliensis,2003,TB,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685920,EF,USA, PA,Eptesicus fuscus,1984,EF-E1,mouse,Complete genome,This study
+JQ685903,ca04148,USA, CA,Eptesicus fuscus,2004,EF-W2,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685955,AZ4490,USA, AZ,Myotis yumanensis,2005,My,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685971,AZ3003,USA, AZ,Antrozous pallidus,2009,AP,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685925,waef03,USA, WA,Eptesicus fuscus,2004,EF-E2,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685916,FL1010,USA, FL,Lasiurus intermedius,2002,LI,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685953,3645DR,Mexico,,Homo sapiens,2009,DR,mouse,Complete genome,This study
+AY705373,SHBRV18,USA,,Homo sapiens,,PS,mouse,Complete genome,[14]
+EU293116,9704ARG,Argentina,,Tadarida brasilensis,1997,TB,0,Complete genome,[3]
+AF351862,EF40,Canada, ON,Eptesicus fuscus,1995,EF-E1,0,N,[15]
+AF351861,EF3,Canada, ON,Eptesicus fuscus,1972,EF-E2,0,N,[15]
+GU644851,wa1086,USA, WA,Eptesicus fuscus,2003,EF-W2,Original brain,N,[16]
+GU644682,wa267,USA, WA,Eptesicus fuscus,2000,EF-W2,Original brain,N,[16]
+GU644683,wa1043,USA, WA,Eptesicus fuscus,2003,EF-W2,Original brain,N,[16]
+AF351839,ML4,Canada, BC,Myotis lucifugus,1992,MYsp,0,N,[15]
+AF351838,ML6,Canada, NS,Myotis lucifugus,1994,MYsp,0,N,[15]
+AF351836,MC2,Canada, BC,Myotis californicus,1992,MYsp,0,N,[15]
+AF351835,ME1,Canada, BC,Myotis evotis,1992,MYsp,0,N,[15]
+AF351850,IB-Ch,Chile,,Tadarida sp,1988,TB,0,N,[15]
+AF351849,TB1,USA, TX,Tadarida brasiliensis,0,TB,0,N,[15]
+AF351830,EF22,Canada, BC,Eptesicus fuscus,1988,EF-W2,0,N,[15]
+AF394887,804,USA, CA,Eptesicus fuscus,1987,EF-W2,0,N,[17]
+AF351854,EF72,USA, CT,Eptesicus fuscus,1998,EF-E1,0,N,[15]
+AF351859,EF57,Canada, ONT,Eptesicus fuscus,1997,EF-E1,0,N,[15]
+AF351860,EF71,USA, CT,Eptesicus fuscus,1998,EF-E1,0,N,[15]
+AY039226,136,USA, RA,Eptesicus fuscus,1984,EF-E1,0,N,[17]
+AF351832,EF34,Canada, BC,Eptesicus fuscus,1972,EF-E2,0,N,[15]
+AY039227,906,USA, WA,Eptesicus fuscus,1986,EF-E2,0,N,[17]
+AF351831,EF31,Canada, SASK,Eptesicus fuscus,1989,EF-E2,0,N,[15]
+AF351861,EF3,Canada, ONT,Eptesicus fuscus,1972,EF-E2,0,N,[15]
+AY039229,132,USA, PA,Eptesicus fuscus,1972,EF-E2,0,N,[17]
+AF351855,EF19,Canada, ALTA,Eptesicus fuscus,1991,EF-E2,0,N,[15]
+JQ685936,3634DR,Mexico,,Bovine,2009,DR,Mouse,N; P; M; G; L,This study
+JQ685965,A02-2972,USA, AZ,Parastrellus hesperos,2002,PH,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685952,A02-2971,USA, CA,Parastrellus hesperos,2002,PH,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685956,AZBAT-7453,USA, AZ,Eptesicus fuscus,1975,EF-W1,Mouse,Complete genome,This study
+JQ685913,AZBAT-6763,USA, AZ,Eptesicus fuscus,1985,EF-W1,Mouse,Complete genome,This study
+JQ685942,AZBAT-65094,USA, AZ,Eptesicus fuscus,1981,EF-W2,Mouse,Complete genome,This study
+JQ685946,SM4862,USA, AZ/Flagstaff,Eptesicus fuscus,1999,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685923,SM4871,USA, AZ/Flagstaff,Eptesicus fuscus,1999,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685974,SM3844,USA, AZ/Flagstaff,Eptesicus fuscus,1995,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685907,SM3849,USA, AZ/Flagstaff,Eptesicus fuscus,1996,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685977,OR58,USA, OR,Urocyon cinereoargenteus,2010,EF-W2,Original brain,N; P; M; G; L,This study
+JQ685914,OR703,USA, OR,Urocyon cinereoargenteus,2010,EF-W2,Original brain,N; P; M; G; L,This study
+JQ685924,OR704,USA, OR,Urocyon cinereoargenteus,2010,EF-W2,Original brain,N; P; M; G; L,This study
+JQ685979,OR43,USA, OR,Urocyon cinereoargenteus,2000,MYsp,Original brain,N,This study
+JQ686013,OR43,USA, OR,Urocyon cinereoargenteus,2000,MYsp,Original brain,G,This study
+JQ685978,OR59,USA, OR,Urocyon cinereoargenteus,2006,MYsp,Original brain,N,This study
+JQ686012,OR59,USA, OR,Urocyon cinereoargenteus,2006,MYsp,Original brain,G,This study
+JQ685973,A11-1043,USA, OR,Canis latrans,2011,EF-W2,Original brain,Complete genome,This study
+JQ685961,AZ10-140,AZ/Flagstaff,,Eptesicus fuscus,2010,EF-W1,N; P; M; G - original brain; L and termini - mouse,Complete genome,This study
+JQ685951,AZ10-144,AZ/Flagstaff,,Eptesicus fuscus,2010,EF-W1,N; P; M; G - original brain; L and termini - mouse,N; P; M; G; L,This study
+AF369286,1741WC.SK,Canada,,Mephitis mephitis,1992,Cosmopolitan (NCSK),0,P,[18]
+AF369285,867WC.SK,Canada,,Mephitis mephitis,1992,Cosmopolitan (NCSK),0,P,[18]
+AF369353,9499.MYO,Canada,,Vulpes vulpes,1993,MYsp ,0,P,[18]
+AF369314,B1.DG,Brazil,,Canis familiaris,1993,Cosmopolitan (DOG-LA),0,P,[18]
+AF369309,I15.DG,India,,Canis familiaris,1995,SE Asia - 1,0,P,[18]
+AF369311,Ir5.DG,Iran,,Canis familiaris,1993,Cosmopolitan (EUR),0,P,[18]
+AF369265,ONT1.RFX,Canada,,Mephitis mephitis,1991,Arctic,0,P,[18]
+AF369266,ONT2.RFX,Canada,,Vulpes vulpes,1990,Arctic,0,P,[18]
+AF369315,P1.DG,Paraguay,,Canis familiaris,1994,Cosmopolitan (DOG-LA),0,P,[18]
+AF369274,RU7.FX,Kazakhstan,,Vulpes vulpes,1988,Cosmopolitan (EUR),0,P,[18]
+AF369284,RU9.RD,Russia,,Nyctereutes procyonoides,1988,Arctic-like,0,P,[18]
+AF369322,V027.DG,Tunissia,,Canis familiaris,1988,Cosmopolitan (Africa - 1),0,P,[18]
+AF369272,V034.RFX,Switzerland,,Vulpes vulpes,1987,Cosmopolitan (EUR),0,P,[18]
+AF369298,V046.MG,S. Africa,,Cynictis penicillata,1990,Africa - 3,0,P,[18]
+AF369301,V050.MG,S. Africa,,Cynictis penicillata,1990,Africa - 3,0,P,[18]
+AF369320,V113.DG,Sri Lanka,,Canis familiaris,1986,SE Asia - 1,0,P,[18]
+AF369321,V118.DG,Sri Lanka,,Canis familiaris,1986,SE Asia - 1,0,P,[18]
+AF369317,V121.DG,Nepal,,Canis familiaris,1989,Arctic-like,0,P,[18]
+AF369287,V211.SK,USA, TX,Mephitis mephitis,1994,SCSK,0,P,[18]
+AF369289,V213.SK,USA, TX,Mephitis mephitis,1994,Cosmopolitan (COY),0,P,[18]
+AF369291,V216.SK,USA, TX,Mephitis mephitis,1994,SCSK,0,P,[18]
+AF369337,V217.CO,USA, TX,Canis latrans,1994,Cosmopolitan (COY),0,P,[18]
+AF369297,V250.CD,S. Africa,,Canis familiaris,1994,Cosmopolitan (Africa - 1),0,P,[18]
+AF369302,V264.MG,S. Africa,,Cynictis penicillata,1995,Africa - 3,0,P,[18]
+AF369273,V285.RFX,Check Republic,,Vulpes vulpes,1992,Cosmopolitan (EUR),0,P,[18]
+AF369326,V461.DG,Nigeria,,Canis familiaris,1996,Africa - 2,0,P,[18]
+AF369329,V466.DG,Nigeria,,Canis familiaris,1996,Cosmopolitan (DOG-LA),0,P,[18]
+AF369280,V660.FX,Israel,,Vulpes vulpes,0,Cosmopolitan (EUR),0,P,[18]
+AF369331,V667.DG,Ethiopia,,Canis familiaris,0,Cosmopolitan (Africa - 1),0,P,[18]
+AF369333,V670.DG,Tanzania,,Canis familiaris,0,Cosmopolitan (Africa - 1),0,P,[18]
+AF369330,V458.DG,India,,Bovine,1991,Arctic-like,0,P,[18]
+AF369338,058.BBB,Canada,,Eptesicus fuscus,1993,EF-E1,0,P,[18]
+AF369339,2994.BBB,Canada,,Eptesicus fuscus,1993,EF-E2,0,P,[18]
+AF369349,3694.MYO,Canada,,Myotis sp,1996,MYsp ,0,P,[18]
+AF369345,4398.SHB,Canada,,Lasionycteris noctivagans,1980,LN,0,P,[18]
+AF369350,4805.BBB,Canada,,Eptesicus fuscus,1995,EF-E2,0,P,[18]
+AF369344,4887.LBB,Canada,,Myotis lucifugus,1994,MYsp ,0,P,[18]
+AF369351,6832.RB,Canada,,Lasiurus borealis,1991,LB,0,P,[18]
+AF369352,7890.LBB,Canada,,Myotis lucifugus,1997,MYsp ,0,P,[18]
+AF369346,V077.SHB,Canada,,Lasionycteris noctivagans,1988,LN,0,P,[18]
+AF369341,V078.BBB,Canada,,Eptesicus fuscus,1988,EF-W2,0,P,[18]
+AF369340,V084.BBB,Canada,,Eptesicus fuscus,1989,EF-E2,0,P,[18]
+AF369343,V089.LBB,Canada,,Myotis lucifugus,1992,MYsp ,0,P,[18]
+AF369354,V102.MYO,Canada,,Myotis evotis,1992,MYsp ,0,P,[18]
+AF369347,V103.HB,Canada,,Lasiurus cinereus,1992,LC,0,P,[18]
+AF369355,V151.BBB,Canada,,Eptesicus fuscus,1989,EF-E2,0,P,[18]
+AF369356,V158.SHB,Canada,,Lasionycteris noctivagans,1991,LN,0,P,[18]
+AF369357,V170.BBB,Canada,,Eptesicus fuscus,1993,EF-E2,0,P,[18]
+AF369358,V179.LBB,Canada,,Myotis lucifugus,1993,MYsp ,0,P,[18]
+AF369342,V230.BBB,USA, TX,Eptesicus fuscus,1994,EF-W1,0,P,[18]
+AF369348,V231.RB,USA, TX,Lasiurus borealis,1994,LB,0,P,[18]
+AF369359,V235.FTB,USA, TX,Tadarida brasiliensis,1994,TB,0,P,[18]
+AF369294,FL.RAC,USA, FL,Procyon lotor,1987,RAC,0,P,[18]
+AF369293,NY.RAC,USA, NY,Procyon lotor,1992,RAC,0,P,[18]
+JQ685984,A10-3020,TX,,Urocyon cinereoargenteus,2008,Cosmopolitan (TXFX),Original brain,G,This study
+JQ685985,A10-3932,AZ,,Urocyon cinereoargenteus,2010,Cosmopolitan (COY),Original brain,G,This study
+JQ685986,A10-3013,TX,,Mephitis mephitis,2009,SCSK,Original brain,G,This study
+JQ685987,A10-6931,MN,,Vulpes vulpes,,Cosmopolitan (NCSK),Original brain,G,This study
+JQ685988,A10-1431,NH,,Vulpes vulpes,,Arctic,Original brain,G,This study
+JQ685989,A10-001,AZ,,Urocyon cinereoargenteus,2010,Cosmopolitan (COY),Original brain,G,This study
+JQ685990,Fox-9064,NH,,Vulpes vulpes,,Arctic,Original brain,G,This study
+JQ685991,A09-0255,OK,,Canis lupus,2009,SCSK,Original brain,G,This study
+JQ685992,SL-cow,Sri Lanka,,Bovine,,SE Asia - 1,Original brain,G,This study
+JQ685993,A08-0500,CO,,Felis catus,2008,SCSK,Original brain,G,This study
+JQ685994,A09-0103,AL,,Canis latrans,2009,RAC,Original brain,G,This study
+JQ685995,Fox-8007,TX,,Urocyon cinereoargenteus,2008,Cosmopolitan (TXFX),Original brain,G,This study
+AF325463,YUG1-WF,Yugoslavia,,Bovine,1984,Cosmopolitan (EUR),0,G,[19]
+AF325462,HUN1-HM,Hungary,,Homo sapiens,1992,Cosmopolitan (EUR),0,G,[19]
+AF325464,POL1-RD,Poland,,Nyctereutes procyonoides,1985,Cosmopolitan (EUR),0,G,[19]
+AF325469,MOR3-HM,Morocco,,Homo sapiens,1990,Cosmopolitan (Africa -1 ),0,G,[19]
+AF325466,TUN1-HM,Tunissia,,Homo sapiens,1986,Cosmopolitan (Africa -1 ),0,G,[19]
+AF325477,MEX1-DG,Mexico,,Canis familiaris,1991,Cosmopolitan (DOG LA),0,G,[19]
+AF325485,SAF1-MG,S. Africa,,Cynictis penicillata,1987,Africa - 3,0,G,[19]
+AF325480,NIG1-DG,Niger,,Canis familiaris,1990,Africa - 2,0,G,[19]
+AF325483,MAU1-CL,Mauritania,,Camelus dromedarius,1986,Africa - 2,0,G,[19]
+AF325481,CAM1-UN,Cameroon,,Canis familiaris,1988,Africa - 2,0,G,[19]
+AF325484,GUI1-DG,Guinea,,Canis familiaris,1986,Africa - 2,0,G,[19]
+AF325487,MAL1-HM,Malaysia,,Homo sapiens,1985,SE Asia - 3,0,G,[19]
+AF325489,NEP1-DG,Nepal,,Canis familiaris,1989,SE Asia - 1,0,G,[19]
+EU086146,05005CHI,China,,Canis familiaris,2005,SE Asia - 2,0,G,[10]
+EU086144,02046CHI,China,,Canis familiaris,1994,SE Asia - 3,0,G,[10]
+EU086155,04030PHI,Philippines,,Homo sapiens,2004,SE Asia - 3,0,G,[10]
+EU086152,9910LAO,Laos,,Canis familiaris,1999,SE Asia - 3,0,G,[10]
+AF325467,MOR2-DG,Marocco,,Canis familiaris,1987,Cosmopolitan (Africa -1 ),0,G,[19]
+AF325478,MAD1-DG,Madagascar,,Canis familiaris,1985,Cosmopolitan (Africa -1 ),0,G,[19]
+AB247428,AB247428,Brazil,,Desmodus rotundus,0,DR,0,G,Sato; unpublished
+AB383164,AB383164,Brazil,,Non-hematophagous bat,0,LC,0,G,Sato; unpublished
+AB383163,AB383163,Brazil,,Non-hematophagous bat,0,LC,0,G,Sato; unpublished
+AB383165,AB383165,Brazil,,Non-hematophagous bat,0,EFu ,0,G,[20]
+AB383166,AB383166,Brazil,,Non-hematophagous bat,0,,0,G,[20]
+AB383167,AB383167,Brazil,,Eumops auripendulus,0,EFu ,0,G,[20]
+AB383168,AB383168,Brazil,,Eptesicus furinalis,0,EFu ,0,G,[20]
+AB383170,AB383170,Brazil,,Eptesicus furinalis,0,EFu ,0,G,[20]
+AB383171,AB383171,Brazil,,Eptesicus furinalis,0,EFu ,0,G,[20]
+AB383172,AB383172,Brazil,,Nyctinomops laticaudatus,0,EFu ,0,G,[20]
+AF325494,USA8-BT,USA, MT,Myotis sp,1981,MYsp ,0,G,[19]
+AF325495,USA9-BT,USA, MT,Myotis sp,1982,MYsp ,0,G,[19]
+U52946,U52946,USA, CA,Homo sapiens,1994,LN,0,G,[21]
+JQ685996,A09-2561,USA, IA,Eptesicus fuscus,2010,EF-E2,Original brain,G,This study
+JQ685997,A10-5170,USA, ID,Myotis sp,2010,MYsp ,Original brain,G,This study
+JQ685998,T91-0038,USA, CA,Myotis sp,1991,MYsp ,Original brain,G,This study
+JQ685999,T94-0237,USA, CA,Lasiurus cinereus,1994,LC,Original brain,G,This study
+JQ686000,US07-010,USA, NC,Perimyotis subflavus,2010,PS,Original brain,G,This study
+JQ686001,AW3565,USA, AL,Lasionycteris noctivagans,2010,LN,Original brain,G,This study
+JQ686002,VS120-109,USA, NC,Eptesicus fuscus,2010,EF-E1,Original brain,G,This study
+JQ686003,A10-5102,USA, NC,Perimyotis subflavus,2010,PS,Original brain,G,This study
+JQ686004,A10-3672,USA, AL,Lasionycteris noctivagans,2009,LN,Original brain,G,This study
+JQ686005,A10-3653,USA, FL,Lasiurus intermedius,2008,LI,Original brain,G,This study
+JQ686006,WR93-1654,USA, AZ,Antrozous pallidus,1993,AP,Original brain,G,This study
+JQ686007,LAH60,USA, NC,Lasiurus borealis,2010,LB,Original brain,G,This study
+JQ686011,OR-062011,USA, OR,Urocyon cinereoargenteus,2011,MYsp ,Original brain,G,This study
+JQ686008,A11-5404,USA, AZ,Urocyon cinereoargenteus,2011,MYsp ,Original brain,G,This study
+JQ686009,A11-5737,USA, VA,Vulpes vulpes,2011,PS,Original brain,G,This study
+JQ686010,A11-6191,USA, WV,Fox (unidentified),2011,EF-E1,Original brain,G,This study

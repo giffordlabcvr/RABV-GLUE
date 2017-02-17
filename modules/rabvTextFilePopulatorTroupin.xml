@@ -2,6 +2,11 @@
 	<columnDelimiterRegex>,</columnDelimiterRegex>
 	<textFileColumn>
 		<identifier>true</identifier>
+		<header>Accession</header>
+		<fieldName>gb_primary_accession</fieldName>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+	</textFileColumn>
+	<textFileColumn>
 		<header>Strain</header>
 		<fieldName>isolate</fieldName>
 	</textFileColumn>
@@ -28,11 +33,6 @@
 	<textFileColumn>
 		<header>Source</header>
 		<fieldName>iso_source</fieldName>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>
-	</textFileColumn>
-	<textFileColumn>
-		<header>Accession</header>
-		<fieldName>gb_primary_accession</fieldName>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>
 	</textFileColumn>
 </textFilePopulator>

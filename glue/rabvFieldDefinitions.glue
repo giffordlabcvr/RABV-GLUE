@@ -10,7 +10,9 @@ table sequence
   create field host VARCHAR 1000
   create field genotype VARCHAR 1000
   create field iso_source VARCHAR 1000
-  create field country VARCHAR 100
+  create field gb_country VARCHAR 200
+  create field gb_country_iso VARCHAR
+  create field gb_place_sampled VARCHAR 500
   create field gb_create_date DATE
   create field gb_update_date DATE
   create field collection_year INTEGER 

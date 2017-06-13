@@ -3,36 +3,36 @@
 	<textFileColumn>
 		<identifier>true</identifier>
 		<header>Accession</header>
-		<fieldName>gb_primary_accession</fieldName>
+		<property>gb_primary_accession</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>
 	</textFileColumn>
 	<textFileColumn>
 		<header>Strain</header>
-		<fieldName>isolate</fieldName>
+		<property>isolate</property>
 	</textFileColumn>
 	<textFileColumn>
 		<header>Country</header>
-		<fieldName>country</fieldName>
+		<property>gb_country</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>
 	</textFileColumn>
 	<textFileColumn>
 		<header>Species_latin_binomial</header>
-		<fieldName>host</fieldName>
+		<property>host</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>		
 	</textFileColumn>
 	<textFileColumn>
 		<header>Year</header>
-		<fieldName>collection_year</fieldName>
+		<property>collection_year</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
 		<header>Subclade</header>
-		<fieldName>genotype</fieldName>
+		<property>genotype</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>
 	</textFileColumn>
 	<textFileColumn>
 		<header>Source</header>
-		<fieldName>iso_source</fieldName>
+		<property>iso_source</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>
 	</textFileColumn>
 </textFilePopulator>

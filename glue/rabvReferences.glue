@@ -1,0 +1,65 @@
+  # Declare reference sequences
+  create reference REF_MASTER             ncbi-refseqs KX148161
+  create reference REF_cosmopolitan       ncbi-refseqs KX148161
+  create reference REF_cosmopolitan_AF4   ncbi-refseqs KX148101
+  create reference REF_cosmopolitan_AM4   ncbi-refseqs JQ685970
+  create reference REF_cosmopolitan_AM3b  ncbi-refseqs KX148217
+  create reference REF_cosmopolitan_AM3a  ncbi-refseqs KX148216
+  create reference REF_cosmopolitan_AM2b  ncbi-refseqs JQ685943
+  create reference REF_cosmopolitan_AM2a  ncbi-refseqs KX148111
+  create reference REF_cosmopolitan_Vac   ncbi-refseqs NC_001542
+  create reference REF_cosmopolitan_AM1   ncbi-refseqs KX148213
+  create reference REF_cosmopolitan_AF1a  ncbi-refseqs KX148203
+  create reference REF_cosmopolitan_AF1b  ncbi-refseqs KX148103
+  create reference REF_cosmopolitan_AF1c  ncbi-refseqs KX148211
+  create reference REF_cosmopolitan_CA2   ncbi-refseqs KX148212
+  create reference REF_cosmopolitan_ME2   ncbi-refseqs KX148162
+  create reference REF_cosmopolitan_ME1b  ncbi-refseqs KX148192
+  create reference REF_cosmopolitan_ME1a  ncbi-refseqs KX148190
+  create reference REF_cosmopolitan_CA3   ncbi-refseqs KX148160
+  create reference REF_cosmopolitan_CA1   ncbi-refseqs KX148159
+  create reference REF_cosmopolitan_NEE   ncbi-refseqs KX148150
+  create reference REF_cosmopolitan_EE    ncbi-refseqs KX148140
+  create reference REF_cosmopolitan_WE    ncbi-refseqs KX148135
+  create reference REF_cosmopolitan_CE    ncbi-refseqs KX148122
+
+  create reference REF_africa-2           ncbi-refseqs KX148107
+  create reference REF_africa-3           ncbi-refseqs KX148223
+
+  create reference REF_arctic             ncbi-refseqs KX148106
+  create reference REF_arctic_A           ncbi-refseqs KX148106
+  create reference REF_arctic_AL1a        ncbi-refseqs KF154996
+  create reference REF_arctic_AL1b        ncbi-refseqs KX148225
+  create reference REF_arctic_AL2         ncbi-refseqs KC171645
+  create reference REF_arctic_AL3         ncbi-refseqs KX148228
+
+  create reference REF_asian              ncbi-refseqs EU293111
+  create reference REF_asian_SEA1a        ncbi-refseqs GU345747
+  create reference REF_asian_SEA1b        ncbi-refseqs KX148265
+  create reference REF_asian_SEA2a        ncbi-refseqs GU358653
+  create reference REF_asian_SEA2b        ncbi-refseqs GU647092
+  create reference REF_asian_SEA3         ncbi-refseqs EU293111
+  create reference REF_asian_SEA4         ncbi-refseqs KX148263
+  create reference REF_asian_SEA5         ncbi-refseqs KF620488
+
+  create reference REF_indian_sub         ncbi-refseqs KF154999
+
+  create reference REF_bat                ncbi-refseqs JQ685956
+  create reference REF_bat_AZ             ncbi-refseqs JQ685971
+  create reference REF_bat_DR             ncbi-refseqs JQ685953
+  create reference REF_bat_EF             ncbi-refseqs JQ685920
+  create reference REF_bat_EF-W1          ncbi-refseqs JQ685956
+  create reference REF_bat_EF-W2          ncbi-refseqs JQ685942
+  create reference REF_bat_LB             ncbi-refseqs JQ685902
+  create reference REF_bat_LC             ncbi-refseqs JQ685947
+  create reference REF_bat_LI             ncbi-refseqs JQ685916
+  create reference REF_bat_LN             ncbi-refseqs JQ685895
+  create reference REF_bat_LS             ncbi-refseqs JQ685900
+  create reference REF_bat_LX             ncbi-refseqs JQ685910
+  create reference REF_bat_MYsp           ncbi-refseqs JQ685921
+  create reference REF_bat_MYu            ncbi-refseqs JQ685955
+  create reference REF_bat_PH             ncbi-refseqs JQ685952
+  create reference REF_bat_PS             ncbi-refseqs AY705373
+  create reference REF_bat_TB             ncbi-refseqs JQ685905
+
+  create reference REF_rac-sk             ncbi-refseqs EU311738

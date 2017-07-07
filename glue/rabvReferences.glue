@@ -1,6 +1,6 @@
   # Declare reference sequences
-  create reference REF_MASTER             ncbi-refseqs KX148161
-  create reference REF_cosmopolitan       ncbi-refseqs KX148161
+  create reference REF_MASTER             ncbi-refseqs NC_001542
+  create reference REF_cosmopolitan       ncbi-refseqs NC_001542
   create reference REF_cosmopolitan_AF4   ncbi-refseqs KX148101
   create reference REF_cosmopolitan_AM4   ncbi-refseqs JQ685970
   create reference REF_cosmopolitan_AM3b  ncbi-refseqs KX148217

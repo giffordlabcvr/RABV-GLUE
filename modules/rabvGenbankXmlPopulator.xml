@@ -36,11 +36,17 @@
 		</propertyPopulator>
 	</gbDivision>
 	<gbFeature key="source">
+	
 		<gbQualifier name="isolate">
 			<propertyPopulator property="isolate"/>
 		</gbQualifier>
+		
 		<gbQualifier name="strain">
 			<propertyPopulator property="isolate"/>
+		</gbQualifier>
+		
+		<gbQualifier name="isolation_source">
+			<propertyPopulator property="iso_source"/>
 		</gbQualifier>
 
 		<gbQualifier name="country">

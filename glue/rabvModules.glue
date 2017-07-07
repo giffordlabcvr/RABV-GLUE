@@ -10,5 +10,3 @@ create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
 #create module -f modules/rabvSeg4MaxLikelihoodGenotyper.xml
 #create module -f modules/rabvSeg4MaxLikelihoodPlacer.xml
 
-
-

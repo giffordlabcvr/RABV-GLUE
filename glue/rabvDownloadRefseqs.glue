@@ -1,0 +1,11 @@
+# Download NCBI sequences 
+#create module --fileName modules/rabvNcbiImporter.xml ncbiImporter
+#module ncbiImporter import
+
+# Download Kuzmin sequences 
+#create module --fileName modules/rabvNcbiImporterReferencesKuzmin.xml ncbiImporterKuzmin
+#module ncbiImporterKuzmin import
+
+# Download Troupin sequences 
+#create module --fileName modules/rabvNcbiImporterReferencesKuzmin.xml ncbiImporterKuzmin
+#module ncbiImporterKuzmin import

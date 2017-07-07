@@ -4,7 +4,7 @@ create project rabv "GLUE project for the rabies virus (RABV)" --minVersion 0.1.
 
 schema-project rabv
 
-  run file glue/rabvFieldDefinitions.glue
+  run file glue/rabvSchemaExtensions.glue
 
 exit
 
@@ -16,7 +16,6 @@ project rabv
 
   # Import sources 
   import source sources/ncbi-refseqs
-  #import source sources/ncbi-kuzmin
 
   # Features
   #run file glue/rabvFeatures.glue
@@ -25,17 +24,17 @@ project rabv
   module genbankXmlPopulator populate
 
   create module --fileName modules/rabvTextFilePopulatorTroupin.xml textFilePopulatorTroupin
-  #module textFilePopulatorTroupin populate -f tabular/Troupin-data.txt
+  module textFilePopulatorTroupin populate -f tabular/Troupin-data.txt
 
   create module --fileName modules/rabvTextFilePopulatorKuzmin.xml textFilePopulatorKuzmin
   module textFilePopulatorKuzmin populate -f tabular/Kuzmin-data.txt
 
   # Create references
-  #run file glue/rabvReferences.glue
+  run file glue/rabvReferences.glue
 
   # Import alignment 
-  #run file glue/rabvUnconstrainedAlignments.glue
-  
+  #module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabv485seqs.fna
+
   # Import alignment tree
   #run file glue/rabvAlignmentTree.glue
 

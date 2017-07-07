@@ -39,6 +39,9 @@
 		<gbQualifier name="isolate">
 			<propertyPopulator property="isolate"/>
 		</gbQualifier>
+		<gbQualifier name="strain">
+			<propertyPopulator property="isolate"/>
+		</gbQualifier>
 
 		<gbQualifier name="country">
 			<isoCountryFieldPopulator fieldName="gb_country_iso" codeStyle="ALPHA_3"/>

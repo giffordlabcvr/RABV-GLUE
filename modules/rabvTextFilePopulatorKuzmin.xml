@@ -4,7 +4,7 @@
 		<identifier>true</identifier>
 		<header>Accession</header>
 		<property>gb_primary_accession</property>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
 		<header>Strain</header>
@@ -13,12 +13,12 @@
 	<textFileColumn>
 		<header>Country</header>
 		<property>gb_country</property>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
 		<header>Species_latin_binomial</header>
 		<property>host</property>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>		
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 		
 	</textFileColumn>
 	<textFileColumn>
 		<header>Year</header>
@@ -28,11 +28,11 @@
 	<textFileColumn>
 		<header>Subclade</header>
 		<property>genotype</property>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
 		<header>Source</header>
 		<property>iso_source</property>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 </textFilePopulator>

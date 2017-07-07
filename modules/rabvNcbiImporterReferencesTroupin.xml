@@ -328,6 +328,11 @@
 	<primaryAccession>JQ685895</primaryAccession>
 	<primaryAccession>JQ685925</primaryAccession>
 	<primaryAccession>KX148261</primaryAccession>
+	<primaryAccession>KX148130</primaryAccession>
+	<primaryAccession>KX148176</primaryAccession>
+	<primaryAccession>KX148254</primaryAccession>
+	<primaryAccession>M31046</primaryAccession>
+
   </specificPrimaryAccessions>  
   <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
 </ncbiImporter>

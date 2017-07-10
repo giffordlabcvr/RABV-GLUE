@@ -33,7 +33,7 @@ project rabv
   run file glue/rabvReferences.glue
 
   # Import alignment 
-  #module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabv509seqs.fna
+  module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabv509seqs.fna
 
   # Import alignment tree
   #run file glue/rabvAlignmentTree.glue

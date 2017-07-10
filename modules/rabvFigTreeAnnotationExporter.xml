@@ -1,0 +1,10 @@
+<figTreeAnnotationExporter>
+	<figTreeAnnotation>
+		<annotationName>genotype</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.genotype')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	<figTreeAnnotation>
+		<annotationName>host</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.host')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+</figTreeAnnotationExporter>

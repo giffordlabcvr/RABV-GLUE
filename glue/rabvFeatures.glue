@@ -9,7 +9,7 @@
     set metatag CODES_AMINO_ACIDS true
     exit
 
-  create feature VP35 -p whole_genome "M1"
+  create feature M1 -p whole_genome "M1"
   feature M1 
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true

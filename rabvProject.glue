@@ -18,7 +18,7 @@ project rabv
   import source sources/ncbi-refseqs
 
   # Features
-  #run file glue/rabvFeatures.glue
+  run file glue/rabvFeatures.glue
 
   # Populate sequence table fields from GenBank XML
   module genbankXmlPopulator populate
@@ -36,7 +36,7 @@ project rabv
   module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabv509seqs.fna
 
   # Import alignment tree
-  #run file glue/rabvAlignmentTree.glue
+  run file glue/rabvAlignmentTree.glue
 
   # Import phylogeny
   #run file glue/rabvImportPhylogeny.glue

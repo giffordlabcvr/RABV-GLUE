@@ -23,10 +23,8 @@ project rabv
   # Populate sequence table fields from GenBank XML
   module genbankXmlPopulator populate
 
-  create module --fileName modules/rabvTextFilePopulatorTroupin.xml textFilePopulatorTroupin
+  # Import data from tabular
   module textFilePopulatorTroupin populate -f tabular/Troupin-data.txt
-
-  create module --fileName modules/rabvTextFilePopulatorKuzmin.xml textFilePopulatorKuzmin
   module textFilePopulatorKuzmin populate -f tabular/Kuzmin-data.txt
 
   # Create references

@@ -1,5 +1,5 @@
 project rabv
-  module eivRaxmlPhylogenyGenerator    
+  module rabvRaxmlPhylogenyGenerator    
     generate nucleotide phylogeny AL_UNCONSTRAINED --allMembers --outputFile trees/rabv509seqs.tre NEWICK_BOOTSTRAPS   
     exit    
     

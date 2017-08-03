@@ -6,7 +6,7 @@ schema-project rabv
 
   run file glue/rabvSchemaExtensions.glue
 
-exit
+  exit
 
 project rabv
 
@@ -42,5 +42,4 @@ project rabv
   # Validate
   validate
 
-
-exit
+  exit

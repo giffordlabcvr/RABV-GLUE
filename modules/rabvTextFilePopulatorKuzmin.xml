@@ -27,7 +27,7 @@
 	</textFileColumn>
 	<textFileColumn>
 		<header>Subclade</header>
-		<property>genotype</property>
+		<property>clade</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>

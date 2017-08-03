@@ -8,7 +8,7 @@ table sequence
   create field isolate VARCHAR 100
   create field gb_taxonomy VARCHAR 200
   create field host VARCHAR 1000
-  create field genotype VARCHAR 1000
+  create field clade VARCHAR 1000
   create field iso_source VARCHAR 1000
   create field gb_country VARCHAR 200
   create field gb_country_iso VARCHAR
@@ -20,3 +20,8 @@ table sequence
   create field collection_month_day INTEGER
   create field outbreak VARCHAR 100
   exit
+
+table alignment
+  create field phylogeny VARCHAR 10000
+  exit 
+  

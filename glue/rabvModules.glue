@@ -4,11 +4,10 @@ create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
 create module -f modules/unconstrainedAlignmentImporter.xml
 create module -f modules/rabvTextFilePopulatorTroupin.xml textFilePopulatorTroupin
 create module -f modules/rabvTextFilePopulatorKuzmin.xml textFilePopulatorKuzmin
+create module -f modules/rabvRaxmlPhylogenyGenerator.xml
+create module -f modules/rabvPhyloImporter.xml  
 
-
-#create module -f modules/rabvRaxmlPhylogenyGenerator.xml
 #create module -f modules/rabvFigTreeAnnotationExporter.xml
-#create module -f modules/rabvPhyloImporter.xml
 #create module -f modules/rabvPhyloUtility.xml
 #create module -f modules/rabvSeg4MaxLikelihoodGenotyper.xml
 #create module -f modules/rabvSeg4MaxLikelihoodPlacer.xml

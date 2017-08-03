@@ -1,0 +1,6 @@
+<raxmlPhylogenyGenerator>
+	<raxmlPhylogenyRunner>
+		<substitutionModel>GTRGAMMAI</substitutionModel>
+		<bootstrapReplicates>10</bootstrapReplicates>
+	</raxmlPhylogenyRunner>
+</raxmlPhylogenyGenerator>

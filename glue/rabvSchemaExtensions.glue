@@ -22,6 +22,6 @@ table sequence
   exit
 
 table alignment
-  create field phylogeny VARCHAR 10000
+  create field phylogeny CLOB
   exit 
   

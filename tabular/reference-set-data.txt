@@ -1,4 +1,4 @@
-Accession	Strain	Country	Location	Common_name	Species	Year	Major clade	Minor clade	Source	Reference	Coverage	Dataset
+Accession	Strain	Country	Location	Common_name	Species_latin_binomial	Year	Major_clade	Minor_clade	Source	Reference	Coverage	Dataset
 KX148235	01007CI	Ivory Coast		Dog 	Canis familiaris	2001	Africa-2		Original brain	This study	Complete genome	Kuzmin
 KX148234	86036HAV	Burkina Faso		Dog 	Canis familiaris	1986	Africa-2		Mouse	This study	Complete genome	Kuzmin
 KX148107	86097BEN	Benin		Cat	Felis catus	1986	Africa-2		Original brain	This study	Complete genome	Kuzmin

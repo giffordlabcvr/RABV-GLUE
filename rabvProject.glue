@@ -5,7 +5,6 @@ create project rabv "GLUE project for the rabies virus (RABV)" --minVersion 0.1.
 schema-project rabv
 
   run file glue/rabvSchemaExtensions.glue
-
   exit
 
 project rabv
@@ -24,8 +23,7 @@ project rabv
   module genbankXmlPopulator populate
 
   # Import data from tabular
-  module textFilePopulatorTroupin populate -f tabular/Troupin-data.txt
-  module textFilePopulatorKuzmin populate -f tabular/Kuzmin-data.txt
+  module textFilePopulatorRefSet populate -f tabular/reference-set-data.txt
 
   # Create references
   run file glue/rabvReferences.glue

@@ -3,66 +3,116 @@
   alignment AL_MASTER
     add member --whereClause "gb_length > 100"
     set field displayName "Rabies Virus (RABV)"
-    
-    extract child AL_Vac --refName REF_cosmopolitan_Vac
-    demote member AL_Vac --whereClause "sequence.clade = 'Vac'" 
-    
-    extract child AL_AF4 --refName REF_cosmopolitan_AF4
-    demote member AL_AF4 --whereClause "sequence.clade = 'cosmopolitan_AF4'" 
-    
-    extract child AL_AM4 --refName REF_cosmopolitan_AM4
-    demote member AL_AM4 --whereClause "sequence.clade = 'cosmopolitan_AM4'" 
-    
-    extract child AL_AM3a --refName REF_cosmopolitan_AM3a
-    demote member AL_AM3a --whereClause "sequence.clade = 'cosmopolitan_AM3a'"
-    
-    extract child AL_AM3b --refName REF_cosmopolitan_AM3b
-    demote member AL_AM3b --whereClause "sequence.clade = 'cosmopolitan_AM3b'"
-    
-    extract child AL_AM2b --refName REF_cosmopolitan_AM2b
-    demote member AL_AM2b --whereClause "sequence.clade = 'cosmopolitan_AM2b'"
-    
-    extract child AL_AM2a --refName REF_cosmopolitan_AM2a
-    demote member AL_AM2a --whereClause "sequence.clade = 'cosmopolitan_AM2a'"
-    
-    extract child AL_AF1a --refName REF_cosmopolitan_AF1a
-    demote member AL_AF1a --whereClause "sequence.clade = 'cosmopolitan_AF1a'"
-    
-    extract child AL_AF1b --refName REF_cosmopolitan_AF1b
-    demote member AL_AF1b --whereClause "sequence.clade = 'cosmopolitan_AF1b'"
-    
-    extract child AL_AF1c --refName REF_cosmopolitan_AF1c
-    demote member AL_AF1c --whereClause "sequence.clade = 'cosmopolitan_AF1c'"
-    
-    extract child AL_ME2  --refName REF_cosmopolitan_ME2
-    demote member AL_ME2  --whereClause "sequence.clade = 'cosmopolitan_ME2'"
-    
-    extract child AL_ME1a --refName REF_cosmopolitan_ME1a
-    demote member AL_ME1a --whereClause "sequence.clade = 'cosmopolitan_ME1a'"
-    
-    extract child AL_ME1b --refName REF_cosmopolitan_ME1b
-    demote member AL_ME1b --whereClause "sequence.clade = 'cosmopolitan_ME1b'"
-    
-    extract child AL_CA1  --refName REF_cosmopolitan_CA1
-    demote member AL_CA1  --whereClause "sequence.clade = 'cosmopolitan_CA1'"
-    
-    extract child AL_CA2  --refName REF_cosmopolitan_CA2
-    demote member AL_CA2  --whereClause "sequence.clade = 'cosmopolitan_CA2'"
-    
-    extract child AL_CA3  --refName REF_cosmopolitan_CA3
-    demote member AL_CA3  --whereClause "sequence.clade = 'cosmopolitan_CA3'"
-    
-    extract child AL_NEE  --refName REF_cosmopolitan_NEE
-    demote member AL_NEE  --whereClause "sequence.clade = 'cosmopolitan_NEE'"
-    
-    extract child AL_EE   --refName REF_cosmopolitan_EE
-    demote member AL_EE   --whereClause "sequence.clade = 'cosmopolitan_EE'"
-    
-    extract child AL_WE   --refName REF_cosmopolitan_WE
-    demote member AL_WE   --whereClause "sequence.clade = 'cosmopolitan_WE'"
-    
-    extract child AL_CE   --refName REF_cosmopolitan_CE
-    demote member AL_CE   --whereClause "sequence.clade = 'cosmopolitan_CE'" 
 
+    extract child AL_Cosmopolitan --refName REF_cosmopolitan_Vac
+    demote member AL_Cosmopolitan --whereClause "sequence.major_clade = 'Cosmopolitan'"
+
+    extract child AL_Arctic --refName REF_arctic
+    demote member AL_Arctic --whereClause "sequence.major_clade = 'Arctic'"
+
+    extract child AL_Asian --refName REF_asian
+    demote member AL_Asian --whereClause "sequence.major_clade = 'Asian'"
+
+    extract child AL_Africa-2 --refName REF_africa-2
+    demote member AL_Africa-2 --whereClause "sequence.major_clade = 'Africa-2'"
+
+    extract child AL_Africa-3 --refName REF_africa-3
+    demote member AL_Africa-3 --whereClause "sequence.major_clade = 'Africa-3'"
+        
+    extract child AL_Bats --refName REF_bats
+    demote member AL_Bats --whereClause "sequence.major_clade = 'Bats'"
+        
+    extract child AL_Indian-Sub --refName REF_indian_sub
+    demote member AL_Indian-Sub --whereClause "sequence.major_clade = 'Indian-Sub'"
+    
+    extract child AL_RAC-SK --refName REF_rac-sk
+    demote member AL_RAC-SK --whereClause "sequence.major_clade = 'RAC-SK'"  
+    exit
+
+
+  alignment AL_Cosmopolitan
+    set field displayName "Cosmopolitan"
+    
+    extract child AL_Cosmopolitan-Vac --refName REF_cosmopolitan_Vac
+    demote member AL_Cosmopolitan-Vac --whereClause "sequence.minor_clade = 'Vac'" 
+    
+    extract child AL_Cosmopolitan-AF4 --refName REF_cosmopolitan_AF4
+    demote member AL_Cosmopolitan-AF4 --whereClause "sequence.minor_clade = 'cosmopolitan_AF4'" 
+    
+    extract child AL_Cosmopolitan-AM4 --refName REF_cosmopolitan_AM4
+    demote member AL_Cosmopolitan-AM4 --whereClause "sequence.minor_clade = 'cosmopolitan_AM4'" 
+    
+    extract child AL_Cosmopolitan-AM3a --refName REF_cosmopolitan_AM3a
+    demote member AL_Cosmopolitan-AM3a --whereClause "sequence.minor_clade = 'cosmopolitan_AM3a'"
+    
+    extract child AL_Cosmopolitan-AM3b --refName REF_cosmopolitan_AM3b
+    demote member AL_Cosmopolitan-AM3b --whereClause "sequence.minor_clade = 'cosmopolitan_AM3b'"
+    
+    extract child AL_Cosmopolitan-AM2b --refName REF_cosmopolitan_AM2b
+    demote member AL_Cosmopolitan-AM2b --whereClause "sequence.minor_clade = 'cosmopolitan_AM2b'"
+    
+    extract child AL_Cosmopolitan-AM2a --refName REF_cosmopolitan_AM2a
+    demote member AL_Cosmopolitan-AM2a --whereClause "sequence.minor_clade = 'cosmopolitan_AM2a'"
+    
+    extract child AL_Cosmopolitan-AF1a --refName REF_cosmopolitan_AF1a
+    demote member AL_Cosmopolitan-AF1a --whereClause "sequence.minor_clade = 'cosmopolitan_AF1a'"
+    
+    extract child AL_Cosmopolitan-AF1b --refName REF_cosmopolitan_AF1b
+    demote member AL_Cosmopolitan-AF1b --whereClause "sequence.minor_clade = 'cosmopolitan_AF1b'"
+    
+    extract child AL_Cosmopolitan-AF1c --refName REF_cosmopolitan_AF1c
+    demote member AL_Cosmopolitan-AF1c --whereClause "sequence.minor_clade = 'cosmopolitan_AF1c'"
+    
+    extract child AL_Cosmopolitan-ME2  --refName REF_cosmopolitan_ME2
+    demote member AL_Cosmopolitan-ME2  --whereClause "sequence.minor_clade = 'cosmopolitan_ME2'"
+    
+    extract child AL_Cosmopolitan-ME1a --refName REF_cosmopolitan_ME1a
+    demote member AL_Cosmopolitan-ME1a --whereClause "sequence.minor_clade = 'cosmopolitan_ME1a'"
+    
+    extract child AL_Cosmopolitan-ME1b --refName REF_cosmopolitan_ME1b
+    demote member AL_Cosmopolitan-ME1b --whereClause "sequence.minor_clade = 'cosmopolitan_ME1b'"
+    
+    extract child AL_Cosmopolitan-CA1  --refName REF_cosmopolitan_CA1
+    demote member AL_Cosmopolitan-CA1  --whereClause "sequence.minor_clade = 'cosmopolitan_CA1'"
+    
+    extract child AL_Cosmopolitan-CA2  --refName REF_cosmopolitan_CA2
+    demote member AL_Cosmopolitan-CA2  --whereClause "sequence.minor_clade = 'cosmopolitan_CA2'"
+    
+    extract child AL_Cosmopolitan-CA3  --refName REF_cosmopolitan_CA3
+    demote member AL_Cosmopolitan-CA3  --whereClause "sequence.minor_clade = 'cosmopolitan_CA3'"
+    
+    extract child AL_Cosmopolitan-NEE  --refName REF_cosmopolitan_NEE
+    demote member AL_Cosmopolitan-NEE  --whereClause "sequence.minor_clade = 'cosmopolitan_NEE'"
+    
+    extract child AL_Cosmopolitan-EE   --refName REF_cosmopolitan_EE
+    demote member AL_Cosmopolitan-EE   --whereClause "sequence.minor_clade = 'cosmopolitan_EE'"
+    
+    extract child AL_Cosmopolitan-WE   --refName REF_cosmopolitan_WE
+    demote member AL_Cosmopolitan-WE   --whereClause "sequence.minor_clade = 'cosmopolitan_WE'"
+    
+    extract child AL_Cosmopolitan-CE   --refName REF_cosmopolitan_CE
+    demote member AL_Cosmopolitan-CE   --whereClause "sequence.minor_clade = 'cosmopolitan_CE'" 
+    
+    exit
+
+
+
+  alignment AL_Arctic 
+    set field displayName "Arctic"
+    exit
+
+
+  alignment AL_Asian
+    set field displayName "Asian"
+    exit
+
+
+  alignment AL_Bats
+    set field displayName "Bats"
     exit
     
+
+
+
+
+

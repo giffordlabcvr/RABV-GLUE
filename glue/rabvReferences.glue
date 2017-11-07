@@ -59,8 +59,8 @@
   create reference REF_bats_LN            ncbi-refseqs JQ685895
   create reference REF_bats_LS            ncbi-refseqs JQ685900
   create reference REF_bats_LX            ncbi-refseqs JQ685910
-  create reference REF_bats_MYsp          ncbi-refseqs JQ685921
-  create reference REF_bats_MYu           ncbi-refseqs JQ685955
   create reference REF_bats_PH            ncbi-refseqs JQ685952
   create reference REF_bats_PS            ncbi-refseqs AY705373
   create reference REF_bats_TB            ncbi-refseqs JQ685905
+  create reference REF_bats_MYu           ncbi-refseqs JQ685955
+  create reference REF_bats_MYsp          ncbi-refseqs JQ685921

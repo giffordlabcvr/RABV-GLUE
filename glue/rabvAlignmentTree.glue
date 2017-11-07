@@ -13,12 +13,6 @@
     extract child AL_Asian --refName REF_asian
     demote member AL_Asian --whereClause "sequence.major_clade = 'Asian'"
 
-    extract child AL_Africa-2 --refName REF_africa-2
-    demote member AL_Africa-2 --whereClause "sequence.major_clade = 'Africa-2'"
-
-    extract child AL_Africa-3 --refName REF_africa-3
-    demote member AL_Africa-3 --whereClause "sequence.major_clade = 'Africa-3'"
-        
     extract child AL_Bats --refName REF_bats
     demote member AL_Bats --whereClause "sequence.major_clade = 'Bats'"
         
@@ -27,6 +21,12 @@
     
     extract child AL_RAC-SK --refName REF_rac-sk
     demote member AL_RAC-SK --whereClause "sequence.major_clade = 'RAC-SK'"  
+
+    extract child AL_Africa-2 --refName REF_africa-2
+    demote member AL_Africa-2 --whereClause "sequence.major_clade = 'Africa-2'"
+
+    extract child AL_Africa-3 --refName REF_africa-3
+    demote member AL_Africa-3 --whereClause "sequence.major_clade = 'Africa-3'"
     exit
 
 
@@ -98,25 +98,46 @@
   alignment AL_Arctic 
     set field displayName "Arctic"
 
-    extract child AL_REF_arctic_A --refName REF_arctic_A
-    demote member AL_REF_arctic_A --whereClause "sequence.minor_clade = 'arctic_A'" 
+    extract child AL_arctic_A --refName REF_arctic_A
+    demote member AL_arctic_A --whereClause "sequence.minor_clade = 'arctic_A'" 
 
-    extract child AL_REF_arctic_AL1a --refName REF_arctic_AL1a
-    demote member AL_REF_arctic_AL1a --whereClause "sequence.minor_clade = 'arctic_AL1a'" 
+    extract child AL_arctic_AL1a --refName REF_arctic_AL1a
+    demote member AL_arctic_AL1a --whereClause "sequence.minor_clade = 'arctic_AL1a'" 
 
-    extract child AL_REF_arctic_AL1b --refName REF_arctic_AL1b
-    demote member AL_REF_arctic_AL1b --whereClause "sequence.minor_clade = 'arctic_AL1b'" 
+    extract child AL_arctic_AL1b --refName REF_arctic_AL1b
+    demote member AL_arctic_AL1b --whereClause "sequence.minor_clade = 'arctic_AL1b'" 
 
-    extract child AL_REF_arctic_AL2 --refName REF_arctic_AL2
-    demote member AL_REF_arctic_AL2 --whereClause "sequence.minor_clade = 'arctic_AL2'" 
+    extract child AL_arctic_AL2 --refName REF_arctic_AL2
+    demote member AL_arctic_AL2 --whereClause "sequence.minor_clade = 'arctic_AL2'" 
 
-    extract child AL_REF_arctic_AL3 --refName REF_arctic_AL3
-    demote member AL_REF_arctic_AL3 --whereClause "sequence.minor_clade = 'arctic_AL3'" 
+    extract child AL_arctic_AL3 --refName REF_arctic_AL3
+    demote member AL_arctic_AL3 --whereClause "sequence.minor_clade = 'arctic_AL3'" 
     exit
 
 
   alignment AL_Asian
     set field displayName "Asian"
+
+    extract child AL_asian_SEA1a  --refName REF_asian_SEA1a
+    demote member AL_asian_SEA1a  --whereClause "sequence.minor_clade = 'asian_SEA1a'" 
+
+    extract child AL_asian_SEA1b  --refName REF_asian_SEA1b
+    demote member AL_asian_SEA1b  --whereClause "sequence.minor_clade = 'asian_SEA1b'" 
+
+    extract child AL_asian_SEA2a  --refName REF_asian_SEA2a
+    demote member AL_asian_SEA2a  --whereClause "sequence.minor_clade = 'asian_SEA2a'" 
+
+    extract child AL_asian_SEA2b  --refName REF_asian_SEA2b
+    demote member AL_asian_SEA2b  --whereClause "sequence.minor_clade = 'asian_SEA2b'" 
+
+    extract child AL_asian_SEA3   --refName REF_asian_SEA3
+    demote member AL_asian_SEA3   --whereClause "sequence.minor_clade = 'asian_SEA3'" 
+
+    extract child AL_asian_SEA4   --refName REF_asian_SEA4
+    demote member AL_asian_SEA4   --whereClause "sequence.minor_clade = 'asian_SEA4'" 
+
+    extract child AL_asian_SEA5   --refName REF_asian_SEA5
+    demote member AL_asian_SEA5   --whereClause "sequence.minor_clade = 'asian_SEA5'" 
     exit
 
 

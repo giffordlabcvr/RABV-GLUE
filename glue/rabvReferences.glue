@@ -45,6 +45,8 @@
 
   create reference REF_indian_sub         ncbi-refseqs KF154999
 
+  create reference REF_rac-sk             ncbi-refseqs EU311738
+
   create reference REF_bats               ncbi-refseqs JQ685956
   create reference REF_bats_AZ            ncbi-refseqs JQ685971
   create reference REF_bats_DR            ncbi-refseqs JQ685953
@@ -62,5 +64,3 @@
   create reference REF_bats_PH            ncbi-refseqs JQ685952
   create reference REF_bats_PS            ncbi-refseqs AY705373
   create reference REF_bats_TB            ncbi-refseqs JQ685905
-
-  create reference REF_rac-sk             ncbi-refseqs EU311738

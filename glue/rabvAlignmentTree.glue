@@ -91,14 +91,27 @@
     demote member AL_Cosmopolitan-WE   --whereClause "sequence.minor_clade = 'cosmopolitan_WE'"
     
     extract child AL_Cosmopolitan-CE   --refName REF_cosmopolitan_CE
-    demote member AL_Cosmopolitan-CE   --whereClause "sequence.minor_clade = 'cosmopolitan_CE'" 
-    
+    demote member AL_Cosmopolitan-CE   --whereClause "sequence.minor_clade = 'cosmopolitan_CE'"     
     exit
-
 
 
   alignment AL_Arctic 
     set field displayName "Arctic"
+
+    extract child AL_REF_arctic_A --refName REF_arctic_A
+    demote member AL_REF_arctic_A --whereClause "sequence.minor_clade = 'arctic_A'" 
+
+    extract child AL_REF_arctic_AL1a --refName REF_arctic_AL1a
+    demote member AL_REF_arctic_AL1a --whereClause "sequence.minor_clade = 'arctic_AL1a'" 
+
+    extract child AL_REF_arctic_AL1b --refName REF_arctic_AL1b
+    demote member AL_REF_arctic_AL1b --whereClause "sequence.minor_clade = 'arctic_AL1b'" 
+
+    extract child AL_REF_arctic_AL2 --refName REF_arctic_AL2
+    demote member AL_REF_arctic_AL2 --whereClause "sequence.minor_clade = 'arctic_AL2'" 
+
+    extract child AL_REF_arctic_AL3 --refName REF_arctic_AL3
+    demote member AL_REF_arctic_AL3 --whereClause "sequence.minor_clade = 'arctic_AL3'" 
     exit
 
 

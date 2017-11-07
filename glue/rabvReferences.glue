@@ -24,6 +24,7 @@
   create reference REF_cosmopolitan_CE    ncbi-refseqs KX148122
 
   create reference REF_africa-2           ncbi-refseqs KX148107
+
   create reference REF_africa-3           ncbi-refseqs KX148223
 
   create reference REF_arctic             ncbi-refseqs KX148106

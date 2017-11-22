@@ -1,14 +1,17 @@
 <textFilePopulator>
-	<columnDelimiterRegex>,</columnDelimiterRegex>
+	<columnDelimiterRegex>\t</columnDelimiterRegex>
+	
 	<textFileColumn>
 		<identifier>true</identifier>
 		<header>Accession</header>
 		<property>gb_primary_accession</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
+	
 	<textFileColumn>
 		<header>Strain</header>
 		<property>isolate</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
 		<header>Country</header>
@@ -26,8 +29,13 @@
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
-		<header>Subclade</header>
-		<property>clade</property>
+		<header>Major_clade</header>
+		<property>major_clade</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
+	</textFileColumn>
+	<textFileColumn>
+		<header>Minor_clade</header>
+		<property>minor_clade</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
 	<textFileColumn>
@@ -35,4 +43,5 @@
 		<property>iso_source</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
+	
 </textFilePopulator>

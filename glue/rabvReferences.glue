@@ -24,6 +24,7 @@
   create reference REF_cosmopolitan_CE    ncbi-refseqs KX148122
 
   create reference REF_africa-2           ncbi-refseqs KX148107
+
   create reference REF_africa-3           ncbi-refseqs KX148223
 
   create reference REF_arctic             ncbi-refseqs KX148106
@@ -44,22 +45,22 @@
 
   create reference REF_indian_sub         ncbi-refseqs KF154999
 
-  create reference REF_bat                ncbi-refseqs JQ685956
-  create reference REF_bat_AZ             ncbi-refseqs JQ685971
-  create reference REF_bat_DR             ncbi-refseqs JQ685953
-  create reference REF_bat_EF             ncbi-refseqs JQ685920
-  create reference REF_bat_EF-W1          ncbi-refseqs JQ685956
-  create reference REF_bat_EF-W2          ncbi-refseqs JQ685942
-  create reference REF_bat_LB             ncbi-refseqs JQ685902
-  create reference REF_bat_LC             ncbi-refseqs JQ685947
-  create reference REF_bat_LI             ncbi-refseqs JQ685916
-  create reference REF_bat_LN             ncbi-refseqs JQ685895
-  create reference REF_bat_LS             ncbi-refseqs JQ685900
-  create reference REF_bat_LX             ncbi-refseqs JQ685910
-  create reference REF_bat_MYsp           ncbi-refseqs JQ685921
-  create reference REF_bat_MYu            ncbi-refseqs JQ685955
-  create reference REF_bat_PH             ncbi-refseqs JQ685952
-  create reference REF_bat_PS             ncbi-refseqs AY705373
-  create reference REF_bat_TB             ncbi-refseqs JQ685905
-
   create reference REF_rac-sk             ncbi-refseqs EU311738
+
+  create reference REF_bats               ncbi-refseqs JQ685956
+  create reference REF_bats_AZ            ncbi-refseqs JQ685971
+  create reference REF_bats_DR            ncbi-refseqs JQ685953
+  create reference REF_bats_EF            ncbi-refseqs JQ685920
+  create reference REF_bats_EF-W1         ncbi-refseqs JQ685956
+  create reference REF_bats_EF-W2         ncbi-refseqs JQ685942
+  create reference REF_bats_LB            ncbi-refseqs JQ685902
+  create reference REF_bats_LC            ncbi-refseqs JQ685947
+  create reference REF_bats_LI            ncbi-refseqs JQ685916
+  create reference REF_bats_LN            ncbi-refseqs JQ685895
+  create reference REF_bats_LS            ncbi-refseqs JQ685900
+  create reference REF_bats_LX            ncbi-refseqs JQ685910
+  create reference REF_bats_PH            ncbi-refseqs JQ685952
+  create reference REF_bats_PS            ncbi-refseqs AY705373
+  create reference REF_bats_TB            ncbi-refseqs JQ685905
+  create reference REF_bats_MYu           ncbi-refseqs JQ685955
+  create reference REF_bats_MYsp          ncbi-refseqs JQ685921

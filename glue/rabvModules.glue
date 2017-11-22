@@ -1,11 +1,10 @@
 create module --fileName modules/rabvNcbiImporterReferencesKuzmin.xml NcbiImporterReferencesKuzmin
 create module --fileName modules/rabvNcbiImporterReferencesTroupin.xml NcbiImporterReferencesTroupin
 create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
-create module -f modules/unconstrainedAlignmentImporter.xml
-create module -f modules/rabvTextFilePopulatorTroupin.xml textFilePopulatorTroupin
-create module -f modules/rabvTextFilePopulatorKuzmin.xml textFilePopulatorKuzmin
-create module -f modules/rabvRaxmlPhylogenyGenerator.xml
-create module -f modules/rabvPhyloImporter.xml  
+create module --fileName modules/unconstrainedAlignmentImporter.xml
+create module --fileName modules/rabvTextFilePopulatorRefSet.xml textFilePopulatorRefSet
+create module --fileName modules/rabvRaxmlPhylogenyGenerator.xml
+create module --fileName modules/rabvPhyloImporter.xml  
 
 #create module -f modules/rabvFigTreeAnnotationExporter.xml
 #create module -f modules/rabvPhyloUtility.xml

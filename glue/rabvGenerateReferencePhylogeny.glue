@@ -1,6 +1,20 @@
 project rabv
-  module rabvRaxmlPhylogenyGenerator    
-    generate nucleotide phylogeny AL_UNCONSTRAINED --allMembers --outputFile trees/rabv509seqs.tre NEWICK_BOOTSTRAPS   
+  module rabvRaxmlPhylogenyGenerator 
+  
+     # with outgroup
+     # generate nucleotide phylogeny AL_UNCONSTRAINED \
+     #   --selectorName phylogenyColumnsSelector \
+     #   --whereClause "sequence.source.name in ('ncbi-refseqs', 'ncbi-refseqs-outgroup')" \
+     #   -o trees/rabvRefsOutgroup1.tree \
+     #   NEWICK_BOOTSTRAPS
+     # exit    
+
+    # without outgroup
+    generate nucleotide phylogeny AL_UNCONSTRAINED \
+      --selectorName phylogenyColumnsSelector \
+      --whereClause "sequence.source.name = 'ncbi-refseqs'" \
+      -o trees/rabvRefs1.tree \
+      NEWICK_BOOTSTRAPS
     exit    
-    
+  
   exit

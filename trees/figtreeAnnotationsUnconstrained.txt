@@ -1,0 +1,55 @@
+taxon	host	major_clade	minor_clade	sequenceID	combined
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/AY705373	Homo sapiens	Bats	PS	AY705373	AY705373/Bats/PS/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/EU293111	Homo sapiens	Asian	SEA3	EU293111	EU293111/Asian/SEA3/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/EU311738	Procyon lotor	RAC-SK	-	EU311738	EU311738/RAC-SK/-/Procyon lotor}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/GU345747	Homo sapiens	Asian	SEA1a	GU345747	GU345747/Asian/SEA1a/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/GU358653	Canis familiaris	Asian	SEA2a	GU358653	GU358653/Asian/SEA2a/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/GU647092	Melogale moschata	Asian	SEA2b	GU647092	GU647092/Asian/SEA2b/Melogale moschata}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685895	Lasionycteris noctivagans	Bats	LN	JQ685895	JQ685895/Bats/LN/Lasionycteris noctivagans}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685900	Lasiurus seminolus	Bats	LS	JQ685900	JQ685900/Bats/LS/Lasiurus seminolus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685902	Lasiurus borealis	Bats	LB	JQ685902	JQ685902/Bats/LB/Lasiurus borealis}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685905	Tadarida brasiliensis	Bats	TB	JQ685905	JQ685905/Bats/TB/Tadarida brasiliensis}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685910	Lasiurus xanthinus	Bats	LX	JQ685910	JQ685910/Bats/LX/Lasiurus xanthinus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685916	Lasiurus intermedius	Bats	LI	JQ685916	JQ685916/Bats/LI/Lasiurus intermedius}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685920	Eptesicus fuscus	Bats	EF-E1	JQ685920	JQ685920/Bats/EF-E1/Eptesicus fuscus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685921	Myotis austroriparius	Bats	MYsp	JQ685921	JQ685921/Bats/MYsp/Myotis austroriparius}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685942	Eptesicus fuscus	Bats	EF-W2	JQ685942	JQ685942/Bats/EF-W2/Eptesicus fuscus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685943	Urocyon cinereoargenteus	Cosmopolitan	AM2b	JQ685943	JQ685943/Cosmopolitan/AM2b/Urocyon cinereoargenteus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685947	Lasiurus cinereus	Bats	LC	JQ685947	JQ685947/Bats/LC/Lasiurus cinereus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685952	Parastrellus hesperos	Bats	PH	JQ685952	JQ685952/Bats/PH/Parastrellus hesperos}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685953	Homo sapiens	Bats	DR	JQ685953	JQ685953/Bats/DR/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685955	Myotis yumanensis	Bats	MYu	JQ685955	JQ685955/Bats/MYu/Myotis yumanensis}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685956	Eptesicus fuscus	Bats	EF-W1	JQ685956	JQ685956/Bats/EF-W1/Eptesicus fuscus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685970	Mephitis mephitis	Cosmopolitan	AM4	JQ685970	JQ685970/Cosmopolitan/AM4/Mephitis mephitis}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/JQ685971	Antrozous pallidus	Bats	AZ	JQ685971	JQ685971/Bats/AZ/Antrozous pallidus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KC171645	Nyctereutes procyonoides	Arctic	AL2	KC171645	KC171645/Arctic/AL2/Nyctereutes procyonoides}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KF154996	Homo sapiens	Arctic	AL1a	KF154996	KF154996/Arctic/AL1a/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KF154999	Canis familiaris	Indian-Sub	-	KF154999	KF154999/Indian-Sub/-/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KF620488	Melogale moschata	Asian	SEA5	KF620488	KF620488/Asian/SEA5/Melogale moschata}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148101	Homo sapiens	Cosmopolitan	AF4	KX148101	KX148101/Cosmopolitan/AF4/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148103	Homo sapiens	Cosmopolitan	AF1b	KX148103	KX148103/Cosmopolitan/AF1b/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148106	Vulpes vulpes	Arctic	A	KX148106	KX148106/Arctic/A/Vulpes vulpes}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148107	Felis catus	Africa-2	-	KX148107	KX148107/Africa-2/-/Felis catus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148111	Canis familiaris	Cosmopolitan	AM2a	KX148111	KX148111/Cosmopolitan/AM2a/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148122	Vulpes vulpes	Cosmopolitan	CE	KX148122	KX148122/Cosmopolitan/CE/Vulpes vulpes}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148135	Vulpes vulpes	Cosmopolitan	WE	KX148135	KX148135/Cosmopolitan/WE/Vulpes vulpes}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148140	Vulpes vulpes	Cosmopolitan	EE	KX148140	KX148140/Cosmopolitan/EE/Vulpes vulpes}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148150	Nyctereutes procyonoides	Cosmopolitan	NEE	KX148150	KX148150/Cosmopolitan/NEE/Nyctereutes procyonoides}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148159	Ovis aries	Cosmopolitan	CA1	KX148159	KX148159/Cosmopolitan/CA1/Ovis aries}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148160	Homo sapiens	Cosmopolitan	CA3	KX148160	KX148160/Cosmopolitan/CA3/Homo sapiens}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148162	Canis familiaris	Cosmopolitan	ME2	KX148162	KX148162/Cosmopolitan/ME2/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148190	Canis aureus	Cosmopolitan	ME1a	KX148190	KX148190/Cosmopolitan/ME1a/Canis aureus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148192	Canis familiaris	Cosmopolitan	ME1b	KX148192	KX148192/Cosmopolitan/ME1b/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148203	Canis familiaris	Cosmopolitan	AF1b	KX148203	KX148203/Cosmopolitan/AF1b/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148211	Canis familiaris	Cosmopolitan	AF1c	KX148211	KX148211/Cosmopolitan/AF1c/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148212	Canis aureus	Cosmopolitan	CA2	KX148212	KX148212/Cosmopolitan/CA2/Canis aureus}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148213	Und.	Cosmopolitan	AM1	KX148213	KX148213/Cosmopolitan/AM1/Und.}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148216	Canis familiaris	Cosmopolitan	AM3a	KX148216	KX148216/Cosmopolitan/AM3a/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148217	Canis familiaris	Cosmopolitan	AM3b	KX148217	KX148217/Cosmopolitan/AM3b/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148223	Und.	Africa-3	-	KX148223	KX148223/Africa-3/-/Und.}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148225	Canis familiaris	Arctic	AL1b	KX148225	KX148225/Arctic/AL1b/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148228	Canis familiaris	Arctic	AL3	KX148228	KX148228/Arctic/AL3/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148263	Canis familiaris	Asian	SEA4	KX148263	KX148263/Asian/SEA4/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148265	Canis familiaris	Asian	SEA1b	KX148265	KX148265/Asian/SEA1b/Canis familiaris}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/NC_001542	Vaccine strain	Cosmopolitan	Vac	NC_001542	NC_001542/Cosmopolitan/Vac/Vaccine strain}
+alignment/AL_UNCONSTRAINED/member/ncbi-refseqs-outgroup/NC_006429	-	-	-	NC_006429	NC_006429/-/-/-}

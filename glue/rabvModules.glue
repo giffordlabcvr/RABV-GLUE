@@ -5,12 +5,17 @@ create module --fileName modules/rabvNcbiImporterReferencesOutgroup.xml ncbiImpo
 
 create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
 create module --fileName modules/unconstrainedAlignmentImporter.xml
+create module --fileName modules/fastaProteinAlignmentExporter.xml
+
 create module --fileName modules/rabvTextFilePopulatorRefSet.xml textFilePopulatorRefSet
+
+create module --fileName modules/rabvPhylogenyColumnsSelector.xml phylogenyColumnsSelector
 create module --fileName modules/rabvRaxmlPhylogenyGenerator.xml
 create module --fileName modules/rabvPhyloImporter.xml  
+create module --fileName modules/rabvFigTreeAnnotationExporter.xml
+create module --fileName modules/rabvPhyloUtility.xml
 
-#create module -f modules/rabvFigTreeAnnotationExporter.xml
-#create module -f modules/rabvPhyloUtility.xml
+
 #create module -f modules/rabvSeg4MaxLikelihoodGenotyper.xml
 #create module -f modules/rabvSeg4MaxLikelihoodPlacer.xml
 

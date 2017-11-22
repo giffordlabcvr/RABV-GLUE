@@ -1,5 +1,8 @@
-create module --fileName modules/rabvNcbiImporterReferencesKuzmin.xml NcbiImporterReferencesKuzmin
-create module --fileName modules/rabvNcbiImporterReferencesTroupin.xml NcbiImporterReferencesTroupin
+create module --fileName modules/rabvNcbiImporter.xml ncbiImporter
+create module --fileName modules/rabvNcbiImporterReferencesKuzmin.xml ncbiImporterKuzmin
+create module --fileName modules/rabvNcbiImporterReferencesTroupin.xml ncbiImporterTroupin
+create module --fileName modules/rabvNcbiImporterReferencesOutgroup.xml ncbiImporterOutgroup
+
 create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
 create module --fileName modules/unconstrainedAlignmentImporter.xml
 create module --fileName modules/rabvTextFilePopulatorRefSet.xml textFilePopulatorRefSet

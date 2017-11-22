@@ -27,8 +27,10 @@ project rabv
 
   # Create references
   run file glue/rabvReferences.glue
-  validate
-
+  
+  # Add feature locations to the master reference
+  run file glue/rabvFeatureLocations.glue
+  
   # Import alignment 
   module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabv509seqs.fna
 

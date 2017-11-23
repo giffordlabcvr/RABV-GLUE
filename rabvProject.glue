@@ -33,13 +33,13 @@ project rabv
   run file glue/rabvFeatureLocations.glue
   
   # Import alignment 
-  module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rab-53-outgroup.fna
+  module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabvRefs.fna
 
   # Import alignment tree
   run file glue/rabvAlignmentTree.glue
 
   # Import phylogeny
-  #run file glue/rabvImportPhylogeny.glue
+  run file glue/rabvImportPhylogeny.glue
 
   # Validate
   validate

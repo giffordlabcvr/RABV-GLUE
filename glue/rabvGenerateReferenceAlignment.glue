@@ -1,0 +1,14 @@
+delete alignment AL_REFS_UNCONSTRAINED
+
+create alignment AL_REFS_UNCONSTRAINED
+alignment AL_REFS_UNCONSTRAINED
+  add member -w "referenceSequences.name != null"
+  exit
+  
+compute alignment AL_REFS_UNCONSTRAINED rabvMafftAligner
+
+module fastaAlignmentExporter
+  export AL_REFS_UNCONSTRAINED --allMembers --fileName alignments/rabvRefs.fna
+  exit
+  
+delete alignment AL_REFS_UNCONSTRAINED

@@ -4,7 +4,7 @@ module rabvPhyloImporter
   --recursive \
   --anyAlignment \
   --whereClause "sequence.referenceSequences.name != null and referenceMember = false" \
-  --inputFile trees/rabvRefs1Africa2Rerooted.tree NEWICK_BOOTSTRAPS \
+  --inputFile trees/rabvRefs1Africa-2Rerooted.tree NEWICK_BOOTSTRAPS \
   --fieldName phylogeny
 
   exit

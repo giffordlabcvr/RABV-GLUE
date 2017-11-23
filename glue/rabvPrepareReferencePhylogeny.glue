@@ -16,7 +16,7 @@
     reroot-phylogeny \
       --inputFile trees/rabvRefs1.tree NEWICK_BOOTSTRAPS \
       --outgroup alignment/AL_UNCONSTRAINED/member/ncbi-refseqs/KX148107 \
-      --outputFile trees/rabvRefs1Africa2Rerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/rabvRefs1Africa-2Rerooted.tree NEWICK_BOOTSTRAPS
 
 	# midpoint rooting
 	reroot-phylogeny \

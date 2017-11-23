@@ -23,6 +23,7 @@ table sequence
   exit
 
 table alignment
+  create field clade_category VARCHAR 20
   create field phylogeny CLOB
   exit 
   

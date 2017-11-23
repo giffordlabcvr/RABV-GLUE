@@ -12,15 +12,14 @@ create module --fileName modules/fastaAlignmentExporter.xml
 create module --fileName modules/rabvTextFilePopulatorRefSet.xml textFilePopulatorRefSet
 
 create module --fileName modules/rabvMafftAligner.xml
-create module --fileName modules/rabvPhylogenyColumnsSelector.xml phylogenyColumnsSelector
+create module --fileName modules/rabvPhylogenyColumnsSelector.xml 
 create module --fileName modules/rabvRaxmlPhylogenyGenerator.xml
 create module --fileName modules/rabvPhyloImporter.xml  
 create module --fileName modules/rabvFigTreeAnnotationExporter.xml
 create module --fileName modules/rabvPhyloUtility.xml
 
-
-#create module -f modules/rabvSeg4MaxLikelihoodGenotyper.xml
-#create module -f modules/rabvSeg4MaxLikelihoodPlacer.xml
+create module -f modules/rabvMaxLikelihoodGenotyper.xml
+create module -f modules/rabvMaxLikelihoodPlacer.xml
 
 
 

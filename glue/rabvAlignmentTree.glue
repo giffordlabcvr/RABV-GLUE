@@ -32,7 +32,8 @@
 
   alignment AL_Cosmopolitan
     set field displayName "Cosmopolitan"
-    
+    set field clade_category major_clade
+
     extract child AL_Cosmopolitan_Vac --refName REF_Cosmopolitan_Vac
     demote member AL_Cosmopolitan_Vac --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'Vac'" 
     
@@ -100,6 +101,7 @@
 
   alignment AL_Arctic 
     set field displayName "Arctic"
+    set field clade_category major_clade
 
     extract child AL_Arctic_A --refName REF_Arctic_A
     demote member AL_Arctic_A --whereClause "sequence.major_clade = 'Arctic' and sequence.minor_clade = 'A'" 
@@ -120,6 +122,7 @@
 
   alignment AL_Asian
     set field displayName "Asian"
+    set field clade_category major_clade
 
     extract child AL_Asian_SEA1a  --refName REF_Asian_SEA1a
     demote member AL_Asian_SEA1a  --whereClause "sequence.major_clade = 'Asian' and sequence.minor_clade = 'SEA1a'" 
@@ -146,6 +149,7 @@
 
   alignment AL_Bats
     set field displayName "Bats"
+    set field clade_category major_clade
 
     extract child AL_Bats_AZ  --refName REF_Bats_AZ
     demote member AL_Bats_AZ  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'AZ'" 
@@ -194,5 +198,265 @@
 
     extract child AL_Bats_TB  --refName REF_Bats_TB
     demote member AL_Bats_TB  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'TB'" 
+    exit
+
+  alignment AL_Africa-2
+    set field displayName "Africa-2"
+    set field clade_category "major_clade"
+    exit
+
+  alignment AL_Africa-3
+    set field displayName "Africa-3"
+    set field clade_category "major_clade"
+    exit
+
+  alignment AL_Indian-Sub
+    set field displayName "Indian-Sub"
+    set field clade_category "major_clade"
+    exit
+
+  alignment AL_RAC-SK
+    set field displayName "RAC-SK"
+    set field clade_category "major_clade"
+    exit
+
+  alignment AL_Arctic_A
+    set field displayName "Arctic A"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Arctic_AL1a
+    set field displayName "Arctic AL1a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Arctic_AL1b
+    set field displayName "Arctic AL1b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Arctic_AL2
+    set field displayName "Arctic AL2"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Arctic_AL3
+    set field displayName "Arctic AL3"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA1a
+    set field displayName "Asian SEA1a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA1b
+    set field displayName "Asian SEA1b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA2a
+    set field displayName "Asian SEA2a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA2b
+    set field displayName "Asian SEA2b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA3
+    set field displayName "Asian SEA3"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA4
+    set field displayName "Asian SEA4"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Asian_SEA5
+    set field displayName "Asian SEA5"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_AZ
+    set field displayName "Bats AZ"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_DR
+    set field displayName "Bats DR"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_EF-E1
+    set field displayName "Bats EF-E1"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_EF-W1
+    set field displayName "Bats EF-W1"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_EF-W2
+    set field displayName "Bats EF-W2"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_LB
+    set field displayName "Bats LB"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_LC
+    set field displayName "Bats LC"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_LI
+    set field displayName "Bats LI"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_LN
+    set field displayName "Bats LN"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_LS
+    set field displayName "Bats LS"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_LX
+    set field displayName "Bats LX"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_MYsp
+    set field displayName "Bats MYsp"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_PH
+    set field displayName "Bats PH"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_PS
+    set field displayName "Bats PS"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Bats_TB
+    set field displayName "Bats TB"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AF1a
+    set field displayName "Cosmopolitan AF1a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AF1b
+    set field displayName "Cosmopolitan AF1b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AF1c
+    set field displayName "Cosmopolitan AF1c"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AF4
+    set field displayName "Cosmopolitan AF4"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AM1
+    set field displayName "Cosmopolitan AM1"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AM2a
+    set field displayName "Cosmopolitan AM2a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AM2b
+    set field displayName "Cosmopolitan AM2b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AM3a
+    set field displayName "Cosmopolitan AM3a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AM3b
+    set field displayName "Cosmopolitan AM3b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_AM4
+    set field displayName "Cosmopolitan AM4"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_CA1
+    set field displayName "Cosmopolitan CA1"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_CA2
+    set field displayName "Cosmopolitan CA2"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_CA3
+    set field displayName "Cosmopolitan CA3"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_CE
+    set field displayName "Cosmopolitan CE"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_EE
+    set field displayName "Cosmopolitan EE"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_ME1a
+    set field displayName "Cosmopolitan ME1a"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_ME1b
+    set field displayName "Cosmopolitan ME1b"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_ME2
+    set field displayName "Cosmopolitan ME2"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_NEE
+    set field displayName "Cosmopolitan NEE"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_Vac
+    set field displayName "Cosmopolitan Vac"
+    set field clade_category "minor_clade"
+    exit
+    
+  alignment AL_Cosmopolitan_WE
+    set field displayName "Cosmopolitan WE"
+    set field clade_category "minor_clade"
     exit
     

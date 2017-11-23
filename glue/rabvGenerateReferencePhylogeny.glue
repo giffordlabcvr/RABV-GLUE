@@ -3,7 +3,7 @@ project rabv
   
      # with outgroup
      # generate nucleotide phylogeny AL_UNCONSTRAINED \
-     #   --selectorName phylogenyColumnsSelector \
+     #   --selectorName rabvPhylogenyColumnsSelector \
      #   --whereClause "sequence.source.name in ('ncbi-refseqs', 'ncbi-refseqs-outgroup')" \
      #   -o trees/rabvRefsOutgroup1.tree \
      #   NEWICK_BOOTSTRAPS
@@ -11,7 +11,7 @@ project rabv
 
     # without outgroup
     generate nucleotide phylogeny AL_UNCONSTRAINED \
-      --selectorName phylogenyColumnsSelector \
+      --selectorName rabvPhylogenyColumnsSelector \
       --whereClause "sequence.source.name = 'ncbi-refseqs'" \
       -o trees/rabvRefs1.tree \
       NEWICK_BOOTSTRAPS

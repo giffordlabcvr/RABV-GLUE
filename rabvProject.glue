@@ -15,6 +15,7 @@ project rabv
 
   # Import sources 
   import source sources/ncbi-refseqs
+  import source sources/ncbi-refseqs-outgroup
 
   # Define features
   run file glue/rabvFeatures.glue
@@ -27,16 +28,18 @@ project rabv
 
   # Create references
   run file glue/rabvReferences.glue
-  validate
-
+  
+  # Add feature locations to the master reference
+  run file glue/rabvFeatureLocations.glue
+  
   # Import alignment 
-  module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabv509seqs.fna
+  module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabvRefs.fna
 
   # Import alignment tree
   run file glue/rabvAlignmentTree.glue
 
   # Import phylogeny
-  #run file glue/rabvImportPhylogeny.glue
+  run file glue/rabvImportPhylogeny.glue
 
   # Validate
   validate

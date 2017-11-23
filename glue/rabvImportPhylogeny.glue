@@ -1,5 +1,10 @@
 module rabvPhyloImporter
 
-  import phylogeny AL_MASTER --recursive --anyAlignment --whereClause "referenceMember = false" --inputFile trees/rabv509seqs.tre NEWICK_BOOTSTRAPS --fieldName phylogeny
+  import phylogeny AL_MASTER \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.referenceSequences.name != null and referenceMember = false" \
+  --inputFile trees/rabvRefs1Africa-2Rerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
 
   exit

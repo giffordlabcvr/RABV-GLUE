@@ -1,0 +1,13 @@
+<!-- RABV reference outgroup sequence: Mokola virus -->
+<ncbiImporter>
+  <giNumberFieldName>gb_gi_number</giNumberFieldName>
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-refseqs-outgroup</sourceName>
+  <specificPrimaryAccessions>
+
+     <!-- Mokola virus reference strain -->
+    <primaryAccession>NC_006429</primaryAccession>
+
+  </specificPrimaryAccessions>  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+</ncbiImporter>

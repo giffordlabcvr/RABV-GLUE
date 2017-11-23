@@ -150,7 +150,7 @@ AB247428	BR-DR8	Brazil		Common vampire bat	Desmodus rotundus		Bats	DR		Sato, unp
 AF351849	TB1	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis		Bats	DR		[15]	N	Troupin
 AF369359	V235.FTB	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis	1994	Bats	DR		[18]	P	Troupin
 JQ685963	Coati -3639	Mexico	Cancun	Coati	Nasua narica	2009	Bats	DR	Mouse	Troupin	Complete genome	Troupin
-JQ685905	FL385	USA	FL	Mexican free-tailed bat	Tadarida brasiliensis	2003	Bats	DR	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685905	FL385	USA	FL	Mexican free-tailed bat	Tadarida brasiliensis	2003	Bats	TB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 AY039226	136	USA	RA	Big brown bat	Eptesicus fuscus	1984	Bats	EF-E1		[17]	N	Troupin
 JQ686010	A11-6191	USA	WV		Fox (unidentified)	2011	Bats	EF-E1	Original brain	Troupin	G	Troupin
 AF369338	058.BBB	Canada		Big brown bat	Eptesicus fuscus	1993	Bats	EF-E1		[18]	P	Troupin
@@ -461,10 +461,10 @@ AY352474	RV1596	Russia	Pskov	Red fox	Vulpes vulpes	1987	Cosmopolitan	NEE	Mouse	[
 KF154997	RV437	Estonia		Raccoon dog	Nyctereutes procyonoides		Cosmopolitan	NEE	Mouse		Complete genome	Kuzmin
 JQ685984	A10-3020	TX		Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	TXFX	Original brain	Troupin	G	Troupin
 JQ685995	Fox-8007	TX		Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	TXFX	Original brain	Troupin	G	Troupin
-JQ685943	A10-0511	USA	AZ/Flagstaff	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	Ungrouped	Original brain	This study	Complete genome	Troupin
+JQ685943	A10-0511	USA	AZ/Flagstaff	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	AM2b	Original brain	This study	Complete genome	Troupin
 JQ685899	A10-0515	USA	AZ/Flagstaff	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	Ungrouped	Original brain	This study	Complete genome	Troupin
 JQ685894	CA982	USA	CA	Striped skunk	Mephitis mephitis	1994	Cosmopolitan	Ungrouped	Original brain	This study	Complete genome	Troupin
-JQ685970	CASK2	USA	CA	Striped skunk	Mephitis mephitis	1974	Cosmopolitan	Ungrouped	Original brain	Troupin	Complete genome	Troupin
+JQ685970	CASK2	USA	CA	Striped skunk	Mephitis mephitis	1974	Cosmopolitan	AM4	Original brain	Troupin	Complete genome	Troupin
 JQ685975	MEXSK3636	Mexico		Spotted skunk	Spilogale putorius	2009	Cosmopolitan	Ungrouped	Mouse	Troupin	Complete genome	Troupin
 NC_001542	PV_RefSeq	NA		Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
 M31046	SAD B19	NA		Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
@@ -511,4 +511,4 @@ JQ685991	A09-0255	OK		Wolf	Canis lupus	2009	RAC-SK		Original brain	Troupin	G	Tro
 AF369287	V211.SK	USA	TX	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	P	Troupin
 AF369291	V216.SK	USA	TX	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	P	Troupin
 JQ686008	A11-5404	USA	AZ	Gray Fox	Urocyon cinereoargenteus	2011	Ungrouped	Ungrouped	Original brain	Troupin	G	Troupin
-JQ685955	AZ4490	USA	AZ	Yuma myotis	Myotis yumanensis	2005	Ungrouped	Ungrouped	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+JQ685955	AZ4490	USA	AZ	Yuma myotis	Myotis yumanensis	2005	Bats	MYu	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin

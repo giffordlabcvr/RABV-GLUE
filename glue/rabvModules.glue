@@ -3,8 +3,11 @@ create module --fileName modules/rabvNcbiImporterReferencesKuzmin.xml ncbiImport
 create module --fileName modules/rabvNcbiImporterReferencesTroupin.xml ncbiImporterTroupin
 create module --fileName modules/rabvNcbiImporterReferencesOutgroup.xml ncbiImporterOutgroup
 
+create module --fileName modules/tabularUtilityCsv.xml
+create module --fileName modules/tabularUtilityTab.xml
+
 create module --fileName modules/blastFastaAlignmentImporter.xml
-create module --fileName modules/rabvGenbankXmlPopulator.xml genbankXmlPopulator
+create module --fileName modules/rabvGenbankXmlPopulator.xml 
 create module --fileName modules/unconstrainedAlignmentImporter.xml
 create module --fileName modules/fastaProteinAlignmentExporter.xml
 create module --fileName modules/fastaAlignmentExporter.xml

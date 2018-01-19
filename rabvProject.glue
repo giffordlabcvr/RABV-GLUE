@@ -1,6 +1,6 @@
 delete project rabv
 
-create project rabv "GLUE project for the rabies virus (RABV)" --minVersion 0.1.50
+create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 0.1.140
 
 schema-project rabv
 
@@ -12,8 +12,10 @@ project rabv
   run file glue/projectSettings.glue
   
   run file glue/rabvModules.glue
+  
+  run file glue/m49_countries/populateM49All.glue
 
-  # Import sources 
+  # Import sources containing reference sequences
   import source sources/ncbi-refseqs
   import source sources/ncbi-refseqs-outgroup
 
@@ -21,7 +23,7 @@ project rabv
   run file glue/rabvFeatures.glue
 
   # Populate sequence table fields from GenBank XML
-  module genbankXmlPopulator populate
+  module rabvGenbankXmlPopulator populate -w "source.name in ('ncbi-refseqs', 'ncbi-refseqs-outgroup')"
 
   # Import data from tabular
   module textFilePopulatorRefSet populate -f tabular/reference-set-data.txt

@@ -1,4 +1,5 @@
 project rabv
+  delete alignment AL_UNC_509_REFSEQS
   create alignment AL_UNC_509_REFSEQS
   alignment AL_UNC_509_REFSEQS add member -w "source.name = 'ncbi-refseqs'"
   compute alignment AL_UNC_509_REFSEQS rabvMafftAligner

@@ -3,5 +3,5 @@ project rabv
   create alignment AL_UNC_509_REFSEQS
   alignment AL_UNC_509_REFSEQS add member -w "source.name = 'ncbi-refseqs'"
   compute alignment AL_UNC_509_REFSEQS rabvMafftAligner
-  module fastaAlignmentExporter export AL_UNC_509_REFSEQS --allMembers --fileName alignments/alUnc509Refseqs.fna
+  module fastaAlignmentExporter export AL_UNC_509_REFSEQS --allMembers --fileName alignments/alUnc509RefseqsMafft.fna
   exit

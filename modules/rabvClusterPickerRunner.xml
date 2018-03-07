@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clusterPickerRunner>
+    <initialThreshold>0</initialThreshold>
+    <supportThreshold>0</supportThreshold>
+    <geneticThreshold>0.02</geneticThreshold>
+</clusterPickerRunner>

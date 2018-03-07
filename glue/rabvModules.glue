@@ -19,6 +19,7 @@ create module --fileName modules/rabvRaxmlPhylogenyGenerator.xml
 create module --fileName modules/rabvPhyloImporter.xml  
 create module --fileName modules/rabvFigTreeAnnotationExporter.xml
 create module --fileName modules/rabvPhyloUtility.xml
+create module --fileName modules/rabvClusterPickerRunner.xml
 
 create module -f modules/rabvMaxLikelihoodGenotyper.xml
 create module -f modules/rabvMaxLikelihoodPlacer.xml

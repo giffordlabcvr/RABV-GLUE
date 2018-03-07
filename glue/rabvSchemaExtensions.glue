@@ -10,6 +10,7 @@ table sequence
   create field host VARCHAR 1000
   create field major_clade VARCHAR 20
   create field minor_clade VARCHAR 20
+  create field cluster INTEGER
   create field iso_source VARCHAR 100
   create field gb_country VARCHAR 200
   create field gb_place_sampled VARCHAR 500

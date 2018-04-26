@@ -8,6 +8,7 @@
   create reference REF_Cosmopolitan_AM2b  ncbi-refseqs JQ685943
   create reference REF_Cosmopolitan_AM2a  ncbi-refseqs KX148111
   create reference REF_Cosmopolitan_Vac   ncbi-refseqs NC_001542
+  create reference REF_Cosmopolitan_Vac2  ncbi-refseqs JQ685975
   create reference REF_Cosmopolitan_AM1   ncbi-refseqs KX148213
   create reference REF_Cosmopolitan_AF1a  ncbi-refseqs KF155001
   create reference REF_Cosmopolitan_AF1b  ncbi-refseqs KX148103
@@ -22,6 +23,8 @@
   create reference REF_Cosmopolitan_EE    ncbi-refseqs KX148140
   create reference REF_Cosmopolitan_WE    ncbi-refseqs KX148135
   create reference REF_Cosmopolitan_CE    ncbi-refseqs KX148122
+  create reference REF_Cosmopolitan_YUGCOW    ncbi-refseqs KX148104
+  create reference REF_Cosmopolitan_YUGFOX    ncbi-refseqs KX148161
 
   create reference REF_Africa-2           ncbi-refseqs KX148107
 
@@ -48,7 +51,6 @@
   create reference REF_RAC-SK             ncbi-refseqs EU311738
 
   create reference REF_Bats               ncbi-refseqs JQ685956
-  create reference REF_Bats_AZ            ncbi-refseqs JQ685971
   create reference REF_Bats_DR            ncbi-refseqs JQ685953
   create reference REF_Bats_EF-E1         ncbi-refseqs JQ685920
   create reference REF_Bats_EF-W1         ncbi-refseqs JQ685956
@@ -62,5 +64,11 @@
   create reference REF_Bats_PH            ncbi-refseqs JQ685952
   create reference REF_Bats_PS            ncbi-refseqs AY705373
   create reference REF_Bats_TB            ncbi-refseqs JQ685905
-  # create reference REF_Bats_MYu           ncbi-refseqs JQ685955
+ 
   create reference REF_Bats_MYsp          ncbi-refseqs JQ685921
+
+  create reference REF_Bats_MYu           ncbi-refseqs JQ685955
+  create reference REF_Bats_EFu           ncbi-refseqs AB383165
+  create reference REF_Bats_EF-E2         ncbi-refseqs JQ685925
+  create reference REF_Bats_AP            ncbi-refseqs JQ685971
+  

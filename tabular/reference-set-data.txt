@@ -138,7 +138,7 @@ KF620487	R2012_26	Taiwan		Ferret badger	Melogale moschata	2012	Asian	SEA5	Origin
 KF620488	R2012_88	Taiwan		Ferret badger	Melogale moschata	2012	Asian	SEA5	Original brain		Complete genome	Kuzmin
 KF620489	R2013_01	Taiwan		Ferret badger	Melogale moschata	2013	Asian	SEA5	Original brain		Complete genome	Kuzmin
 JQ686006	WR93-1654	USA	AZ	Pallid bat	Antrozous pallidus	1993	Bats	AP	Original brain	Troupin	G	Troupin
-JQ685971	AZ3003	USA	AZ	Pallid bat	Antrozous pallidus	2009	Bats	AZ	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+JQ685971	AZ3003	USA	AZ	Pallid bat	Antrozous pallidus	2009	Bats	AP	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
 KX148100	09035FRA	French Guiana		Bat 	Phyllostomidae stenodermatinae	2009	Bats	DR	Original brain	This study	Complete genome	Kuzmin
 JQ685936	3634DR	Mexico		Cow	Bos taurus	2009	Bats	DR	Mouse	This study	N, P, M, G, L	Troupin
 JQ685953	3645DR	Mexico		Human 	Homo sapiens	2009	Bats	DR	mouse	This study	Complete genome	Troupin
@@ -147,9 +147,9 @@ KX148268	90001FRA	French Guiana		Dog 	Canis familiaris	1990	Bats	DR	Original bra
 AB519641	BR_AL1	Brazil		Great fruit-eating bat	Artibeus lituratus	1998	Bats	DR	Original brain		Complete genome	Kuzmin
 AB519642	BR_DR1	Brazil		Common vampire bat	Desmodus rotundus	2000	Bats	DR	Original brain		Complete genome	Kuzmin
 AB247428	BR-DR8	Brazil		Common vampire bat	Desmodus rotundus		Bats	DR		Sato, unpublished	G	Troupin
-AF351849	TB1	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis		Bats	DR		[15]	N	Troupin
-AF369359	V235.FTB	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis	1994	Bats	DR		[18]	P	Troupin
-JQ685963	Coati -3639	Mexico	Cancun	Coati	Nasua narica	2009	Bats	DR	Mouse	Troupin	Complete genome	Troupin
+AF351849	TB1	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis		Bats	TB		[15]	N	Troupin
+AF369359	V235.FTB	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis	1994	Bats	TB		[18]	P	Troupin
+JQ685963	Coati -3639	Mexico	Cancun	Coati	Nasua narica	2009	Bats	TB	Mouse	Troupin	Complete genome	Troupin
 JQ685905	FL385	USA	FL	Mexican free-tailed bat	Tadarida brasiliensis	2003	Bats	TB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 AY039226	136	USA	RA	Big brown bat	Eptesicus fuscus	1984	Bats	EF-E1		[17]	N	Troupin
 JQ686010	A11-6191	USA	WV		Fox (unidentified)	2011	Bats	EF-E1	Original brain	Troupin	G	Troupin
@@ -391,10 +391,10 @@ KX148115	96250POL	Poland		Red fox	Vulpes vulpes	1996	Cosmopolitan	CE	Original br
 KX148116	96256POL	Poland		Red fox	Vulpes vulpes	1996	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
 KX148117	97046POL	Poland		Red fox	Vulpes vulpes	1997	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
 AF325464	POL1-RD	Poland		Raccoon dog	Nyctereutes procyonoides	1985	Cosmopolitan	CE		[19]	G	Troupin
-KX148104	86058YOU	Montenegro		Cow	Bos taurus	1978	Cosmopolitan	Cosmopolitan	Mouse	This study	Complete genome	Kuzmin
-KX148161	86133SER	Serbia		Red fox	Vulpes vulpes	1972	Cosmopolitan	Cosmopolitan	Mouse	This study	Complete genome	Kuzmin
-AF325463	YUG1-WF	Yugoslavia		Cow	Bos taurus	1984	Cosmopolitan	Cosmopolitan		[19]	G	Troupin
-U42703		Yugoslavia		Red fox	Vulpes vulpes	1976	Cosmopolitan	Cosmopolitan		[6]	N	Troupin
+KX148104	86058YOU	Montenegro		Cow	Bos taurus	1978	Cosmopolitan	YUGCOW	Mouse	This study	Complete genome	Kuzmin
+KX148161	86133SER	Serbia		Red fox	Vulpes vulpes	1972	Cosmopolitan	YUGFOX	Mouse	This study	Complete genome	Kuzmin
+AF325463	YUG1-WF	Yugoslavia		Cow	Bos taurus	1984	Cosmopolitan	YUGCOW		[19]	G	Troupin
+U42703	86107YOU	Yugoslavia		Red fox	Vulpes vulpes	1976	Cosmopolitan	YUGFOX		[6]	N	Troupin
 KX148145	86054YOU	Bosnia and Herzegovina		Wolf	Canis lupus	1986	Cosmopolitan	EE	Mouse	This study	Complete genome	Kuzmin
 KX148140	86109YOU	Serbia		Red fox	Vulpes vulpes	1986	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
 KX148143	93080HON	Hungary		Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
@@ -441,7 +441,7 @@ KX148162	94002TUR	Turkey		Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original b
 KX148167	94005TUR	Turkey		Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148165	94009TUR	Turkey		Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148163	94016TUR	Turkey		Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
-AF369329	V466.DG	Nigeria		Dog 	Canis familiaris	1996	Cosmopolitan	MexSK-2		[18]	P	Troupin
+AF369329	V466.DG	Nigeria		Dog 	Canis familiaris	1996	Cosmopolitan	Vac2		[18]	P	Troupin
 JQ944704	184VNO	Russia		Raccoon dog	Nyctereutes procyonoides	2009	Cosmopolitan	NEE	Original brain	Chupin et al. unpublished	Complete genome	Kuzmin
 KX148148	93038EST	Estonia		Red fox	Vulpes vulpes	1992	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
 KX148149	93039EST	Estonia		Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
@@ -459,13 +459,13 @@ KX148152	96142POL	Poland		Raccoon dog	Nyctereutes procyonoides	1996	Cosmopolitan
 KX148154	97078POL	Poland		Raccoon dog	Nyctereutes procyonoides	1997	Cosmopolitan	NEE	Cosmopolitan – NEE	This study	Complete genome	Kuzmin
 AY352474	RV1596	Russia	Pskov	Red fox	Vulpes vulpes	1987	Cosmopolitan	NEE	Mouse	[5]	N	Troupin
 KF154997	RV437	Estonia		Raccoon dog	Nyctereutes procyonoides		Cosmopolitan	NEE	Mouse		Complete genome	Kuzmin
-JQ685984	A10-3020	TX		Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	TXFX	Original brain	Troupin	G	Troupin
-JQ685995	Fox-8007	TX		Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	TXFX	Original brain	Troupin	G	Troupin
+JQ685984	A10-3020	TX		Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	Vac2	Original brain	Troupin	G	Troupin
+JQ685995	Fox-8007	TX		Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	Vac2	Original brain	Troupin	G	Troupin
 JQ685943	A10-0511	USA	AZ/Flagstaff	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	AM2b	Original brain	This study	Complete genome	Troupin
-JQ685899	A10-0515	USA	AZ/Flagstaff	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	Ungrouped	Original brain	This study	Complete genome	Troupin
-JQ685894	CA982	USA	CA	Striped skunk	Mephitis mephitis	1994	Cosmopolitan	Ungrouped	Original brain	This study	Complete genome	Troupin
+JQ685899	A10-0515	USA	AZ/Flagstaff	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	AM2b	Original brain	This study	Complete genome	Troupin
+JQ685894	CA982	USA	CA	Striped skunk	Mephitis mephitis	1994	Cosmopolitan	AM4	Original brain	This study	Complete genome	Troupin
 JQ685970	CASK2	USA	CA	Striped skunk	Mephitis mephitis	1974	Cosmopolitan	AM4	Original brain	Troupin	Complete genome	Troupin
-JQ685975	MEXSK3636	Mexico		Spotted skunk	Spilogale putorius	2009	Cosmopolitan	Ungrouped	Mouse	Troupin	Complete genome	Troupin
+JQ685975	MEXSK3636	Mexico		Spotted skunk	Spilogale putorius	2009	Cosmopolitan	Vac2	Mouse	Troupin	Complete genome	Troupin
 NC_001542	PV_RefSeq	NA		Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
 M31046	SAD B19	NA		Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
 KX148133	86111YOU	Bosnia and Herzegovina		Red fox	Vulpes vulpes	1986	Cosmopolitan	WE	Mouse	This study	Complete genome	Kuzmin
@@ -510,5 +510,5 @@ JQ685993	A08-0500	CO		Cat	Felis catus	2008	RAC-SK		Original brain	Troupin	G	Trou
 JQ685991	A09-0255	OK		Wolf	Canis lupus	2009	RAC-SK		Original brain	Troupin	G	Troupin
 AF369287	V211.SK	USA	TX	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	P	Troupin
 AF369291	V216.SK	USA	TX	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	P	Troupin
-JQ686008	A11-5404	USA	AZ	Gray Fox	Urocyon cinereoargenteus	2011	Ungrouped	Ungrouped	Original brain	Troupin	G	Troupin
+JQ686008	A11-5404	USA	AZ	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYu	Original brain	Troupin	G	Troupin
 JQ685955	AZ4490	USA	AZ	Yuma myotis	Myotis yumanensis	2005	Bats	MYu	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin

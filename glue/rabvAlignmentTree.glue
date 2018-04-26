@@ -96,6 +96,16 @@
     
     extract child AL_Cosmopolitan_CE   --refName REF_Cosmopolitan_CE
     demote member AL_Cosmopolitan_CE   --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'CE'"     
+
+    extract child AL_Cosmopolitan_Vac2   --refName REF_Cosmopolitan_Vac2
+    demote member AL_Cosmopolitan_Vac2   --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'Vac2'"     
+
+    extract child AL_Cosmopolitan_YUGFOX   --refName REF_Cosmopolitan_YUGFOX
+    demote member AL_Cosmopolitan_YUGFOX   --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'YUGFOX'"     
+
+    extract child AL_Cosmopolitan_YUGCOW   --refName REF_Cosmopolitan_YUGCOW
+    demote member AL_Cosmopolitan_YUGCOW   --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'YUGCOW'"     
+
     exit
 
 
@@ -151,8 +161,8 @@
     set field displayName "Bats"
     set field clade_category major_clade
 
-    extract child AL_Bats_AZ  --refName REF_Bats_AZ
-    demote member AL_Bats_AZ  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'AZ'" 
+    extract child AL_Bats_AP  --refName REF_Bats_AP
+    demote member AL_Bats_AP  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'AP'" 
 
     extract child AL_Bats_DR  --refName REF_Bats_DR
     demote member AL_Bats_DR  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'DR'" 
@@ -160,11 +170,17 @@
     extract child AL_Bats_EF-E1  --refName REF_Bats_EF-E1
     demote member AL_Bats_EF-E1  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'EF-E1'" 
 
+    extract child AL_Bats_EF-E2  --refName REF_Bats_EF-E2
+    demote member AL_Bats_EF-E2  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'EF-E2'" 
+
     extract child AL_Bats_EF-W1  --refName REF_Bats_EF-W1
     demote member AL_Bats_EF-W1  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'EF-W1'" 
 
     extract child AL_Bats_EF-W2  --refName REF_Bats_EF-W2
     demote member AL_Bats_EF-W2  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'EF-W2'" 
+
+    extract child AL_Bats_EFu  --refName REF_Bats_EFu
+    demote member AL_Bats_EFu  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'EFu'" 
 
     extract child AL_Bats_LB  --refName REF_Bats_LB
     demote member AL_Bats_LB  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'LB'" 
@@ -187,8 +203,8 @@
     extract child AL_Bats_MYsp  --refName REF_Bats_MYsp
     demote member AL_Bats_MYsp  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'MYsp'" 
 
-    # extract child AL_Bats_MYu  --refName REF_Bats_MYu
-    # demote member AL_Bats_MYu  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'MYu'" 
+    extract child AL_Bats_MYu  --refName REF_Bats_MYu
+    demote member AL_Bats_MYu  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'MYu'" 
 
     extract child AL_Bats_PH  --refName REF_Bats_PH
     demote member AL_Bats_PH  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'PH'" 
@@ -280,8 +296,8 @@
     set field clade_category "minor_clade"
     exit
     
-  alignment AL_Bats_AZ
-    set field displayName "Bats AZ"
+  alignment AL_Bats_AP
+    set field displayName "Bats AP"
     set field clade_category "minor_clade"
     exit
     
@@ -295,6 +311,16 @@
     set field clade_category "minor_clade"
     exit
     
+  alignment AL_Bats_EF-E2
+    set field displayName "Bats EF-E2"
+    set field clade_category "minor_clade"
+    exit
+
+  alignment AL_Bats_EFu
+    set field displayName "Bats EFu"
+    set field clade_category "minor_clade"
+    exit
+
   alignment AL_Bats_EF-W1
     set field displayName "Bats EF-W1"
     set field clade_category "minor_clade"
@@ -337,6 +363,11 @@
     
   alignment AL_Bats_MYsp
     set field displayName "Bats MYsp"
+    set field clade_category "minor_clade"
+    exit
+
+  alignment AL_Bats_MYu
+    set field displayName "Bats MYu"
     set field clade_category "minor_clade"
     exit
     

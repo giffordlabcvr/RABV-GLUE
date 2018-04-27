@@ -37,7 +37,7 @@
     extract child AL_Cosmopolitan_Vac --refName REF_Cosmopolitan_Vac_NC_001542
     demote member AL_Cosmopolitan_Vac --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'Vac'" 
     
-    extract child AL_Cosmopolitan_AF4 --refName REF_Cosmopolitan_AF4_KX148101
+    extract child AL_Cosmopolitan_AF4 --refName REF_Cosmopolitan_AF4_KF154998
     demote member AL_Cosmopolitan_AF4 --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'AF4'" 
     
     extract child AL_Cosmopolitan_AM4 --refName REF_Cosmopolitan_AM4_JQ685970
@@ -55,10 +55,10 @@
     extract child AL_Cosmopolitan_AM2b --refName REF_Cosmopolitan_AM2b_JQ685943
     demote member AL_Cosmopolitan_AM2b --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'AM2b'"
     
-    extract child AL_Cosmopolitan_AM2a --refName REF_Cosmopolitan_AM2a_KX148111
+    extract child AL_Cosmopolitan_AM2a --refName REF_Cosmopolitan_AM2a_KX148102
     demote member AL_Cosmopolitan_AM2a --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'AM2a'"
     
-    extract child AL_Cosmopolitan_AF1a --refName REF_Cosmopolitan_AF1a_KF155001
+    extract child AL_Cosmopolitan_AF1a --refName REF_Cosmopolitan_AF1a_KX148194
     demote member AL_Cosmopolitan_AF1a --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'AF1a'"
     
     extract child AL_Cosmopolitan_AF1b --refName REF_Cosmopolitan_AF1b_KX148103
@@ -73,7 +73,7 @@
     extract child AL_Cosmopolitan_ME1a --refName REF_Cosmopolitan_ME1a_KX148190
     demote member AL_Cosmopolitan_ME1a --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'ME1a'"
     
-    extract child AL_Cosmopolitan_ME1b --refName REF_Cosmopolitan_ME1b_KX148192
+    extract child AL_Cosmopolitan_ME1b --refName REF_Cosmopolitan_ME1b_KX148191
     demote member AL_Cosmopolitan_ME1b --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'ME1b'"
     
     extract child AL_Cosmopolitan_CA1  --refName REF_Cosmopolitan_CA1_KX148159
@@ -94,7 +94,7 @@
     extract child AL_Cosmopolitan_WE   --refName REF_Cosmopolitan_WE_KX148135
     demote member AL_Cosmopolitan_WE   --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'WE'"
     
-    extract child AL_Cosmopolitan_CE   --refName REF_Cosmopolitan_CE_KX148122
+    extract child AL_Cosmopolitan_CE   --refName REF_Cosmopolitan_CE_KX148113
     demote member AL_Cosmopolitan_CE   --whereClause "sequence.major_clade = 'Cosmopolitan' and sequence.minor_clade = 'CE'"     
 
     extract child AL_Cosmopolitan_Vac2   --refName REF_Cosmopolitan_Vac2_JQ685975

@@ -234,13 +234,13 @@ AF369341	V078.BBB	Canada		Big brown bat	Eptesicus fuscus	1988	Bats	EF-W2		[18]	P
 GU644683	wa1043	USA	WA	Big brown bat	Eptesicus fuscus	2003	Bats	EF-W2	Original brain	[16]	N	Troupin
 GU644851	wa1086	USA	WA	Big brown bat	Eptesicus fuscus	2003	Bats	EF-W2	Original brain	[16]	N	Troupin
 GU644682	wa267	USA	WA	Big brown bat	Eptesicus fuscus	2000	Bats	EF-W2	Original brain	[16]	N	Troupin
-AB383168	BR-EF1	Brazil		Argentinian brown bat	Eptesicus furinalis		Bats	EFu 		[20]	G	Troupin
-AB383170	BR-EF3	Brazil		Argentinian brown bat	Eptesicus furinalis		Bats	EFu 		[20]	G	Troupin
-AB383171	BR-EF4	Brazil		Argentinian brown bat	Eptesicus furinalis		Bats	EFu 		[20]	G	Troupin
-AB383172	BR-NL2	Brazil		Broad-eared bat	Nyctinomops laticaudatus		Bats	EFu 		[20]	G	Troupin
-AB383165		Brazil		Non-hematophagous bat			Bats	EFu 		[20]	G	Troupin
-AB383166		Brazil		Non-hematophagous bat			Bats	EFu 		[20]	G	Troupin
-AB383167		Brazil		Black bonneted bat	Eumops auripendulus		Bats	EFu 		[20]	G	Troupin
+AB383168	BR-EF1	Brazil		Argentinian brown bat	Eptesicus furinalis		Bats	EFu		[20]	G	Troupin
+AB383170	BR-EF3	Brazil		Argentinian brown bat	Eptesicus furinalis		Bats	EFu		[20]	G	Troupin
+AB383171	BR-EF4	Brazil		Argentinian brown bat	Eptesicus furinalis		Bats	EFu		[20]	G	Troupin
+AB383172	BR-NL2	Brazil		Broad-eared bat	Nyctinomops laticaudatus		Bats	EFu		[20]	G	Troupin
+AB383165		Brazil		Non-hematophagous bat			Bats	EFu		[20]	G	Troupin
+AB383166		Brazil		Non-hematophagous bat			Bats	EFu		[20]	G	Troupin
+AB383167		Brazil		Black bonneted bat	Eumops auripendulus		Bats	EFu		[20]	G	Troupin
 JQ685919	NJ2262	USA	NJ	Eastern red bat	Lasiurus borealis	2005	Bats	LB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 JQ685902	TN209	USA	TN	Eastern red bat	Lasiurus borealis	2005	Bats	LB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 AF369351	6832.RB	Canada		Eastern red bat	Lasiurus borealis	1991	Bats	LB		[18]	P	Troupin
@@ -274,18 +274,18 @@ JQ685979	OR43	USA	OR	Gray Fox	Urocyon cinereoargenteus	2000	Bats	MYsp	Original b
 JQ686013	OR43	USA	OR	Gray Fox	Urocyon cinereoargenteus	2000	Bats	MYsp	Original brain	Troupin	G	Troupin
 JQ685978	OR59	USA	OR	Gray Fox	Urocyon cinereoargenteus	2006	Bats	MYsp	Original brain	TroupinTroupin	N	Troupin
 JQ686012	OR59	USA	OR	Gray Fox	Urocyon cinereoargenteus	2006	Bats	MYsp	Original brain	Troupin	G	Troupin
-JQ685997	A10-5170	USA	ID		Myotis sp	2010	Bats	MYsp 	Original brain	Troupin	G	Troupin
-AF369349	3694.MYO	Canada			Myotis sp	1996	Bats	MYsp 		[18]	P	Troupin
-AF369344	4887.LBB	Canada		Little brown bat	Myotis lucifugus	1994	Bats	MYsp 		[18]	P	Troupin
-AF369352	7890.LBB	Canada		Little brown bat	Myotis lucifugus	1997	Bats	MYsp 		[18]	P	Troupin
-AF369353	9499.MYO	Canada		Red fox	Vulpes vulpes	1993	Bats	MYsp 		[18]	P	Troupin
-JQ686011	OR-062011	USA	OR	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYsp 	Original brain	Troupin	G	Troupin
-JQ685998	T91-0038	USA	CA		Myotis sp	1991	Bats	MYsp 	Original brain	Troupin	G	Troupin
-AF325494	USA8-BT	USA	MT		Myotis sp	1981	Bats	MYsp 		[19]	G	Troupin
-AF325495	USA9-BT	USA	MT		Myotis sp	1982	Bats	MYsp 		[19]	G	Troupin
-AF369343	V089.LBB	Canada		Little brown bat	Myotis lucifugus	1992	Bats	MYsp 		[18]	P	Troupin
-AF369354	V102.MYO	Canada		Long-eared myotis	Myotis evotis	1992	Bats	MYsp 		[18]	P	Troupin
-AF369358	V179.LBB	Canada		Little brown bat	Myotis lucifugus	1993	Bats	MYsp 		[18]	P	Troupin
+JQ685997	A10-5170	USA	ID		Myotis sp	2010	Bats	MYsp	Original brain	Troupin	G	Troupin
+AF369349	3694.MYO	Canada			Myotis sp	1996	Bats	MYsp		[18]	P	Troupin
+AF369344	4887.LBB	Canada		Little brown bat	Myotis lucifugus	1994	Bats	MYsp		[18]	P	Troupin
+AF369352	7890.LBB	Canada		Little brown bat	Myotis lucifugus	1997	Bats	MYsp		[18]	P	Troupin
+AF369353	9499.MYO	Canada		Red fox	Vulpes vulpes	1993	Bats	MYsp		[18]	P	Troupin
+JQ686011	OR-062011	USA	OR	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYsp	Original brain	Troupin	G	Troupin
+JQ685998	T91-0038	USA	CA		Myotis sp	1991	Bats	MYsp	Original brain	Troupin	G	Troupin
+AF325494	USA8-BT	USA	MT		Myotis sp	1981	Bats	MYsp		[19]	G	Troupin
+AF325495	USA9-BT	USA	MT		Myotis sp	1982	Bats	MYsp		[19]	G	Troupin
+AF369343	V089.LBB	Canada		Little brown bat	Myotis lucifugus	1992	Bats	MYsp		[18]	P	Troupin
+AF369354	V102.MYO	Canada		Long-eared myotis	Myotis evotis	1992	Bats	MYsp		[18]	P	Troupin
+AF369358	V179.LBB	Canada		Little brown bat	Myotis lucifugus	1993	Bats	MYsp		[18]	P	Troupin
 JQ685952	A02-2971	USA	CA	Canyon bat	Parastrellus hesperos	2002	Bats	PH	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 JQ685965	A02-2972	USA	AZ	Canyon bat	Parastrellus hesperos	2002	Bats	PH	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
 AY705373	SHBRV18	USA		Human 	Homo sapiens	1983	Bats	PS	mouse	[14]	Complete genome	Troupin

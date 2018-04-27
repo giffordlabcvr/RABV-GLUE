@@ -1,16 +1,9 @@
 project rabv
   module rabvRaxmlPhylogenyGenerator 
   
-     # with outgroup
-     # generate nucleotide phylogeny AL_UNCONSTRAINED \
-     #   --whereClause "sequence.source.name in ('ncbi-refseqs', 'ncbi-refseqs-outgroup')" \
-     #   -o trees/rabvRefsOutgroup1.tree \
-     #   NEWICK_BOOTSTRAPS
-     # exit    
-
     # without outgroup
-    generate nucleotide phylogeny AL_UNCONSTRAINED \
-      --whereClause "sequence.source.name = 'ncbi-refseqs'" \
+    generate nucleotide phylogeny AL_UNC_509_REFSEQS_HM \
+      --whereClause "referenceSequences.name != null and source.name = 'ncbi-refseqs'" \
       -o trees/rabvRefs1.tree \
       NEWICK_BOOTSTRAPS
     exit    

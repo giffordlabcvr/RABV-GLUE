@@ -10,5 +10,5 @@
 	<phyloFieldName>phylogeny</phyloFieldName>
 
 	<!-- where the alignment will come from -->
-	<alignmentAlignmentName>AL_UNCONSTRAINED</alignmentAlignmentName>
+	<alignmentAlignmentName>AL_UNC_509_REFSEQS_HM</alignmentAlignmentName>
 </maxLikelihoodPlacer>

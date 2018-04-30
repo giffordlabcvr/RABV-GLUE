@@ -182,8 +182,11 @@
     extract child AL_Bats_EFu  --refName REF_Bats_EFu_AB383165
     demote member AL_Bats_EFu  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'EFu'" 
 
-    extract child AL_Bats_LB  --refName REF_Bats_LB_JQ685902
-    demote member AL_Bats_LB  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'LB'" 
+    extract child AL_Bats_LB1  --refName REF_Bats_LB1_JQ685919
+    demote member AL_Bats_LB1  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'LB1'" 
+
+    extract child AL_Bats_LB2  --refName REF_Bats_LB2_JQ685902
+    demote member AL_Bats_LB2  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'LB2'" 
 
     extract child AL_Bats_LC  --refName REF_Bats_LC_JQ685947
     demote member AL_Bats_LC  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'LC'" 
@@ -200,7 +203,7 @@
     extract child AL_Bats_LX  --refName REF_Bats_LX_JQ685910
     demote member AL_Bats_LX  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'LX'" 
 
-    extract child AL_Bats_MYsp  --refName REF_Bats_MYsp_JQ685921
+    extract child AL_Bats_MYsp  --refName REF_Bats_MYsp_JQ685918
     demote member AL_Bats_MYsp  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'MYsp'" 
 
     extract child AL_Bats_MYu  --refName REF_Bats_MYu_JQ685955
@@ -212,8 +215,11 @@
     extract child AL_Bats_PS  --refName REF_Bats_PS_AY705373
     demote member AL_Bats_PS  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'PS'" 
 
-    extract child AL_Bats_TB  --refName REF_Bats_TB_JQ685905
-    demote member AL_Bats_TB  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'TB'" 
+    extract child AL_Bats_TB1  --refName REF_Bats_TB1_JQ685905
+    demote member AL_Bats_TB1  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'TB1'" 
+
+    extract child AL_Bats_TB2  --refName REF_Bats_TB2_EU293116
+    demote member AL_Bats_TB2  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'TB2'" 
     exit
 
   alignment AL_Africa-2
@@ -331,8 +337,13 @@
     set field clade_category "minor_clade"
     exit
     
-  alignment AL_Bats_LB
-    set field displayName "Bats LB"
+  alignment AL_Bats_LB1
+    set field displayName "Bats LB1"
+    set field clade_category "minor_clade"
+    exit
+
+  alignment AL_Bats_LB2
+    set field displayName "Bats LB2"
     set field clade_category "minor_clade"
     exit
     
@@ -381,8 +392,13 @@
     set field clade_category "minor_clade"
     exit
     
-  alignment AL_Bats_TB
-    set field displayName "Bats TB"
+  alignment AL_Bats_TB1
+    set field displayName "Bats TB1"
+    set field clade_category "minor_clade"
+    exit
+
+  alignment AL_Bats_TB2
+    set field displayName "Bats TB2"
     set field clade_category "minor_clade"
     exit
     

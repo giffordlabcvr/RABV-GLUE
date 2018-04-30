@@ -1,16 +1,16 @@
   module rabvFigTreeAnnotationExporter 
     export figtree-annotation AL_UNC_509_REFSEQS_HM \
       --whereClause "sequence.referenceSequences.name != null and sequence.source.name = 'ncbi-refseqs'" \
-      -f trees/figtreeAnnotations.txt
+      -f trees/rabvReferenceFigtreeAnnotations.txt
     exit
 
     
   module rabvPhyloUtility 
 	# midpoint rooting
 	reroot-phylogeny \
-      --inputFile trees/rabvRefs1.tree NEWICK_BOOTSTRAPS \
+      --inputFile trees/rabvReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/rabvRefs1MidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/rabvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
 
     exit
     

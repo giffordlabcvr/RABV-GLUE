@@ -48,7 +48,7 @@ project rabv
   run file glue/rabvAlignmentTree.glue
 
   # Import phylogeny
-  # run file glue/rabvImportPhylogeny.glue
+  run file glue/rabvImportPhylogeny.glue
 
   # Validate
   validate

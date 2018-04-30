@@ -4,7 +4,7 @@ project rabv
     # without outgroup
     generate nucleotide phylogeny AL_UNC_509_REFSEQS_HM \
       --whereClause "sequence.referenceSequences.name != null and sequence.source.name = 'ncbi-refseqs'" \
-      -o trees/rabvRefs1.tree \
+      -o trees/rabvReferencePhylogeny.tree \
       NEWICK_BOOTSTRAPS
     exit    
   

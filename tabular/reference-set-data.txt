@@ -58,7 +58,7 @@ AF369330	V458.DG	India		Cow	Bos taurus	1991	Arctic	AL1a		[18]	P	Troupin
 KX148225	02052AFG	Afghanistan		Dog 	Canis familiaris	2002	Arctic	AL1b	Original brain	This study	Complete genome	Kuzmin
 KX148227	04029AFG	Afghanistan		Dog 	Canis familiaris	2004	Arctic	AL1b	Original brain	This study	Complete genome	Kuzmin
 KX148226	04035AFG	Afghanistan		Dog 	Canis familiaris	2002	Arctic	AL1b	Original brain	This study	Complete genome	Kuzmin
-HE802676	Pk_24	Pakistan		Cow	Bos taurus	2007	Arctic	AL1b	Mouse	Hussain et al. unpublished	Complete genome	Kuzmin
+HE802676	Pk_24	Pakistan		Cow	Bos taurus	2007	Arctic	AL1a	Mouse	Hussain et al. unpublished	Complete genome	Kuzmin
 KC171643	08F40	South Korea		Cattle	Bos taurus	2008	Arctic	AL2	Original brain		Complete genome	Kuzmin
 AY352459	304c	Russia	Tyva	Corsac fox	Vulpes corsac	1977	Arctic	AL2	Mouse	[5]; this study	N	Troupin
 JQ685983	304c	Russia	Tyva	Corsac fox	Vulpes corsac	1977	Arctic	AL2	Mouse	[5]; this study	G	Troupin
@@ -147,10 +147,10 @@ KX148268	90001FRA	French Guiana		Dog 	Canis familiaris	1990	Bats	DR	Original bra
 AB519641	BR_AL1	Brazil		Great fruit-eating bat	Artibeus lituratus	1998	Bats	DR	Original brain		Complete genome	Kuzmin
 AB519642	BR_DR1	Brazil		Common vampire bat	Desmodus rotundus	2000	Bats	DR	Original brain		Complete genome	Kuzmin
 AB247428	BR-DR8	Brazil		Common vampire bat	Desmodus rotundus		Bats	DR		Sato, unpublished	G	Troupin
-AF351849	TB1	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis		Bats	TB		[15]	N	Troupin
-AF369359	V235.FTB	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis	1994	Bats	TB		[18]	P	Troupin
-JQ685963	Coati -3639	Mexico	Cancun	Coati	Nasua narica	2009	Bats	TB	Mouse	Troupin	Complete genome	Troupin
-JQ685905	FL385	USA	FL	Mexican free-tailed bat	Tadarida brasiliensis	2003	Bats	TB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+AF351849	TB1	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis		Bats	TB1		[15]	N	Troupin
+AF369359	V235.FTB	USA	TX	Mexican free-tailed bat	Tadarida brasiliensis	1994	Bats	TB1		[18]	P	Troupin
+JQ685963	Coati -3639	Mexico	Cancun	Coati	Nasua narica	2009	Bats	TB1	Mouse	Troupin	Complete genome	Troupin
+JQ685905	FL385	USA	FL	Mexican free-tailed bat	Tadarida brasiliensis	2003	Bats	TB1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 AY039226	136	USA	RA	Big brown bat	Eptesicus fuscus	1984	Bats	EF-E1		[17]	N	Troupin
 JQ686010	A11-6191	USA	WV		Fox (unidentified)	2011	Bats	EF-E1	Original brain	Troupin	G	Troupin
 AF369338	058.BBB	Canada		Big brown bat	Eptesicus fuscus	1993	Bats	EF-E1		[18]	P	Troupin
@@ -241,11 +241,11 @@ AB383172	BR-NL2	Brazil		Broad-eared bat	Nyctinomops laticaudatus		Bats	EFu		[20]
 AB383165		Brazil		Non-hematophagous bat			Bats	EFu		[20]	G	Troupin
 AB383166		Brazil		Non-hematophagous bat			Bats	EFu		[20]	G	Troupin
 AB383167		Brazil		Black bonneted bat	Eumops auripendulus		Bats	EFu		[20]	G	Troupin
-JQ685919	NJ2262	USA	NJ	Eastern red bat	Lasiurus borealis	2005	Bats	LB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
-JQ685902	TN209	USA	TN	Eastern red bat	Lasiurus borealis	2005	Bats	LB	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
-AF369351	6832.RB	Canada		Eastern red bat	Lasiurus borealis	1991	Bats	LB		[18]	P	Troupin
-JQ686007	LAH60	USA	NC	Eastern red bat	Lasiurus borealis	2010	Bats	LB	Original brain	Troupin	G	Troupin
-AF369348	V231.RB	USA	TX	Eastern red bat	Lasiurus borealis	1994	Bats	LB		[18]	P	Troupin
+JQ685919	NJ2262	USA	NJ	Eastern red bat	Lasiurus borealis	2005	Bats	LB1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685902	TN209	USA	TN	Eastern red bat	Lasiurus borealis	2005	Bats	LB2	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+AF369351	6832.RB	Canada		Eastern red bat	Lasiurus borealis	1991	Bats	LB1		[18]	P	Troupin
+JQ686007	LAH60	USA	NC	Eastern red bat	Lasiurus borealis	2010	Bats	LB2	Original brain	Troupin	G	Troupin
+AF369348	V231.RB	USA	TX	Eastern red bat	Lasiurus borealis	1994	Bats	LB2		[18]	P	Troupin
 JQ685999	T94-0237	USA	CA	Hoary bat	Lasiurus cinereus	1994	Bats	LC	Original brain	Troupin	G	Troupin
 JQ685947	TN310	USA	TN	Hoary bat	Lasiurus cinereus	2004	Bats	LC	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 AF369347	V103.HB	Canada		Hoary bat	Lasiurus cinereus	1992	Bats	LC		[18]	P	Troupin
@@ -263,7 +263,7 @@ AF369356	V158.SHB	Canada		Silver-haired bat	Lasionycteris noctivagans	1991	Bats	
 U52946		USA	CA	Human 	Homo sapiens	1994	Bats	LN		[21]	G	Troupin
 JQ685900	FL769	USA	FL	Seminole bat	Lasiurus seminolus	2003	Bats	LS	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 JQ685910	TX5960	USA	TX	Seminole bat	Lasiurus xanthinus	2002	Bats	LX	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
-JQ685921	FL1078	USA	FL	Southeastern myotis	Myotis austroriparius	2001	Bats	MYsp	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685921	FL1078	USA	FL	Southeastern myotis	Myotis austroriparius	2001	Bats	PH	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 JQ685918	OR05506	USA	OR	Gray Fox	Urocyon cinereoargenteus	2010	Bats	MYsp	Original brain	This study	Complete genome	Troupin
 JQ685957	OR8767	USA	OR	Gray Fox	Urocyon cinereoargenteus	2009	Bats	MYsp	Original brain	Troupin	Complete genome	Troupin
 AF351836	MC2	Canada	BC	California myotis	Myotis californicus	1992	Bats	MYsp		[15]	N	Troupin
@@ -274,18 +274,18 @@ JQ685979	OR43	USA	OR	Gray Fox	Urocyon cinereoargenteus	2000	Bats	MYsp	Original b
 JQ686013	OR43	USA	OR	Gray Fox	Urocyon cinereoargenteus	2000	Bats	MYsp	Original brain	Troupin	G	Troupin
 JQ685978	OR59	USA	OR	Gray Fox	Urocyon cinereoargenteus	2006	Bats	MYsp	Original brain	TroupinTroupin	N	Troupin
 JQ686012	OR59	USA	OR	Gray Fox	Urocyon cinereoargenteus	2006	Bats	MYsp	Original brain	Troupin	G	Troupin
-JQ685997	A10-5170	USA	ID		Myotis sp	2010	Bats	MYsp	Original brain	Troupin	G	Troupin
-AF369349	3694.MYO	Canada			Myotis sp	1996	Bats	MYsp		[18]	P	Troupin
-AF369344	4887.LBB	Canada		Little brown bat	Myotis lucifugus	1994	Bats	MYsp		[18]	P	Troupin
-AF369352	7890.LBB	Canada		Little brown bat	Myotis lucifugus	1997	Bats	MYsp		[18]	P	Troupin
-AF369353	9499.MYO	Canada		Red fox	Vulpes vulpes	1993	Bats	MYsp		[18]	P	Troupin
-JQ686011	OR-062011	USA	OR	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYsp	Original brain	Troupin	G	Troupin
-JQ685998	T91-0038	USA	CA		Myotis sp	1991	Bats	MYsp	Original brain	Troupin	G	Troupin
-AF325494	USA8-BT	USA	MT		Myotis sp	1981	Bats	MYsp		[19]	G	Troupin
-AF325495	USA9-BT	USA	MT		Myotis sp	1982	Bats	MYsp		[19]	G	Troupin
-AF369343	V089.LBB	Canada		Little brown bat	Myotis lucifugus	1992	Bats	MYsp		[18]	P	Troupin
-AF369354	V102.MYO	Canada		Long-eared myotis	Myotis evotis	1992	Bats	MYsp		[18]	P	Troupin
-AF369358	V179.LBB	Canada		Little brown bat	Myotis lucifugus	1993	Bats	MYsp		[18]	P	Troupin
+JQ685997	A10-5170	USA	ID		Myotis sp	2010	Bats	MYsp 	Original brain	Troupin	G	Troupin
+AF369349	3694.MYO	Canada			Myotis sp	1996	Bats	MYsp 		[18]	P	Troupin
+AF369344	4887.LBB	Canada		Little brown bat	Myotis lucifugus	1994	Bats	MYsp 		[18]	P	Troupin
+AF369352	7890.LBB	Canada		Little brown bat	Myotis lucifugus	1997	Bats	MYsp 		[18]	P	Troupin
+AF369353	9499.MYO	Canada		Red fox	Vulpes vulpes	1993	Bats	MYsp 		[18]	P	Troupin
+JQ686011	OR-062011	USA	OR	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYsp 	Original brain	Troupin	G	Troupin
+JQ685998	T91-0038	USA	CA		Myotis sp	1991	Bats	MYsp 	Original brain	Troupin	G	Troupin
+AF325494	USA8-BT	USA	MT		Myotis sp	1981	Bats	MYsp 		[19]	G	Troupin
+AF325495	USA9-BT	USA	MT		Myotis sp	1982	Bats	MYsp 		[19]	G	Troupin
+AF369343	V089.LBB	Canada		Little brown bat	Myotis lucifugus	1992	Bats	MYsp 		[18]	P	Troupin
+AF369354	V102.MYO	Canada		Long-eared myotis	Myotis evotis	1992	Bats	MYsp 		[18]	P	Troupin
+AF369358	V179.LBB	Canada		Little brown bat	Myotis lucifugus	1993	Bats	MYsp 		[18]	P	Troupin
 JQ685952	A02-2971	USA	CA	Canyon bat	Parastrellus hesperos	2002	Bats	PH	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
 JQ685965	A02-2972	USA	AZ	Canyon bat	Parastrellus hesperos	2002	Bats	PH	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
 AY705373	SHBRV18	USA		Human 	Homo sapiens	1983	Bats	PS	mouse	[14]	Complete genome	Troupin
@@ -293,9 +293,9 @@ JQ685922	TN186	USA	TN	Tricolored bat	Perimyotis subflavus	2005	Bats	PS	N-P-M-G -
 JQ686003	A10-5102	USA	NC	Tricolored bat	Perimyotis subflavus	2010	Bats	PS	Original brain	Troupin	G	Troupin
 JQ686009	A11-5737	USA	VA	Red fox	Vulpes vulpes	2011	Bats	PS	Original brain	Troupin	G	Troupin
 JQ686000	US07-010	USA	NC	Tricolored bat	Perimyotis subflavus	2010	Bats	PS	Original brain	Troupin	G	Troupin
-KX148269	97004ARG	Argentina		Mexican free-tailed bat	Tadarida brasiliensis	1997	Bats	TB	Mouse	This study	Complete genome	Kuzmin
-EU293116	9704ARG	Argentina		Mexican free-tailed bat	Tadarida brasilensis	1997	Bats	TB		[3]	Complete genome	Troupin
-AF351850	IB-Ch	Chile			Tadarida sp	1988	Bats	TB		[15]	N	Troupin
+KX148269	97004ARG	Argentina		Mexican free-tailed bat	Tadarida brasiliensis	1997	Bats	TB2	Mouse	This study	Complete genome	Kuzmin
+EU293116	9704ARG	Argentina		Mexican free-tailed bat	Tadarida brasilensis	1997	Bats	TB2		[3]	Complete genome	Troupin
+AF351850	IB-Ch	Chile			Tadarida sp	1988	Bats	TB2		[15]	N	Troupin
 KX148195	04031MAR	Morocco		Dog 	Canis familiaris	2004	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
 KX148193	08342MAR	Morocco		Dog 	Canis familiaris	2008	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
 KX148197	15006FRA	Algeria		Dog 	Canis familiaris	2015	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin

@@ -12,7 +12,7 @@
 		<name>minor_clade</name>	
 		<displayName>Minor clade</displayName>	
 		<whereClause>clade_category = 'minor_clade'</whereClause>
-		<distanceScalingExponent>-4.5</distanceScalingExponent>
+		<distanceScalingExponent>-5.5</distanceScalingExponent>
 	    <distanceCutoff>0.26</distanceCutoff>
 		<finalCladeCutoff>61.0</finalCladeCutoff>
 	</cladeCategory>

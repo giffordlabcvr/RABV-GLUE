@@ -1,0 +1,31 @@
+<#include "/utils/glueDocUtils.ftlx">
+
+<sequence>
+	<sourceName>${source.name}</sourceName>
+	<sequenceID>${sequenceID}</sequenceID>
+<#list alignmentMemberships as alignmentMembership>
+	<alignmentMembership glueType="Object[]">
+		<name>${alignmentMembership.alignment.name}</name>
+		<renderedName>${alignmentMembership.alignment.getRenderedName()}</renderedName>
+<#if alignmentMembership.alignment.refSequence ??>
+		<constrainingReference>
+			<name>${alignmentMembership.alignment.refSequence.name}</name>
+			<renderedName>${alignmentMembership.alignment.refSequence.getRenderedName()}</renderedName>
+		</constrainingReference>
+</#if>
+	</alignmentMembership>
+</#list>
+<#list referenceSequences as referenceSequence>
+	<referenceSequence glueType="Object[]">
+		<name>${referenceSequence.name}</name>
+		<renderedName>${referenceSequence.getRenderedName()}</renderedName>
+	</referenceSequence>
+</#list>
+	<@elem tag="country" expr="gb_country"/>
+	<@elem tag="collectionYear" expr="collection_year"/>
+	<@elem tag="length" expr="gb_length"/>
+	<creationDate>${renderProperty('gb_create_date')}</creationDate>
+	<updateDate>${renderProperty('gb_update_date')}</updateDate>
+	<@elem tag="isolate" expr="isolate"/>
+	<@elem tag="host" expr="host"/>
+</sequence>

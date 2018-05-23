@@ -1,6 +1,6 @@
 var subRegions;
 glue.inMode("module/tabularUtilityCsv", function() {
-	subRegions = glue.command(["load-tabular", "tabular/m49_countries/m49_sub_regions.csv"], {convertTableToObjects:true});
+	subRegions = glue.tableToObjects(glue.command(["load-tabular", "tabular/m49_countries/m49_sub_regions.csv"]));
 });
 _.each(subRegions, function(subRegion) {
 	var subRegionName = subRegion["Sub-region Name"].trim();

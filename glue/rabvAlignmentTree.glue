@@ -222,6 +222,12 @@
     demote member AL_Bats_TB2  --whereClause "sequence.major_clade = 'Bats' and sequence.minor_clade = 'TB2'" 
     exit
 
+  # derive constrained segments throughout the tree from unconstrained    
+  alignment AL_MASTER
+    derive segments AL_UNC_509_REFSEQS_HM --recursive --existingMembersOnly --allMembers 
+    exit
+
+
   alignment AL_Africa-2
     set field displayName "Africa-2"
     set field clade_category "major_clade"

@@ -1,38 +1,52 @@
   create feature whole_genome "Whole genome"
-  feature whole_genome set metatag INFORMATIONAL true
+  feature whole_genome
+    set field displayName "Whole genome"
+    set metatag INFORMATIONAL true
+    exit
 
-  create feature leader -p whole_genome "3' Leader"
+  create feature 3UTR -p whole_genome "3' untranslated region"
+  feature 3UTR
+    set field displayName "3' UTR"
+    exit  
 
-  create feature N -p whole_genome "N"
-  feature N 
+  create feature N -p whole_genome "Nucleoprotein"
+  feature N
+    set field displayName "N"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
     exit
 
-  create feature M1 -p whole_genome "M1"
-  feature M1 
+  create feature P -p whole_genome "Phosphoroprotein"
+  feature P 
+    set field displayName "P"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
     exit
 
-  create feature M2 -p whole_genome "M2"
-  feature M2 
+  create feature M -p whole_genome "M"
+  feature M 
+    set field displayName "M"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
     exit
 
   create feature G -p whole_genome "G"
   feature G 
+    set field displayName "G"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
     exit
 
-  create feature L -p whole_genome "L (RNA polymerase)"
+  create feature L -p whole_genome "Large protein / RNA polymerase"
   feature L 
+    set field displayName "L"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
     exit
 
-  create feature 5UTR -p whole_genome "5' UTR"
+  create feature 5UTR -p whole_genome "5' untranslated region"
+  feature 5UTR
+    set field displayName "5' UTR"
+    exit  
 
 

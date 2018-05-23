@@ -24,6 +24,9 @@ create module --fileName modules/rabvClusterPickerRunner.xml
 create module --fileName modules/rabvAlignmentRenderer.xml --loadResources
 create module --fileName modules/rabvSequenceRenderer.xml --loadResources
 
+create module --fileName modules/rabvCompoundAligner.xml
+create module --fileName modules/rabvSequenceReporter.xml
+create module --fileName modules/rabvWebAnalysisTool.xml
 
 create module -f modules/rabvMaxLikelihoodGenotyper.xml
 create module -f modules/rabvMaxLikelihoodPlacer.xml

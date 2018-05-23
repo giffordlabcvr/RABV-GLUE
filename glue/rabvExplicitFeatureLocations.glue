@@ -1,0 +1,168 @@
+  # declare feature locations on the master reference
+  reference REF_MASTER_NC_001542
+
+    add feature-location N
+    feature-location N
+      add segment 71 1423
+      exit
+
+    add feature-location P
+    feature-location P
+      add segment 1514 2407
+      exit
+
+    add feature-location M
+    feature-location M
+      add segment 2496 3104
+      exit
+
+    add feature-location G
+    feature-location G
+      add segment 3318 4892
+      exit
+
+    add feature-location L
+    feature-location L
+      add segment 5418 11846
+      exit
+
+    exit
+    
+    
+  reference REF_Bats_EF-E2_JQ685925
+
+    add feature-location N
+    feature-location N
+      add segment 71 1423
+      exit
+
+    add feature-location P
+    feature-location P
+      add segment 1514 2407
+      exit
+
+    add feature-location M
+    feature-location M
+      add segment 2496 3104
+      exit
+
+    add feature-location G
+    feature-location G
+      add segment 3317 4891
+      exit
+
+    add feature-location L
+    feature-location L
+      add segment 5410 11793
+      exit
+
+    exit
+
+  reference REF_Asian_SEA3_KX148255
+
+    add feature-location N
+    feature-location N
+      add segment 1 1353
+      exit
+
+    add feature-location P
+    feature-location P
+      add segment 1445 2338
+      exit
+
+    add feature-location M
+    feature-location M
+      add segment 2426 3034
+      exit
+
+    add feature-location G
+    feature-location G
+      add segment 3246 4820
+      exit
+
+    add feature-location L
+    feature-location L
+      add segment 5337 11723
+      exit
+
+    exit
+
+  reference REF_Cosmopolitan_AM3b_AB517660
+    add feature-location P
+    feature-location P
+      add segment 1514 2419
+      exit
+    exit
+
+  reference REF_Indian-Sub_AB635373
+    add feature-location P
+    feature-location P
+      add segment 1514 2404
+      exit
+    exit
+    
+  reference REF_RAC-SK_EU311738
+    add feature-location P
+    feature-location P
+      add segment 1514 2419
+      exit
+    exit
+    
+  reference REF_Cosmopolitan_AM2a_HQ450386
+    add feature-location P
+    feature-location P
+      add segment 1514 2404
+      exit
+    exit
+  
+  reference REF_RAC-SK_JQ685901
+    add feature-location P
+    feature-location P
+      add segment 1514 2395
+      exit
+    exit
+
+  reference REF_Indian-Sub_KF154999
+    add feature-location P
+    feature-location P
+      add segment 1513 2403
+      exit
+    exit
+
+  reference REF_Cosmopolitan_AF1a_KX148194
+    add feature-location P
+    feature-location P
+      add segment 1444 2334
+      exit
+    exit
+    
+  reference REF_Cosmopolitan_AF1a_KX148197
+    add feature-location P
+    feature-location P
+      add segment 1444 2334
+      exit
+    exit
+  
+  reference REF_Cosmopolitan_AF1a_KX148201
+    add feature-location P
+    feature-location P
+      add segment 1444 2334
+      exit
+    exit
+  
+  reference REF_Indian-Sub_KX148245
+    add feature-location P
+    feature-location P
+      add segment 1444 2334
+      exit
+    exit
+  
+  reference REF_Indian-Sub_KX148246
+    add feature-location P
+    feature-location P
+      add segment 1443 2333
+      exit
+    exit
+  
+  
+    

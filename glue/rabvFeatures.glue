@@ -14,6 +14,7 @@
     set field displayName "N"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
+    # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature P -p whole_genome "Phosphoroprotein"
@@ -21,6 +22,7 @@
     set field displayName "P"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
+    # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature M -p whole_genome "M"
@@ -28,6 +30,7 @@
     set field displayName "M"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
+    # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature G -p whole_genome "G"
@@ -35,6 +38,7 @@
     set field displayName "G"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
+    set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature L -p whole_genome "Large protein / RNA polymerase"
@@ -42,6 +46,7 @@
     set field displayName "L"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
+    set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature 5UTR -p whole_genome "5' untranslated region"

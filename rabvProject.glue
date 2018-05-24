@@ -40,15 +40,15 @@ project rabv
   # Add feature locations to the reference sequences
   run script glue/rabvAddFeatureLocations.js
 
-  # Check feature locations 
-  run script glue/rabvCheckFeatureLocations.js
-  
   # Import alignment 
   module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabvRefs.fna
 
   # Import alignment tree
   run file glue/rabvAlignmentTree.glue
 
+  # Check feature locations 
+  run script glue/rabvCheckFeatureLocations.js
+  
   # Import phylogeny
   run file glue/rabvImportPhylogeny.glue
 

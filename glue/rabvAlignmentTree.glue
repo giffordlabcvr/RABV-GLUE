@@ -224,7 +224,7 @@
 
   # derive constrained segments throughout the tree from unconstrained    
   alignment AL_MASTER
-    derive segments AL_UNC_509_REFSEQS_HM --recursive --existingMembersOnly --allMembers 
+    derive segments AL_UNC_509_REFSEQS_HM --recursive --existingMembersOnly --allMembers -m OVERWRITE
     exit
 
 

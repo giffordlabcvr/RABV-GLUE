@@ -28,8 +28,9 @@ create module --fileName modules/rabvCompoundAligner.xml
 create module --fileName modules/rabvSequenceReporter.xml
 create module --fileName modules/rabvWebAnalysisTool.xml
 
-create module -f modules/rabvMaxLikelihoodGenotyper.xml
-create module -f modules/rabvMaxLikelihoodPlacer.xml
+create module --fileName modules/rabvMaxLikelihoodGenotyper.xml
+create module --fileName modules/rabvMaxLikelihoodPlacer.xml
 
+create module --fileName modules/rabvKuiken2006CodonLabeler.xml
 
 

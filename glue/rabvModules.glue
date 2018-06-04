@@ -8,6 +8,7 @@ create module --fileName modules/tabularUtilityTab.xml
 
 create module --fileName modules/blastFastaAlignmentImporter.xml
 create module --fileName modules/rabvGenbankXmlPopulator.xml 
+create module --fileName modules/rabvCollectionBoundsPopulator.xml
 create module --fileName modules/unconstrainedAlignmentImporter.xml
 create module --fileName modules/fastaProteinAlignmentExporter.xml
 create module --fileName modules/fastaAlignmentExporter.xml
@@ -32,5 +33,7 @@ create module --fileName modules/rabvMaxLikelihoodGenotyper.xml
 create module --fileName modules/rabvMaxLikelihoodPlacer.xml
 
 create module --fileName modules/rabvKuiken2006CodonLabeler.xml
+
+create module --fileName modules/m49RegionTreeRenderer.xml --loadResources
 
 

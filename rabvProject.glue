@@ -1,6 +1,6 @@
 delete project rabv
 
-create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 0.1.149
+create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 1.0.1
 
 schema-project rabv
 
@@ -9,7 +9,7 @@ schema-project rabv
 
 project rabv
 
-  run file glue/projectSettings.glue
+  run file glue/rabvProjectSettings.glue
   
   run file glue/rabvModules.glue
   

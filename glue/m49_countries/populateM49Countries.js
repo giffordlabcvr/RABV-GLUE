@@ -65,7 +65,7 @@ _.each(countries, function(country) {
 			glue.command(["set", "field", "is_lldc", lldc == 'x']);
 			glue.command(["set", "field", "is_sids", sids == 'x']);
 			if(developmentStatus != null) {	
-				glue.command(["set", "field", "development_status", developmentStatus]);
+				glue.command(["set", "field", "development_status", developmentStatus.toLowerCase()]);
 			}
 		});
 	}

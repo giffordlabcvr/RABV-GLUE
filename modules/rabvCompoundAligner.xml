@@ -2,18 +2,23 @@
 	<aligners>
 		<codonAwareBlastAligner>
 			<featureName>N</featureName>
+			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
 			<featureName>P</featureName>
+			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
 			<featureName>M</featureName>
+			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
 			<featureName>G</featureName>
+			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
 			<featureName>L</featureName>
+			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<blastAligner/>
 	</aligners>

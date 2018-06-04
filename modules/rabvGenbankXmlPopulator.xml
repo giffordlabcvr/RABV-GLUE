@@ -33,6 +33,10 @@
 	<gbCreateDate>
 		<propertyPopulator property="gb_create_date"/>
 	</gbCreateDate>
+
+	<gbReferencePubmed>
+		<propertyPopulator property="gb_pubmed_id"/>
+	</gbReferencePubmed>
 	
 	<gbDivision>
 		<propertyPopulator property="gb_lab_construct">
@@ -271,8 +275,15 @@
 				<matchPattern>(\d{4})</matchPattern>
 				<outputTemplate>${g1}</outputTemplate>
 			</propertyPopulator>
+			<!-- if collection year is specified here then we have tight bounds on the earliest / latest collection year -->
+			<propertyPopulator property="earliest_collection_year">
+				<matchPattern>(\d{4})</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
+			<propertyPopulator property="latest_collection_year">
+				<matchPattern>(\d{4})</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
 		</gbQualifier>
-		
-		
 	</gbFeature>
 </genbankXmlPopulator>

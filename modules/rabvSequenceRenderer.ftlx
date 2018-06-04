@@ -8,10 +8,20 @@
 		<name>${alignmentMembership.alignment.name}</name>
 		<renderedName>${alignmentMembership.alignment.getRenderedName()}</renderedName>
 <#if alignmentMembership.alignment.refSequence ??>
+<#assign constrainingRefName=alignmentMembership.alignment.refSequence.name>
 		<constrainingReference>
-			<name>${alignmentMembership.alignment.refSequence.name}</name>
+			<name>${constrainingRefName}</name>
 			<renderedName>${alignmentMembership.alignment.refSequence.getRenderedName()}</renderedName>
 		</constrainingReference>
+		<#list alignmentMembership.fLocNotes as fLocNote>
+		<#if fLocNote.featureLoc.referenceSequence.name = constrainingRefName>
+		<featureCoverage glueType="Object[]">
+			<featureName>${fLocNote.featureLoc.feature.name}</featureName>
+			<featureRenderedName>${fLocNote.featureLoc.feature.getRenderedName()}</featureRenderedName>
+			<@elem tag="coveragePct" expr="context.ref_nt_coverage_pct" type="Double" context=fLocNote/>
+		</featureCoverage>	
+		</#if>	
+		</#list>
 </#if>
 	</alignmentMembership>
 </#list>

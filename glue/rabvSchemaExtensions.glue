@@ -29,6 +29,11 @@ table alignment
   create field clade_category VARCHAR 20
   create field phylogeny CLOB
   exit 
+
+table member_floc_note
+  create field ref_nt_coverage_pct DOUBLE
+  exit
+
   
 run file glue/m49_countries/m49SchemaExtension.glue
  

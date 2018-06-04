@@ -60,31 +60,6 @@ _.each(referenceNames, function(referenceName) {
 			glue.command(["add", "segment", 1, seqLength]);
 		});
 		
-		var existingFLocNames2 = glue.getTableColumn(glue.command(["list", "feature-location"]), "feature.name");
-		if(existingFLocNames2.indexOf("N") >= 0) {
-			var startOfN;
-			glue.inMode("/feature-location/N", function() {
-				startOfN = glue.tableToObjects(glue.command(["list", "segment"]))[0].refStart;
-			});
-			if(startOfN > 1) {
-				glue.command(["add", "feature-location", "3UTR"]);
-				glue.inMode("/feature-location/3UTR", function() {
-					glue.command(["add", "segment", 1, startOfN - 1]);
-				});
-			}
-		}
-		if(existingFLocNames2.indexOf("L") >= 0) {
-			var endOfL;
-			glue.inMode("/feature-location/L", function() {
-				endOfL = glue.tableToObjects(glue.command(["list", "segment"]))[0].refEnd;
-			});
-			if(endOfL < seqLength) {
-				glue.command(["add", "feature-location", "5UTR"]);
-				glue.inMode("/feature-location/5UTR", function() {
-					glue.command(["add", "segment", endOfL+1, seqLength]);
-				});
-			}
-		}
 		
 	});
 });

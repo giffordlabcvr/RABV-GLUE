@@ -4,11 +4,6 @@
     set metatag INFORMATIONAL true
     exit
 
-  create feature 3UTR -p whole_genome "3' untranslated region"
-  feature 3UTR
-    set field displayName "3' UTR"
-    exit  
-
   create feature N -p whole_genome "Nucleoprotein"
   feature N
     set field displayName "N"
@@ -49,9 +44,5 @@
     set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
-  create feature 5UTR -p whole_genome "5' untranslated region"
-  feature 5UTR
-    set field displayName "5' UTR"
-    exit  
 
 

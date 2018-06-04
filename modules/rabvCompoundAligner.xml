@@ -1,25 +1,32 @@
 <compoundAligner>
 	<aligners>
 		<codonAwareBlastAligner>
+			<minimumBitScore>50</minimumBitScore>
 			<featureName>N</featureName>
 			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
+			<minimumBitScore>50</minimumBitScore>
 			<featureName>P</featureName>
 			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
+			<minimumBitScore>50</minimumBitScore>
 			<featureName>M</featureName>
 			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
+			<minimumBitScore>50</minimumBitScore>
 			<featureName>G</featureName>
 			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
 		<codonAwareBlastAligner>
+			<minimumBitScore>50</minimumBitScore>
 			<featureName>L</featureName>
 			<allowFeatureToBeMissing>true</allowFeatureToBeMissing>
 		</codonAwareBlastAligner>
-		<blastAligner/>
+		<blastAligner>
+			<minimumBitScore>50</minimumBitScore>
+		</blastAligner>
 	</aligners>
 </compoundAligner>

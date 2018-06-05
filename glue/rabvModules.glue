@@ -10,8 +10,10 @@ create module --fileName modules/blastFastaAlignmentImporter.xml
 create module --fileName modules/rabvGenbankXmlPopulator.xml 
 create module --fileName modules/rabvCollectionBoundsPopulator.xml
 create module --fileName modules/unconstrainedAlignmentImporter.xml
-create module --fileName modules/fastaProteinAlignmentExporter.xml
-create module --fileName modules/fastaAlignmentExporter.xml
+
+create module --fileName modules/rabvFastaProteinAlignmentExporter.xml
+create module --fileName modules/rabvFastaAlignmentExporter.xml
+create module --fileName modules/rabvFastaExporter.xml
 
 create module --fileName modules/rabvTextFilePopulatorRefSet.xml textFilePopulatorRefSet
 

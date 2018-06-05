@@ -57,148 +57,6 @@ task copyGluetoolsJar(type: Copy) {
     rename('gluetools-core-'+project.glueVersion+'.jar', 'gluetools-core.jar')
 }
 
-task copyGluetoolsWebWar(type: Copy) {
-    from configurations.gluetoolsWebWar
-    into "$buildDir/runtimeWars"
-    rename('gluetools-web-'+project.glueVersion+'.war', 'gluetools-web.war')
-}
-
-task copyGluetoolsWsWar(type: Copy) {
-    from configurations.gluetoolsWsWar
-    into "$buildDir/runtimeWars"
-    rename('gluetools-ws-'+project.glueVersion+'.war', 'gluetools-ws.war')
-}
-
-
-task deployAll(dependsOn: ['deployGluetoolsWebWarGlueHomeAWS',
-	'deployGluetoolsWsWarGlueHomeAWS',
-	'deployRabvGlueWarGlueHomeAWS',
-	'deployRabvGlueGluetoolsWsContextXmlGlueHomeAWS',
-	'deployRabvGlueConfigGlueHomeAWS'])
-
-task deployGluetoolsWebWarGlueHomeAWS(type: DeployWarTask, dependsOn: 'copyGluetoolsWebWar') {
-    warFile = new File(buildDir, 'runtimeWars/gluetools-web.war')
-    remote = remotes.gluehome_aws
-    taskBuildDir = buildDir
-	warBaseName = org.apache.commons.io.FilenameUtils.getBaseName(warFile.name)
-    touchFile = new File(taskBuildDir.name, '/deploy.'+warBaseName+'.'+remote.name+'.touchfile')
-    inputs.file warFile
-    outputs.file touchFile
-    taskSsh = ssh
-}
-
-task deployGluetoolsWsWarGlueHomeAWS(type: DeployWarTask, dependsOn: 'copyGluetoolsWsWar') {
-    warFile = new File(buildDir, 'runtimeWars/gluetools-ws.war')
-    remote = remotes.gluehome_aws
-    taskBuildDir = buildDir
-	warBaseName = org.apache.commons.io.FilenameUtils.getBaseName(warFile.name)
-    touchFile = new File(taskBuildDir, '/deploy.'+warBaseName+'.'+remote.name+'.touchfile')
-    inputs.file warFile
-    outputs.file touchFile
-    taskSsh = ssh
-}
-
-task deployRabvGlueWarGlueHomeAWS(type: DeployWarTask, dependsOn: war) {
-    warFile = new File(buildDir, '/libs/rabvGlue.war')
-    remote = remotes.gluehome_aws
-    taskBuildDir = buildDir
-	warBaseName = org.apache.commons.io.FilenameUtils.getBaseName(warFile.name)
-    touchFile = new File(taskBuildDir, '/deploy.'+warBaseName+'.'+remote.name+'.touchfile')
-    inputs.file warFile
-    outputs.file touchFile
-    taskSsh = ssh
-}
-
-class DeployWarTask extends DefaultTask {
-	File warFile
-	org.hidetake.groovy.ssh.core.Remote remote
-	File taskBuildDir
-	String warBaseName
-    File touchFile
-    org.hidetake.groovy.ssh.core.Service taskSsh
-
-    @TaskAction
-    def deploy() {
-		  println "Stopping Tomcat"
-		  taskSsh.run {
-		    session(remote) {
-		      execute 'sudo service tomcat7 stop; sleep 10s'
-		      execute 'while true; do tcresult="$(sudo service tomcat7 status)" ; if [[ $tcresult != *"Tomcat servlet engine is running"* ]] ; then break ; fi ; sleep 0.5 ; echo "Tomcat is still running" ; done'
-		      execute 'sleep 5'
-		    }
-		  }
-		  println "Uploading "+warFile
-		  taskSsh.run {
-		    session(remote) {
-		      put from: warFile.absolutePath, into: '/tmp/'+warFile.name
-		      execute 'sudo mkdir -p /var/lib/tomcat7/webapps_rabv'
-		      execute 'sudo chmod a+rwx /var/lib/tomcat7/webapps_rabv'
-		      execute 'sudo rm -rf /var/lib/tomcat7/webapps_rabv/'+warBaseName
-		      execute 'sudo rm -rf /var/lib/tomcat7/webapps_rabv/'+warFile.name
-		      execute 'sudo mv /tmp/'+warFile.name+' /var/lib/tomcat7/webapps_rabv/'+warFile.name
-		      execute 'sudo rm -rf /var/lib/tomcat7/work/Catalina/rabv.glue.cvr.ac.uk/'+warBaseName
-		      execute 'sudo rm -rf /var/cache/tomcat7/Catalina/rabv.glue.cvr.ac.uk/'+warBaseName
-		      
-		    }
-		  }
-		  println "Starting Tomcat"
-		  taskSsh.run {
-		    session(remote) {
-		      execute 'sudo service tomcat7 start'
-		    }
-		  }
-		  touchFile.delete()
-		  taskBuildDir.mkdirs()
-		  touchFile.createNewFile()
-	}
-}
-
-
-
-// config for RABV-GLUE gluetools-ws webapp 
-task deployRabvGlueGluetoolsWsContextXmlGlueHomeAWS() {
-  ext.file = new File(projectDir, '/gluehome_aws/gluetools-ws-context.xml')
-  ext.touchfile = new File(buildDir, '/deployGlueWSConfigGlueHomeAWS.touchfile')
-  inputs.file file
-  outputs.file touchfile
-  doLast {
-	  println "Uploading "+file.name
-	  ssh.run {
-	    session(remotes.gluehome_aws) {
-	      put from: file.absolutePath, into: '/tmp/gluetools-ws.xml'
-	      execute 'sudo service tomcat7 stop; sleep 10s'
-	      execute 'sudo mkdir -p /var/lib/tomcat7/conf/Catalina/rabv.glue.cvr.ac.uk'
-	      execute 'sudo mv /tmp/gluetools-ws.xml /var/lib/tomcat7/conf/Catalina/rabv.glue.cvr.ac.uk/gluetools-ws.xml'
-	      execute 'sudo service tomcat7 start'
-	    }
-	  }
-	  touchfile.delete()
-	  buildDir.mkdirs()
-	  touchfile.createNewFile()
-  }
-}
-
-// config for RABV-GLUE glue engine which tells it where to find its database. 
-task deployRabvGlueConfigGlueHomeAWS {
-  ext.file = new File(projectDir, '/gluehome_aws/rabv-glue-gluetools-config.xml')
-  ext.touchfile = new File(buildDir, '/deployRabvGlueConfigGlueHomeAWS.touchfile')
-  inputs.file file
-  outputs.file touchfile
-  doLast {
-	  println "Uploading "+file.name
-	  ssh.run {
-	    session(remotes.gluehome_aws) {
-	      execute "sudo mkdir -p /opt/gluetools/conf"
-	      put from: file, into: '/tmp'
-	      execute "sudo mv /tmp/rabv-glue-gluetools-config.xml /opt/gluetools/conf/"
-	    }
-	  }
-	  touchfile.delete()
-	  buildDir.mkdirs()
-	  touchfile.createNewFile()
-  }
-}
-
 task initRabvGlueDBGlueHomeAWS {
   doLast {
 	  ssh.run {
@@ -215,7 +73,7 @@ task initRabvGlueDBGlueHomeAWS {
 def glueConfigFile = System.getProperty("user.name").equals('joshsinger') ? 'local-gluetools-config.xml' : 'remote-gluetools-config.xml'
 
 task wipeRabvGlueDB(type: Exec) {
-	commandLine "bash", "-c", "echo 'drop database RABV_GLUE; create database RABV_GLUE character set UTF8;' | mysql -u rabvglue --password=rabvglue"
+	commandLine "bash", "-c", "echo 'DROP DATABASE IF EXISTS RABV_GLUE; create database RABV_GLUE character set UTF8;' | mysql -u rabvglue --password=rabvglue"
 }
 
 task buildRabvGlueDB(type: JavaExec, dependsOn: 'copyGluetoolsJar') {
@@ -239,7 +97,7 @@ task deployRabvGlueDbToGlueHomeAWS(dependsOn: 'zipRabvGlueDB') {
 	  ssh.run {
 	    session(remotes.gluehome_aws) {
 	 	  put from: '/tmp/rabv_glue.sql.gz', into: '/tmp/rabv_glue.sql.gz'
-	      execute 'echo "drop database RABV_GLUE; create database RABV_GLUE character set UTF8;" | mysql -u rabvglue --password=rabvglue RABV_GLUE'
+	      execute 'echo "DROP DATABASE IF EXISTS RABV_GLUE; create database RABV_GLUE character set UTF8;" | mysql -u rabvglue --password=rabvglue RABV_GLUE'
 	      execute 'gunzip -c /tmp/rabv_glue.sql.gz | mysql -u rabvglue --password=rabvglue RABV_GLUE'
 	      execute 'rm /tmp/rabv_glue.sql.gz'
 	    }

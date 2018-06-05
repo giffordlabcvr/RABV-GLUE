@@ -1,6 +1,7 @@
   create feature whole_genome "Whole genome"
   feature whole_genome
     set field displayName "Whole genome"
+    set metatag INFORMATIONAL true
     exit
 
   create feature N -p whole_genome "Nucleoprotein"

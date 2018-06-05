@@ -48,6 +48,11 @@ project rabv
 
   # Check feature locations 
   run script glue/rabvCheckFeatureLocations.js
+
+  # hack: the INFORMATIONAL metatag has overloaded semantics
+  # on the one hand if it is not 'true' it interferes with how inherit feature-location works, 
+  # on the other hand, we want it unset so that people can download whole-genome nucleotide alignments
+  feature whole_genome unset metatag INFORMATIONAL
   
   # Import phylogeny
   run file glue/rabvImportPhylogeny.glue

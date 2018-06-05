@@ -68,4 +68,5 @@
 	<updateDate>${renderProperty('gb_update_date')}</updateDate>
 	<@elem tag="isolate" expr="isolate"/>
 	<@elem tag="host" expr="host"/>
+	<@elem tag="pubmedId" expr="gb_pubmed_id"/>
 </sequence>

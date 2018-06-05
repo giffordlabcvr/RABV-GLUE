@@ -34,12 +34,14 @@
 		<propertyPopulator property="gb_create_date"/>
 	</gbCreateDate>
 
-	<gbReferencePubmed>
-		<propertyPopulator property="gb_pubmed_id"/>
-	</gbReferencePubmed>
-	
+	<gbReference>
+		<gbRefPubmed>
+			<propertyPopulator property="gb_pubmed_id"/>
+		</gbRefPubmed>
+	</gbReference>
+
 	<gbDivision>
-		<propertyPopulator property="gb_lab_construct">
+		<propertyPopulator property="patent_related">
 			<matchPattern>PAT</matchPattern>
 			<outputTemplate>true</outputTemplate>
 		</propertyPopulator>

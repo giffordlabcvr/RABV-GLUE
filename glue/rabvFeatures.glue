@@ -1,7 +1,6 @@
   create feature whole_genome "Whole genome"
   feature whole_genome
     set field displayName "Whole genome"
-    set metatag INFORMATIONAL true
     exit
 
   create feature N -p whole_genome "Nucleoprotein"
@@ -20,7 +19,7 @@
     # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
-  create feature M -p whole_genome "M"
+  create feature M -p whole_genome "Matrix protein"
   feature M 
     set field displayName "M"
     set metatag OWN_CODON_NUMBERING true
@@ -28,7 +27,7 @@
     # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
-  create feature G -p whole_genome "G"
+  create feature G -p whole_genome "Glycoprotein"
   feature G 
     set field displayName "G"
     set metatag OWN_CODON_NUMBERING true

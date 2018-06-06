@@ -9,7 +9,7 @@
     set field displayName "N"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
-    # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
+    set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature P -p whole_genome "Phosphoroprotein"
@@ -17,7 +17,7 @@
     set field displayName "P"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
-    # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
+    set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature M -p whole_genome "Matrix protein"
@@ -25,7 +25,7 @@
     set field displayName "M"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
-    # set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
+    set metatag CODON_LABELER_MODULE rabvKuiken2006CodonLabeler
     exit
 
   create feature G -p whole_genome "Glycoprotein"

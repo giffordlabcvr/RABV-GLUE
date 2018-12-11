@@ -1,0 +1,12 @@
+  # Import FASTA sequences from the Philippines
+  delete module textFilePopulatorPhilippines
+  delete source ncbi-philippines-1
+  import source sources/ncbi-philippines-1
+
+  # Populate sequence table fields from GenBank XML
+  module rabvGenbankXmlPopulator populate -w "source.name = 'ncbi-philippines-1'"
+
+  # Import tabular data from the Philippines
+  create module --fileName modules/rabvTextFilePopulatorPhilippines.xml textFilePopulatorPhilippines
+  module textFilePopulatorPhilippines populate -f tabular/fasta-philippines-1.tsv
+

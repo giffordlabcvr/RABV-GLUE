@@ -47,7 +47,7 @@ project rabv
   run file glue/rabvAlignmentTree.glue
 
   # Check feature locations 
-  run script glue/rabvCheckFeatureLocations.js
+  #run script glue/rabvCheckFeatureLocations.js
 
   # hack: the INFORMATIONAL metatag has overloaded semantics
   # on the one hand if it is not 'true' it interferes with how inherit feature-location works, 

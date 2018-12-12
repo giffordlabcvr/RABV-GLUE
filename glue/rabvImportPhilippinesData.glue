@@ -8,5 +8,5 @@
 
   # Import tabular data from the Philippines
   create module --fileName modules/rabvTextFilePopulatorPhilippines.xml textFilePopulatorPhilippines
-  module textFilePopulatorPhilippines populate -f tabular/fasta-philippines-1.tsv
+  module textFilePopulatorPhilippines populate -f tabular/philippines-set1.tsv
 

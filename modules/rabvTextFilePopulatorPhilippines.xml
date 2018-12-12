@@ -27,5 +27,15 @@
 		<property>collection_year</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
+	<textFileColumn>
+		<header>Major_clade</header>
+		<property>major_clade</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
+	</textFileColumn>
+	<textFileColumn>
+		<header>Minor_clade</header>
+		<property>minor_clade</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
+	</textFileColumn>
 	
 </textFilePopulator>

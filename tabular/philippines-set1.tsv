@@ -1,0 +1,314 @@
+Accession	Strain	SequenceID	GenBankName	Region	Year	Country	IslandGroup	Region	Province	Municipality	Species_latin_binomial	Accession	Major_clade	Minor_clade
+AB563838	TRa-002	TRa-002_III_2008	RV/R3.PHL/2008/TRa-002	III	2008	Philippines	Luzon	III	Pampanga	San Simon	Canis familiaris	AB563838	AL_Asian	AL_Asian_SEA4
+AB563839	TRa-005	TRa-005_V_2008	RV/R5.PHL/2008/TRa-005	V	2008	Philippines	Luzon	V	Albay	Tabaco City	Canis familiaris	AB563839	AL_Asian	AL_Asian_SEA4
+AB563840	TRa-006	TRa-006_III_2008	RV/R3.PHL/2008/TRa-006	III	2008	Philippines	Luzon	III	Pampanga	Minalin	Canis familiaris	AB563840	AL_Asian	AL_Asian_SEA4
+AB563841	TRa-009	TRa-009_III_2008	RV/R3.PHL/2008/TRa-009	III	2008	Philippines	Luzon	III	Nueva Ecija	Lupao	Canis familiaris	AB563841	AL_Asian	AL_Asian_SEA4
+AB563842	TRa-010	TRa-010_III_2008	RV/R3.PHL/2008/TRa-010	III	2008	Philippines	Luzon	III	Pampanga	Santa Ana	Canis familiaris	AB563842	AL_Asian	AL_Asian_SEA4
+AB563843	TRa-011	TRa-011_III_2008	RV/R3.PHL/2008/TRa-011	III	2008	Philippines	Luzon	III	Zambales	Subic	Felis catus	AB563843	AL_Asian	AL_Asian_SEA4
+AB563844	TRa-013	TRa-013_III_2008	RV/R3.PHL/2008/TRa-013	III	2008	Philippines	Luzon	III	Tarlac	Concepcion	Canis familiaris	AB563844	AL_Asian	AL_Asian_SEA4
+AB563845	TRa-014	TRa-014_X_2008	RV/R10.PHL/2008/TRa-014	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563845	AL_Asian	AL_Asian_SEA4
+AB563846	TRa-016	TRa-016_III_2008	RV/R3.PHL/2008/TRa-016	III	2008	Philippines	Luzon	III	Zambales	San Antonio	Canis familiaris	AB563846	AL_Asian	AL_Asian_SEA4
+AB683585	TRa-017	TRa-017_III_2008	RV/R3.PHL/2008/TRa-017	III	2008	Philippines	Luzon	III	Pampanga	Mexico	Canis familiaris	AB683585	AL_Asian	AL_Asian_SEA4
+AB563847	TRa-018	TRa-018_III_2008	RV/R3.PHL/2008/TRa-018	III	2008	Philippines	Luzon	III	Zambales	San Antonio	Canis familiaris	AB563847	AL_Asian	AL_Asian_SEA4
+AB563848	TRa-019	TRa-019_III_2008	RV/R3.PHL/2008/TRa-019	III	2008	Philippines	Luzon	III	Pampanga	Mabalacat	Canis familiaris	AB563848	AL_Asian	AL_Asian_SEA4
+AB563849	TRa-020	TRa-020_III_2008	RV/R3.PHL/2008/TRa-020	III	2008	Philippines	Luzon	III	Pampanga	Santa Rita	Canis familiaris	AB563849	AL_Asian	AL_Asian_SEA4
+AB563850	TRa-021	TRa-021_III_2008	RV/R3.PHL/2008/TRa-021	III	2008	Philippines	Luzon	III	Nueva Ecija	Quezon	Canis familiaris	AB563850	AL_Asian	AL_Asian_SEA4
+AB563851	TRa-022	TRa-022_III_2008	RV/R3.PHL/2008/TRa-022	III	2008	Philippines	Luzon	III	Pampanga	Mabalacat	Canis familiaris	AB563851	AL_Asian	AL_Asian_SEA4
+AB563852	TRa-024	TRa-024_X_2008	RV/R10.PHL/2008/TRa-024	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563852	AL_Asian	AL_Asian_SEA4
+AB563853	TRa-025	TRa-025_X_2008	RV/R10.PHL/2008/TRa-025	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563853	AL_Asian	AL_Asian_SEA4
+AB563854	TRa-026	TRa-026_X_2008	RV/R10.PHL/2008/TRa-026	X	2008	Philippines	Mindanao	X	Misamis Oriental	Lagonglong	Canis familiaris	AB563854	AL_Asian	AL_Asian_SEA4
+AB563855	TRa-027	TRa-027_X_2008	RV/R10.PHL/2008/TRa-027	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563855	AL_Asian	AL_Asian_SEA4
+AB563856	TRa-028	TRa-028_X_2008	RV/R10.PHL/2008/TRa-028	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563856	AL_Asian	AL_Asian_SEA4
+AB563857	TRa-030	TRa-030_X_2008	RV/R10.PHL/2008/TRa-030	X	2008	Philippines	Mindanao	X	Misamis Oriental	Manticao	Canis familiaris	AB563857	AL_Asian	AL_Asian_SEA4
+AB563858	TRa-031	TRa-031_V_2008	RV/R5.PHL/2008/TRa-031	V	2008	Philippines	Luzon	V	Albay	Bacacay	Canis familiaris	AB563858	AL_Asian	AL_Asian_SEA4
+AB563859	TRa-032	TRa-032_V_2008	RV/R5.PHL/2008/TRa-032	V	2008	Philippines	Luzon	V	Albay	Bacacay	Canis familiaris	AB563859	AL_Asian	AL_Asian_SEA4
+AB563860	TRa-034	TRa-034_V_2008	RV/R5.PHL/2008/TRa-034	V	2008	Philippines	Luzon	V	Albay	Tabaco City	Canis familiaris	AB563860	AL_Asian	AL_Asian_SEA4
+AB563861	TRa-036	TRa-036_V_2008	RV/R5.PHL/2008/TRa-036	V	2008	Philippines	Luzon	V	Camarines Sur	Naga City	Canis familiaris	AB563861	AL_Asian	AL_Asian_SEA4
+AB563862	TRa-037	TRa-037_V_2008	RV/R5.PHL/2008/TRa-037	V	2008	Philippines	Luzon	V	Camarines Sur	Gainza	Canis familiaris	AB563862	AL_Asian	AL_Asian_SEA4
+AB563863	TRa-038	TRa-038_III_2008	RV/R3.PHL/2008/TRa-038	III	2008	Philippines	Luzon	III	Pampanga	San Fernando	Canis familiaris	AB563863	AL_Asian	AL_Asian_SEA4
+AB563864	TRa-040	TRa-040_III_2008	RV/R3.PHL/2008/TRa-040	III	2008	Philippines	Luzon	III	Zambales	San Felipe	Canis familiaris	AB563864	AL_Asian	AL_Asian_SEA4
+AB563865	TRa-041	TRa-041_III_2008	RV/R3.PHL/2008/TRa-041	III	2008	Philippines	Luzon	III	Tarlac	Moncada	Canis familiaris	AB563865	AL_Asian	AL_Asian_SEA4
+AB563867	TRa-047	TRa-047_III_2008	RV/R3.PHL/2008/TRa-047	III	2008	Philippines	Luzon	III	Zambales	San Narciso	Canis familiaris	AB563867	AL_Asian	AL_Asian_SEA4
+AB563868	TRa-048	TRa-048_III_2008	RV/R3.PHL/2008/TRa-048	III	2008	Philippines	Luzon	III	Zambales	San Narciso	Canis familiaris	AB563868	AL_Asian	AL_Asian_SEA4
+AB563869	TRa-049	TRa-049_III_2008	RV/R3.PHL/2008/TRa-049	III	2008	Philippines	Luzon	III	Pampanga	Candaba	Canis familiaris	AB563869	AL_Asian	AL_Asian_SEA4
+AB563870	TRa-051	TRa-051_III_2008	RV/R3.PHL/2008/TRa-051	III	2008	Philippines	Luzon	III	Pampanga	Magalang	Canis familiaris	AB563870	AL_Asian	AL_Asian_SEA4
+AB563871	TRa-052	TRa-052_X_2008	RV/R10.PHL/2008/TRa-052	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563871	AL_Asian	AL_Asian_SEA4
+AB563872	TRa-053	TRa-053_X_2008	RV/R10.PHL/2008/TRa-053	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563872	AL_Asian	AL_Asian_SEA4
+AB563873	TRa-054	TRa-054_X_2008	RV/R10.PHL/2008/TRa-054	X	2008	Philippines	Mindanao	X	Lanao del Norte	Iligan City	Canis familiaris	AB563873	AL_Asian	AL_Asian_SEA4
+AB563874	TRa-055	TRa-055_X_2008	RV/R10.PHL/2008/TRa-055	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563874	AL_Asian	AL_Asian_SEA4
+AB563875	TRa-056	TRa-056_X_2008	RV/R10.PHL/2008/TRa-056	X	2008	Philippines	Mindanao	X	Misamis Oriental	Balingasag	Canis familiaris	AB563875	AL_Asian	AL_Asian_SEA4
+AB563876	TRa-057	TRa-057_X_2008	RV/R10.PHL/2008/TRa-057	X	2008	Philippines	Mindanao	X	Misamis Oriental	Balingasag	Canis familiaris	AB563876	AL_Asian	AL_Asian_SEA4
+AB563878	TRa-059	TRa-059_III_2008	RV/R3.PHL/2008/TRa-059	III	2008	Philippines	Luzon	III	Pampanga	Mexico	Canis familiaris	AB563878	AL_Asian	AL_Asian_SEA4
+AB563879	TRa-060	TRa-060_III_2008	RV/R3.PHL/2008/TRa-060	III	2008	Philippines	Luzon	III	Pampanga	Magalang	Canis familiaris	AB563879	AL_Asian	AL_Asian_SEA4
+AB563880	TRa-061	TRa-061_III_2008	RV/R3.PHL/2008/TRa-061	III	2008	Philippines	Luzon	III	Pampanga	Mabalacat	Canis familiaris	AB563880	AL_Asian	AL_Asian_SEA4
+AB563881	TRa-062	TRa-062_III_2008	RV/R3.PHL/2008/TRa-062	III	2008	Philippines	Luzon	III	Nueva Ecija	Licab	Canis familiaris	AB563881	AL_Asian	AL_Asian_SEA4
+AB563882	TRa-063	TRa-063_III_2008	RV/R3.PHL/2008/TRa-063	III	2008	Philippines	Luzon	III	Nueva Ecija	Rizal	Canis familiaris	AB563882	AL_Asian	AL_Asian_SEA4
+AB563883	TRa-064	TRa-064_III_2008	RV/R3.PHL/2008/TRa-064	III	2008	Philippines	Luzon	III	Pampanga	Masantol	Canis familiaris	AB563883	AL_Asian	AL_Asian_SEA4
+AB563884	TRa-065	TRa-065_III_2008	RV/R3.PHL/2008/TRa-065	III	2008	Philippines	Luzon	III	Nueva Ecija	San Jose	Canis familiaris	AB563884	AL_Asian	AL_Asian_SEA4
+AB563885	TRa-066	TRa-066_III_2008	RV/R3.PHL/2008/TRa-066	III	2008	Philippines	Luzon	III	Pampanga	San Simon	Canis familiaris	AB563885	AL_Asian	AL_Asian_SEA4
+AB563886	TRa-067	TRa-067_V_2008	RV/R5.PHL/2008/TRa-067	V	2008	Philippines	Luzon	V	Albay	Daraga (Locsin)	Canis familiaris	AB563886	AL_Asian	AL_Asian_SEA4
+AB563887	TRa-071	TRa-071_V_2008	RV/R5.PHL/2008/TRa-071	V	2008	Philippines	Luzon	V	Camarines Sur	Naga City	Canis familiaris	AB563887	AL_Asian	AL_Asian_SEA4
+AB563888	TRa-072	TRa-072_V_2008	RV/R5.PHL/2008/TRa-072	V	2008	Philippines	Luzon	V	Albay	Tiwi	Canis familiaris	AB563888	AL_Asian	AL_Asian_SEA4
+AB563889	TRa-073	TRa-073_V_2008	RV/R5.PHL/2008/TRa-073	V	2008	Philippines	Luzon	V	Sorsogon	Juban	Canis familiaris	AB563889	AL_Asian	AL_Asian_SEA4
+AB563890	TRa-074	TRa-074_VII_2008	RV/R7.PHL/2008/TRa-074	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City 	Canis familiaris	AB563890	AL_Asian	AL_Asian_SEA4
+AB563891	TRa-075	TRa-075_VII_2008	RV/R7.PHL/2008/TRa-075	VII	2008	Philippines	Visayas	VII	Cebu	Lapu Lapu City	Canis familiaris	AB563891	AL_Asian	AL_Asian_SEA4
+AB563892	TRa-076	TRa-076_VII_2008	RV/R7.PHL/2008/TRa-076	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563892	AL_Asian	AL_Asian_SEA4
+AB563893	TRa-077	TRa-077_VII_2008	RV/R7.PHL/2008/TRa-077	VII	2008	Philippines	Visayas	VII	Cebu	Lapu Lapu City	Canis familiaris	AB563893	AL_Asian	AL_Asian_SEA4
+AB563894	TRa-078	TRa-078_VII_2008	RV/R7.PHL/2008/TRa-078	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563894	AL_Asian	AL_Asian_SEA4
+AB563895	TRa-079	TRa-079_VII_2008	RV/R7.PHL/2008/TRa-079	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563895	AL_Asian	AL_Asian_SEA4
+AB563896	TRa-080	TRa-080_VII_2008	RV/R7.PHL/2008/TRa-080	VII	2008	Philippines	Visayas	VII	Cebu	Lilo-an	Canis familiaris	AB563896	AL_Asian	AL_Asian_SEA4
+AB683588	TRa-084	TRa-084_VII_2008	RV/R7.PHL/2008/TRa-084	VII	2008	Philippines	Visayas	VII	Negros Oriental	Sibulan	Canis familiaris	AB683588	AL_Asian	AL_Asian_SEA4
+AB563900	TRa-085	TRa-085_VII_2008	RV/R7.PHL/2008/TRa-085	VII	2008	Philippines	Visayas	VII	Negros Oriental	Valencia	unknown	AB563900	AL_Asian	AL_Asian_SEA4
+AB563901	TRa-086	TRa-086_III_2008	RV/R3.PHL/2008/TRa-086	III	2008	Philippines	Luzon	III	Pampanga	Candaba	Canis familiaris	AB563901	AL_Asian	AL_Asian_SEA4
+AB563902	TRa-087	TRa-087_III_2008	RV/R3.PHL/2008/TRa-087	III	2008	Philippines	Luzon	III	Pampanga	Santa Rita	Canis familiaris	AB563902	AL_Asian	AL_Asian_SEA4
+AB563903	TRa-088	TRa-088_III_2008	RV/R3.PHL/2008/TRa-088	III	2008	Philippines	Luzon	III	Pampanga	Minalin	Canis familiaris	AB563903	AL_Asian	AL_Asian_SEA4
+AB563904	TRa-089	TRa-089_III_2008	RV/R3.PHL/2008/TRa-089	III	2008	Philippines	Luzon	III	Nueva Ecija	Laur	Canis familiaris	AB563904	AL_Asian	AL_Asian_SEA4
+AB563905	TRa-090	TRa-090_III_2008	RV/R3.PHL/2008/TRa-090	III	2008	Philippines	Luzon	III	Pampanga	Macabebe	Canis familiaris	AB563905	AL_Asian	AL_Asian_SEA4
+AB563906	TRa-091	TRa-091_III_2008	RV/R3.PHL/2008/TRa-091	III	2008	Philippines	Luzon	III	Pampanga	San Luis	Canis familiaris	AB563906	AL_Asian	AL_Asian_SEA4
+AB563907	TRa-092	TRa-092_III_2008	RV/R3.PHL/2008/TRa-092	III	2008	Philippines	Luzon	III	Pampanga	Santa Rita	Canis familiaris	AB563907	AL_Asian	AL_Asian_SEA4
+AB563908	TRa-093	TRa-093_III_2008	RV/R3.PHL/2008/TRa-093	III	2008	Philippines	Luzon	III	Pampanga	Angeles City	Canis familiaris	AB563908	AL_Asian	AL_Asian_SEA4
+AB563909	TRa-094	TRa-094_I_2008	RV/R1.PHL/2008/TRa-094	I	2008	Philippines	Luzon	I	Pangasinan	Lingayen	Canis familiaris	AB563909	AL_Asian	AL_Asian_SEA4
+AB563910	TRa-095	TRa-095_III_2008	RV/R3.PHL/2008/TRa-095	III	2008	Philippines	Luzon	III	Nueva Ecija	Laur	Canis familiaris	AB563910	AL_Asian	AL_Asian_SEA4
+AB563911	TRa-096	TRa-096_VII_2008	RV/R7.PHL/2008/TRa-096	VII	2008	Philippines	Visayas	VII	Cebu	Lapu Lapu City,	Canis familiaris	AB563911	AL_Asian	AL_Asian_SEA4
+AB563912	TRa-097	TRa-097_VII_2008	RV/R7.PHL/2008/TRa-097	VII	2008	Philippines	Visayas	VII	Cebu	San Remigio	Canis familiaris	AB563912	AL_Asian	AL_Asian_SEA4
+AB563913	TRa-098	TRa-098_VII_2008	RV/R7.PHL/2008/TRa-098	VII	2008	Philippines	Visayas	VII	Cebu	Lapu Lapu City	Canis familiaris	AB563913	AL_Asian	AL_Asian_SEA4
+AB563914	TRa-099	TRa-099_VII_2008	RV/R7.PHL/2008/TRa-099	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City,	Canis familiaris	AB563914	AL_Asian	AL_Asian_SEA4
+AB563915	TRa-100	TRa-100_VII_2008	RV/R7.PHL/2008/TRa-100	VII	2008	Philippines	Visayas	VII	Cebu	Consolacion,	Canis familiaris	AB563915	AL_Asian	AL_Asian_SEA4
+AB563916	TRa-101	TRa-101_VII_2008	RV/R7.PHL/2008/TRa-101	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563916	AL_Asian	AL_Asian_SEA4
+AB563917	TRa-102	TRa-102_VII_2008	RV/R7.PHL/2008/TRa-102	VII	2008	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563917	AL_Asian	AL_Asian_SEA4
+AB563918	TRa-103	TRa-103_VII_2008	RV/R7.PHL/2008/TRa-103	VII	2008	Philippines	Visayas	VII	Cebu	Mandaue City	Canis familiaris	AB563918	AL_Asian	AL_Asian_SEA4
+AB563919	TRa-104	TRa-104_X_2008	RV/R10.PHL/2008/TRa-104	X	2008	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563919	AL_Asian	AL_Asian_SEA4
+AB563920	TRa-107	TRa-107_X_2008	RV/R10.PHL/2008/TRa-107	X	2008	Philippines	Mindanao	X	Misamis Oriental	Balingasag	Canis familiaris	AB563920	AL_Asian	AL_Asian_SEA4
+AB563921	TRa-108	TRa-108_X_2008	RV/R10.PHL/2008/TRa-108	X	2008	Philippines	Mindanao	X	Misamis Oriental	Manticao	Canis familiaris	AB563921	AL_Asian	AL_Asian_SEA4
+AB563922	TRa-109	TRa-109_X_2009	RV/R10.PHL/2009/TRa-109	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563922	AL_Asian	AL_Asian_SEA4
+AB563923	TRa-110	TRa-110_X_2009	RV/R10.PHL/2009/TRa-110	X	2009	Philippines	Mindanao	X	Misamis Oriental	Magsaysay	Canis familiaris	AB563923	AL_Asian	AL_Asian_SEA4
+AB563924	TRa-111	TRa-111_III_2008	RV/R3.PHL/2008/TRa-111	III	2008	Philippines	Luzon	III	Pampanga	Mabalacat	Canis familiaris	AB563924	AL_Asian	AL_Asian_SEA4
+AB563925	TRa-112	TRa-112_III_2008	RV/R3.PHL/2008/TRa-112	III	2008	Philippines	Luzon	III	Zambales	Castillejos	Canis familiaris	AB563925	AL_Asian	AL_Asian_SEA4
+AB563926	TRa-113	TRa-113_III_2009	RV/R3.PHL/2009/TRa-113	III	2009	Philippines	Luzon	III	Nueva Ecija	Munoz	Canis familiaris	AB563926	AL_Asian	AL_Asian_SEA4
+AB563927	TRa-114	TRa-114_III_2009	RV/R3.PHL/2009/TRa-114	III	2009	Philippines	Luzon	III	Zambales	San Marcelino	Canis familiaris	AB563927	AL_Asian	AL_Asian_SEA4
+AB563928	TRa-115	TRa-115_III_2009	RV/R3.PHL/2009/TRa-115	III	2009	Philippines	Luzon	III	Pampanga	Santa Ana	Canis familiaris	AB563928	AL_Asian	AL_Asian_SEA4
+AB563929	TRa-116	TRa-116_III_2009	RV/R3.PHL/2009/TRa-116	III	2009	Philippines	Luzon	III	Zambales	San Felipe	Canis familiaris	AB563929	AL_Asian	AL_Asian_SEA4
+AB563930	TRa-117	TRa-117_III_2009	RV/R3.PHL/2009/TRa-117	III	2009	Philippines	Luzon	III	Pampanga	Candaba	Canis familiaris	AB563930	AL_Asian	AL_Asian_SEA4
+AB563931	TRa-118	TRa-118_III_2009	RV/R3.PHL/2009/TRa-118	III	2009	Philippines	Luzon	III	Pampanga	San Luis	Canis familiaris	AB563931	AL_Asian	AL_Asian_SEA4
+AB563933	TRa-120	TRa-120_V_2008	RV/R5.PHL/2008/TRa-120	V	2008	Philippines	Luzon	V	Catanduanes	Virac	Canis familiaris	AB563933	AL_Asian	AL_Asian_SEA4
+AB563934	TRa-121	TRa-121_V_2008	RV/R5.PHL/2008/TRa-121	V	2008	Philippines	Luzon	V	Camarines Sur	Naga City	Canis familiaris	AB563934	AL_Asian	AL_Asian_SEA4
+AB563936	TRa-123	TRa-123_V_2008	RV/R5.PHL/2008/TRa-123	V	2008	Philippines	Luzon	V	Catanduanes	Virac	Canis familiaris	AB563936	AL_Asian	AL_Asian_SEA4
+AB563937	TRa-127	TRa-127_III_2009	RV/R3.PHL/2009/TRa-127	III	2009	Philippines	Luzon	III	Pampanga	Masantol	Canis familiaris	AB563937	AL_Asian	AL_Asian_SEA4
+AB563938	TRa-128	TRa-128_III_2009	RV/R3.PHL/2009/TRa-128	III	2009	Philippines	Luzon	III	Nueva Ecija	Palayan	Canis familiaris	AB563938	AL_Asian	AL_Asian_SEA4
+AB563939	TRa-129	TRa-129_III_2009	RV/R3.PHL/2009/TRa-129	III	2009	Philippines	Luzon	III	Pampanga	San Luis	Canis familiaris	AB563939	AL_Asian	AL_Asian_SEA4
+AB563940	TRa-130	TRa-130_III_2009	RV/R3.PHL/2009/TRa-130	III	2009	Philippines	Luzon	III	Pampanga	Angeles City	Canis familiaris	AB563940	AL_Asian	AL_Asian_SEA4
+AB683586	TRa-132	TRa-132_III_2009	RV/R3.PHL/2009/TRa-132	III	2009	Philippines	Luzon	III	Nueva Ecija	Talugtug	Canis familiaris	AB683586	AL_Asian	AL_Asian_SEA4
+AB563942	TRa-133	TRa-133_III_2009	RV/R3.PHL/2009/TRa-133	III	2009	Philippines	Luzon	III	Pampanga	Santo Tomas	Canis familiaris	AB563942	AL_Asian	AL_Asian_SEA4
+AB563943	TRa-134	TRa-134_III_2009	RV/R3.PHL/2009/TRa-134	III	2009	Philippines	Luzon	III	Nueva Ecija	Pantabangan	Canis familiaris	AB563943	AL_Asian	AL_Asian_SEA4
+AB563944	TRa-135	TRa-135_III_2009	RV/R3.PHL/2009/TRa-135	III	2009	Philippines	Luzon	III	Pampanga	Santa Ana	Canis familiaris	AB563944	AL_Asian	AL_Asian_SEA4
+AB563945	TRa-136	TRa-136_III_2009	RV/R3.PHL/2009/TRa-136	III	2009	Philippines	Luzon	III	Nueva Ecija	San Antonio	Canis familiaris	AB563945	AL_Asian	AL_Asian_SEA4
+AB563946	TRa-142	TRa-142_II_2009	RV/R2.PHL/2009/TRa-142	II	2009	Philippines	Luzon	II	Cagayan	Allacapan	Canis familiaris	AB563946	AL_Asian	AL_Asian_SEA4
+AB563947	TRa-143	TRa-143_VII_2009	RV/R7.PHL/2009/TRa-143	VII	2009	Philippines	Visayas	VII	Negros Oriental	Sibulan	Cow	AB563947	AL_Asian	AL_Asian_SEA4
+AB563948	TRa-144	TRa-144_VII_2009	RV/R7.PHL/2009/TRa-144	VII	2009	Philippines	Visayas	VII	Negros Oriental	Sibulan	Canis familiaris	AB563948	AL_Asian	AL_Asian_SEA4
+AB563949	TRa-145	TRa-145_VII_2009	RV/R7.PHL/2009/TRa-145	VII	2009	Philippines	Visayas	VII	Negros Oriental	Dumaguete City	Canis familiaris	AB563949	AL_Asian	AL_Asian_SEA4
+AB563950	TRa-147	TRa-147_VII_2009	RV/R7.PHL/2009/TRa-147	VII	2009	Philippines	Visayas	VII	Negros Oriental	Bais City	Canis familiaris	AB563950	AL_Asian	AL_Asian_SEA4
+AB563951	TRa-150	TRa-150_I_2009	RV/R1.PHL/2009/TRa-150	I	2009	Philippines	Luzon	I	Pangasinan	Asingan	Canis familiaris	AB563951	AL_Asian	AL_Asian_SEA4
+AB563952	TRa-151	TRa-151_I_2009	RV/R1.PHL/2009/TRa-151	I	2009	Philippines	Luzon	I	Pangasinan	Asingan	Canis familiaris	AB563952	AL_Asian	AL_Asian_SEA4
+AB563953	TRa-153	TRa-153_I_2009	RV/R1.PHL/2009/TRa-153	I	2009	Philippines	Luzon	I	Pangasinan	Laoac	Canis familiaris	AB563953	AL_Asian	AL_Asian_SEA4
+AB563954	TRa-154	TRa-154_I_2009	RV/R1.PHL/2009/TRa-154	I	2009	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	AB563954	AL_Asian	AL_Asian_SEA4
+AB838709	TRa-156	TRa-156_I_2009	RV/R1.PHL/2009/TRa-156	I	2009	Philippines	Luzon	I	Pangasinan	Burgos	Canis familiaris	AB838709	AL_Asian	AL_Asian_SEA4
+AB563955	TRa-157	TRa-157_I_2009	RV/R1.PHL/2009/TRa-157	I	2009	Philippines	Luzon	I	Pangasinan	Agno	Canis familiaris	AB563955	AL_Asian	AL_Asian_SEA4
+AB563956	TRa-159	TRa-159_I_2009	RV/R1.PHL/2009/TRa-159	I	2009	Philippines	Luzon	I	Pangasinan	San Jacinto	Canis familiaris	AB563956	AL_Asian	AL_Asian_SEA4
+AB563957	TRa-161	TRa-161_I_2009	RV/R1.PHL/2009/TRa-161	I	2009	Philippines	Luzon	I	Pangasinan	Urdaneta	Canis familiaris	AB563957	AL_Asian	AL_Asian_SEA4
+AB563958	TRa-164	TRa-164_VII_2009	RV/R7.PHL/2009/TRa-164	VII	2009	Philippines	Visayas	VII	Negros Oriental	Dumaguete City	Canis familiaris	AB563958	AL_Asian	AL_Asian_SEA4
+AB563959	TRa-165	TRa-165_VII_2009	RV/R7.PHL/2009/TRa-165	VII	2009	Philippines	Visayas	VII	Negros Oriental	Dumaguete City	Canis familiaris	AB563959	AL_Asian	AL_Asian_SEA4
+AB563960	TRa-166	TRa-166_VII_2009	RV/R7.PHL/2009/TRa-166	VII	2009	Philippines	Visayas	VII	Cebu	Mandaue City	Canis familiaris	AB563960	AL_Asian	AL_Asian_SEA4
+AB563961	TRa-167	TRa-167_VII_2009	RV/R7.PHL/2009/TRa-167	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563961	AL_Asian	AL_Asian_SEA4
+AB563962	TRa-168	TRa-168_VII_2009	RV/R7.PHL/2009/TRa-168	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563962	AL_Asian	AL_Asian_SEA4
+AB563963	TRa-170	TRa-170_VII_2009	RV/R7.PHL/2009/TRa-170	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563963	AL_Asian	AL_Asian_SEA4
+AB563964	TRa-172	TRa-172_VII_2009	RV/R7.PHL/2009/TRa-172	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563964	AL_Asian	AL_Asian_SEA4
+AB563965	TRa-173	TRa-173_VII_2009	RV/R7.PHL/2009/TRa-173	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563965	AL_Asian	AL_Asian_SEA4
+AB563966	TRa-176	TRa-176_VII_2009	RV/R7.PHL/2009/TRa-176	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563966	AL_Asian	AL_Asian_SEA4
+AB563967	TRa-177	TRa-177_VII_2009	RV/R7.PHL/2009/TRa-177	VII	2009	Philippines	Visayas	VII	Cebu	Lapu-Lapu City	Canis familiaris	AB563967	AL_Asian	AL_Asian_SEA4
+AB563968	TRa-178	TRa-178_VII_2009	RV/R7.PHL/2009/TRa-178	VII	2009	Philippines	Visayas	VII	Cebu	Cebu City	Canis familiaris	AB563968	AL_Asian	AL_Asian_SEA4
+AB838710	TRa-179	TRa-179_VII_2009	RV/R7.PHL/2009/TRa-179	VII	2009	Philippines	Visayas	VII	Cebu	Lapu-Lapu City	Canis familiaris	AB838710	AL_Asian	AL_Asian_SEA4
+AB563969	TRa-183	TRa-183_V_2009	RV/R5.PHL/2009/TRa-183	V	2009	Philippines	Luzon	V	Albay	Daraga (Locsin)	Canis familiaris	AB563969	AL_Asian	AL_Asian_SEA4
+AB683589	TRa-184	TRa-184_X_2009	RV/R10.PHL/2009/TRa-184	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB683589	AL_Asian	AL_Asian_SEA4
+AB683590	TRa-186	TRa-186_X_2009	RV/R10.PHL/2009/TRa-186	X	2009	Philippines	Mindanao	X	Misamis Oriental	Binuangan	Canis familiaris	AB683590	AL_Asian	AL_Asian_SEA4
+AB683591	TRa-189	TRa-189_X_2009	RV/R10.PHL/2009/TRa-189	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB683591	AL_Asian	AL_Asian_SEA4
+AB563970	TRa-191	TRa-191_X_2009	RV/R10.PHL/2009/TRa-191	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563970	AL_Asian	AL_Asian_SEA4
+AB563971	TRa-196	TRa-196_X_2009	RV/R10.PHL/2009/TRa-196	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563971	AL_Asian	AL_Asian_SEA4
+AB563972	TRa-197	TRa-197_X_2009	RV/R10.PHL/2009/TRa-197	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB563972	AL_Asian	AL_Asian_SEA4
+AB563973	TRa-198	TRa-198_CAR_2009	RV/CAR.PHL/2009/TRa-198	CAR	2009	Philippines	Luzon	CAR	Mountain Province	Tadian	Canis familiaris	AB563973	AL_Asian	AL_Asian_SEA4
+AB563974	TRa-199	TRa-199_CAR_2009	RV/CAR.PHL/2009/TRa-199	CAR	2009	Philippines	Luzon	CAR	Mountain Province	Sadanga	Canis familiaris	AB563974	AL_Asian	AL_Asian_SEA4
+AB563975	TRa-200	TRa-200_CAR_2009	RV/CAR.PHL/2009/TRa-200	CAR	2009	Philippines	Luzon	CAR	Mountain Province	Sadanga	Canis familiaris	AB563975	AL_Asian	AL_Asian_SEA4
+AB563976	TRa-201	TRa-201_III_2009	RV/R3.PHL/2009/TRa-201	III	2009	Philippines	Luzon	III	Nueva Ecija	San Leonardo	Canis familiaris	AB563976	AL_Asian	AL_Asian_SEA4
+AB563977	TRa-202	TRa-202_III_2009	RV/R3.PHL/2009/TRa-202	III	2009	Philippines	Luzon	III	Zambales	Masinloc	Canis familiaris	AB563977	AL_Asian	AL_Asian_SEA4
+AB563978	TRa-204	TRa-204_III_2009	RV/R3.PHL/2009/TRa-204	III	2009	Philippines	Luzon	III	Pampanga	San Luis	Canis familiaris	AB563978	AL_Asian	AL_Asian_SEA4
+AB563979	TRa-205	TRa-205_III_2009	RV/R3.PHL/2009/TRa-205	III	2009	Philippines	Luzon	III	Nueva Ecija	San Jose	Canis familiaris	AB563979	AL_Asian	AL_Asian_SEA4
+AB563980	TRa-206	TRa-206_III_2009	RV/R3.PHL/2009/TRa-206	III	2009	Philippines	Luzon	III	Pampanga	Porac	Canis familiaris	AB563980	AL_Asian	AL_Asian_SEA4
+AB563981	TRa-208	TRa-208_I_2009	RV/R1.PHL/2009/TRa-208	I	2009	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	AB563981	AL_Asian	AL_Asian_SEA4
+AB563982	TRa-209	TRa-209_I_2009	RV/R1.PHL/2009/TRa-209	I	2009	Philippines	Luzon	I	Pangasinan	Pozorrubio	unknown	AB563982	AL_Asian	AL_Asian_SEA4
+AB563983	TRa-210	TRa-210_I_2009	RV/R1.PHL/2009/TRa-210	I	2009	Philippines	Luzon	I	Pangasinan	Urdaneta	Canis familiaris	AB563983	AL_Asian	AL_Asian_SEA4
+AB563984	TRa-213	TRa-213_I_2009	RV/R1.PHL/2009/TRa-213	I	2009	Philippines	Luzon	I	Pangasinan	Binmaley	Canis familiaris	AB563984	AL_Asian	AL_Asian_SEA4
+AB563985	TRa-214	TRa-214_I_2009	RV/R1.PHL/2009/TRa-214	I	2009	Philippines	Luzon	I	Pangasinan	Bani	Canis familiaris	AB563985	AL_Asian	AL_Asian_SEA4
+AB563986	TRa-215	TRa-215_I_2009	RV/R1.PHL/2009/TRa-215	I	2009	Philippines	Luzon	I	Pangasinan	Manaoag	Canis familiaris	AB563986	AL_Asian	AL_Asian_SEA4
+AB563987	TRa-216	TRa-216_I_2009	RV/R1.PHL/2009/TRa-216	I	2009	Philippines	Luzon	I	La Union 	Aringay	Canis familiaris	AB563987	AL_Asian	AL_Asian_SEA4
+AB563988	TRa-218	TRa-218_I_2009	RV/R1.PHL/2009/TRa-218	I	2009	Philippines	Luzon	I	La Union 	San Fernando	Canis familiaris	AB563988	AL_Asian	AL_Asian_SEA4
+AB563989	TRa-219	TRa-219_I_2009	RV/R1.PHL/2009/TRa-219	I	2009	Philippines	Luzon	I	Pangasinan	Urbiztondo	Canis familiaris	AB563989	AL_Asian	AL_Asian_SEA4
+AB563990	TRa-220	TRa-220_I_2009	RV/R1.PHL/2009/TRa-220	I	2009	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	AB563990	AL_Asian	AL_Asian_SEA4
+AB563991	TRa-221	TRa-221_I_2009	RV/R1.PHL/2009/TRa-221	I	2009	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	AB563991	AL_Asian	AL_Asian_SEA4
+AB563992	TRa-222	TRa-222_CAR_2009	RV/CAR.PHL/2009/TRa-222	CAR	2009	Philippines	Luzon	CAR	Mountain Province	Besao	Canis familiaris	AB563992	AL_Asian	AL_Asian_SEA4
+AB563993	TRa-224	TRa-224_CAR_2009	RV/CAR.PHL/2009/TRa-224	CAR	2009	Philippines	Luzon	CAR	Ifugao	Banaue	Canis familiaris	AB563993	AL_Asian	AL_Asian_SEA4
+AB563994	TRa-225	TRa-225_V_2009	RV/R5.PHL/2009/TRa-225	V	2009	Philippines	Luzon	V	Albay	Daraga (Locsin)	Canis familiaris	AB563994	AL_Asian	AL_Asian_SEA4
+AB563995	TRa-226	TRa-226_V_2009	RV/R5.PHL/2009/TRa-226	V	2009	Philippines	Luzon	V	Albay	Daraga (Locsin)	Canis familiaris	AB563995	AL_Asian	AL_Asian_SEA4
+AB563996	TRa-227	TRa-227_V_2009	RV/R5.PHL/2009/TRa-227	V	2009	Philippines	Luzon	V	Albay	Tabaco	Canis familiaris	AB563996	AL_Asian	AL_Asian_SEA4
+AB563997	TRa-229	TRa-229_V_2009	RV/R5.PHL/2009/TRa-229	V	2009	Philippines	Luzon	V	Catanduanes	Virac	Canis familiaris	AB563997	AL_Asian	AL_Asian_SEA4
+AB563998	TRa-231	TRa-231_V_2009	RV/R5.PHL/2009/TRa-231	V	2009	Philippines	Luzon	V	Camarines Norte	Vinzons	Canis familiaris	AB563998	AL_Asian	AL_Asian_SEA4
+AB563999	TRa-233	TRa-233_I_2009	RV/R1.PHL/2009/TRa-233	I	2009	Philippines	Luzon	I	Ilocos Sur	Bontoc	Canis familiaris	AB563999	AL_Asian	AL_Asian_SEA4
+AB564000	TRa-234	TRa-234_CAR_2009	RV/CAR.PHL/2009/TRa-234	CAR	2009	Philippines	Luzon	CAR	Mountain Province	Bontoc	unknown	AB564000	AL_Asian	AL_Asian_SEA4
+AB564001	TRa-235	TRa-235_VII_2009	RV/R7.PHL/2009/TRa-235	VII	2009	Philippines	Visayas	VII	Negros Oriental	Sibulan	Canis familiaris	AB564001	AL_Asian	AL_Asian_SEA4
+AB564002	TRa-236	TRa-236_VII_2009	RV/R7.PHL/2009/TRa-236	VII	2009	Philippines	Visayas	VII	Negros Oriental	Dumaguete City	unknown	AB564002	AL_Asian	AL_Asian_SEA4
+AB564003	TRa-237	TRa-237_VII_2009	RV/R7.PHL/2009/TRa-237	VII	2009	Philippines	Visayas	VII	Negros Oriental	Bais City	Canis familiaris	AB564003	AL_Asian	AL_Asian_SEA4
+AB564004	TRa-238	TRa-238_VII_2009	RV/R7.PHL/2009/TRa-238	VII	2009	Philippines	Visayas	VII	Negros Oriental	Dumaguete City	Canis familiaris	AB564004	AL_Asian	AL_Asian_SEA4
+AB564005	TRa-239	TRa-239_VII_2009	RV/R7.PHL/2009/TRa-239	VII	2009	Philippines	Visayas	VII	Negros Oriental	Valencia	Canis familiaris	AB564005	AL_Asian	AL_Asian_SEA4
+AB564006	TRa-240	TRa-240_VII_2009	RV/R7.PHL/2009/TRa-240	VII	2009	Philippines	Visayas	VII	Negros Oriental	Zamboanguita	Canis familiaris	AB564006	AL_Asian	AL_Asian_SEA4
+AB564007	TRa-241	TRa-241_VII_2009	RV/R7.PHL/2009/TRa-241	VII	2009	Philippines	Visayas	VII	Negros Oriental	Sibulan	Canis familiaris	AB564007	AL_Asian	AL_Asian_SEA4
+AB564008	TRa-242	TRa-242_X_2009	RV/R10.PHL/2009/TRa-242	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564008	AL_Asian	AL_Asian_SEA4
+AB564009	TRa-243	TRa-243_X_2009	RV/R10.PHL/2009/TRa-243	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564009	AL_Asian	AL_Asian_SEA4
+AB564010	TRa-244	TRa-244_X_2009	RV/R10.PHL/2009/TRa-244	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564010	AL_Asian	AL_Asian_SEA4
+AB564011	TRa-246	TRa-246_X_2009	RV/R10.PHL/2009/TRa-246	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564011	AL_Asian	AL_Asian_SEA4
+AB564012	TRa-248	TRa-248_X_2009	RV/R10.PHL/2009/TRa-248	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564012	AL_Asian	AL_Asian_SEA4
+AB564013	TRa-249	TRa-249_X_2009	RV/R10.PHL/2009/TRa-249	X	2009	Philippines	Mindanao	X	Misamis Oriental	Jasaan	Canis familiaris	AB564013	AL_Asian	AL_Asian_SEA4
+AB564014	TRa-250	TRa-250_X_2009	RV/R10.PHL/2009/TRa-250	X	2009	Philippines	Mindanao	X	Misamis Oriental	Binuangan	Canis familiaris	AB564014	AL_Asian	AL_Asian_SEA4
+AB564015	TRa-251	TRa-251_X_2009	RV/R10.PHL/2009/TRa-251	X	2009	Philippines	Mindanao	X	Lanao Del Norte	Linamon	Canis familiaris	AB564015	AL_Asian	AL_Asian_SEA4
+AB564016	TRa-252	TRa-252_X_2009	RV/R10.PHL/2009/TRa-252	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564016	AL_Asian	AL_Asian_SEA4
+AB564017	TRa-253	TRa-253_X_2009	RV/R10.PHL/2009/TRa-253	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564017	AL_Asian	AL_Asian_SEA4
+AB564018	TRa-254	TRa-254_X_2009	RV/R10.PHL/2009/TRa-254	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564018	AL_Asian	AL_Asian_SEA4
+AB564019	TRa-255	TRa-255_X_2009	RV/R10.PHL/2009/TRa-255	X	2009	Philippines	Mindanao	X	Misamis Oriental	Cagayan de Oro City	Canis familiaris	AB564019	AL_Asian	AL_Asian_SEA4
+AB733964	TRa-256	TRa-256_I_2009	RV/R1.PHL/2009/TRa-256	I	2009	Philippines	Luzon	I	Pangasinan	San Manuel	Canis familiaris	AB733964	AL_Asian	AL_Asian_SEA4
+AB733965	TRa-257	TRa-257_I_2009	RV/R1.PHL/2009/TRa-257	I	2009	Philippines	Luzon	I	Pangasinan	Bani	Canis familiaris	AB733965	AL_Asian	AL_Asian_SEA4
+AB733966	TRa-258	TRa-258_I_2009	RV/R1.PHL/2009/TRa-258	I	2009	Philippines	Luzon	I	Pangasinan	Agno	Canis familiaris	AB733966	AL_Asian	AL_Asian_SEA4
+AB733967	TRa-259	TRa-259_I_2009	RV/R1.PHL/2009/TRa-259	I	2009	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	AB733967	AL_Asian	AL_Asian_SEA4
+AB733968	TRa-260	TRa-260_I_2009	RV/R1.PHL/2009/TRa-260	I	2009	Philippines	Luzon	I	Pangasinan	Alcala	Canis familiaris	AB733968	AL_Asian	AL_Asian_SEA4
+AB733969	TRa-263	TRa-263_I_2009	RV/R1.PHL/2009/TRa-263	I	2009	Philippines	Luzon	I	Pangasinan	Dagupan City	Canis familiaris	AB733969	AL_Asian	AL_Asian_SEA4
+AB733970	TRa-265	TRa-265_I_2009	RV/R1.PHL/2009/TRa-265	I	2009	Philippines	Luzon	I	Ilocos Sur	Tagudin	Canis familiaris	AB733970	AL_Asian	AL_Asian_SEA4
+AB733977	TRa-268	TRa-268_V_2009	RV/R5.PHL/2009/TRa-268	V	2009	Philippines	Luzon	V	Sorsogon	Gubat	Canis familiaris	AB733977	AL_Asian	AL_Asian_SEA4
+AB733978	TRa-272	TRa-272_V_2009	RV/R5.PHL/2009/TRa-272	V	2009	Philippines	Luzon	V	Albay	Daraga (Locsin)	Canis familiaris	AB733978	AL_Asian	AL_Asian_SEA4
+AB733979	TRa-273	TRa-273_V_2009	RV/R5.PHL/2009/TRa-273	V	2009	Philippines	Luzon	V	Albay	Legaspi City	Canis familiaris	AB733979	AL_Asian	AL_Asian_SEA4
+AB733974	TRa-279	TRa-279_II_2009	RV/R2.PHL/2009/TRa-279	II	2009	Philippines	Luzon	II	Isabela City	San Mateo	Canis familiaris	AB733974	AL_Asian	AL_Asian_SEA4
+AB733975	TRa-283	TRa-283_II_2009	RV/R2.PHL/2009/TRa-283	II	2009	Philippines	Luzon	II	Isabela City	Santiago	Canis familiaris	AB733975	AL_Asian	AL_Asian_SEA4
+AB733976	TRa-284	TRa-284_II_2009	RV/R2.PHL/2009/TRa-284	II	2009	Philippines	Luzon	II	Isabela City	San Agustin	Canis familiaris	AB733976	AL_Asian	AL_Asian_SEA4
+AB733961	TRa-285	TRa-285_CAR_2009	RV/CAR.PHL/2009/TRa-285	CAR	2009	Philippines	Luzon	CAR	Mountain Province	Bontoc	Canis familiaris	AB733961	AL_Asian	AL_Asian_SEA4
+AB733971	TRa-286	TRa-286_I_2010	RV/R1.PHL/2010/TRa-286	I	2010	Philippines	Luzon	I	Ilocos Sur	Suyo	Canis familiaris	AB733971	AL_Asian	AL_Asian_SEA4
+AB733962	TRa-289	TRa-289_CAR_2010	RV/CAR.PHL/2010/TRa-289	CAR	2010	Philippines	Luzon	CAR	Ifugao	Alfonso	Canis familiaris	AB733962	AL_Asian	AL_Asian_SEA4
+AB733972	TRa-299	TRa-299_I_2010	RV/R1.PHL/2010/TRa-299	I	2010	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	AB733972	AL_Asian	AL_Asian_SEA4
+AB733973	TRa-300	TRa-300_I_2010	RV/R1.PHL/2010/TRa-300	I	2010	Philippines	Luzon	I	Pangasinan	Alcala	Canis familiaris	AB733973	AL_Asian	AL_Asian_SEA4
+LC018482	TRa-302	TRa-302_III_2012	RV/R3.PHL/2012/TRa-302	III	2012	Philippines	Luzon	III	Tarlac	Capas	Canis familiaris	LC018482	AL_Asian	AL_Asian_SEA4
+LC018483	TRa-303	TRa-303_III_2012	RV/R3.PHL/2012/TRa-303	III	2012	Philippines	Luzon	III	Bulacan	Hagonoy	Canis familiaris	LC018483	AL_Asian	AL_Asian_SEA4
+LC018484	TRa-305	TRa-305_III_2012	RV/R3.PHL/2012/TRa-305	III	2012	Philippines	Luzon	III	Pampanga	Candaba	Canis familiaris	LC018484	AL_Asian	AL_Asian_SEA4
+LC018485	TRa-306	TRa-306_III_2012	RV/R3.PHL/2012/TRa-306	III	2012	Philippines	Luzon	III	Nueva Ecija	Guimba	Canis familiaris	LC018485	AL_Asian	AL_Asian_SEA4
+LC018486	TRa-307	TRa-307_III_2012	RV/R3.PHL/2012/TRa-307	III	2012	Philippines	Luzon	III	Tarlac	Bamban	Canis familiaris	LC018486	AL_Asian	AL_Asian_SEA4
+LC018487	TRa-308	TRa-308_III_2012	RV/R3.PHL/2012/TRa-308	III	2012	Philippines	Luzon	III	Bulacan	Santa Maria	Canis familiaris	LC018487	AL_Asian	AL_Asian_SEA4
+LC018488	TRa-309	TRa-309_III_2012	RV/R3.PHL/2012/TRa-309	III	2012	Philippines	Luzon	III	Tarlac	Capas	Canis familiaris	LC018488	AL_Asian	AL_Asian_SEA4
+LC018489	TRa-310	TRa-310_III_2012	RV/R3.PHL/2012/TRa-310	III	2012	Philippines	Luzon	III	Bulacan	Santa Maria	Canis familiaris	LC018489	AL_Asian	AL_Asian_SEA4
+LC018490	TRa-311	TRa-311_III_2012	RV/R3.PHL/2012/TRa-311	III	2012	Philippines	Luzon	III	Bulacan	Paombong	Canis familiaris	LC018490	AL_Asian	AL_Asian_SEA4
+LC018491	TRa-312	TRa-312_III_2012	RV/R3.PHL/2012/TRa-312	III	2012	Philippines	Luzon	III	Nueva Ecija	Zaragosa	Canis familiaris	LC018491	AL_Asian	AL_Asian_SEA4
+LC018492	TRa-313	TRa-313_III_2012	RV/R3.PHL/2012/TRa-313	III	2012	Philippines	Luzon	III	Bulacan	Hagonoy	Canis familiaris	LC018492	AL_Asian	AL_Asian_SEA4
+LC018493	TRa-314	TRa-314_III_2012	RV/R3.PHL/2012/TRa-314	III	2012	Philippines	Luzon	III	Tarlac	Concepcion	Canis familiaris	LC018493	AL_Asian	AL_Asian_SEA4
+LC018494	TRa-315	TRa-315_III_2012	RV/R3.PHL/2012/TRa-315	III	2012	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018494	AL_Asian	AL_Asian_SEA4
+LC018495	TRa-317	TRa-317_III_2012	RV/R3.PHL/2012/TRa-317	III	2012	Philippines	Luzon	III	Bulacan	Meycauayan	Canis familiaris	LC018495	AL_Asian	AL_Asian_SEA4
+LC018496	TRa-318	TRa-318_III_2012	RV/R3.PHL/2012/TRa-318	III	2012	Philippines	Luzon	III	Bulacan	Marilao	Canis familiaris	LC018496	AL_Asian	AL_Asian_SEA4
+LC018497	TRa-320	TRa-320_I_2012	RV/R1.PHL/2012/TRa-320	I	2012	Philippines	Luzon	I	Pangasinan	Bolinao	Canis familiaris	LC018497	AL_Asian	AL_Asian_SEA4
+LC018498	TRa-323	TRa-323_I_2012	RV/R1.PHL/2012/TRa-323	I	2012	Philippines	Luzon	I	Pangasinan	Alaminos	Canis familiaris	LC018498	AL_Asian	AL_Asian_SEA4
+LC018499	TRa-324	TRa-324_I_2012	RV/R1.PHL/2012/TRa-324	I	2012	Philippines	Luzon	I	Pangasinan	Bolinao	Canis familiaris	LC018499	AL_Asian	AL_Asian_SEA4
+LC018500	TRa-325	TRa-325_I_2012	RV/R1.PHL/2012/TRa-325	I	2012	Philippines	Luzon	I	Pangasinan	Alaminos	Canis familiaris	LC018500	AL_Asian	AL_Asian_SEA4
+LC018501	TRa-327	TRa-327_I_2012	RV/R1.PHL/2012/TRa-327	I	2012	Philippines	Luzon	I	Pangasinan	Mangatarem	unknown	LC018501	AL_Asian	AL_Asian_SEA4
+LC018502	TRa-337	TRa-337_V_2012	RV/R5.PHL/2012/TRa-337	V	2012	Philippines	Luzon	V	Camarines Sur	Naga City	Canis familiaris	LC018502	AL_Asian	AL_Asian_SEA4
+LC018503	TRa-338	TRa-338_V_2012	RV/R5.PHL/2012/TRa-338	V	2012	Philippines	Luzon	V	Catanduanes	Panganiban	Canis familiaris	LC018503	AL_Asian	AL_Asian_SEA4
+LC018504	TRa-339	TRa-339_V_2012	RV/R5.PHL/2012/TRa-339	V	2012	Philippines	Luzon	V	Albay	Oas	Canis familiaris	LC018504	AL_Asian	AL_Asian_SEA4
+LC018505	TRa-340	TRa-340_V_2012	RV/R5.PHL/2012/TRa-340	V	2012	Philippines	Luzon	V	Camarines Norte	Daet	Canis familiaris	LC018505	AL_Asian	AL_Asian_SEA4
+LC018506	TRa-343	TRa-343_V_2012	RV/R5.PHL/2012/TRa-343	V	2012	Philippines	Luzon	V	Camarines Norte	Labo	Canis familiaris	LC018506	AL_Asian	AL_Asian_SEA4
+LC018507	TRa-344	TRa-344_V_2012	RV/R5.PHL/2012/TRa-344	V	2012	Philippines	Luzon	V	Camarines Sur	Naga City	Canis familiaris	LC018507	AL_Asian	AL_Asian_SEA4
+LC018508	TRa-346	TRa-346_III_2013	RV/R3.PHL/2013/TRa-346	III	2013	Philippines	Luzon	III	Pampanga	San Simon	Canis familiaris	LC018508	AL_Asian	AL_Asian_SEA4
+LC018509	TRa-347	TRa-347_III_2013	RV/R3.PHL/2013/TRa-347	III	2013	Philippines	Luzon	III	Nueva Ecija	Licab	unknown	LC018509	AL_Asian	AL_Asian_SEA4
+LC018510	TRa-348	TRa-348_III_2013	RV/R3.PHL/2013/TRa-348	III	2013	Philippines	Luzon	III	Nueva Ecija	San Antonio	Canis familiaris	LC018510	AL_Asian	AL_Asian_SEA4
+LC018511	TRa-349	TRa-349_III_2013	RV/R3.PHL/2013/TRa-349	III	2013	Philippines	Luzon	III	Nueva Ecija	San Antonio	Canis familiaris	LC018511	AL_Asian	AL_Asian_SEA4
+LC018512	TRa-350	TRa-350_III_2013	RV/R3.PHL/2013/TRa-350	III	2013	Philippines	Luzon	III	Bulacan	Malolos	Canis familiaris	LC018512	AL_Asian	AL_Asian_SEA4
+LC018513	TRa-351	TRa-351_III_2013	RV/R3.PHL/2013/TRa-351	III	2013	Philippines	Luzon	III	Bulacan	Pandi	unknown	LC018513	AL_Asian	AL_Asian_SEA4
+LC018514	TRa-352	TRa-352_III_2013	RV/R3.PHL/2013/TRa-352	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018514	AL_Asian	AL_Asian_SEA4
+LC018515	TRa-353	TRa-353_III_2013	RV/R3.PHL/2013/TRa-353	III	2013	Philippines	Luzon	III	Bulacan	Malolos	Canis familiaris	LC018515	AL_Asian	AL_Asian_SEA4
+LC018516	TRa-354	TRa-354_III_2013	RV/R3.PHL/2013/TRa-354	III	2013	Philippines	Luzon	III	Bulacan	Baliuag	Canis familiaris	LC018516	AL_Asian	AL_Asian_SEA4
+LC018517	TRa-355	TRa-355_V_2012	RV/R5.PHL/2012/TRa-355	V	2012	Philippines	Luzon	V	Albay	Tiwi	Canis familiaris	LC018517	AL_Asian	AL_Asian_SEA4
+LC018518	TRa-356	TRa-356_V_2012	RV/R5.PHL/2012/TRa-356	V	2012	Philippines	Luzon	V	Albay	Tabaco	Canis familiaris	LC018518	AL_Asian	AL_Asian_SEA4
+LC018519	TRa-357	TRa-357_V_2012	RV/R5.PHL/2012/TRa-357	V	2012	Philippines	Luzon	V	Sorsogon	Castilla	Canis familiaris	LC018519	AL_Asian	AL_Asian_SEA4
+LC018520	TRa-358	TRa-358_V_2012	RV/R5.PHL/2012/TRa-358	V	2012	Philippines	Luzon	V	Camarines Norte	Labo	Canis familiaris	LC018520	AL_Asian	AL_Asian_SEA4
+LC018521	TRa-360	TRa-360_V_2012	RV/R5.PHL/2012/TRa-360	V	2012	Philippines	Luzon	V	Albay	Legaspi City	Canis familiaris	LC018521	AL_Asian	AL_Asian_SEA4
+LC018522	TRa-362	TRa-362_V_2012	RV/R5.PHL/2012/TRa-362	V	2012	Philippines	Luzon	V	Albay	Oas	Canis familiaris	LC018522	AL_Asian	AL_Asian_SEA4
+LC018523	TRa-364	TRa-364_V_2013	RV/R5.PHL/2013/TRa-364	V	2013	Philippines	Luzon	V	Albay	Camalig	Canis familiaris	LC018523	AL_Asian	AL_Asian_SEA4
+LC018524	TRa-365	TRa-365_V_2013	RV/R5.PHL/2013/TRa-365	V	2013	Philippines	Luzon	V	Albay	Tabaco	Canis familiaris	LC018524	AL_Asian	AL_Asian_SEA4
+LC018525	TRa-370	TRa-370_CAR_2013	RV/CAR.PHL/2013/TRa-370	CAR	2013	Philippines	Luzon	CAR	Kalinga Apayao	Tabuk	Canis familiaris	LC018525	AL_Asian	AL_Asian_SEA4
+LC018526	TRa-375	TRa-375_I_2012	RV/R1.PHL/2012/TRa-375	I	2012	Philippines	Luzon	I	Pangasinan	San Carlos City	Canis familiaris	LC018526	AL_Asian	AL_Asian_SEA4
+LC018527	TRa-376	TRa-376_I_2012	RV/R1.PHL/2012/TRa-376	I	2012	Philippines	Luzon	I	Pangasinan	Alcala	Canis familiaris	LC018527	AL_Asian	AL_Asian_SEA4
+LC018528	TRa-377	TRa-377_I_2012	RV/R1.PHL/2012/TRa-377	I	2012	Philippines	Luzon	I	Pangasinan	Santa Barabara	Canis familiaris	LC018528	AL_Asian	AL_Asian_SEA4
+LC018529	TRa-378	TRa-378_I_2012	RV/R1.PHL/2012/TRa-378	I	2012	Philippines	Luzon	I	Pangasinan	Santa Barabara	Canis familiaris	LC018529	AL_Asian	AL_Asian_SEA4
+LC018530	TRa-379	TRa-379_I_2012	RV/R1.PHL/2012/TRa-379	I	2012	Philippines	Luzon	I	Pangasinan	San Jacinto	Canis familiaris	LC018530	AL_Asian	AL_Asian_SEA4
+LC018531	TRa-381	TRa-381_I_2012	RV/R1.PHL/2012/TRa-381	I	2012	Philippines	Luzon	I	Pangasinan	Manaoag	Canis familiaris	LC018531	AL_Asian	AL_Asian_SEA4
+LC018532	TRa-382	TRa-382_I_2012	RV/R1.PHL/2012/TRa-382	I	2012	Philippines	Luzon	I	La Union 	Aringay	Canis familiaris	LC018532	AL_Asian	AL_Asian_SEA4
+LC018533	TRa-383	TRa-383_I_2012	RV/R1.PHL/2012/TRa-383	I	2012	Philippines	Luzon	I	Pangasinan	Sual	Canis familiaris	LC018533	AL_Asian	AL_Asian_SEA4
+LC018534	TRa-384	TRa-384_I_2012	RV/R1.PHL/2012/TRa-384	I	2012	Philippines	Luzon	I	Pangasinan	San Jacinto	Canis familiaris	LC018534	AL_Asian	AL_Asian_SEA4
+LC018535	TRa-392	TRa-392_IV-B_2011	RV/R4B.PHL/2011/TRa-392	IV-B	2011	Philippines	Luzon	IV-B	Romblon	Odiongan	Canis familiaris	LC018535	AL_Asian	AL_Asian_SEA4
+LC018536	TRa-393	TRa-393_IV-A_2011	RV/R4A.PHL/2011/TRa-393	IV-A	2011	Philippines	Luzon	IV-A	Laguna	Calamba	Canis familiaris	LC018536	AL_Asian	AL_Asian_SEA4
+LC018537	TRa-394	TRa-394_IV-B_2011	RV/R4B.PHL/2011/TRa-394	IV-B	2011	Philippines	Luzon	IV-B	Romblon	Looc	Canis familiaris	LC018537	AL_Asian	AL_Asian_SEA4
+LC018538	TRa-396	TRa-396_IV-B_2011	RV/R4B.PHL/2011/TRa-396	IV-B	2011	Philippines	Luzon	IV-B	Romblon	Looc	Canis familiaris	LC018538	AL_Asian	AL_Asian_SEA4
+LC018539	TRa-397	TRa-397_IV-B_2012	RV/R4B.PHL/2012/TRa-397	IV-B	2012	Philippines	Luzon	IV-B	Romblon	Odiongan	Canis familiaris	LC018539	AL_Asian	AL_Asian_SEA4
+LC018540	TRa-398	TRa-398_IV-A_2012	RV/R4A.PHL/2012/TRa-398	IV-A	2012	Philippines	Luzon	IV-A	Quezon	Lucena City	Canis familiaris	LC018540	AL_Asian	AL_Asian_SEA4
+LC018541	TRa-400	TRa-400_IV-B_2012	RV/R4B.PHL/2012/TRa-400	IV-B	2012	Philippines	Luzon	IV-B	Romblon	Odiongan	Canis familiaris	LC018541	AL_Asian	AL_Asian_SEA4
+LC018542	TRa-401	TRa-401_IV-A_2012	RV/R4A.PHL/2012/TRa-401	IV-A	2012	Philippines	Luzon	IV-A	Batangas	San Nicolas	Canis familiaris	LC018542	AL_Asian	AL_Asian_SEA4
+LC018543	TRa-402	TRa-402_IV-B_2012	RV/R4B.PHL/2012/TRa-402	IV-B	2012	Philippines	Luzon	IV-B	Romblon	Odiongan	Canis familiaris	LC018543	AL_Asian	AL_Asian_SEA4
+LC018544	TRa-404	TRa-404_IV-A_2012	RV/R4A.PHL/2012/TRa-404	IV-A	2012	Philippines	Luzon	IV-A	Batangas	Tanauan	Canis familiaris	LC018544	AL_Asian	AL_Asian_SEA4
+LC018545	TRa-405	TRa-405_CAR_2013	RV/CAR.PHL/2013/TRa-405	CAR	2013	Philippines	Luzon	CAR	Ifugao	Lamut	Canis familiaris	LC018545	AL_Asian	AL_Asian_SEA4
+LC018546	TRa-406	TRa-406_I_2013	RV/R1.PHL/2013/TRa-406	I	2013	Philippines	Luzon	I	Ilocos sur	Santa Cruz	Canis familiaris	LC018546	AL_Asian	AL_Asian_SEA4
+LC018547	TRa-407	TRa-407_CAR_2013	RV/CAR.PHL/2013/TRa-407	CAR	2013	Philippines	Luzon	CAR	Ifugao	Lamut	Canis familiaris	LC018547	AL_Asian	AL_Asian_SEA4
+LC018548	TRa-409	TRa-409_CAR_2013	RV/CAR.PHL/2013/TRa-409	CAR	2013	Philippines	Luzon	CAR	Benguet	La Trinidad	Canis familiaris	LC018548	AL_Asian	AL_Asian_SEA4
+LC018549	TRa-421	TRa-421_V_2013	RV/R5.PHL/2013/TRa-421	V	2013	Philippines	Luzon	V	Albay	Camalig	Canis familiaris	LC018549	AL_Asian	AL_Asian_SEA4
+LC018550	TRa-422	TRa-422_V_2013	RV/R5.PHL/2013/TRa-422	V	2013	Philippines	Luzon	V	Albay	Tabaco	Canis familiaris	LC018550	AL_Asian	AL_Asian_SEA4
+LC018551	TRa-425	TRa-425_V_2013	RV/R5.PHL/2013/TRa-425	V	2013	Philippines	Luzon	V	Camarines Sur	Naga City	Canis familiaris	LC018551	AL_Asian	AL_Asian_SEA4
+LC018552	TRa-426	TRa-426_V_2013	RV/R5.PHL/2013/TRa-426	V	2013	Philippines	Luzon	V	Camarines Sur	Bato	Canis familiaris	LC018552	AL_Asian	AL_Asian_SEA4
+LC018553	TRa-427	TRa-427_V_2013	RV/R5.PHL/2013/TRa-427	V	2013	Philippines	Luzon	V	Albay	Jovellar	Canis familiaris	LC018553	AL_Asian	AL_Asian_SEA4
+LC018554	TRa-429	TRa-429_V_2013	RV/R5.PHL/2013/TRa-429	V	2013	Philippines	Luzon	V	Albay	Daraga	Canis familiaris	LC018554	AL_Asian	AL_Asian_SEA4
+LC018555	TRa-435	TRa-435_II_2013	RV/R2.PHL/2013/TRa-435	II	2013	Philippines	Luzon	II	Cagayan	Piat	Canis familiaris	LC018555	AL_Asian	AL_Asian_SEA4
+LC018556	TRa-437	TRa-437_II_2013	RV/R2.PHL/2013/TRa-437	II	2013	Philippines	Luzon	II	Nueva Vizcaya	Bayombong	Canis familiaris	LC018556	AL_Asian	AL_Asian_SEA4
+LC018557	TRa-439	TRa-439_II_2013	RV/R2.PHL/2013/TRa-439	II	2013	Philippines	Luzon	II	Cagayan	Lasam	Canis familiaris	LC018557	AL_Asian	AL_Asian_SEA4
+LC018558	TRa-441	TRa-441_III_2013	RV/R3.PHL/2013/TRa-441	III	2013	Philippines	Luzon	III	Pampanga	Macabebe	Canis familiaris	LC018558	AL_Asian	AL_Asian_SEA4
+LC018559	TRa-442	TRa-442_III_2013	RV/R3.PHL/2013/TRa-442	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018559	AL_Asian	AL_Asian_SEA4
+LC018560	TRa-443	TRa-443_III_2013	RV/R3.PHL/2013/TRa-443	III	2013	Philippines	Luzon	III	Bulacan	Paombong	Canis familiaris	LC018560	AL_Asian	AL_Asian_SEA4
+LC018561	TRa-444	TRa-444_III_2013	RV/R3.PHL/2013/TRa-444	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018561	AL_Asian	AL_Asian_SEA4
+LC018562	TRa-445	TRa-445_III_2013	RV/R3.PHL/2013/TRa-445	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Felis catus	LC018562	AL_Asian	AL_Asian_SEA4
+LC018563	TRa-446	TRa-446_III_2013	RV/R3.PHL/2013/TRa-446	III	2013	Philippines	Luzon	III	Tarlac	Concepcion	Canis familiaris	LC018563	AL_Asian	AL_Asian_SEA4
+LC018564	TRa-447	TRa-447_III_2013	RV/R3.PHL/2013/TRa-447	III	2013	Philippines	Luzon	III	Bulacan	Santa Maria	Canis familiaris	LC018564	AL_Asian	AL_Asian_SEA4
+LC018565	TRa-448	TRa-448_III_2013	RV/R3.PHL/2013/TRa-448	III	2013	Philippines	Luzon	III	Nueva Ecija	San Antonio	Canis familiaris	LC018565	AL_Asian	AL_Asian_SEA4
+LC018566	TRa-449	TRa-449_III_2013	RV/R3.PHL/2013/TRa-449	III	2013	Philippines	Luzon	III	Bulacan	Guiguinto	Canis familiaris	LC018566	AL_Asian	AL_Asian_SEA4
+LC018567	TRa-450	TRa-450_III_2013	RV/R3.PHL/2013/TRa-450	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018567	AL_Asian	AL_Asian_SEA4
+LC018568	TRa-451	TRa-451_III_2013	RV/R3.PHL/2013/TRa-451	III	2013	Philippines	Luzon	III	Bulacan	Santa Maria	Canis familiaris	LC018568	AL_Asian	AL_Asian_SEA4
+LC018569	TRa-452	TRa-452_III_2013	RV/R3.PHL/2013/TRa-452	III	2013	Philippines	Luzon	III	Bulacan	Malolos	Canis familiaris	LC018569	AL_Asian	AL_Asian_SEA4
+LC018570	TRa-453	TRa-453_III_2013	RV/R3.PHL/2013/TRa-453	III	2013	Philippines	Luzon	III	Pampanga	Arayat	Canis familiaris	LC018570	AL_Asian	AL_Asian_SEA4
+LC018571	TRa-454	TRa-454_III_2013	RV/R3.PHL/2013/TRa-454	III	2013	Philippines	Luzon	III	Bulacan	Bulacan	Canis familiaris	LC018571	AL_Asian	AL_Asian_SEA4
+LC018572	TRa-455	TRa-455_III_2013	RV/R3.PHL/2013/TRa-455	III	2013	Philippines	Luzon	III	Bulacan	Hagonoy	Canis familiaris	LC018572	AL_Asian	AL_Asian_SEA4
+LC018573	TRa-456	TRa-456_III_2013	RV/R3.PHL/2013/TRa-456	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018573	AL_Asian	AL_Asian_SEA4
+LC018574	TRa-457	TRa-457_III_2013	RV/R3.PHL/2013/TRa-457	III	2013	Philippines	Luzon	III	Pampanga	Macabebe	Canis familiaris	LC018574	AL_Asian	AL_Asian_SEA4
+LC018575	TRa-458	TRa-458_III_2013	RV/R3.PHL/2013/TRa-458	III	2013	Philippines	Luzon	III	Pampanga	San Fernando	Canis familiaris	LC018575	AL_Asian	AL_Asian_SEA4
+LC018576	TRa-459	TRa-459_III_2013	RV/R3.PHL/2013/TRa-459	III	2013	Philippines	Luzon	III	Pampanga	Candaba	unknown	LC018576	AL_Asian	AL_Asian_SEA4
+LC018577	TRa-460	TRa-460_III_2013	RV/R3.PHL/2013/TRa-460	III	2013	Philippines	Luzon	III	Nueva Ecija	San Antonio	unknown	LC018577	AL_Asian	AL_Asian_SEA4
+LC018578	TRa-461	TRa-461_III_2013	RV/R3.PHL/2013/TRa-461	III	2013	Philippines	Luzon	III	Pampanga	Candaba	Canis familiaris	LC018578	AL_Asian	AL_Asian_SEA4
+LC018579	TRa-462	TRa-462_III_2013	RV/R3.PHL/2013/TRa-462	III	2013	Philippines	Luzon	III	Nueva Ecija	San Jose City	Canis familiaris	LC018579	AL_Asian	AL_Asian_SEA4
+LC018580	TRa-463	TRa-463_III_2013	RV/R3.PHL/2013/TRa-463	III	2013	Philippines	Luzon	III	Pampanga	Candaba	Canis familiaris	LC018580	AL_Asian	AL_Asian_SEA4
+LC018581	TRa-464	TRa-464_III_2013	RV/R3.PHL/2013/TRa-464	III	2013	Philippines	Luzon	III	Bulacan	San Jose del Monte	Canis familiaris	LC018581	AL_Asian	AL_Asian_SEA4
+LC018582	TRa-465	TRa-465_III_2013	RV/R3.PHL/2013/TRa-465	III	2013	Philippines	Luzon	III	Nueva Ecija	Zaragosa	Canis familiaris	LC018582	AL_Asian	AL_Asian_SEA4
+LC018583	TRa-466	TRa-466_III_2013	RV/R3.PHL/2013/TRa-466	III	2013	Philippines	Luzon	III	Nueva Ecija	Talavera	Canis familiaris	LC018583	AL_Asian	AL_Asian_SEA4
+LC018584	TRa-486	TRa-486_IV-B_2013	RV/R4B.PHL/2013/TRa-486	IV-B	2013	Philippines	Luzon	IV-B	Palawan	Puerto Princesa City	Canis familiaris	LC018584	AL_Asian	AL_Asian_SEA4
+LC018585	TRa-487	TRa-487_IV-B_2013	RV/R4B.PHL/2013/TRa-487	IV-B	2013	Philippines	Luzon	IV-B	Palawan	Puerto Princesa City	Canis familiaris	LC018585	AL_Asian	AL_Asian_SEA4
+LC018586	TRa-500	TRa-500_CAR_2013	RV/CAR.PHL/2013/TRa-500	CAR	2013	Philippines	Luzon	CAR	Mountain Province	Paracelis	Canis familiaris	LC018586	AL_Asian	AL_Asian_SEA4
+LC018587	TRa-503	TRa-503_II_2013	RV/R2.PHL/2013/TRa-503	II	2013	Philippines	Luzon	II	Nueva Vizcaya	Kasilbu	Canis familiaris	LC018587	AL_Asian	AL_Asian_SEA4
+LC018588	TRa-504	TRa-504_II_2013	RV/R2.PHL/2013/TRa-504	II	2013	Philippines	Luzon	II	Nueva Vizcaya	Bagabag	Canis familiaris	LC018588	AL_Asian	AL_Asian_SEA4
+LC018589	TRa-505	TRa-505_II_2013	RV/R2.PHL/2013/TRa-505	II	2013	Philippines	Luzon	II	Isabela	San Mateo	Canis familiaris	LC018589	AL_Asian	AL_Asian_SEA4
+LC018590	TRa-506	TRa-506_II_2013	RV/R2.PHL/2013/TRa-506	II	2013	Philippines	Luzon	II	Cagayan	Peñablanca	Canis familiaris	LC018590	AL_Asian	AL_Asian_SEA4
+LC018591	TRa-507	TRa-507_CAR_2013	RV/CAR.PHL/2013/TRa-507	CAR	2013	Philippines	Luzon	CAR	Kalinga Apayao	Tabuk	Canis familiaris	LC018591	AL_Asian	AL_Asian_SEA4
+AB683587	Z-04-470	Z-04-470_IV-A_2004	RV/R4A.PHL/2004/Z-04-470	IV-A	2004	Philippines	Luzon	IV-A	Laguna	Sta. Rosa	Canis familiaris	AB683587	AL_Asian	AL_Asian_SEA4
+AB683584	Z-04-522	Z-04-522_NCR_2004	RV/NCR.PHL/2004/Z-04-522	NCR	2004	Philippines	Luzon	NCR	Metro Manila	Parañaque City	Canis familiaris	AB683584	AL_Asian	AL_Asian_SEA4
+AB733963	Z-04-646	Z-04-646_NCR_2004	RV/NCR.PHL/2004/Z-04-646	NCR	2004	Philippines	Luzon	NCR	Metro Manila	Parañaque City	Canis familiaris	AB733963	AL_Asian	AL_Asian_SEA4

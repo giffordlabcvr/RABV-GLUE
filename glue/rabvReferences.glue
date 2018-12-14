@@ -19,6 +19,7 @@ create reference REF_Africa-3_KX148218 ncbi-refseqs KX148218
 create reference REF_Africa-3_KX148220 ncbi-refseqs KX148220
 create reference REF_Africa-3_KX148222 ncbi-refseqs KX148222
 create reference REF_Africa-3_KX148223 ncbi-refseqs KX148223
+
 create reference REF_Arctic_AL1a_AF369330 ncbi-refseqs AF369330
 create reference REF_Arctic_AL1a_AY956319 ncbi-refseqs AY956319
 create reference REF_Arctic_AL1a_EF437215 ncbi-refseqs EF437215
@@ -32,6 +33,7 @@ create reference REF_Arctic_AL2_KM272192 ncbi-refseqs KM272192
 create reference REF_Arctic_AL3_KX148228 ncbi-refseqs KX148228
 create reference REF_Arctic_A_KX148105 ncbi-refseqs KX148105
 create reference REF_Arctic_A_KX148106 ncbi-refseqs KX148106
+
 create reference REF_Asian_SEA1a_GU345747 ncbi-refseqs GU345747
 create reference REF_Asian_SEA1b_EU086146 ncbi-refseqs EU086146
 create reference REF_Asian_SEA1b_FJ712194 ncbi-refseqs FJ712194
@@ -59,6 +61,7 @@ create reference REF_Asian_SEA3_KX148249 ncbi-refseqs KX148249
 create reference REF_Asian_SEA3_KX148255 ncbi-refseqs KX148255
 create reference REF_Asian_SEA4_KX148259 ncbi-refseqs KX148259
 create reference REF_Asian_SEA4_KX148263 ncbi-refseqs KX148263
+
 create reference REF_Asian_SEA5_KF620487 ncbi-refseqs KF620487
 create reference REF_Asian_SEA5_KF620488 ncbi-refseqs KF620488
 create reference REF_Bats_AP_JQ685971 ncbi-refseqs JQ685971
@@ -93,6 +96,7 @@ create reference REF_Bats_PS_AY705373 ncbi-refseqs AY705373
 create reference REF_Bats_TB2_EU293116 ncbi-refseqs EU293116
 create reference REF_Bats_TB1_JQ685905 ncbi-refseqs JQ685905
 create reference REF_Bats_TB1_JQ685963 ncbi-refseqs JQ685963
+
 create reference REF_Cosmopolitan_AF1a_AF325466 ncbi-refseqs AF325466
 create reference REF_Cosmopolitan_AF1a_AF369322 ncbi-refseqs AF369322
 create reference REF_Cosmopolitan_AF1a_KX148194 ncbi-refseqs KX148194
@@ -158,10 +162,12 @@ create reference REF_Cosmopolitan_WE_KX148129 ncbi-refseqs KX148129
 create reference REF_Cosmopolitan_WE_KX148135 ncbi-refseqs KX148135
 create reference REF_Cosmopolitan_YUGCOW_KX148104 ncbi-refseqs KX148104
 create reference REF_Cosmopolitan_YUGFOX_KX148161 ncbi-refseqs KX148161
+
 create reference REF_Indian-Sub_AB635373 ncbi-refseqs AB635373
 create reference REF_Indian-Sub_KF154999 ncbi-refseqs KF154999
 create reference REF_Indian-Sub_KX148245 ncbi-refseqs KX148245
 create reference REF_Indian-Sub_KX148246 ncbi-refseqs KX148246
+
 create reference REF_RAC-SK_EU311738 ncbi-refseqs EU311738
 create reference REF_RAC-SK_JQ685901 ncbi-refseqs JQ685901
 create reference REF_RAC-SK_JQ685929 ncbi-refseqs JQ685929

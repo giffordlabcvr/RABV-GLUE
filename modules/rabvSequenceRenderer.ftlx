@@ -45,6 +45,7 @@
 	<@elem tag="country_is_lldc" expr="context.is_lldc" type="Boolean" context=m49_country/>
 	<@elem tag="country_is_sids" expr="context.is_sids" type="Boolean" context=m49_country/>
 </#if>
+	<@elem tag="placeSampled" expr="gb_place_sampled"/>
 	<@elem tag="earliestCollectionYear" expr="earliest_collection_year"/>
 	<@elem tag="latestCollectionYear" expr="latest_collection_year"/>
 <#if earliest_collection_year ?? || latest_collection_year ??>	

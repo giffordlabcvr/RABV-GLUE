@@ -1,6 +1,6 @@
 delete project rabv
 
-create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 1.0.4
+create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 1.1.28
 
 schema-project rabv
 
@@ -39,9 +39,6 @@ project rabv
   
   # Add feature locations to the reference sequences
   run script glue/rabvAddFeatureLocations.js
-
-  # Import alignment 
-  module unconstrainedAlignmentImporter import AL_UNCONSTRAINED -f alignments/rabvRefs.fna
 
   # Import alignment tree
   run file glue/rabvAlignmentTree.glue

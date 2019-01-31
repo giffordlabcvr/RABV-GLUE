@@ -1,0 +1,6 @@
+<treeVisualiser>
+	<freemarkerAnnotationGenerator>
+		<annotationName>sequenceIDPlusClade</annotationName>
+		<template><![CDATA[${renderNestedProperty('sequence.sequenceID')} <#if sequence.minor_clade??>(${sequence.major_clade} ${sequence.minor_clade})<#else>(${sequence.major_clade})</#if>]]></template>
+	</freemarkerAnnotationGenerator>
+</treeVisualiser>

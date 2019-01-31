@@ -7,7 +7,7 @@ alignment AL_REFS_UNCONSTRAINED
   
 compute alignment AL_REFS_UNCONSTRAINED rabvMafftAligner
 
-module fastaAlignmentExporter
+module rabvFastaAlignmentExporter
   export AL_REFS_UNCONSTRAINED --allMembers --fileName alignments/rabvRefs.fna
   exit
   

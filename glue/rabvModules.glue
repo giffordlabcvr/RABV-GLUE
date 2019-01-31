@@ -29,7 +29,6 @@ create module --fileName modules/rabvSequenceRenderer.xml --loadResources
 
 create module --fileName modules/rabvCompoundAligner.xml
 create module --fileName modules/rabvSequenceReporter.xml
-create module --fileName modules/rabvWebAnalysisTool.xml
 
 create module --fileName modules/rabvMaxLikelihoodGenotyper.xml
 create module --fileName modules/rabvMaxLikelihoodPlacer.xml
@@ -40,4 +39,16 @@ create module --fileName modules/rabvFeaturePresenceRecorder.xml
 
 create module --fileName modules/m49RegionTreeRenderer.xml --loadResources
 
+create module --fileName modules/rabvFeatureToSvgTransformer.xml --loadResources
+create module --fileName modules/rabvReportingController.xml --loadResources
+create module --fileName modules/rabvSvgFeatureVisualisation.xml --loadResources
+create module --fileName modules/rabvSvgPhyloVisualisation.xml --loadResources
+create module --fileName modules/rabvTreeVisualisationLegendTransformer.xml --loadResources
+create module --fileName modules/rabvTreeVisualisationTransformer.xml --loadResources
+create module --fileName modules/rabvTreeVisualiser.xml
+create module --fileName modules/rabvVisualisationUtility.xml
+
+create module --fileName modules/rabvSequenceRecogniser.xml  
+create module --fileName modules/rabvFastaUtility.xml
+create module --fileName modules/rabvFastaSequenceReporter.xml
 

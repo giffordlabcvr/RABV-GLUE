@@ -1,0 +1,4 @@
+<freemarkerDocTransformer>
+	<templateFileName>rabvTreeVisualisationLegendTransformer.ftlh</templateFileName>
+	<resourceFileName>rabvTreeVisualisationTransformer.css</resourceFileName>
+</freemarkerDocTransformer>

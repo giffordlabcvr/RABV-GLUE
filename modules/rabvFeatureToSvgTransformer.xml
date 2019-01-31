@@ -1,0 +1,4 @@
+<freemarkerDocTransformer>
+	<templateFileName>rabvFeatureToSvgTransformer.ftlx</templateFileName>
+	<resourceFileName>rabvFeatureToSvgTransformer.css</resourceFileName>
+</freemarkerDocTransformer>

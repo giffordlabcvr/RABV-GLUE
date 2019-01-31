@@ -227,7 +227,6 @@
     derive segments AL_UNC_509_REFSEQS_HM --recursive --existingMembersOnly --allMembers -m OVERWRITE
     exit
 
-
   alignment AL_Africa-2
     set field displayName "Africa-2"
     set field clade_category "major_clade"

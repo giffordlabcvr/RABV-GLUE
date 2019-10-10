@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <kuiken2006CodonLabeler>
     <rootReferenceName>REF_MASTER_NC_001542</rootReferenceName>
-	<linkingAlignmentName>AL_UNC_509_REFSEQS_HM</linkingAlignmentName>
+    <linkingAlignmentName>AL_UNC_509_REFSEQS_HM</linkingAlignmentName>
+    <!-- Introduced this because some reference sequences have downstream codons for the P gene.
+         We could possibly be more strict for the other genes. -->
+    <allowDownstreamLabelling>true</allowDownstreamLabelling>
 </kuiken2006CodonLabeler>

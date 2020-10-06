@@ -1,0 +1,352 @@
+﻿sequence.sequenceID,alignment.name,alignment.displayName,sequence.m49_country.id,sequence.m49_country.display_name,sequence.gb_place_sampled,sequence.collection_year,sequence.earliest_collection_year,sequence.latest_collection_year,sequence.gb_length,sequence.gb_create_date,sequence.gb_update_date,sequence.host,sequence.gb_pubmed_id,sequence.isolate
+AB614372,AL_Cosmopolitan_Vac,Cosmopolitan Vac,VNM,Vietnam,Hatay,2007,2007,2007,399,11-Feb-12,01-Aug-13,Canis familiaris,21937820,D 010807-VN
+AB614384,AL_Cosmopolitan_Vac,Cosmopolitan Vac,VNM,Vietnam,-,2007,2007,2007,399,11-Feb-12,01-Aug-13,Homo sapiens,21937820,H 091007-VN
+AB614385,AL_Cosmopolitan_Vac,Cosmopolitan Vac,VNM,Vietnam,-,2007,2007,2007,399,11-Feb-12,01-Aug-13,Homo sapiens,21937820,H 111007-VN
+AB628210,AL_Cosmopolitan_Vac,Cosmopolitan Vac,VNM,Vietnam,Hatay,2007,2007,2007,294,11-Feb-12,01-Aug-13,Canis lupus familiaris,21937820,D 060807-VN
+AB628212,AL_Cosmopolitan_Vac,Cosmopolitan Vac,VNM,Vietnam,Hatay,2007,2007,2007,399,11-Feb-12,01-Aug-13,Homo sapiens,21937820,H 060907-VN
+AY987480,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,Chennai,1998,1998,1998,688,19-Apr-05,26-Jul-16,Canis familiaris,-,DGCh3
+DQ661014,AL_Cosmopolitan_Vac,Cosmopolitan Vac,BRA,Brazil,-,2000,2000,2000,513,12-Jul-06,01-Dec-08,Felis catus,-,LVC41
+EF025113,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,1991,1991,1991,400,04-Nov-06,14-Jul-16,skunk,18263823,N_91-SS
+EF025114,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,1999,1999,1999,400,04-Nov-06,14-Jul-16,Vulpes vulpes,18263823,N_99-RF
+EU886631,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2001,2001,2001,11907,16-Aug-08,07-Jul-09,Vulpes vulpes,19521660,SAD
+EU886632,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2002,2002,2002,11907,16-Aug-08,07-Jul-09,Vulpes vulpes,19521660,SAD
+EU886633,AL_Cosmopolitan_Vac,Cosmopolitan Vac,AUT,Austria,-,2004,2004,2004,11907,16-Aug-08,07-Jul-09,Vulpes vulpes,19521660,SAD
+EU886634,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2004,2004,2004,11907,16-Aug-08,07-Jul-09,Vulpes vulpes,19521660,SAD
+EU886635,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2005,2005,2005,11907,16-Aug-08,07-Jul-09,Vulpes vulpes,19521660,SAD
+EU886636,AL_Cosmopolitan_Vac,Cosmopolitan Vac,AUT,Austria,-,2006,2006,2006,11907,16-Aug-08,07-Jul-09,Vulpes vulpes,19521660,SAD
+FJ228687,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sonora,2003,2003,2003,264,08-Mar-09,24-Jul-16,skunk,-,3886Sonsk2003
+GQ406342,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,2005,2005,2005,1575,06-Sep-09,06-Sep-09,Canis familiaris,-,ERA
+GQ406343,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,2005,2005,2005,1353,06-Sep-09,06-Sep-09,Canis familiaris,-,ERA
+GU991844,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa/Durango,2003,2003,2003,1350,28-Apr-10,25-Jul-16,Mephitis mephitis (skunk),-,231mxsinSK03
+GU991845,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa/Durango,2005,2005,2005,1350,28-Apr-10,25-Jul-16,Mephitis mephitis (skunk),-,633mxsonsk05
+GU991846,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa/Durango,2001,2001,2001,1350,28-Apr-10,25-Jul-16,Mephitis mephitis (skunk),-,1535mxDGOsk01
+JF972385,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Guangxi,2007,2007,2007,260,30-Apr-13,30-Apr-13,bat,23197137,Guigang257
+JF972390,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Guangxi,2007,2007,2007,260,30-Apr-13,30-Apr-13,bat,23197137,Zhongshan77
+JN234424,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1882,1882,1882,1675,10-Dec-11,10-Dec-11,Felis catus,-,PV-2061-2
+JN234425,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1882,1882,1882,1675,10-Dec-11,10-Dec-11,Felis catus,-,PV-2061-3
+JN234426,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1882,1882,1882,1675,10-Dec-11,10-Dec-11,Felis catus,-,PV-2061-5
+JQ685975,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,11925,11-Jul-12,11-Jul-12,Spilogale putorius,22737076,MEXSK3636
+KC522613,AL_Cosmopolitan_Vac,Cosmopolitan Vac,SVN,Slovenia,-,2012,2012,2012,4367,30-Mar-16,30-Mar-16,Vulpes vulpes,24484500,3511-12SVN
+KC792230,AL_Cosmopolitan_Vac,Cosmopolitan Vac,NPL,Nepal,-,2010,2010,2010,1572,18-Jun-13,18-Jun-13,vaccine strain,-,Nepal_28
+KC792231,AL_Cosmopolitan_Vac,Cosmopolitan Vac,NPL,Nepal,-,2010,2010,2010,1572,18-Jun-13,18-Jun-13,vaccine strain,-,Nepal_29
+KF831531,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,USA,United States,-,1939,1939,1939,220,07-Jan-14,07-Jan-14,Homo sapiens,-,LEP
+KF831542,AL_Cosmopolitan_Vac,Cosmopolitan Vac,USA,United States,-,1935,1935,1935,220,07-Jan-14,07-Jan-14,Canis familiaris,-,SAD Bern
+KF831543,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,CZE,Czechia,-,1987,1987,1987,220,07-Jan-14,07-Jan-14,rodent,-,CSSR/A-Virus
+KF831566,AL_Cosmopolitan_Vac,Cosmopolitan Vac,USA,United States,-,1935,1935,1935,543,07-Jan-14,07-Jan-14,Canis familiaris,-,SAD Bern
+KJ001519,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2008,2008,2008,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,3363skSo08
+KJ001520,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,2433skCh09
+KJ001521,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2008,2008,2008,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,8322skSo08
+KJ001522,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,2393skSi09
+KJ001529,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1342,24-Nov-15,24-Nov-15,Spilogale sp.,-,889skSin09
+KJ001530,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1342,24-Nov-15,24-Nov-15,Spilogale sp.,-,1566skCh09
+KM584049,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IRN,Iran,-,2013,2013,2013,1445,27-Jan-15,27-Jan-15,mammals,-,2061-VERO
+KM584050,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IRN,Iran,-,2013,2013,2013,1434,27-Jan-15,27-Jan-15,mammals,-,2061-BHK
+KR337508,AL_Cosmopolitan_Vac,Cosmopolitan Vac,LVA,Latvia,-,2013,2013,2013,361,14-Feb-16,14-Feb-16,badger,26849358,DR784
+KR337545,AL_Cosmopolitan_Vac,Cosmopolitan Vac,LTU,Lithuania,-,2008,2008,2008,361,14-Feb-16,14-Feb-16,marten,26849358,24771
+KT381843,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,-,2013,2013,2013,305,28-Nov-15,28-Nov-15,Canis familiaris,-,Rab/NIVEDI/Kar_8/Dog/2013
+KT381844,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,-,2013,2013,2013,311,28-Nov-15,28-Nov-15,Canis familiaris,-,Rab/NIVEDI/Kar_9/Dog/2013
+KT381853,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,-,2014,2014,2014,492,28-Nov-15,28-Nov-15,Canis familiaris,-,Rab/NIVEDI/ker_6/Dog/2014
+KX365168,AL_Cosmopolitan_Vac,Cosmopolitan Vac,ROU,Romania,-,2015,2015,2015,1274,15-Feb-17,15-Feb-17,Felis catus,27576075,Cattle DR1037
+MH660455,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2017,2017,2017,13152,30-Mar-19,30-Mar-19,-,-,SPBN GASGAS (IDT)
+EF206718,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1965,1965,1965,11933,10-Feb-07,01-Jul-08,-,18485548,SAD1-3670 var 2
+EU182347,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11933,13-Nov-07,13-Nov-07,-,-,Rb/E3-15-5
+AB781935,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2013,11932,13-Feb-13,13-Feb-13,-,-,ERA
+FJ913470,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,2007,2007,2007,11932,23-May-09,23-May-09,-,-,ERA-VC
+JX276550,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2012,11932,17-Sep-12,17-Sep-12,-,-,PV-2061
+M13215,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,11932,03-Aug-93,15-Sep-89,-,3459163,-
+NC_001542,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,11932,03-Aug-93,08-Dec-08,-,3407152,-
+EF206707,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1975,1975,1975,11931,10-Feb-07,01-Jul-08,-,18485548,ERA; Evelyn Rokitniki Abelseth
+EF206717,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1965,1965,1965,11931,10-Feb-07,01-Jul-08,-,18485548,SAD1-3670 var 1
+EU182346,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11931,13-Nov-07,13-Nov-07,-,-,RB/E3-15
+LT993240,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Canada,-,1991,1991,1991,11931,09-Apr-18,09-Apr-18,-,-,CAN/1991/brain
+EF206710,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1978,1978,1978,11930,10-Feb-07,01-Jul-08,-,18485548,SAD Bern original var 1
+EF206711,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1978,1978,1978,11930,10-Feb-07,01-Jul-08,-,18485548,SAD Bern original var 2
+LN713567,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11929,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_5_var01
+LN713568,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11929,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_5_var02
+LT909527,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11929,29-Jan-18,29-Jan-18,-,-,13102
+LT909549,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11929,29-Jan-18,29-Jan-18,-,-,34873
+AF499686,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2002,11928,25-Apr-02,22-Jun-04,-,-,SRV9
+EF206708,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,01-Jul-08,-,18485548,SAD Bern (Lysvulpen)
+EF206709,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,01-Jul-08,-,18485548,SAD B19 (Fuchsoral)
+EF206712,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1978,1978,1978,11928,10-Feb-07,01-Jul-08,-,18485548,SAD Bern original var 3
+EF206713,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1978,1978,1978,11928,10-Feb-07,01-Jul-08,-,18485548,SAD Bern original var 4
+EF206714,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,01-Jul-08,-,18485548,SAD Bern original var 5
+EF206715,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,01-Jul-08,-,18485548,SAD P5/88 (Rabifox)
+EF206716,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,1993,1993,1993,11928,10-Feb-07,01-Jul-08,-,18485548,SAD VA1 (original)
+EF206719,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,01-Jul-08,-,18485548,SAG 2
+EF206720,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,01-Jul-08,-,18485548,SAD Bern (Sanafox)
+LN713543,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19Behr_2_var01
+LN713545,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19Behr_4_var01
+LN713576,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_3_var01
+LN713577,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_3_var02
+LN713578,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_3_var03
+LN713579,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_3_var04
+LN713580,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_4_var01
+LN713581,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_4_var02
+LN713582,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_4_var03
+LN713583,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_4_var04
+LN713584,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_5_var01
+LN713585,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_5_var02
+LN713586,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_5_var03
+LN713587,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_1_var01
+LN713588,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_1_var02
+LN713589,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_1_var05
+LN713590,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_1_var06
+LN713601,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_4_var02
+LN713608,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_1_var01
+LN713609,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_1_var02
+LN713610,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_1_var03
+LN713611,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_1_var04
+LN713615,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var01
+LN713616,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var02
+LN713617,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var03
+LN713618,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var04
+LN713619,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var05
+LN713620,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var06
+LN713621,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var07
+LN713622,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_3_var08
+LN713623,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_4_var01
+LN713624,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_4_var02
+LN713625,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_4_var03
+LN713648,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,24-Sep-15,24-Sep-15,cell culture,26387431,sadP588_2_var01
+LT993236,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,2014,2014,2014,11928,09-Apr-18,09-Apr-18,-,-,SLOV/2014/brain
+LT993238,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Latvia,-,2015,2015,2015,11928,09-Apr-18,09-Apr-18,-,-,LAT/2015/brain2
+LT993239,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,2012,2012,2012,11928,09-Apr-18,09-Apr-18,-,-,SLOV/2012/cellculture2
+LT993243,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,2004,2004,2004,11928,09-Apr-18,09-Apr-18,-,-,AUS/2004/cellculture
+LT993244,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Germany,-,2002,2002,2002,11928,09-Apr-18,09-Apr-18,-,-,GER/2002/cellculture
+LT993245,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Romania,-,2015,2015,2015,11928,09-Apr-18,09-Apr-18,-,-,ROM/2015/brain
+M31046,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,11928,03-Aug-93,15-Jun-90,-,2139267,-
+LN713569,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_5_var03
+LN713570,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_1_var01
+LN713571,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_1_var02
+LN713600,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_4_var01
+LN713602,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_5_var01
+LN713605,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_5_var04
+LN713626,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_5_var01
+LN713627,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_5_var02
+LN713628,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_5_var03
+LN713629,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_5_var04
+LN713652,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadVA1tueb_1_var01
+LN713653,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadVA1tueb_2_var01
+LN713654,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadVA1tueb_3_var01
+LN713655,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadVA1tueb_4_var01
+LN713656,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sadVA1tueb_5_var01
+LN713665,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_3_var01
+LN713666,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_3_var02
+LN713542,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19Behr_1_var01
+LN713597,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_3_var01
+LN713598,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_3_var02
+LN713599,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_3_var03
+LN713552,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_1_var03
+LN713553,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_1_var06
+LN713554,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_1_var09
+LN713555,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_1_var12
+LN713591,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_2_var01
+LN713592,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_2_var02
+LN713593,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_2_var03
+LN713594,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_2_var04
+LN713595,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_2_var05
+LN713596,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_2_var06
+LN713603,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_5_var02
+LN713604,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_5_var03
+LN713606,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_5_var05
+LN713607,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch806_5_var06
+LN713669,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_5_var01
+LN713670,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_5_var02
+LT993237,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Latvia,-,2015,2015,2015,11925,09-Apr-18,09-Apr-18,-,-,LAT/2015/brain1
+LN713556,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_2_var01
+LN713557,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_2_var02
+LN713558,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_2_var03
+LN713559,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_3_var01
+LN713560,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_3_var02
+LN713635,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_1_var01
+LN713636,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_1_var02
+LN713659,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11923,24-Sep-15,24-Sep-15,cell culture,26387431,sadWistar_3_var01
+LN713661,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11923,24-Sep-15,24-Sep-15,cell culture,26387431,sadWistar_5_var01
+LN713634,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11922,24-Sep-15,24-Sep-15,cell culture,26387431,sadERAtueb_5_var01
+LN713633,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11920,24-Sep-15,24-Sep-15,cell culture,26387431,sadERAtueb_4_var01
+LN713667,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11919,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_4_var01
+LN713668,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11919,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_4_var02
+LN713612,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_2_var01
+LN713613,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_2_var02
+LN713614,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,24-Sep-15,24-Sep-15,cell culture,26387431,sadBernO_2_var03
+LN713631,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,24-Sep-15,24-Sep-15,cell culture,26387431,sadERAtueb_2_var01
+LN713632,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,24-Sep-15,24-Sep-15,cell culture,26387431,sadERAtueb_3_var01
+LN713546,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11917,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19Behr_5_var01
+LN713649,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11917,24-Sep-15,24-Sep-15,cell culture,26387431,sadP588_3_var01
+LN713651,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11916,24-Sep-15,24-Sep-15,cell culture,26387431,sadP588_5_var01
+LN713630,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11914,24-Sep-15,24-Sep-15,cell culture,26387431,sadERAtueb_1_var01
+LT993241,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Canada,-,1994,1994,1994,11914,09-Apr-18,09-Apr-18,-,-,CAN/1994/brain
+LN713561,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_4_var01
+LN713562,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_4_var02
+LN713563,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_4_var03
+LN713564,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_4_var04
+LN713565,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_4_var05
+LN713566,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch744_4_var06
+LN713647,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11912,24-Sep-15,24-Sep-15,cell culture,26387431,sadP588_1_var01
+LN713662,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11909,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_1_var01
+LN713663,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11909,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_1_var02
+LT993234,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Germany,-,2004,2004,2004,11909,09-Apr-18,09-Apr-18,-,-,GER/2004/brain
+LN713664,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11908,24-Sep-15,24-Sep-15,cell culture,26387431,sag2BatchF04_2_var01
+LT993235,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,2012,2012,2012,11908,09-Apr-18,09-Apr-18,-,-,SLOV/2012/cellculture1
+LN713544,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19Behr_3_var01
+LN713645,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_5_var01
+LN713646,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_5_var02
+LN713650,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,24-Sep-15,24-Sep-15,cell culture,26387431,sadP588_4_var01
+LT993242,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Canada,-,1996,1996,1996,11904,09-Apr-18,09-Apr-18,-,-,CAN/1996/brain
+LT993233,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Germany,-,2001,2001,2001,11901,09-Apr-18,09-Apr-18,-,-,GER/2001/brain
+LN713574,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11899,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_2_var03
+LN713575,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11899,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_2_var04
+LN713572,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11898,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_2_var01
+LN713573,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11898,24-Sep-15,24-Sep-15,cell culture,26387431,sadBatch793_2_var02
+LN713637,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11898,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_2_var01
+LN713638,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11897,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_2_var02
+LN713639,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var01
+LN713640,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var02
+LN713641,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var03
+LN713642,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var04
+MF630920,AL_Cosmopolitan_Vac,Cosmopolitan Vac,RUS,Russia,Moscow,2016,2016,2016,11893,05-Nov-17,05-Nov-17,-,-,Moscow 3253 (Vero)
+LN713551,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11891,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19p1_5_var01
+LN713658,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11889,24-Sep-15,24-Sep-15,cell culture,26387431,sadWistar_2_var01
+EU877067,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,05-Aug-08,08-Apr-09,-,19161553,SAD B19-4th
+EU877068,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,05-Aug-08,08-Apr-09,-,19161553,SAD B19-1st
+EU877069,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,05-Aug-08,02-Mar-09,-,19161553,SAD B19-1st
+EU877070,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,05-Aug-08,02-Mar-09,-,19161553,SAD B19-5th
+EU877071,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,05-Aug-08,02-Mar-09,-,19161553,SAD B19-10th
+LN713657,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11885,24-Sep-15,24-Sep-15,cell culture,26387431,sadWistar_1_var01
+LN713643,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11874,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_4_var01
+LN713644,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11874,24-Sep-15,24-Sep-15,cell culture,26387431,sadLysvulpen0609_4_var02
+LN713660,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11873,24-Sep-15,24-Sep-15,cell culture,26387431,sadWistar_4_var01
+LN713550,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11872,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19p1_4_var01
+LN713547,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11870,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19p1_1_var01
+LN713549,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11858,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19p1_3_var01
+LT993246,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,2004,2004,2004,11852,09-Apr-18,09-Apr-18,-,-,AUS/2004/brain
+LN713548,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11841,24-Sep-15,24-Sep-15,cell culture,26387431,sadB19p1_2_var01
+KC178555,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2013,11005,28-Aug-13,28-Aug-13,-,23899697,Lysvulpen
+KC178556,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2013,11005,28-Aug-13,28-Aug-13,-,23899697,SAD Bern
+EU119869,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,1657,15-Sep-07,15-Sep-07,-,-,ERA.KK
+AJ489620,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,-,-,-,2002,1650,18-Jun-02,18-Jun-02,-,-,ERA
+M38452,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,1650,03-Aug-93,17-Sep-90,-,6897030,ERA strain
+J02293,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,1645,03-Aug-93,16-Dec-85,-,6272128,-
+X71879,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,1639,17-May-93,19-Mar-97,-,7979981,Vnukovo-32
+AF233275,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,Chennai,1995,1995,1995,1610,10-Mar-00,11-Jul-01,Ovis aries,-,sheep/Chennai/India/95(street)
+DQ074978,AL_Cosmopolitan_Vac,Cosmopolitan Vac,IND,India,-,-,-,2005,1598,04-Jul-05,04-Jul-05,Canis lupus familiaris,-,-
+AF406693,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2003,1575,03-Jul-03,08-Jun-05,-,12970438,ERA
+AF406694,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2003,1575,03-Jul-03,12-Sep-03,-,12970438,CVS
+EU267745,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Guizhou,2004,2004,2004,1575,07-Dec-08,05-Jan-09,Homo sapiens,19041424,Guizhou Al0(H)
+EU267772,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Jiangsu,2004,2004,2004,1575,07-Dec-08,05-Jan-09,Homo sapiens,19041424,Jiangsu Wx0(H)
+JX944575,AL_Cosmopolitan_Vac,Cosmopolitan Vac,NPL,Nepal,-,-,-,2013,1575,31-Oct-13,04-Dec-13,-,24278494,4403-12
+KU884973,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1993,1993,1993,1575,28-Mar-16,28-Mar-16,-,26992832,93127FRA
+MK032216,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,France,Paris,1882,1882,1882,1575,20-Nov-18,20-Nov-18,Bos taurus,-,PV2061
+EF203431,AL_Cosmopolitan_Vac,Cosmopolitan Vac,USA,United States,California,-,-,2007,1572,06-Feb-07,14-Jul-16,skunk,17240489,CA
+EF025115,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_91-SS
+EF025116,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_92-RF
+EF025117,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_92-Rac
+EF025118,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_94-Bov
+EF025119,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_94-SS
+EF025120,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_96-RF
+EF025121,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_97-RF
+EF025122,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_98-Rac
+EF025123,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CAN,Canada,Ontario,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,G_99-RF
+EF025124,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2006,1520,04-Nov-06,14-Jul-16,-,18263823,ERA.FF
+X03673,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1986,1500,18-Nov-86,12-Sep-93,-,3008096,-
+DQ666288,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Guizhou,2004,2004,2004,1484,23-Jul-06,01-Dec-08,Homo sapiens,16828520,Guizhou_A10
+DQ666293,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Guizhou,2004,2004,2004,1484,23-Jul-06,01-Dec-08,Canis familiaris,16828520,Guizhou_A173
+DQ666301,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Henan,2004,2004,2004,1484,23-Jul-06,10-Apr-07,Canis familiaris,16828520,Henan_Sq17
+DQ666303,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Henan,2004,2004,2004,1484,23-Jul-06,10-Apr-07,Canis familiaris,16828520,Henan_Sq30
+DQ666310,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Hunan,2004,2004,2004,1484,23-Jul-06,01-Dec-08,Canis familiaris,16828520,Hunan_Wg22
+DQ666292,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Guizhou,2004,2004,2004,1483,23-Jul-06,01-Dec-08,Canis familiaris,16828520,Guizhou_A158
+DQ666305,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Henan,2004,2004,2004,1483,23-Jul-06,10-Apr-07,Canis familiaris,16828520,Henan_Sq48
+DQ666313,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Hunan,2004,2004,2004,1483,23-Jul-06,01-Dec-08,Canis familiaris,16828520,Hunan_Wg68
+DQ666320,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Jiangsu,2004,2004,2004,1483,23-Jul-06,01-Dec-08,Homo sapiens,16828520,Jiangsu_Wx0(H)
+AF406695,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2003,1353,03-Jul-03,12-Sep-03,-,12970438,ERA
+AF406696,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2003,1353,03-Jul-03,12-Sep-03,-,12970438,CVS
+GU992309,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1995,1995,1995,1353,27-Apr-10,10-Aug-10,-,-,9507TCH
+GU992311,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1995,1995,1995,1353,27-Apr-10,10-Aug-10,-,-,9508TCH
+GU992319,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1995,1995,1995,1353,27-Apr-10,10-Aug-10,-,-,9503TCH
+GU992320,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1993,1993,1993,1353,27-Apr-10,10-Aug-10,-,-,93127FRA
+GU992322,AL_Cosmopolitan_Vac,Cosmopolitan Vac,MAR,Morocco,-,1993,1993,1993,1353,27-Apr-10,10-Aug-10,-,-,93128MAR
+JX944594,AL_Cosmopolitan_Vac,Cosmopolitan Vac,NPL,Nepal,-,-,-,2013,1353,31-Oct-13,04-Dec-13,-,24278494,4403-12
+MK420470,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,1353,17-Aug-19,17-Aug-19,-,-,PV2061
+KX365164,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Romania,-,2015,2015,2015,1274,15-Feb-17,15-Feb-17,Bos taurus,27576075,SADLysvulpen 7422
+KX365165,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Romania,-,2015,2015,2015,1274,15-Feb-17,15-Feb-17,Bos taurus,27576075,SADLysvulpen 5721
+KX365166,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Romania,-,2015,2015,2015,1274,15-Feb-17,15-Feb-17,Bos taurus,27576075,SADLysvulpen 7522
+KX365167,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Romania,-,2015,2015,2015,1274,15-Feb-17,15-Feb-17,Bos taurus,27576075,SADLysvulpen 7622
+KX365169,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,Romania,-,2015,2015,2015,1274,15-Feb-17,15-Feb-17,Bos taurus,27576075,SADLysvulpen 7322
+X55728,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1990,991,18-Dec-90,18-Apr-05,-,2148206,ERA(Evelyn-Rokitnicki-Abelseth)
+X55729,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1990,991,18-Dec-90,18-Apr-05,-,2148206,PM(Pitman-Moore)
+GU816000,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,-,-,2010,937,28-Jul-10,25-Jul-16,-,20610710,93127FRA
+EU665201,AL_Cosmopolitan_Vac,Cosmopolitan Vac,ARG,Argentina,-,1989,1989,1989,787,09-Jun-08,26-Jul-16,-,-,large
+U72052,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1996,742,19-Nov-96,17-Dec-02,-,-,Rabies avirulent virus; Vaccine strain SRV9
+EU307994,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2010,609,31-Dec-10,31-Dec-10,-,-,CVS
+EU307995,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2010,609,31-Dec-10,31-Dec-10,-,-,ERA
+EU665202,AL_Cosmopolitan_Vac,Cosmopolitan Vac,ARG,Argentina,-,1989,1989,1989,584,09-Jun-08,26-Jul-16,-,-,short
+KJ513022,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,1996,1996,1996,576,20-May-14,20-May-14,-,-,SADB19/1996/POL
+KJ513023,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,1996,1996,1996,576,20-May-14,20-May-14,-,-,SADB19/1996/1/POL
+KJ513024,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,1996,1996,1996,576,20-May-14,20-May-14,-,-,SADB19/1996/2/POL
+KJ513025,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,1996,1996,1996,576,20-May-14,20-May-14,-,-,SADB19/1996/3/POL
+KJ513026,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2000,2000,2000,576,20-May-14,20-May-14,-,-,SADB19/2000/POL
+KJ513027,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2000,2000,2000,576,20-May-14,20-May-14,-,-,SADB19/2000/1/POL
+KJ513028,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2000,2000,2000,576,20-May-14,20-May-14,-,-,SADB19/2000/2/POL
+KJ513029,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2000,2000,2000,576,20-May-14,20-May-14,-,-,SADB19/2000/3/POL
+KJ513030,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2004,2004,2004,576,20-May-14,20-May-14,-,-,SADB19/2004/POL
+KJ513031,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2004,2004,2004,576,20-May-14,20-May-14,-,-,SADB19/2004/1/POL
+KJ513032,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2004,2004,2004,576,20-May-14,20-May-14,-,-,SADB19/2004/2/POL
+KJ513033,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2004,2004,2004,576,20-May-14,20-May-14,-,-,SADB19/2004/3/POL
+KJ513034,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADB19/2008/POL
+KJ513035,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADB19/2008/1/POL
+KJ513036,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADB19/2008/2/POL
+KJ513037,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADB19/2008/3/POL
+KJ513038,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADB19/2010/POL
+KJ513039,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADB19/2010/1/POL
+KJ513040,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADB19/2010/2/POL
+KJ513041,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADB19/2010/3/POL
+KJ513042,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2003,2003,2003,576,20-May-14,20-May-14,-,-,SADBern/2003/POL
+KJ513043,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2003,2003,2003,576,20-May-14,20-May-14,-,-,SADBern/2003/1/POL
+KJ513044,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2003,2003,2003,576,20-May-14,20-May-14,-,-,SADBern/2003/2/POL
+KJ513045,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2003,2003,2003,576,20-May-14,20-May-14,-,-,SADBern/2003/3/POL
+KJ513046,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2006,2006,2006,576,20-May-14,20-May-14,-,-,SADBern/2006/POL
+KJ513047,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2006,2006,2006,576,20-May-14,20-May-14,-,-,SADBern/2006/1/POL
+KJ513048,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2006,2006,2006,576,20-May-14,20-May-14,-,-,SADBern/2006/2/POL
+KJ513049,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2006,2006,2006,576,20-May-14,20-May-14,-,-,SADBern/2006/3/POL
+KJ513050,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADBern/2008/POL
+KJ513051,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADBern/2008/1/POL
+KJ513052,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADBern/2008/2/POL
+KJ513053,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2008,2008,2008,576,20-May-14,20-May-14,-,-,SADBern/2008/3/POL
+KJ513054,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADBern/2010/POL
+KJ513055,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADBern/2010/1/POL
+KJ513056,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADBern/2010/2/POL
+KJ513057,AL_Cosmopolitan_Vac,Cosmopolitan Vac,POL,Poland,-,2010,2010,2010,576,20-May-14,20-May-14,-,-,SADBern/2010/3/POL
+LT575363,AL_Cosmopolitan_Vac,Cosmopolitan Vac,RUS,Russia,-,-,-,2016,539,17-May-16,17-May-16,-,-,Vnukovo-32
+GU815994,AL_Cosmopolitan_Vac,Cosmopolitan Vac,MAR,Morocco,-,-,-,2010,502,28-Jul-10,25-Jul-16,-,20610710,93128MAR
+GU816001,AL_Cosmopolitan_Vac,Cosmopolitan Vac,SVK,Slovakia,-,-,-,2010,502,28-Jul-10,25-Jul-16,-,20610710,9503TCH
+GU816005,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2010,502,28-Jul-10,25-Jul-16,-,20610710,ERA
+AB369104,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,491,22-Nov-07,19-Apr-13,-,-,-
+DQ866080,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Yulin,2003,2003,2003,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GXB03
+DQ866081,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Beihai,2005,2005,2005,455,05-Aug-06,14-Jul-16,Felis catus,17588806,GXcat
+DQ866088,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Nanning,2002,2002,2002,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GX102
+DQ866089,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Yulin,2003,2003,2003,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GX120
+DQ866093,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Nanning,2002,2002,2002,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GX201
+DQ866099,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Chongzuo,2005,2005,2005,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GX506
+DQ866100,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Chongzuo,2005,2005,2005,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GX508
+DQ866101,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,Chongzuo,2005,2005,2005,455,05-Aug-06,14-Jul-16,Canis familiaris,17588806,GX509
+AY854661,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2005,414,03-Oct-05,26-Jul-16,-,16186241,PV
+AY854662,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2005,414,03-Oct-05,26-Jul-16,-,16186241,SADB19
+AY034172,AL_Cosmopolitan_Vac,Cosmopolitan Vac,TZA,Tanzania,-,-,-,2001,382,18-Jun-01,19-Dec-01,Crocuta crocuta,11742089,X622
+EF555098,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,CQQJDN02
+EF555099,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,CQQJDN03
+EF555100,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,CQQJDN04
+EF555101,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,CQQJDN05
+EF555107,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Bos taurus,-,SDDZCN01
+EF555113,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,GDzjDN02
+EF555116,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,GDMMDN48
+EF555117,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2007,329,26-May-07,23-Jul-16,Canis familiaris,-,GDMMDN46
+AY561804,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa,2001,2001,2001,267,10-Mar-04,25-May-05,Mephitis mephitis,15896399,641sinsk01
+AY561805,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa,2001,2001,2001,267,10-Mar-04,25-May-05,Mephitis mephitis,15896399,231sinsk01
+AY561806,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Durango,2001,2001,2001,267,10-Mar-04,26-Jul-16,Mephitis mephitis,15896399,1535dgosk01
+KU055563,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1993,1993,1993,211,15-Jul-16,15-Jul-16,-,27380028,93127FRA
+KU055577,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1994,1994,1994,211,15-Jul-16,15-Jul-16,-,27380028,9508CZE
+KU055578,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1994,1994,1994,211,15-Jul-16,15-Jul-16,-,27380028,9509CZE
+KU055599,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2016,211,15-Jul-16,15-Jul-16,-,27380028,ERA
+KU055602,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2016,211,15-Jul-16,15-Jul-16,-,27380028,PV
+KU055603,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2016,211,15-Jul-16,15-Jul-16,-,27380028,SAD

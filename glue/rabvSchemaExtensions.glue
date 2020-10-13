@@ -6,6 +6,8 @@ table sequence
   create field gb_length INTEGER
   create field patent_related BOOLEAN
   create field exclude_from_almt_tree BOOLEAN
+  create field lab_construct BOOLEAN
+  create field vaccine_strain BOOLEAN
   create field isolate VARCHAR 100
   create field gb_taxonomy VARCHAR 200
   create field host VARCHAR 1000

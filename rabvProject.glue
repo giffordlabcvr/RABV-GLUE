@@ -1,6 +1,6 @@
 delete project rabv
 
-create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 1.1.51
+create project rabv "Core GLUE project for the rabies virus (RABV)" --minVersion 1.1.107
 
 schema-project rabv
 

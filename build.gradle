@@ -57,7 +57,7 @@ task zipRabvGlueDB(type: Exec, dependsOn: 'dumpRabvGlueDB') {
 	commandLine '/usr/bin/gzip', '-f', '/tmp/rabv_glue.sql'
 }
 
-def scmCustomKey = '/Users/evdoxiataka/.ssh/github_id_rsa'
+def scmCustomKey = '/Users/evdoxiataka/.ssh/github_id_rsa_old_format'
 
 scmVersion {
 	hooks {

@@ -59,10 +59,11 @@
 
 
 
+       <br>
 	   <h3>
 	   <a id="WhatGlueProject" class="anchor" href="#glueProject" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>What is a GLUE project?</strong>
 	   </h3>
-
+       <hr>
 
 	   <p>
 		 <a target="_blank" href="http://glue-tools.cvr.gla.ac.uk/"><b>GLUE</b></a> is an open, integrated
@@ -78,16 +79,13 @@
 	   </p>
 
 
-
         <br>
-        <p><img src="./website/assets/images/rabv-glue.png" alt="GLUE web" /></p>
+        <p><img src="./website/assets/images/glue-web.jpg" alt="GLUE web" /></p>
         <br>
-
-
 
 
 	   <p>
-		 Projects are loaded into the <b>GLUE "engine"</b>, creating a relational database
+		 Projects are loaded into the <b>GLUE "engine"</b>, creating a <b>relational database</b>
 		 that represents the semantic relationships between data items.
 		 This provides a robust foundation for the implementation of <b>systematic
 		 comparative analyses</b> and the development of <b>sequence-based resources</b>. 
@@ -100,43 +98,118 @@
 		  analysis tools. 
 	   </p>
 
-
 	   <p>
 		  Hosting of GLUE projects in an online version control system (e.g. GitHub) provides
 		  a mechanism for their stable, collaborative development.
 	   </p>
 	   
 	   
+
+		   
+		 <p>
+		   Some examples of '<b>sequence-based resources</b>' built for viruses using GLUE include:
+
+		 </p>
+		   
+		   
+
+		 <p>
+
+		 <ul>
+		 		 
+		   <li> 
+			 <a target="_blank" href="http://cov-glue.cvr.gla.ac.uk/"><b>COV-GLUE</b></a>: 
+			 A GLUE resource for tracking genetic variation in SARS-COV2.
+			 CoV-GLUE contains a database of amino acid replacements, insertions and
+			 deletions which have been observed in GISAID hCoV-19 sequences sampled from the pandemic
+		   </li>
+		   <br>
+		   
+		   <li>
+			 <a target="_blank" href="http://hcv-glue.cvr.gla.ac.uk/"><b>HCV-GLUE</b></a>:
+			 This GLUE resource aims to support analysis of drug resistance and vaccine
+			 escape in hepatitis C virus (HCV).
+			 A database of HCV sequences and metadata from NCBI, updated daily and arranged
+			 into clades (genotypes, subtypes). As well as pre-built multiple-sequence
+			 alignments of NCBI sequences, it includes an analysis tool providing genotyping,
+			 drug resistance analysis and visualisation of submitted FASTA sequences.
+           </li>
 	   
+		 </ul>
+
+		   
+		 </p>
 	   
+
+
+	   <br>
 	   <h3>
-	   <a id="WhyGlueProject" class="anchor" href="#glueProject" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>What does building the RABV-GLUE project offer?</strong>
+	   <a id="WhyGlueProject" class="anchor" href="#glueProject" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>What does building the Flaviviridae-GLUE project offer?</strong>
 	   </h3>
- 
+	   <hr>
+
+		 
  
 	   <p>
 		 
-		  RABV-GLUE offers a number of advantages for performing comparative sequence
-		  analysis of rabies virus:
+		  Flaviviridae-GLUE offers a number of advantages for performing comparative sequence
+		  analysis of flaviviruses:
 
-		 <ol>
-		   <li> <strong>Standardisation of sequence orientation</strong>. Like many 
-		   viruses with circular genomes, the orientation of circovirus sequences 
-		   is not standardised in GenBank. RABV-GLUE addresses this issue.
-		   </li>
-		   <li> <strong>Standardisation of the genomic co-ordinate space</strong>. GLUE
-		   projects allow all sequences to utilise the coordinate space of a chosen 
-		   reference sequence. Contingencies associated with insertions and deletions
-		   (indels) are handled in a systematic way.
-		   </li>
-		   <li> <strong>Predefined, fully annotated reference sequences</strong>:
-		   This project includes fully-annotated reference sequences for major lineages
-		   within the CRESS DNA assemblage.
-		   </li>
-		 </ol>
+
+		  <ol>
+
+			<li> <strong>Reproducibility</strong>. 
+			For many reasons, bioinformatics analyses are notoriously difficult to reproduce.
+			The GLUE framework supports the implementation of fully reproducible 
+			comparative genomics through the introduction of data standards and the use 
+			of a relational database to capture the semantic links between data items.
+			</li>
+			<br>
+		  
+			<li> <strong>Reusable data objects and analysis logic</strong>. 
+			For many - if not most - comparative genomic analyses, data preparation is nine
+			tenths of the battle. The GLUE framework has been designed to ensure that 
+			work spent preparing high-value data items such as multiple sequence alignments
+			need only be performed once. Hosting of GLUE projects in an online version control 
+			system such as GitHub allows for collaborative management of important data items
+			and community testing of hypotheses.
+			</li>
+			<br>
+
+
+			<li> <strong>Validation</strong>. 
+			Building GLUE projects entails mapping the semantic links between data items
+			(e.g. sequences, tabular data, multiple sequence alignments).
+			This process provides an opportunity 
+			for cross-validation, and thereby enforces a high level of data integrity.
+			</li>
+			<br>
+		
+			<li> <strong>Standardisation of the genomic co-ordinate space</strong>. GLUE
+			projects allow all sequences to utilise the coordinate space of a chosen 
+			reference sequence. Contingencies associated with insertions and deletions
+			(indels) are handled in a systematic way.
+			</li>
+			<br>
+		  
+			<li> <strong>Predefined, fully annotated reference sequences</strong>:
+			This project includes fully-annotated reference sequences for major lineages
+			within the <i>Hepadnaviridae</i> family.
+			</li>
+			<br>
+		  
+			<li> <strong>Alignment trees</strong>:
+			GLUE allows linking of alignments constructed at distinct taxonomic levels
+			via an ""<b>alignment tree</b>"
+			data structure. In the alignment tree, each alignment
+			is constrained to a standard reference sequence, thus all multiple sequence
+			alignments are linked to one another via a standardised coordinate system.
+			</li>
+			
+		  </ol>
+
 
 	   </p>
-
 
 
 	   <h3>

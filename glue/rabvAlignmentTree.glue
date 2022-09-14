@@ -1,6 +1,7 @@
   create alignment AL_MASTER -r REF_MASTER_NC_001542
 
   alignment AL_MASTER
+  
     add member --whereClause "gb_length > 100"
     set field displayName "Rabies Virus (RABV)"
 
@@ -27,6 +28,7 @@
 
     extract child AL_Africa-3 --refName REF_Africa-3_KX148223
     demote member AL_Africa-3 --whereClause "sequence.major_clade = 'Africa-3'"
+    
     exit
 
 

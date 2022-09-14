@@ -1,4 +1,5 @@
 table sequence
+
   create field gb_gi_number VARCHAR
   create field gb_primary_accession VARCHAR
   create field gb_accession_version VARCHAR
@@ -26,6 +27,7 @@ table sequence
   create field latest_collection_year INTEGER
   create field outbreak VARCHAR 100
   create field gb_pubmed_id VARCHAR
+  
   exit
 
 table alignment

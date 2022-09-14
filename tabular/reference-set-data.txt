@@ -125,7 +125,7 @@ GU647092	JX08_45	China			China	Ferret badger	Melogale moschata	2008	Asian	SEA2b	
 KF726852	JX09_18	China			China	Ferret badger	Melogale moschata	2009	Asian	SEA2b	Original brain		Complete genome	Kuzmin
 JQ730682	CYN1009D	China			China	Dog 	Canis familiaris	2010	Asian	SEA3	Original brain	Troupin	Complete genome	Kuzmin
 KM016899	WQ14_RF	China			China	Red fox	Vulpes vulpes	2014	Cosmopolitan	CA1	Original brain	Liu et al. unpublished	Complete genome	Kuzmin
-AF369273	V285.RFX	Czech			Czech	Red fox	Vulpes vulpes	1992	Cosmopolitan	WE		[18]	P	Troupin
+AF369273	V285.RFX	Czech Republic			Czech Republic	Red fox	Vulpes vulpes	1992	Cosmopolitan	WE		[18]	P	Troupin
 KX148101	86092EGY	Egypt			Egypt	Human 	Homo sapiens	1979	Cosmopolitan	AF4	Mouse	This study	Complete genome	Kuzmin
 KX148148	93038EST	Estonia			Estonia	Red fox	Vulpes vulpes	1992	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
 KX148149	93039EST	Estonia			Estonia	Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
@@ -159,7 +159,7 @@ KX148105	86083GRO	Greenland			Greenland	Dog 	Canis familiaris	1980	Arctic	A	Mous
 U22487	8660GUI	Guinea			Guinea	Dog 	Canis familiaris	1986	Africa-2			[7]	N	Troupin
 KX148244	90024GUI	Guinea			Guinea	Dog 	Canis familiaris	1990	Africa-2		Original brain	This study	Complete genome	Kuzmin
 AF325484	GUI1-DG	Guinea			Guinea	Dog 	Canis familiaris	1986	Africa-2			[19]	G	Troupin
-AY352487	483a	Human 		Yakutia	Human 	Arctic fox	Vulpes lagopus	1986	Arctic	A	Mouse	[5]; this study	N	Troupin
+AY352487	483a	Russia		Yakutia	Russia	Arctic fox	Vulpes lagopus	1986	Arctic	A	Mouse	[5]; this study	N	Troupin
 KX148160	92015HON	Hungary			Hungary	Human 	Homo sapiens	1991	Cosmopolitan	CA3	Original brain	This study	Complete genome	Kuzmin
 AF325462	HUN1-HM	Hungary			Hungary	Human 	Homo sapiens	1992	Cosmopolitan	CA3		[19]	G	Troupin
 KX148143	93080HON	Hungary			Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
@@ -196,9 +196,9 @@ KX148184	96324ISR	Israel			Israel	Cow	Bos taurus	1996	Cosmopolitan	ME1a	Original
 AF369280	V660.FX	Israel			Israel	Red fox	Vulpes vulpes		Cosmopolitan	ME1a		[18]	P	Troupin
 KX148191	93032ISR	Israel			Israel	Jackal	Canis aureus	1993	Cosmopolitan	ME1b	Original brain	This study	Complete genome	Kuzmin
 KX148192	93033ISR	Israel			Israel	Dog 	Canis familiaris	1993	Cosmopolitan	ME1b	Original brain	This study	Complete genome	Kuzmin
-KX148235	01007CI	Ivory Coast			Ivory Coast	Dog 	Canis familiaris	2001	Africa-2		Original brain	This study	Complete genome	Kuzmin
-KX148232	92037CI	Ivory Coast			Ivory Coast	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
-KX148233	92038CI	Ivory Coast			Ivory Coast	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148235	01007CI	Côte d'Ivoire			Côte d'Ivoire	Dog 	Canis familiaris	2001	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148232	92037CI	Côte d'Ivoire			Côte d'Ivoire	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148233	92038CI	Côte d'Ivoire			Côte d'Ivoire	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
 AF369274	RU7.FX	Kazakhstan			Kazakhstan	Red fox	Vulpes vulpes	1988	Cosmopolitan	CA1		[18]	P	Troupin
 KX148207	14015ITA	Kenya			Kenya	Human 	Homo sapiens	2014	Cosmopolitan	AF1b	Original brain	This study	Complete genome	Kuzmin
 KX148258	02003LAO	Laos			Laos	Dog 	Canis familiaris	2002	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
@@ -213,7 +213,7 @@ KX148211	86046MAD	Madagascar			Madagascar	Dog 	Canis familiaris	1986	Cosmopolita
 KX148210	98002MAD	Madagascar			Madagascar	Human 	Homo sapiens	1998	Cosmopolitan	AF1c	Original brain	This study	Complete genome	Kuzmin
 AF325478	MAD1-DG	Madagascar			Madagascar	Dog 	Canis familiaris	1985	Cosmopolitan	AF1c		[19]	G	Troupin
 AF325487	MAL1-HM	Malaysia			Malaysia	Human 	Homo sapiens	1985	Asian	SEA3		[19]	G	Troupin
-AF325467	MOR2-DG	Marocco			Marocco	Dog 	Canis familiaris	1987	Cosmopolitan	AF1a		[19]	G	Troupin
+AF325467	MOR2-DG	Morocco			Morocco	Dog 	Canis familiaris	1987	Cosmopolitan	AF1a		[19]	G	Troupin
 KX148236	93011MAU	Mauritania			Mauritania	Dog 	Canis familiaris	1993	Africa-2		Original brain	This study	Complete genome	Kuzmin
 KX148237	93012MAU	Mauritania			Mauritania	Dog 	Canis familiaris	1993	Africa-2		Original brain	This study	Complete genome	Kuzmin
 AF325483	MAU1-CL	Mauritania			Mauritania	Camel	Camelus dromedarius	1986	Africa-2			[19]	G	Troupin
@@ -239,8 +239,8 @@ KF155001	RV2627	Morocco			Morocco	Cow	Bos taurus	2009	Cosmopolitan	AF1a	Original
 KX148203	86031MOZ	Mozambique			Mozambique	Dog 	Canis familiaris	1986	Cosmopolitan	AF1b	Mouse	This study	Complete genome	Kuzmin
 KX148247	99009BIR	Myanmar			Myanmar	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
 KX148248	99015BIR	Myanmar			Myanmar	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
-NC_001542	PV_RefSeq	NA			NA	Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
-M31046	SAD B19	NA			NA	Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
+NC_001542	PV_RefSeq					Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
+M31046	SAD B19					Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
 JX473838	178J09	Namibia			Namibia	Jackal	Und.	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
 JX473839	192J09	Namibia			Namibia	Jackal	Und.	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
 JX473840	239K09	Namibia			Namibia	Namibian kudu	Tragelaphus strepsiceros	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
@@ -355,15 +355,15 @@ AF369333	V670.DG	Tanzania			Tanzania	Dog 	Canis familiaris		Cosmopolitan	AF1b		[
 EU293111	8764THA	Thailand			Thailand	Human 	Homo sapiens	1983	Asian	SEA3	Mouse	[3]	Complete genome	Troupin
 JN786877	QS_05	Thailand			Thailand	Dog 	Canis familiaris		Asian	SEA3	Mouse		Complete genome	Kuzmin
 AF369322	V027.DG	Tunisia			Tunisia	Dog 	Canis familiaris	1988	Cosmopolitan	AF1a		[18]	P	Troupin
-AF325466	TUN1-HM	Tunissia			Tunissia	Human 	Homo sapiens	1986	Cosmopolitan	AF1a		[19]	G	Troupin
+AF325466	TUN1-HM	Tunisia			Tunisia	Human 	Homo sapiens	1986	Cosmopolitan	AF1a		[19]	G	Troupin
 KX148164	93100TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148166	94001TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148162	94002TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148167	94005TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148165	94009TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
 KX148163	94016TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
-AY352493	rv61	UK			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse	[5]; this study	N	Troupin
-JQ685981	rv61	UK			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse	[5]; this study	G	Troupin
+AY352493	rv61	United Kingdom			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse	[5]; this study	N	Troupin
+JQ685981	rv61	United Kingdom			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse	[5]; this study	G	Troupin
 KX148171	91024EAU	United Arab Emirates			United Arab Emirates	Fox	Und.	1991	Cosmopolitan	ME1a	Mouse	This study	Complete genome	Kuzmin
 JQ685994	A09-0103	USA	AL		USA	Coyote	Canis latrans	2009	RAC-SK		Original brain	Troupin	G	Troupin
 JQ685989	A10-001	USA	AZ		USA	Gray Fox	Urocyon cinereoargenteus	2010	Cosmopolitan	AM2a	Original brain	Troupin	G	Troupin
@@ -507,8 +507,8 @@ AF369291	V216.SK	USA	TX		USA	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	
 JQ686008	A11-5404	USA	AZ		USA	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYu	Original brain	Troupin	G	Troupin
 JQ685955	AZ4490	USA	AZ		USA	Yuma myotis	Myotis yumanensis	2005	Bats	MYu	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
 JQ685967	NC1234	USA	AZ		USA	Striped skunk	Mephitis mephitis		Cosmopolitan	AM1	Original brain	Troupin	Complete genome	Troupin
-KX148254	01016VNM	Viet Nam			Viet Nam	Dog 	Canis familiaris	2001	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148254	01016VNM	Viet Nam			Vietnam	Dog 	Canis familiaris	2001	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
 KX148261	01016VNM	Viet Nam			Vietnam	Dog	Canis familiaris	2001	Asian	SEA3	Mouse	This study	Complete genome	Kuzmin
-AF325463	YUG1-WF	Yugoslavia			Yugoslavia	Cow	Bos taurus	1984	Cosmopolitan	YUGCOW		[19]	G	Troupin
-U42703	86107YOU	Yugoslavia			Yugoslavia	Red fox	Vulpes vulpes	1976	Cosmopolitan	YUGFOX		[6]	N	Troupin
-U42706	86111YOU	Yugoslavia			Yugoslavia	Red fox	Vulpes vulpes	1986	Cosmopolitan	WE		[6]	N	Troupin
+AF325463	YUG1-WF	Serbia			Serbia	Cow	Bos taurus	1984	Cosmopolitan	YUGCOW		[19]	G	Troupin
+U42703	86107YOU	Serbia			Serbia	Red fox	Vulpes vulpes	1976	Cosmopolitan	YUGFOX		[6]	N	Troupin
+U42706	86111YOU	Serbia			Serbia	Red fox	Vulpes vulpes	1986	Cosmopolitan	WE		[6]	N	Troupin

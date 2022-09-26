@@ -85,22 +85,44 @@
 		
 		<gbQualifier name="host">
 			<propertyPopulator property="host">
+			
+			    <!-- #### Primates -->
 				<valueConverter>
 					<matchPattern>.*Homo [sS]apiens.*</matchPattern>
+					<matchPattern>.*[rR]abies [pP]atient.*</matchPattern>				 
 					<outputTemplate>Homo sapiens</outputTemplate>
 				</valueConverter>
-				
-				<!-- #### Canids -->			
+				<valueConverter>
+					<matchPattern>.*Callithrix jacchus (marmoset).*</matchPattern>
+					<matchPattern>.*C. j. jacchus.*</matchPattern>		 
+					<outputTemplate>Callithrix jacchus</outputTemplate>
+				</valueConverter>
+
+				<!-- #### Rodent -->							
+ 				<valueConverter>
+					<matchPattern>.*[Ww]oodchuck.*</matchPattern>
+					<outputTemplate>Marmota monax</outputTemplate>
+				</valueConverter>		
+ 				<valueConverter>
+					<matchPattern>.*[Mm]ice.*</matchPattern>
+					<outputTemplate>Mus musculus</outputTemplate>
+				</valueConverter>
+ 				<valueConverter>
+					<matchPattern>.*[cC]itellus undulatus (rodent).*</matchPattern>
+					<outputTemplate>Citellus undulatus</outputTemplate>
+				</valueConverter>
+	 				<valueConverter>
+					<matchPattern>.*[bB]eaver.*</matchPattern>
+					<outputTemplate>Castor canadensis</outputTemplate>
+				</valueConverter>
+			
+				<!-- #### Carnivora - Canids -->			
 				<valueConverter>
 					<matchPattern>.*[Cc]anine.*</matchPattern>
-					<outputTemplate>Canis familiaris</outputTemplate>
-				</valueConverter>
-				<valueConverter>
-					<matchPattern>.*[dD]og.*</matchPattern>
-					<outputTemplate>Canis familiaris</outputTemplate>
-				</valueConverter>
-				<valueConverter>
+					<matchPattern>.*[dD]og.*</matchPattern>				
 					<matchPattern>.*[dD]omestic dog.*</matchPattern>
+					<matchPattern>.*[bB]itch brain.*</matchPattern>
+					<matchPattern>.*Canis lupus familiaris.*</matchPattern>		
 					<outputTemplate>Canis familiaris</outputTemplate>
 				</valueConverter>
 				<valueConverter>
@@ -119,34 +141,71 @@
 					<matchPattern>.*[cC]oyote.*</matchPattern>
 					<outputTemplate>Canis latrans</outputTemplate>
 				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[sS]ide-stripped [jJ]ackal.*</matchPattern>
+					<matchPattern>.*[sS]ide-striped [jJ]ackal.*</matchPattern>
+					<outputTemplate>Lupulella adusta</outputTemplate>
+				</valueConverter>
 
-
-				<!-- #### Felids -->
+				<!-- #### Carnivora - Felids -->
 				<valueConverter>
 					<matchPattern>.*[cC]at.*</matchPattern>
 					<outputTemplate>Felis catus</outputTemplate>
 				</valueConverter>
-
-				<!-- #### Mustelids -->			
 				<valueConverter>
-					<matchPattern>.*[sS]triped skunk.*</matchPattern>
+					<matchPattern>.*[pP]uma.*</matchPattern>
+					<matchPattern>.*[pP]uma [cC]oncolor.*</matchPattern>
+					<outputTemplate>Puma concolor</outputTemplate>
+				</valueConverter>
+
+				<!-- #### Carnivora - Mustelids -->			
+				<valueConverter>
+					<matchPattern>.*[sS]triped [sS]kunk.*</matchPattern>
 					<outputTemplate>Mephitis mephitis</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[sS]pilogale putorius.*</matchPattern>
+					<matchPattern>.*[Nn]orth [cC]entral [sS]kunk.*</matchPattern>
+					<outputTemplate>Mephitis mephitis</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[eE]astern [sS]potted [sS]kunk.*</matchPattern>
 					<outputTemplate>Spilogale putorius</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[sS]lender mongoose.*</matchPattern>
-					<outputTemplate>Galerella sanguinea</outputTemplate>
+					<matchPattern>.*[tT]aiwanese [fF]erret-badger.*</matchPattern>
+					<outputTemplate>Melogale subaurantiaca</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[wW]hite-tailed mongoose.*</matchPattern>
-					<outputTemplate>Ichneumia albicauda</outputTemplate>
+					<matchPattern>.*[cC]hinese [fF]erret-badger.*</matchPattern>
+					<outputTemplate>Melogale moschata</outputTemplate>
 				</valueConverter>
-
-
-				<!-- #### Procyonids -->			
+				<valueConverter>
+					<matchPattern>.*[sS]tone [mM]arten.*</matchPattern>
+					<matchPattern>.*[bB]eech [mM]arten.*</matchPattern>
+					<matchPattern>.*[hH]ouse [mM]arten.*</matchPattern>
+					<outputTemplate>Martes foina</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[pP]rocyon lotor (racoon).*</matchPattern>
+					<outputTemplate>Procyon lotor</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[hH]oneybadger.*</matchPattern>
+					<matchPattern>.*[hH]oney [bB]adger.*</matchPattern>
+					<outputTemplate>Mellivora capensis</outputTemplate>
+				</valueConverter>
+ 				<valueConverter>
+					<matchPattern>.*[mM]ink.*</matchPattern>
+					<outputTemplate>Neovison vison</outputTemplate>
+				</valueConverter>
+ 				<valueConverter>
+					<matchPattern>.*[rR]accoon dog.*</matchPattern>
+					<outputTemplate>Nyctereutes procyonoides</outputTemplate>
+				</valueConverter>
+ 				<valueConverter>
+					<matchPattern>.*[fF]erret.*</matchPattern>
+					<outputTemplate>Mustela furo</outputTemplate>
+				</valueConverter>		
 				<valueConverter>
 					<matchPattern>.*[rR]accoon.*</matchPattern>
 					<outputTemplate>Procyon lotor</outputTemplate>
@@ -159,8 +218,26 @@
 					<matchPattern>.*[yY]ellow mongoose.*</matchPattern>
 					<outputTemplate>Cynictis penicillata</outputTemplate>
 				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[sS]lender mongoose.*</matchPattern>
+					<outputTemplate>Galerella sanguinea</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[wW]hite-tailed mongoose.*</matchPattern>
+					<outputTemplate>Ichneumia albicauda</outputTemplate>
+				</valueConverter>
 
-				<!-- #### Hyaenids -->			
+				<!-- ####  Carnivora - Ursids -->			
+				<valueConverter>
+					<matchPattern>.*[sS]lothbear.*</matchPattern>
+					<outputTemplate>Melursus ursinus</outputTemplate>
+				</valueConverter>							
+				<valueConverter>
+					<matchPattern>.*[pP]olar [bB]ear.*</matchPattern>
+					<outputTemplate>Ursus maritimus</outputTemplate>
+				</valueConverter>							
+
+				<!-- ####  Carnivora - Hyaenids -->			
 				<valueConverter>
 					<matchPattern>.*[sS]potted hyena.*</matchPattern>
 					<outputTemplate>Crocuta crocuta</outputTemplate>
@@ -169,41 +246,76 @@
 					<matchPattern>.*[aA]ardwolf.*</matchPattern>
 					<outputTemplate>Proteles cristata</outputTemplate>
 				</valueConverter>							
+								
+				<!-- ####  Carnivora - Ursids -->			
+				<valueConverter>
+					<matchPattern>.*[sS]lothbear.*</matchPattern>
+					<outputTemplate>Melursus ursinus</outputTemplate>
+				</valueConverter>							
+				<valueConverter>
+					<matchPattern>.*[pP]olar [bB]ear.*</matchPattern>
+					<outputTemplate>Ursus maritimus</outputTemplate>
+				</valueConverter>							
 
+				<!-- ####  Carnivora - Hyaenids -->			
+				<valueConverter>
+					<matchPattern>.*[sS]potted hyena.*</matchPattern>
+					<outputTemplate>Crocuta crocuta</outputTemplate>
+				</valueConverter>							
+				<valueConverter>
+					<matchPattern>.*[aA]ardwolf.*</matchPattern>
+					<outputTemplate>Proteles cristata</outputTemplate>
+				</valueConverter>		
 
 				<!-- #### Chiroptera -->			
 				<valueConverter>
-					<matchPattern>.*[vV]ampire bat.*</matchPattern>
+					<matchPattern>.*[vV]ampire [bB]at.*</matchPattern>
 					<outputTemplate>Desmodus rotundus</outputTemplate>
 				</valueConverter>
-				
-				<!-- #### Bovids -->							
+				<valueConverter>
+					<matchPattern>.*[nN]orthern [yY]ellow [bB]at.*</matchPattern>
+					<matchPattern>.*[yY]ellow [bB]at.*</matchPattern>
+					<outputTemplate>Dasypterus intermedius</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[bB]ig [bB]rown [bB]at.*</matchPattern>
+					<matchPattern>.*[Ee]ptesicus fuscus (big brown bat).*</matchPattern>
+					<outputTemplate>Eptesicus fuscus</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[Ee]ptesicus serotinus (bat).*</matchPattern>
+					<outputTemplate>Eptesicus serotinus</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[cC]anadian silver-haired bat.*</matchPattern>
+					<outputTemplate>Lasionycteris noctivagans</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[cC]anadian hoary bat.*</matchPattern>
+					<outputTemplate>Lasionycteris cinereus</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[aA]rtibeus planirostris (bat).*</matchPattern>
+					<outputTemplate>Artibeus planirostris</outputTemplate>
+				</valueConverter>
+					
+				<!-- #### Artiodactyls - Bovids -->							
  				<valueConverter>
 					<matchPattern>.*[Cc]ow.*</matchPattern>
-					<outputTemplate>Bos taurus</outputTemplate>
-				</valueConverter>								
- 				<valueConverter>
 					<matchPattern>.*[Bb]ovine.*</matchPattern>
-					<outputTemplate>Bos taurus</outputTemplate>
-				</valueConverter>				
- 				<valueConverter>
 					<matchPattern>.*[Cc]attle.*</matchPattern>
-					<outputTemplate>Bos taurus</outputTemplate>
-				</valueConverter>	
- 				<valueConverter>
 					<matchPattern>.*[Cc]alf.*</matchPattern>
-					<outputTemplate>Bos taurus</outputTemplate>
-				</valueConverter>				
- 				<valueConverter>
-					<matchPattern>.*Bos taurus.*</matchPattern>
-					<outputTemplate>Bos taurus</outputTemplate>
-				</valueConverter>		
- 				<valueConverter>
 					<matchPattern>.*[Bb]ull</matchPattern>
 					<outputTemplate>Bos taurus</outputTemplate>
 				</valueConverter>
-
-				<!-- #### Sheep -->							
+ 				<valueConverter>
+					<matchPattern>.*[bB]uffalo</matchPattern>
+					<outputTemplate>Bison bison</outputTemplate>
+				</valueConverter>
+ 				<valueConverter>
+					<matchPattern>.*[yY]ak</matchPattern>
+					<outputTemplate>Bos grunniens</outputTemplate>
+				</valueConverter>						
  				<valueConverter>
 					<matchPattern>.*[Ss]heep.*</matchPattern>
 					<outputTemplate>Ovis aries</outputTemplate>
@@ -211,9 +323,7 @@
  				<valueConverter>
 					<matchPattern>.*[Oo]vine.*</matchPattern>
 					<outputTemplate>Ovis aries</outputTemplate>
-				</valueConverter>		
-
-				<!-- #### Goat -->							
+				</valueConverter>								
  				<valueConverter>
 					<matchPattern>.*[Gg]oat.*</matchPattern>
 					<outputTemplate>Capra hircus</outputTemplate>
@@ -223,7 +333,25 @@
 					<outputTemplate>Capra hircus</outputTemplate>
 				</valueConverter>
 
-				<!-- #### Swine -->		
+				<!-- #### Artiodactyls - Cervids -->							
+ 				<valueConverter>
+					<matchPattern>.*[Rr]eindeer.*</matchPattern>
+					<outputTemplate>Rangifer tarandus</outputTemplate>
+				</valueConverter>		
+ 				<valueConverter>
+					<matchPattern>.*[sS]ika deer.*</matchPattern>
+					<outputTemplate>Cervus nippon</outputTemplate>
+				</valueConverter>		
+ 				<valueConverter>
+					<matchPattern>.*[sS]ambar deer.*</matchPattern>
+					<outputTemplate>Rusa unicolor</outputTemplate>
+				</valueConverter>
+  				<valueConverter>
+					<matchPattern>.*[eE]land.*</matchPattern>
+					<outputTemplate>Taurotragus oryx</outputTemplate>
+				</valueConverter> 
+
+				<!-- #### Artiodactyls - Swine -->		
 				<valueConverter>
 					<matchPattern>.*[pP]ig.*</matchPattern>
 					<outputTemplate>Sus scrofa</outputTemplate>
@@ -241,27 +369,26 @@
 					<outputTemplate>Sus scrofa</outputTemplate>
 				</valueConverter>	
 
-						
-				<!-- #### Equids -->		
+				<!-- #### Perissodactyls - Equids -->		
 				<valueConverter>
 					<matchPattern>.*[eE]quine.*</matchPattern>
-					<outputTemplate>Equus caballus</outputTemplate>
-				</valueConverter>
-				<valueConverter>
 					<matchPattern>.*[hH]orse.*</matchPattern>
-					<outputTemplate>Equus caballus</outputTemplate>
-				</valueConverter>
-				<valueConverter>
 					<matchPattern>.*[pP]ony.*</matchPattern>
 					<outputTemplate>Equus caballus</outputTemplate>
-				</valueConverter>				<valueConverter>
+				</valueConverter>
+				<valueConverter>
 					<matchPattern>.*[aA]ss.*</matchPattern>
+					<matchPattern>.*[dD]onkey.*</matchPattern>
 					<outputTemplate>Equus asinus</outputTemplate>
 				</valueConverter>			
-			
+				<valueConverter>
+					<matchPattern>.*[zZ]ebra.*</matchPattern>
+					<outputTemplate>Equus quagga</outputTemplate>
+				</valueConverter>			
+
+		
 			</propertyPopulator>
 		</gbQualifier>
-		
 		
 		
 		<gbQualifier name="collection_date">
@@ -286,6 +413,8 @@
 				<matchPattern>(\d{4})</matchPattern>
 				<outputTemplate>${g1}</outputTemplate>
 			</propertyPopulator>
+			
+			
 		</gbQualifier>
 	</gbFeature>
 </genbankXmlPopulator>

@@ -1,0 +1,514 @@
+Accession	Strain	Country	Province	Location	Export_country	Common_name	Species_latin_binomial	Year	Major_clade	Minor_clade	Source	Reference	Coverage	Dataset
+JQ686006	WR93-1654	USA	AZ		USA	Pallid bat	Antrozous pallidus	1993	Bats	AP	Original brain	Troupin	G	Troupin
+JQ685971	AZ3003	USA	AZ		USA	Pallid bat	Antrozous pallidus	2009	Bats	AP	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+AB519641	BR_AL1	Brazil			Brazil	Great fruit-eating bat	Artibeus lituratus	1998	Bats	DR	Original brain		Complete genome	Kuzmin
+JQ685937	2396	USA	AZ	Flagstaff	USA	Ring-tailed cat	Bassariscus astutus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+KC193267	CNM1101C	China			China	Cow	Bos taurus	2011	Asian	SEA1b	Original brain	Yin et al. unpublished	Complete genome	Kuzmin
+KC169986	GXHXN	China			China	Cow	Bos taurus	2009	Asian	SEA1b	Original brain		Complete genome	Kuzmin
+AF369330	V458.DG	India			India	Cow	Bos taurus	1991	Arctic	AL1a		[18]	P	Troupin
+KF155000	RV2516	Iraq			Iraq	Cow	Bos taurus	2010	Cosmopolitan	CA2	Original brain		Complete genome	Kuzmin
+KX148184	96324ISR	Israel			Israel	Cow	Bos taurus	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+JQ685936	3634DR	Mexico			Mexico	Cow	Bos taurus	2009	Bats	DR	Mouse	This study	N, P, M, G, L	Troupin
+KX148104	86058YOU	Montenegro			Montenegro	Cow	Bos taurus	1978	Cosmopolitan	YUGCOW	Mouse	This study	Complete genome	Kuzmin
+KF155001	RV2627	Morocco			Morocco	Cow	Bos taurus	2009	Cosmopolitan	AF1a	Original brain		Complete genome	Kuzmin
+KX148108	11001NEP	Nepal			Nepal	Cow	Bos taurus	2011	Indian-Sub		Original brain	This study	Complete genome	Kuzmin
+HE802675	Pk_23	Pakistan			Pakistan	Cow	Bos taurus	2010	Arctic	AL1a	Mouse	Hussain et al. unpublished	Complete genome	Kuzmin
+HE802676	Pk_24	Pakistan			Pakistan	Cow	Bos taurus	2007	Arctic	AL1a	Mouse	Hussain et al. unpublished	Complete genome	Kuzmin
+KC171643	08F40	South Korea			South Korea	Cattle	Bos taurus	2008	Arctic	AL2	Original brain		Complete genome	Kuzmin
+JQ685992	SL-cow	Sri Lanka			Sri Lanka	Cow	Bos taurus		Indian-Sub		Original brain	Troupin	G	Troupin
+AF325463	YUG1-WF	Serbia			Serbia	Cow	Bos taurus	1984	Cosmopolitan	YUGCOW		[19]	G	Troupin
+KX148245	09029NEP	Nepal			Nepal	Buffalo	Bovidae sp.	2009	Indian-Sub		Original brain	This study	Complete genome	Kuzmin
+AF325483	MAU1-CL	Mauritania			Mauritania	Camel	Camelus dromedarius	1986	Africa-2			[19]	G	Troupin
+KX148169	91034OMA	Oman			Oman	Camel	Camelus dromedarius	1990	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148180	93030ISR	Israel			Israel	Fox	Canidae sp.	1993	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148183	93031ISR	Israel			Israel	Fox	Canidae sp.	1993	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148177	96317ISR	Israel			Israel	Fox	Canidae sp.	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+JX473838	178J09	Namibia			Namibia	Jackal	Canidae sp.	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
+JX473839	192J09	Namibia			Namibia	Jackal	Canidae sp.	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
+KX148175	04034ARS	Saudi Arabia			Saudi Arabia	Fox	Canidae sp.	2004	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148176	04034ARS	Saudi Arabia			Saudi Arabia	Fox	Canidae sp.	2004	Cosmopolitan	ME1a		This study	Complete genome	Kuzmin
+KX148168	87006ARS	Saudi Arabia			Saudi Arabia	Fox	Canidae sp.	1987	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148174	98001ARS	Saudi Arabia			Saudi Arabia	Fox	Canidae sp.	1998	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148171	91024EAU	United Arab Emirates			United Arab Emirates	Fox	Canidae sp.	1991	Cosmopolitan	ME1a	Mouse	This study	Complete genome	Kuzmin
+KX148212	93019IRA	Iran			Iran	Jackal	Canis aureus	1993	Cosmopolitan	CA2	Original brain	This study	Complete genome	Kuzmin
+KX148190	93008IRA	Iran			Iran	Jackal	Canis aureus	1976	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148187	96320IRA	Iran			Iran	Jackal	Canis aureus	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148179	96314ISR	Israel			Israel	Jackal	Canis aureus	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148191	93032ISR	Israel			Israel	Jackal	Canis aureus	1993	Cosmopolitan	ME1b	Original brain	This study	Complete genome	Kuzmin
+KX148225	02052AFG	Afghanistan			Afghanistan	Dog 	Canis familiaris	2002	Arctic	AL1b	Original brain	This study	Complete genome	Kuzmin
+KX148227	04029AFG	Afghanistan			Afghanistan	Dog 	Canis familiaris	2004	Arctic	AL1b	Original brain	This study	Complete genome	Kuzmin
+KX148226	04035AFG	Afghanistan			Afghanistan	Dog 	Canis familiaris	2002	Arctic	AL1b	Original brain	This study	Complete genome	Kuzmin
+KX148197	15006FRA	Algeria			Algeria	Dog 	Canis familiaris	2015	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148109	86117BRE	Brazil			Brazil	Dog 	Canis familiaris	1986	Bats	DR	Original brain	This study	Complete genome	Kuzmin
+KX148216	86001BRE	Brazil			Brazil	Dog 	Canis familiaris	1986	Cosmopolitan	AM3a	Original brain	This study	Complete genome	Kuzmin
+KX148215	95022BRE	Brazil			Brazil	Dog 	Canis familiaris	1995	Cosmopolitan	AM3a	Original brain	This study	Complete genome	Kuzmin
+KX148214	95023BRE	Brazil			Brazil	Dog 	Canis familiaris	1995	Cosmopolitan	AM3a	Original brain	This study	Complete genome	Kuzmin
+AF369314	B1.DG	Brazil			Brazil	Dog 	Canis familiaris	1993	Cosmopolitan	AM3a		[18]	P	Troupin
+AB517659	BRdg335	Brazil			Brazil	Dog 	Canis familiaris	2003	Cosmopolitan	AM3a		Mochizuki et al. unpublished	Complete genome	Kuzmin
+KX148217	86123BRE	Brazil			Brazil	Dog 	Canis familiaris	1986	Cosmopolitan	AM3b	Mouse	This study	Complete genome	Kuzmin
+KX148234	86036HAV	Burkina Faso			Burkina Faso	Dog 	Canis familiaris	1986	Africa-2		Mouse	This study	Complete genome	Kuzmin
+EU853614	8636HAV	Burkina Faso			Burkina Faso	Dog 	Canis familiaris	1986	Africa-2			[7]	N	Troupin
+KX148230	95047HAV	Burkina Faso			Burkina Faso	Dog 	Canis familiaris	1995	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148249	02006CBG	Cambodia			Cambodia	Dog	Canis familiaris	1998	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148252	99008CBG	Cambodia			Cambodia	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148251	99011CBG	Cambodia			Cambodia	Dog	Canis familiaris	1998	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148253	99012CBG	Cambodia			Cambodia	Dog 	Canis familiaris	1998	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148250	99016CBG	Cambodia			Cambodia	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148243	88003CAM	Cameroon			Cameroon	Dog 	Canis familiaris	1987	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148242	95002CAM	Cameroon			Cameroon	Dog 	Canis familiaris	1994	Africa-2		Original brain	This study	Complete genome	Kuzmin
+AF325481	CAM1-UN	Cameroon			Cameroon	Dog 	Canis familiaris	1988	Africa-2			[19]	G	Troupin
+KX148208	92029CAR	Central African Republic			Central African Republic	Dog 	Canis familiaris	1992	Cosmopolitan	AF1b	Original brain	This study	Complete genome	Kuzmin
+KX148240	90021TCH	Chad			Chad	Dog 	Canis familiaris	1990	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148241	96009TCH	Chad			Chad	Dog 	Canis familiaris	1996	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KM272192	CQH1202D	China			China	Dog 	Canis familiaris	2012	Arctic	AL2		Guo et al. unpublished	Complete genome	Kuzmin
+GU345746	CQ92	China			China	Dog 	Canis familiaris	1992	Asian	SEA1a		Meng et al.,unpublished	Complete genome	Troupin
+EU086146	05005CHI	China			China	Dog 	Canis familiaris	2005	Asian	SEA1b		[10]	G	Troupin
+KX148265	98011CHI	China			China	Dog 	Canis familiaris	1998	Asian	SEA1b	Original brain	This study	Complete genome	Kuzmin
+JQ970481	CJS0621D	China			China	Dog 	Canis familiaris	2006	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+JQ970482	CJS0636D	China			China	Dog 	Canis familiaris	2006	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+JQ970483	CJS0848D	China			China	Dog 	Canis familiaris	2008	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+JQ970484	CJX0903D	China			China	Dog 	Canis familiaris	2009	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+JQ970485	CJX0906D	China			China	Dog 	Canis familiaris	2009	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+KC252634	CNM1104D	China			China	Dog	Canis familiaris	2011	Asian	SEA1b	Original brain	Yin et al. unpublished	Complete genome	Kuzmin
+JQ970486	CSD0708D	China			China	Dog 	Canis familiaris	2007	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+JQ970487	CSX0904D	China			China	Dog 	Canis familiaris	2009	Asian	SEA1b	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+HQ450385	DRV_AH08	China			China	Dog 	Canis familiaris	2008	Asian	SEA1b	Mouse		Complete genome	Kuzmin
+FJ866835	FJ008	China			China	Dog 	Canis familiaris	2008	Asian	SEA1b		Zhang et al., unpublished	Complete genome	Troupin
+FJ866836	FJ009	China			China	Dog 	Canis familiaris	2008	Asian	SEA1b		Zhang et al. unpublished	Complete genome	Kuzmin
+JN609295	FJDRV	China			China	Dog 	Canis familiaris	2008	Asian	SEA1b		Qi unpublished	Complete genome	Kuzmin
+GU345748	SH06	China			China	Dog 	Canis familiaris	2006	Asian	SEA1b		Meng et al., unpublished	Complete genome	Troupin
+KC977995	Shaanxi_HZ	China			China	Dog 	Canis familiaris	2009	Asian	SEA1b			Complete genome	Kuzmin
+FJ712194		China			China	Dog 	Canis familiaris	2008	Asian	SEA1b		[2]	Complete genome	Troupin
+EU086144	02046CHI	China			China	Dog 	Canis familiaris	1994	Asian	SEA2a		[10]	G	Troupin
+KX148264	02046CHI	China			China	Dog	Canis familiaris	1994	Asian	SEA2a	Mouse	This study	Complete genome	Kuzmin
+JQ970480	CHN0802D	China			China	Dog 	Canis familiaris	2008	Asian	SEA2a	Original brain	Tang et al. unpublished	Complete genome	Kuzmin
+GU358653	GX4	China			China	Dog 	Canis familiaris	1994	Asian	SEA2a		Li et al., unpublished	Complete genome	Troupin
+JQ730682	CYN1009D	China			China	Dog 	Canis familiaris	2010	Asian	SEA3	Original brain	Troupin	Complete genome	Kuzmin
+KX148200	88008ETH	Ethiopia			Ethiopia	Dog 	Canis familiaris	1988	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+AF369331	V667.DG	Ethiopia			Ethiopia	Dog 	Canis familiaris		Cosmopolitan	AF1a		[18]	P	Troupin
+KX148268	90001FRA	French Guiana			French Guiana	Dog 	Canis familiaris	1990	Bats	DR	Original brain	This study	Complete genome	Kuzmin
+KX148202	95049GAB	Gabon			Gabon	Dog 	Canis familiaris	1995	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148105	86083GRO	Greenland			Greenland	Dog 	Canis familiaris	1980	Arctic	A	Mouse	This study	Complete genome	Kuzmin
+U22487	8660GUI	Guinea			Guinea	Dog 	Canis familiaris	1986	Africa-2			[7]	N	Troupin
+KX148244	90024GUI	Guinea			Guinea	Dog 	Canis familiaris	1990	Africa-2		Original brain	This study	Complete genome	Kuzmin
+AF325484	GUI1-DG	Guinea			Guinea	Dog 	Canis familiaris	1986	Africa-2			[19]	G	Troupin
+AF369309	I15.DG	India			India	Dog 	Canis familiaris	1995	Indian-Sub			[18]	P	Troupin
+KX148266	03003INDO	Indonesia			Indonesia	Dog 	Canis familiaris	2003	Asian	SEA1b	Mouse	This study	Complete genome	Kuzmin
+AF369311	Ir5.DG	Iran			Iran	Dog 	Canis familiaris	1993	Cosmopolitan	CA1		[18]	P	Troupin
+KX148189	86081IRA	Iran			Iran	Dog 	Canis familiaris	1985	Cosmopolitan	ME1a	Mouse	This study	Complete genome	Kuzmin
+KF154998	RV2324	Israel			Israel	Dog 	Canis familiaris	1950	Cosmopolitan	AF4			Complete genome	Kuzmin
+KX148178	96306ISR	Israel			Israel	Dog 	Canis familiaris	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148182	96307ISR	Israel			Israel	Dog 	Canis familiaris	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148181	96312ISR	Israel			Israel	Dog 	Canis familiaris	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148192	93033ISR	Israel			Israel	Dog 	Canis familiaris	1993	Cosmopolitan	ME1b	Original brain	This study	Complete genome	Kuzmin
+KX148235	01007CI	Côte d'Ivoire			Côte d'Ivoire	Dog 	Canis familiaris	2001	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148232	92037CI	Côte d'Ivoire			Côte d'Ivoire	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148233	92038CI	Côte d'Ivoire			Côte d'Ivoire	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148258	02003LAO	Laos			Laos	Dog 	Canis familiaris	2002	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148256	02004LAO	Laos			Laos	Dog 	Canis familiaris	2002	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148257	02005LAO	Laos			Laos	Dog 	Canis familiaris	2002	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148255	99010LAO	Laos			Laos	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+EU086152	9910LAO	Laos			Laos	Dog 	Canis familiaris	1999	Asian	SEA3		[10]	G	Troupin
+AB981663	Lao2	Laos			Laos	Dog 	Canis familiaris	2011	Asian	SEA3	Original brain		Complete genome	Kuzmin
+AB981664	Lao4	Laos			Laos	Dog 	Canis familiaris	2011	Asian	SEA3	Original brain		Complete genome	Kuzmin
+KX148209	04033MAD	Madagascar			Madagascar	Dog 	Canis familiaris	2004	Cosmopolitan	AF1c	Original brain	This study	Complete genome	Kuzmin
+KX148211	86046MAD	Madagascar			Madagascar	Dog 	Canis familiaris	1986	Cosmopolitan	AF1c	Original brain	This study	Complete genome	Kuzmin
+AF325478	MAD1-DG	Madagascar			Madagascar	Dog 	Canis familiaris	1985	Cosmopolitan	AF1c		[19]	G	Troupin
+AF325467	MOR2-DG	Morocco			Morocco	Dog 	Canis familiaris	1987	Cosmopolitan	AF1a		[19]	G	Troupin
+KX148236	93011MAU	Mauritania			Mauritania	Dog 	Canis familiaris	1993	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148237	93012MAU	Mauritania			Mauritania	Dog 	Canis familiaris	1993	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148110	91014MEX	Mexico			Mexico	Dog 	Canis familiaris	1991	Cosmopolitan	AM2a	Original brain	This study	Complete genome	Kuzmin
+KX148111	91015MEX	Mexico			Mexico	Dog 	Canis familiaris	1991	Cosmopolitan	AM2a	Original brain	This study	Complete genome	Kuzmin
+KX148102	91026MEX	Mexico			Mexico	Dog 	Canis familiaris	1991	Cosmopolitan	AM2a	Mouse	This study	Complete genome	Kuzmin
+HQ450386	DRV_Mexico	Mexico			Mexico	Dog 	Canis familiaris		Cosmopolitan	AM2a	Mouse		Complete genome	Kuzmin
+AF325477	MEX1-DG	Mexico			Mexico	Dog 	Canis familiaris	1991	Cosmopolitan	AM2a		[19]	G	Troupin
+KX148195	04031MAR	Morocco			Morocco	Dog 	Canis familiaris	2004	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148193	08342MAR	Morocco			Morocco	Dog 	Canis familiaris	2008	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148194	89017MAR	Morocco			Morocco	Dog 	Canis familiaris	1989	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148196	90016MAR	Morocco			Morocco	Dog 	Canis familiaris	1990	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148203	86031MOZ	Mozambique			Mozambique	Dog 	Canis familiaris	1986	Cosmopolitan	AF1b	Mouse	This study	Complete genome	Kuzmin
+KX148247	99009BIR	Myanmar			Myanmar	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148248	99015BIR	Myanmar			Myanmar	Dog 	Canis familiaris	1999	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148204	92030NAM	Namibia			Namibia	Dog 	Canis familiaris	1992	Cosmopolitan	AF1b	Original brain	This study	Complete genome	Kuzmin
+KX148228	99001NEP	Nepal			Nepal	Dog 	Canis familiaris	1998	Arctic	AL3	Original brain	This study	Complete genome	Kuzmin
+AF369317	V121.DG	Nepal			Nepal	Dog 	Canis familiaris	1989	Arctic	AL3		[18]	P	Troupin
+AF325489	NEP1-DG	Nepal			Nepal	Dog 	Canis familiaris	1989	Indian-Sub			[19]	G	Troupin
+KX148231	90010NIG	Niger			Niger	Dog 	Canis familiaris	1990	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148229	90012NIG	Niger			Niger	Dog 	Canis familiaris	1990	Africa-2		Original brain	This study	Complete genome	Kuzmin
+AF325480	NIG1-DG	Niger			Niger	Dog 	Canis familiaris	1990	Africa-2			[19]	G	Troupin
+KC196743	DRV_NG11	Nigeria			Nigeria	Dog 	Canis familiaris	2011	Africa-2		Original brain		Complete genome	Kuzmin
+AF369326	V461.DG	Nigeria			Nigeria	Dog 	Canis familiaris	1996	Africa-2			[18]	P	Troupin
+KX148201	86003BRE	Nigeria			Nigeria	Dog 	Canis familiaris	1986	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+AF369329	V466.DG	Nigeria			Nigeria	Dog 	Canis familiaris	1996	Cosmopolitan	Vac2		[18]	P	Troupin
+AF369315	P1.DG	Paraguay			Paraguay	Dog 	Canis familiaris	1994	Cosmopolitan	AM3b		[18]	P	Troupin
+EU086205	04030PHI	Philippines			Philippines	Dog 	Canis familiaris	2004	Asian	SEA4		[10]	N	Troupin
+KX148260	04030PHI	Philippines			Philippines	Dog 	Canis familiaris	2004	Asian	SEA4	Mouse	This study	Complete genome	Kuzmin
+KX148259	94272PHI	Philippines			Philippines	Dog 	Canis familiaris	1994	Asian	SEA4	Original brain	This study	Complete genome	Kuzmin
+KX148263	94275PHI	Philippines			Philippines	Dog 	Canis familiaris	1994	Asian	SEA4	Original brain	This study	Complete genome	Kuzmin
+KX148262	94278PHI	Philippines			Philippines	Dog 	Canis familiaris	1994	Asian	SEA4	Original brain	This study	Complete genome	Kuzmin
+KX148261	94281PHI	Philippines			Philippines	Dog 	Canis familiaris	1994	Asian	SEA4	Original brain	This study	Complete genome	Kuzmin
+JQ944705	1350KRA	Russia			Russia	Dog 	Canis familiaris	2008	Cosmopolitan	CA1	Original brain	Chupin et al. unpublished	Complete genome	Kuzmin
+JQ944706	1352KRA	Russia			Russia	Dog 	Canis familiaris	2008	Cosmopolitan	CA2	Original brain	Chupin et al. unpublished	Complete genome	Kuzmin
+KX148205	94289RWA	Rwanda			Rwanda	Dog 	Canis familiaris	1994	Cosmopolitan	AF1b	Original brain	This study	Complete genome	Kuzmin
+KX148238	93003SEN	Senegal			Senegal	Dog 	Canis familiaris	1991	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148239	93005SEN	Senegal			Senegal	Dog 	Canis familiaris	1992	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KX148198	93128SOM	Somalia			Somalia	Dog 	Canis familiaris	1993	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+AF369297	V250.CD	South Africa			South Africa	Dog 	Canis familiaris	1994	Cosmopolitan	AF1b		[18]	P	Troupin
+KF154999	RV2417	Sri Lanka			Sri Lanka	Dog 	Canis familiaris	2008	Indian-Sub		Original brain		Complete genome	Kuzmin
+AF369320	V113.DG	Sri Lanka			Sri Lanka	Dog 	Canis familiaris	1986	Indian-Sub			[18]	P	Troupin
+AF369321	V118.DG	Sri Lanka			Sri Lanka	Dog 	Canis familiaris	1986	Indian-Sub			[18]	P	Troupin
+AB041966		Sri Lanka			Sri Lanka	Dog 	Canis familiaris	1996	Indian-Sub			[8]	N	Troupin
+AY138549		Sri Lanka			Sri Lanka	Dog 	Canis familiaris	1986	Indian-Sub			[9]	N	Troupin
+U22648	9224TAN	Tanzania			Tanzania	Dog 	Canis familiaris	1992	Cosmopolitan	AF1b		[7]	N	Troupin
+KX148206	96013TAN	Tanzania			Tanzania	Dog 	Canis familiaris	1996	Cosmopolitan	AF1b	Original brain	This study	Complete genome	Kuzmin
+KF155002	RV2772	Tanzania			Tanzania	Dog 	Canis familiaris	2009	Cosmopolitan	AF1b	Original brain		Complete genome	Kuzmin
+AF369333	V670.DG	Tanzania			Tanzania	Dog 	Canis familiaris		Cosmopolitan	AF1b		[18]	P	Troupin
+JN786877	QS_05	Thailand			Thailand	Dog 	Canis familiaris		Asian	SEA3	Mouse		Complete genome	Kuzmin
+AF369322	V027.DG	Tunisia			Tunisia	Dog 	Canis familiaris	1988	Cosmopolitan	AF1a		[18]	P	Troupin
+KX148164	93100TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
+KX148166	94001TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
+KX148162	94002TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
+KX148167	94005TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
+KX148165	94009TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
+KX148163	94016TUR	Turkey			Turkey	Dog 	Canis familiaris	1993	Cosmopolitan	ME2	Original brain	This study	Complete genome	Kuzmin
+EF611853	A0905	USA	AK		USA	Dog 	Canis familiaris	2006	Arctic	A	Original brain	[11]; this study	N	Troupin
+JQ685980	A0905	USA	AK		USA	Dog 	Canis familiaris	2006	Arctic	A	Original brain	[11]; this study	G	Troupin
+KX148254	01016VNM	Viet Nam			Vietnam	Dog 	Canis familiaris	2001	Asian	SEA3	Original brain	This study	Complete genome	Kuzmin
+KX148261	01016VNM	Viet Nam			Vietnam	Dog	Canis familiaris	2001	Asian	SEA3	Mouse	This study	Complete genome	Kuzmin
+JQ685994	A09-0103	USA	AL		USA	Coyote	Canis latrans	2009	RAC-SK		Original brain	Troupin	G	Troupin
+JQ685917	CO-Coyot-2010	USA	CO		USA	Coyote	Canis latrans	2010	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685973	A11-1043	USA	OR		USA	Coyote	Canis latrans	2011	Bats	EF-W2	Original brain	Troupin	Complete genome	Troupin
+AF369337	V217.CO	USA	TX		USA	Coyote	Canis latrans	1994	Cosmopolitan	AM2a		[18]	P	Troupin
+KX148145	86054YOU	Bosnia and Herzegovina			Bosnia and Herzegovina	Wolf	Canis lupus	1986	Cosmopolitan	EE	Mouse	This study	Complete genome	Kuzmin
+U22483	8702IRA	Iran			Iran	Wolf	Canis lupus	1987	Cosmopolitan	ME1a		[7]	N	Troupin
+JQ685991	A09-0255	USA	OK		USA	Wolf	Canis lupus	2009	RAC-SK		Original brain	Troupin	G	Troupin
+KX148199	93006SOM	Somalia			Somalia	Jackal	Canis mesomelas	1993	Cosmopolitan	AF1a	Original brain	This study	Complete genome	Kuzmin
+KX148186	87002IRA	Iran			Iran	Wolf	Canis pallipes	1984	Cosmopolitan	ME1a	Mouse	This study	Complete genome	Kuzmin
+KX148188	93009IRA	Iran			Iran	Wolf	Canis pallipes	1991	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148185	96299IRA	Iran			Iran	Wolf	Canis pallipes	1996	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KP723638	RV2985	Ethiopia			Ethiopia	Ethiopian wolf 	Canis simensis	2014	Cosmopolitan	AF1a	Original brain		Complete genome	Kuzmin
+KX148170	91035OMA	Oman			Oman	Fox	Carnivora sp.	1990	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+JQ944707	1410KOM	Russia			Russia	Deer	Cervidae sp.	2008	Arctic	A	Original brain	Chupin et al. unpublished	Complete genome	Kuzmin
+AB383165		Brazil			Brazil	Non-hematophagous bat	Chiroptera sp.		Bats	EFu		[20]	G	Troupin
+AB383166		Brazil			Brazil	Non-hematophagous bat	Chiroptera sp.		Bats			[20]	G	Troupin
+AB383163		Brazil			Brazil	Non-hematophagous bat	Chiroptera sp.		Bats	LC		Sato, unpublished	G	Troupin
+AB383164		Brazil			Brazil	Non-hematophagous bat	Chiroptera sp.		Bats	LC		Sato, unpublished	G	Troupin
+U22637	8807ETH	Ethiopia			Ethiopia	Spotted hyena	Crocuta crocuta	1987	Cosmopolitan	AF1a		[7]	N	Troupin
+AF325485	SAF1-MG	South Africa			South Africa	Yellow mongoose	Cynictis penicillata	1987	Africa-3			[19]	G	Troupin
+AF369298	V046.MG	South Africa			South Africa	Yellow mongoose	Cynictis penicillata	1990	Africa-3			[18]	P	Troupin
+AF369301	V050.MG	South Africa			South Africa	Yellow mongoose	Cynictis penicillata	1990	Africa-3			[18]	P	Troupin
+AF369302	V264.MG	South Africa			South Africa	Yellow mongoose	Cynictis penicillata	1995	Africa-3			[18]	P	Troupin
+KX148220	15001AFS	South Africa			South Africa	Yellow mongoose	Cynictis penicillata	2013	Africa-3		Original brain	This study	Complete genome	Kuzmin
+AF467949		South Africa			South Africa	Yellow mongoose	Cynictis penicillata		Africa-3			Jacob et al., unpublished	N	Troupin
+KJ564280	IMDRV_13	China			China	Fallow deer	Dama dama	2013	Asian	SEA1b	Original brain		Complete genome	Kuzmin
+AB519642	BR_DR1	Brazil			Brazil	Common vampire bat	Desmodus rotundus	2000	Bats	DR	Original brain		Complete genome	Kuzmin
+AB247428	BR-DR8	Brazil			Brazil	Common vampire bat	Desmodus rotundus		Bats	DR		Sato, unpublished	G	Troupin
+AB517660	BR_Pfx3	Brazil			Brazil	Brazilian wild fox	Dusicyon_sp.	2001	Cosmopolitan	AM3b		Mochizuki et al. unpublished	Complete genome	Kuzmin
+AB383168	BR-EF1	Brazil			Brazil	Argentinian brown bat	Eptesicus furinalis		Bats	EFu		[20]	G	Troupin
+AB383170	BR-EF3	Brazil			Brazil	Argentinian brown bat	Eptesicus furinalis		Bats	EFu		[20]	G	Troupin
+AB383171	BR-EF4	Brazil			Brazil	Argentinian brown bat	Eptesicus furinalis		Bats	EFu		[20]	G	Troupin
+AF369338	058.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1993	Bats	EF-E1		[18]	P	Troupin
+AF351859	EF57	Canada	ONT		Canada	Big brown bat	Eptesicus fuscus	1997	Bats	EF-E1		[15]	N	Troupin
+AF369339	2994.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1993	Bats	EF-E2		[18]	P	Troupin
+AF369350	4805.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1995	Bats	EF-E2		[18]	P	Troupin
+AF351855	EF19	Canada	ALTA		Canada	Big brown bat	Eptesicus fuscus	1991	Bats	EF-E2		[15]	N	Troupin
+AF351861	EF3	Canada	ON		Canada	Big brown bat	Eptesicus fuscus	1972	Bats	EF-E2		[15]	N	Troupin
+AF351861	EF3	Canada	ONT		Canada	Big brown bat	Eptesicus fuscus	1972	Bats	EF-E2		[15]	N	Troupin
+AF351831	EF31	Canada	SASK		Canada	Big brown bat	Eptesicus fuscus	1989	Bats	EF-E2		[15]	N	Troupin
+AF351832	EF34	Canada	BC		Canada	Big brown bat	Eptesicus fuscus	1972	Bats	EF-E2		[15]	N	Troupin
+AF351862	EF40	Canada	ON		Canada	Big brown bat	Eptesicus fuscus	1995	Bats	EF-E2		[15]	N	Troupin
+AF369340	V084.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1989	Bats	EF-E2		[18]	P	Troupin
+AF369355	V151.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1989	Bats	EF-E2		[18]	P	Troupin
+AF369357	V170.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1993	Bats	EF-E2		[18]	P	Troupin
+AF351830	EF22	Canada	BC		Canada	Big brown bat	Eptesicus fuscus	1988	Bats	EF-W2		[15]	N	Troupin
+AF369341	V078.BBB	Canada			Canada	Big brown bat	Eptesicus fuscus	1988	Bats	EF-W2		[18]	P	Troupin
+JQ685961	AZ10-140	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2010	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+JQ685951	AZ10-144	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2010	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	N, P, M, G, L	Troupin
+AY039226	136	USA	RA		USA	Big brown bat	Eptesicus fuscus	1984	Bats	EF-E1		[17]	N	Troupin
+JQ685920	EF	USA	PA		USA	Big brown bat	Eptesicus fuscus	1984	Bats	EF-E1	mouse	This study	Complete genome	Troupin
+AF351860	EF71	USA	CT		USA	Big brown bat	Eptesicus fuscus	1998	Bats	EF-E1		[15]	N	Troupin
+AF351854	EF72	USA	CT		USA	Big brown bat	Eptesicus fuscus	1998	Bats	EF-E1		[15]	N	Troupin
+JQ686002	VS120-109	USA	NC		USA	Big brown bat	Eptesicus fuscus	2010	Bats	EF-E1	Original brain	Troupin	G	Troupin
+AY039229	132	USA	PA		USA	Big brown bat	Eptesicus fuscus	1972	Bats	EF-E2		[17]	N	Troupin
+AY039227	906	USA	WA		USA	Big brown bat	Eptesicus fuscus	1986	Bats	EF-E2		[17]	N	Troupin
+JQ685996	A09-2561	USA	IA		USA	Big brown bat	Eptesicus fuscus	2010	Bats	EF-E2	Original brain	Troupin	G	Troupin
+JQ685925	waef03	USA	WA		USA	Big brown bat	Eptesicus fuscus	2004	Bats	EF-E2	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685898	A093500	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2009	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685913	AZBAT-6763	USA	AZ		USA	Big brown bat	Eptesicus fuscus	1985	Bats	EF-W1	Mouse	This study	Complete genome	Troupin
+JQ685956	AZBAT-7453	USA	AZ		USA	Big brown bat	Eptesicus fuscus	1975	Bats	EF-W1	Mouse	Troupin	Complete genome	Troupin
+JQ685909	CA100	USA	CA		USA	Big brown bat	Eptesicus fuscus	2005	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685974	SM3844	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	1995	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+JQ685907	SM3849	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	1996	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685946	SM4862	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	1999	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685923	SM4871	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	1999	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685960	SM4872	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2001	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685897	SM5442	USA			USA	Big brown bat	Eptesicus fuscus	2001	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685950	A093504	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2009	Bats	EF-W1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685926	AZ2408	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2005	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+AY170413	SM5450	USA	AZ	Flagstaff	USA	Big brown bat	Eptesicus fuscus	2001	Bats	EF-W1	Original brain	[1]	N	Troupin
+AF369342	V230.BBB	USA	TX		USA	Big brown bat	Eptesicus fuscus	1994	Bats	EF-W1		[18]	P	Troupin
+JQ685942	AZBAT-65094	USA	AZ		USA	Big brown bat	Eptesicus fuscus	1981	Bats	EF-W2	Mouse	This study	Complete genome	Troupin
+JQ685903	ca04148	USA	CA		USA	Big brown bat	Eptesicus fuscus	2004	Bats	EF-W2	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685931	WA0173	USA	WA		USA	Big brown bat	Eptesicus fuscus	2000	Bats	EF-W2	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+AF394887	804	USA	CA		USA	Big brown bat	Eptesicus fuscus	1987	Bats	EF-W2		[17]	N	Troupin
+GU644683	wa1043	USA	WA		USA	Big brown bat	Eptesicus fuscus	2003	Bats	EF-W2	Original brain	[16]	N	Troupin
+GU644851	wa1086	USA	WA		USA	Big brown bat	Eptesicus fuscus	2003	Bats	EF-W2	Original brain	[16]	N	Troupin
+GU644682	wa267	USA	WA		USA	Big brown bat	Eptesicus fuscus	2000	Bats	EF-W2	Original brain	[16]	N	Troupin
+JQ647510	WH11	China			China	Donkey	Equus asinus	2011	Asian	SEA1b	Original brain		Complete genome	Kuzmin
+JQ423952	BJ2011E	China			China	Horse	Equus ferus	2011	Asian	SEA1b		Chen et al. unpublished	Complete genome	Kuzmin
+KX148172	87007ARS	Saudi Arabia			Saudi Arabia	Horse	Equus ferus	1987	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+AB383167		Brazil			Brazil	Black bonneted bat	Eumops auripendulus		Bats	EFu		[20]	G	Troupin
+KX148223	14018AFS	South Africa			South Africa	Feline	Felidae sp.	2000	Africa-3		Original brain	This study	Complete genome	Kuzmin
+KX148107	86097BEN	Benin			Benin	Cat	Felis catus	1986	Africa-2		Original brain	This study	Complete genome	Kuzmin
+KC595281	8053c	Russia			Russia	Cat	Felis catus	2011	Cosmopolitan	CA1	Mouse		Complete genome	Kuzmin
+JQ685993	A08-0500	USA	CO		USA	Cat	Felis catus	2008	RAC-SK		Original brain	Troupin	G	Troupin
+JQ685945	SM6709	USA	AZ	Flagstaff	USA	Cat	Felis catus	2005	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+KX148218	14016BOT	Botswana			Botswana	Wildcat	Felis silvestris	2009	Africa-3		Original brain	This study	Complete genome	Kuzmin
+JQ686010	A11-6191	USA	WV		USA		Fox (unidentified)	2011	Bats	EF-E1	Original brain	Troupin	G	Troupin
+KF977826	CAR_11_001	Central African Republic			Central African Republic	Human 	Homo sapiens	2011	Africa-2		Saliva		Complete genome	Kuzmin
+KX148267	02050CHI	China			China	Human 	Homo sapiens	1992	Asian	SEA1a	Mouse	This study	Complete genome	Kuzmin
+GU345747	RV_J	China			China	Human 	Homo sapiens	1986	Asian	SEA1a		Meng et al., unpublished	Complete genome	Troupin
+KJ004416	JZ13_Lv	China			China	Human 	Homo sapiens	2013	Asian	SEA1b		Wang et al. unpublished	Complete genome	Kuzmin
+EU643590	HN10	China			China	Human 	Homo sapiens	2006	Asian	SEA2a		[12]	Complete genome	Troupin
+KX148101	86092EGY	Egypt			Egypt	Human 	Homo sapiens	1979	Cosmopolitan	AF4	Mouse	This study	Complete genome	Kuzmin
+AY956319	Serotype_1	Germany			India	Human 	Homo sapiens	2004	Arctic	AL1a	Saliva?	Pfefferle et al., unpublished	Complete genome	Troupin
+KX148160	92015HON	Hungary			Hungary	Human 	Homo sapiens	1991	Cosmopolitan	CA3	Original brain	This study	Complete genome	Kuzmin
+AF325462	HUN1-HM	Hungary			Hungary	Human 	Homo sapiens	1992	Cosmopolitan	CA3		[19]	G	Troupin
+EF437215	NNV_RAB_H	India			India	Human 	Homo sapiens	2006	Arctic	AL1a	Original brain	Desai et al., unpublished	Complete genome	Troupin
+KF154996	RV61	India			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse		Complete genome	Kuzmin
+KX148246	97002IND	India			India	Human 	Homo sapiens	1997	Indian-Sub		Original brain	This study	Complete genome	Kuzmin
+KX148207	14015ITA	Kenya			Kenya	Human 	Homo sapiens	2014	Cosmopolitan	AF1b	Original brain	This study	Complete genome	Kuzmin
+KX148210	98002MAD	Madagascar			Madagascar	Human 	Homo sapiens	1998	Cosmopolitan	AF1c	Original brain	This study	Complete genome	Kuzmin
+AF325487	MAL1-HM	Malaysia			Malaysia	Human 	Homo sapiens	1985	Asian	SEA3		[19]	G	Troupin
+JQ685953	3645DR	Mexico			Mexico	Human 	Homo sapiens	2009	Bats	DR	mouse	This study	Complete genome	Troupin
+KX148112	91010MEX	Mexico			Mexico	Human 	Homo sapiens	1991	Cosmopolitan	AM2a	Mouse	This study	Complete genome	Kuzmin
+AF325469	MOR3-HM	Morocco			Morocco	Human 	Homo sapiens	1990	Cosmopolitan	AF1a		[19]	G	Troupin
+U22488	8670NGA	Nigeria			Nigeria	Human 	Homo sapiens	1983	Cosmopolitan	AF1b		[7]	N	Troupin
+EU086155	04030PHI	Philippines			Philippines	Human 	Homo sapiens	2004	Asian	SEA4		[10]	G	Troupin
+KX148103	87021AFS	South Africa			South Africa	Human 	Homo sapiens	1981	Cosmopolitan	AF1b	Mouse	This study	Complete genome	Kuzmin
+EU293111	8764THA	Thailand			Thailand	Human 	Homo sapiens	1983	Asian	SEA3	Mouse	[3]	Complete genome	Troupin
+AF325466	TUN1-HM	Tunisia			Tunisia	Human 	Homo sapiens	1986	Cosmopolitan	AF1a		[19]	G	Troupin
+AY352493	rv61	United Kingdom			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse	[5]; this study	N	Troupin
+JQ685981	rv61	United Kingdom			India	Human 	Homo sapiens	1987	Arctic	AL1a	Mouse	[5]; this study	G	Troupin
+U52946		USA	CA		USA	Human 	Homo sapiens	1994	Bats	LN		[21]	G	Troupin
+AY705373	SHBRV18	USA			USA	Human 	Homo sapiens	1983	Bats	PS	mouse	[14]	Complete genome	Troupin
+KC737850	A11_5300	USA			USA	Human 	Homo sapiens	2011	Cosmopolitan	AM3a	Original brain	McGuone et al. unpublished	Complete genome	Kuzmin
+AF369345	4398.SHB	Canada			Canada	Silver-haired bat	Lasionycteris noctivagans	1980	Bats	LN		[18]	P	Troupin
+AF369346	V077.SHB	Canada			Canada	Silver-haired bat	Lasionycteris noctivagans	1988	Bats	LN		[18]	P	Troupin
+AF369356	V158.SHB	Canada			Canada	Silver-haired bat	Lasionycteris noctivagans	1991	Bats	LN		[18]	P	Troupin
+JQ685895	WA1185	USA	WA		USA	Silver-haired bat	Lasionycteris noctivagans	2003	Bats	LN	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ686004	A10-3672	USA	AL		USA	Silver-haired bat	Lasionycteris noctivagans	2009	Bats	LN	Original brain	Troupin	G	Troupin
+JQ686001	AW3565	USA	AL		USA	Silver-haired bat	Lasionycteris noctivagans	2010	Bats	LN	Original brain	Troupin	G	Troupin
+AF369351	6832.RB	Canada			Canada	Eastern red bat	Lasiurus borealis	1991	Bats	LB1		[18]	P	Troupin
+JQ685919	NJ2262	USA	NJ		USA	Eastern red bat	Lasiurus borealis	2005	Bats	LB1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685902	TN209	USA	TN		USA	Eastern red bat	Lasiurus borealis	2005	Bats	LB2	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ686007	LAH60	USA	NC		USA	Eastern red bat	Lasiurus borealis	2010	Bats	LB2	Original brain	Troupin	G	Troupin
+AF369348	V231.RB	USA	TX		USA	Eastern red bat	Lasiurus borealis	1994	Bats	LB2		[18]	P	Troupin
+AF369347	V103.HB	Canada			Canada	Hoary bat	Lasiurus cinereus	1992	Bats	LC		[18]	P	Troupin
+JQ685999	T94-0237	USA	CA		USA	Hoary bat	Lasiurus cinereus	1994	Bats	LC	Original brain	Troupin	G	Troupin
+JQ685947	TN310	USA	TN		USA	Hoary bat	Lasiurus cinereus	2004	Bats	LC	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685916	FL1010	USA	FL		USA	Northern yellow bat	Lasiurus intermedius	2002	Bats	LI	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685915	TX4904	USA	TX		USA	Northern yellow bat	Lasiurus intermedius	2002	Bats	LI	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ686005	A10-3653	USA	FL		USA	Northern yellow bat	Lasiurus intermedius	2008	Bats	LI	Original brain	Troupin	G	Troupin
+JQ685900	FL769	USA	FL		USA	Seminole bat	Lasiurus seminolus	2003	Bats	LS	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685910	TX5960	USA	TX		USA	Seminole bat	Lasiurus xanthinus	2002	Bats	LX	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+AB362483	BR_Pfx1	Brazil			Brazil	Brazilian wild fox	Lycalopex vetulus	2002	Cosmopolitan	AM3b	Original brain	[13]	Complete genome	Troupin
+AB645847	1088	USA			USA	Woodchuck	Marmota monax	2008	Cosmopolitan	AM1	Mouse		Complete genome	Kuzmin
+KX148219	14017BOT	Botswana			Botswana	Honey badger	Mellivora capensis	2009	Africa-3		Original brain	This study	Complete genome	Kuzmin
+KC762941	JX09_17	China			China	Ferret badger	Melogale moschata	2009	Asian	SEA1b	Original brain		Complete genome	Kuzmin
+KF726853	JX10_37	China			China	Ferret badger	Melogale moschata	2010	Asian	SEA1b	Original brain		Complete genome	Kuzmin
+FJ712195	F02	China			China	Ferret badger	Melogale moschata	2008	Asian	SEA2b	Original brain	[2]	Complete genome	Troupin
+FJ712196	F04	China			China	Ferret badger	Melogale moschata	2008	Asian	SEA2b		[2]	Complete genome	Troupin
+GU647092	JX08_45	China			China	Ferret badger	Melogale moschata	2008	Asian	SEA2b		Zhao et al. unpublished	Complete genome	Kuzmin
+KF726852	JX09_18	China			China	Ferret badger	Melogale moschata	2009	Asian	SEA2b	Original brain		Complete genome	Kuzmin
+KF620487	R2012_26	Taiwan			Taiwan	Ferret badger	Melogale moschata	2012	Asian	SEA5	Original brain		Complete genome	Kuzmin
+KF620488	R2012_88	Taiwan			Taiwan	Ferret badger	Melogale moschata	2012	Asian	SEA5	Original brain		Complete genome	Kuzmin
+KF620489	R2013_01	Taiwan			Taiwan	Ferret badger	Melogale moschata	2013	Asian	SEA5	Original brain		Complete genome	Kuzmin
+AF369265	ONT1.RFX	Canada			Canada	Striped skunk	Mephitis mephitis	1991	Arctic	A		[18]	P	Troupin
+AF369286	1741WC.SK	Canada			Canada	Striped skunk	Mephitis mephitis	1992	Cosmopolitan	AM1		[18]	P	Troupin
+AF369285	867WC.SK	Canada			Canada	Striped skunk	Mephitis mephitis	1992	Cosmopolitan	AM1		[18]	P	Troupin
+JQ685986	A10-3013	USA	TX		USA	Striped skunk	Mephitis mephitis	2009	RAC-SK		Original brain	Troupin	G	Troupin
+KX148224	91004USA	USA			USA	Striped skunk	Mephitis mephitis	1991	Arctic	A	Original brain	This study	Complete genome	Kuzmin
+JQ685941	SM1545	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2005	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685932	SM5076	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685911	SM5077	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685893	SM5079	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685904	SM5081	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685940	SM5100	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685958	SM5101	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685969	SM5440	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685962	SM5441	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685959	SM5451	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685935	SM5074	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685949	SM5075	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685927	SM5080	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685906	SM5102	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685930	SM5103	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685966	SM5470	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2001	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685964	SM5596	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2004	Bats	EF-W1	Original brain	Troupin	Complete genome	Troupin
+JQ685944	NC839	USA	TN		USA	Striped skunk	Mephitis mephitis	1984	Cosmopolitan	AM1	Original brain	This study	Complete genome	Troupin
+AF369289	V213.SK	USA	TX		USA	Striped skunk	Mephitis mephitis	1994	Cosmopolitan	AM2a		[18]	P	Troupin
+JQ685894	CA982	USA	CA		USA	Striped skunk	Mephitis mephitis	1994	Cosmopolitan	AM4	Original brain	This study	Complete genome	Troupin
+JQ685970	CASK2	USA	CA		USA	Striped skunk	Mephitis mephitis	1974	Cosmopolitan	AM4	Original brain	Troupin	Complete genome	Troupin
+JQ685968	A10-0512	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2009	RAC-SK		Original brain	Troupin	Complete genome	Troupin
+JQ685938	A10-0514	USA	AZ	Flagstaff	USA	Striped skunk	Mephitis mephitis	2009	RAC-SK		Original brain	This study	Complete genome	Troupin
+AF369287	V211.SK	USA	TX		USA	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	P	Troupin
+AF369291	V216.SK	USA	TX		USA	Striped skunk	Mephitis mephitis	1994	RAC-SK			[18]	P	Troupin
+JQ685967	NC1234	USA	AZ		USA	Striped skunk	Mephitis mephitis		Cosmopolitan	AM1	Original brain	Troupin	Complete genome	Troupin
+KX148221	15002AFS	South Africa			South Africa	Mongoose	Mustelidae sp.	2014	Africa-3		Original brain	This study	Complete genome	Kuzmin
+KX148213	91001USA	USA			USA	Skunk	Musteloidea sp.	1982	Cosmopolitan	AM1	Mouse	This study	Complete genome	Kuzmin
+JQ685921	FL1078	USA	FL		USA	Southeastern myotis	Myotis austroriparius	2001	Bats	PH	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+AF351836	MC2	Canada	BC		Canada	California myotis	Myotis californicus	1992	Bats	MYsp		[15]	N	Troupin
+AF351835	ME1	Canada	BC		Canada	Long-eared myotis	Myotis evotis	1992	Bats	MYsp		[15]	N	Troupin
+AF369354	V102.MYO	Canada			Canada	Long-eared myotis	Myotis evotis	1992	Bats	MYsp		[18]	P	Troupin
+AF351839	ML4	Canada	BC		Canada	Little brown bat	Myotis lucifugus	1992	Bats	MYsp		[15]	N	Troupin
+AF351838	ML6	Canada	NS		Canada	Little brown bat	Myotis lucifugus	1994	Bats	MYsp		[15]	N	Troupin
+AF369344	4887.LBB	Canada			Canada	Little brown bat	Myotis lucifugus	1994	Bats	MYsp		[18]	P	Troupin
+AF369352	7890.LBB	Canada			Canada	Little brown bat	Myotis lucifugus	1997	Bats	MYsp		[18]	P	Troupin
+AF369343	V089.LBB	Canada			Canada	Little brown bat	Myotis lucifugus	1992	Bats	MYsp		[18]	P	Troupin
+AF369358	V179.LBB	Canada			Canada	Little brown bat	Myotis lucifugus	1993	Bats	MYsp		[18]	P	Troupin
+AF369349	3694.MYO	Canada			Canada		Myotis sp	1996	Bats	MYsp		[18]	P	Troupin
+JQ685997	A10-5170	USA	ID		USA		Myotis sp	2010	Bats	MYsp	Original brain	Troupin	G	Troupin
+JQ685998	T91-0038	USA	CA		USA		Myotis sp	1991	Bats	MYsp	Original brain	Troupin	G	Troupin
+AF325494	USA8-BT	USA	MT		USA		Myotis sp	1981	Bats	MYsp		[19]	G	Troupin
+AF325495	USA9-BT	USA	MT		USA		Myotis sp	1982	Bats	MYsp		[19]	G	Troupin
+JQ685955	AZ4490	USA	AZ		USA	Yuma myotis	Myotis yumanensis	2005	Bats	MYu	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+JQ685963	Coati -3639	Mexico		Cancun	Mexico	Coati	Nasua narica	2009	Bats	TB1	Mouse	Troupin	Complete genome	Troupin
+KX148149	93039EST	Estonia			Estonia	Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148156	93042EST	Estonia			Estonia	Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148157	93043EST	Estonia			Estonia	Raccoon dog	Nyctereutes procyonoides	1993	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+U43432	9342EST	Estonia			Estonia	Raccoon dog	Nyctereutes procyonoides	1991	Cosmopolitan	NEE		[6]	N	Troupin
+KF154997	RV437	Estonia			Estonia	Raccoon dog	Nyctereutes procyonoides		Cosmopolitan	NEE	Mouse		Complete genome	Kuzmin
+KX148147	93048FIN	Finland			Finland	Raccoon dog	Nyctereutes procyonoides	1988	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148118	96077POL	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1994	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148120	96140POL	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1993	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+AF325464	POL1-RD	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1985	Cosmopolitan	CE		[19]	G	Troupin
+KX148150	96026POL	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1986	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148153	96097POL	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1996	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148152	96142POL	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1996	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148154	97078POL	Poland			Poland	Raccoon dog	Nyctereutes procyonoides	1997	Cosmopolitan	NEE	Cosmopolitan – NEE	This study	Complete genome	Kuzmin
+AF369284	RU9.RD	Russia			Russia	Raccoon dog	Nyctereutes procyonoides	1988	Arctic	AL2		[18]	P	Troupin
+JQ944704	184VNO	Russia			Russia	Raccoon dog	Nyctereutes procyonoides	2009	Cosmopolitan	NEE	Original brain	Chupin et al. unpublished	Complete genome	Kuzmin
+KC171644	BD0406CC	South Korea			South Korea	Raccoon dog	Nyctereutes procyonoides	2004	Arctic	AL2	Original brain		Complete genome	Kuzmin
+KC171645	BV9901PJ	South Korea			South Korea	Raccoon dog	Nyctereutes procyonoides	1999	Arctic	AL2	Original brain		Complete genome	Kuzmin
+AB383172	BR-NL2	Brazil			Brazil	Broad-eared bat	Nyctinomops laticaudatus		Bats	EFu		[20]	G	Troupin
+KX148159	86082IRA	Iran			Iran	Sheep	Ovis aries	1974	Cosmopolitan	CA1	Mouse	This study	Complete genome	Kuzmin
+AB635373	H_1413_09	Sri Lanka			Sri Lanka	Golden palm civet	Paradoxurus zeylonensis	2009	Indian-Sub		Original brain		Complete genome	Kuzmin
+JQ685952	A02-2971	USA	CA		USA	Canyon bat	Parastrellus hesperos	2002	Bats	PH	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ685965	A02-2972	USA	AZ		USA	Canyon bat	Parastrellus hesperos	2002	Bats	PH	N-P-M-G - original brain; L and termini - mouse	Troupin	Complete genome	Troupin
+JQ685922	TN186	USA	TN		USA	Tricolored bat	Perimyotis subflavus	2005	Bats	PS	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+JQ686003	A10-5102	USA	NC		USA	Tricolored bat	Perimyotis subflavus	2010	Bats	PS	Original brain	Troupin	G	Troupin
+JQ686000	US07-010	USA	NC		USA	Tricolored bat	Perimyotis subflavus	2010	Bats	PS	Original brain	Troupin	G	Troupin
+KX148100	09035FRA	French Guiana			French Guiana	Bat 	Phyllostomidae stenodermatinae	2009	Bats	DR	Original brain	This study	Complete genome	Kuzmin
+EU311738	RRV_ON_99	Canada	ON		Canada	Raccoon	Procyon lotor	1999	RAC-SK		Original brain	[4]	Complete genome	Troupin
+AF369294	FL.RAC	USA	FL		USA	Raccoon	Procyon lotor	1987	RAC-SK			[18]	P	Troupin
+AF369293	NY.RAC	USA	NY		USA	Raccoon	Procyon lotor	1992	RAC-SK			[18]	P	Troupin
+JQ685901	RAC	USA	GA		USA	Raccoon	Procyon lotor	2003	RAC-SK		Mouse	This study	Complete genome	Troupin
+JQ685975	MEXSK3636	Mexico			Mexico	Spotted skunk	Spilogale putorius	2009	Cosmopolitan	Vac2	Mouse	Troupin	Complete genome	Troupin
+JQ685929	MEXSK3644	Mexico			Mexico	Spotted skunk	Spilogale putorius	2009	RAC-SK		Mouse	This study	Complete genome	Troupin
+JQ685954	MXSK13938	Mexico			Mexico	Spotted skunk	Spilogale putorius	2007	RAC-SK		Mouse	This study	Complete genome	Troupin
+JX088694	GD_SH_01	China			China	Pig	Sus domesticus	2011	Asian	SEA2a	Original brain	-10	Complete genome	Kuzmin
+EU293116	9704ARG	Argentina			Argentina	Mexican free-tailed bat	Tadarida brasilensis	1997	Bats	TB2		[3]	Complete genome	Troupin
+KX148269	97004ARG	Argentina			Argentina	Mexican free-tailed bat	Tadarida brasiliensis	1997	Bats	TB2	Mouse	This study	Complete genome	Kuzmin
+AF351849	TB1	USA	TX		USA	Mexican free-tailed bat	Tadarida brasiliensis		Bats	TB1		[15]	N	Troupin
+AF369359	V235.FTB	USA	TX		USA	Mexican free-tailed bat	Tadarida brasiliensis	1994	Bats	TB1		[18]	P	Troupin
+JQ685905	FL385	USA	FL		USA	Mexican free-tailed bat	Tadarida brasiliensis	2003	Bats	TB1	N-P-M-G - original brain; L and termini - mouse	This study	Complete genome	Troupin
+AF351850	IB-Ch	Chile			Chile	Tadarida sp.	Tadarida sp.	1988	Bats	TB2		[15]	N	Troupin
+JX473840	239K09	Namibia			Namibia	Namibian kudu	Tragelaphus strepsiceros	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
+JX473841	240K09	Namibia			Namibia	Namibian kudu	Tragelaphus strepsiceros	2009	Cosmopolitan	AF1b		Scott et al. unpublished	Complete genome	Kuzmin
+JQ685989	A10-001	USA	AZ		USA	Gray Fox	Urocyon cinereoargenteus	2010	Cosmopolitan	AM2a	Original brain	Troupin	G	Troupin
+JQ685984	A10-3020	USA	TX		USA	Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	Vac2	Original brain	Troupin	G	Troupin
+JQ685995	Fox-8007	USA	TX		USA	Gray Fox	Urocyon cinereoargenteus	2008	Cosmopolitan	Vac2	Original brain	Troupin	G	Troupin
+JQ685934	2401	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685933	SM5950	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2004	Bats	EF-W1	Original brain	This study	Complete genome	Troupin
+JQ685908	1060	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685972	2395	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	Troupin	N, P, M, G, L	Troupin
+JQ685892	2398	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685939	2399	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685912	2400	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685896	2402	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685928	2403	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	This study	N, P, M, G, L	Troupin
+JQ685976	2526	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	EF-W1	Original brain	Troupin	N, P, M, G, L	Troupin
+JQ685948	OR05455	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2010	Bats	EF-W2	Original brain	This study	Complete genome	Troupin
+JQ685977	OR58	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2010	Bats	EF-W2	Original brain	Troupin	N, P, M, G, L	Troupin
+JQ685914	OR703	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2010	Bats	EF-W2	Original brain	This study	N, P, M, G, L	Troupin
+JQ685924	OR704	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2010	Bats	EF-W2	Original brain	This study	N, P, M, G, L	Troupin
+JQ685918	OR05506	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2010	Bats	MYsp	Original brain	This study	Complete genome	Troupin
+JQ685957	OR8767	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2009	Bats	MYsp	Original brain	Troupin	Complete genome	Troupin
+JQ685979	OR43	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2000	Bats	MYsp	Original brain	This study	N	Troupin
+JQ686013	OR43	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2000	Bats	MYsp	Original brain	Troupin	G	Troupin
+JQ685978	OR59	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2006	Bats	MYsp	Original brain	TroupinTroupin	N	Troupin
+JQ686012	OR59	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2006	Bats	MYsp	Original brain	Troupin	G	Troupin
+JQ686011	OR-062011	USA	OR		USA	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYsp	Original brain	Troupin	G	Troupin
+JQ685985	A10-3932	USA	AZ		USA	Gray Fox	Urocyon cinereoargenteus	2010	Cosmopolitan	AM2a	Original brain	Troupin	G	Troupin
+JQ685943	A10-0511	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	AM2b	Original brain	This study	Complete genome	Troupin
+JQ685899	A10-0515	USA	AZ	Flagstaff	USA	Gray Fox	Urocyon cinereoargenteus	2009	Cosmopolitan	AM2b	Original brain	This study	Complete genome	Troupin
+JQ686008	A11-5404	USA	AZ		USA	Gray Fox	Urocyon cinereoargenteus	2011	Bats	MYu	Original brain	Troupin	G	Troupin
+NC_001542	PV_RefSeq					Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
+M31046	SAD B19					Vaccine strain	Vaccine strain		Cosmopolitan	Vac	NA	This study	Complete genome	Kuzmin
+AY352459	304c	Russia		Tyva	Russia	Corsac fox	Vulpes corsac	1977	Arctic	AL2	Mouse	[5]; this study	N	Troupin
+JQ685983	304c	Russia		Tyva	Russia	Corsac fox	Vulpes corsac	1977	Arctic	AL2	Mouse	[5]; this study	G	Troupin
+AY352487	483a	Russia		Yakutia	Russia	Arctic fox	Vulpes lagopus	1986	Arctic	A	Mouse	[5]; this study	N	Troupin
+JQ685982	483a	Russia		Yakutia	Russia	Arctic fox	Vulpes lagopus	1986	Arctic	A	Mouse	[5]; this study	G	Troupin
+KX148125	94033BEL	Belgium			Belgium	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148133	86111YOU	Bosnia and Herzegovina			Bosnia and Herzegovina	Red fox	Vulpes vulpes	1986	Cosmopolitan	WE	Mouse	This study	Complete genome	Kuzmin
+AF369266	ONT2.RFX	Canada			Canada	Red fox	Vulpes vulpes	1990	Arctic	A		[18]	P	Troupin
+AF369353	9499.MYO	Canada			Canada	Red fox	Vulpes vulpes	1993	Bats	MYsp		[18]	P	Troupin
+KM016899	WQ14_RF	China			China	Red fox	Vulpes vulpes	2014	Cosmopolitan	CA1	Original brain	Liu et al. unpublished	Complete genome	Kuzmin
+AF369273	V285.RFX	Czech Republic			Czech Republic	Red fox	Vulpes vulpes	1992	Cosmopolitan	WE		[18]	P	Troupin
+KX148148	93038EST	Estonia			Estonia	Red fox	Vulpes vulpes	1992	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148155	93041EST	Estonia			Estonia	Red fox	Vulpes vulpes	1993	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148158	93105EST	Estonia			Estonia	Red fox	Vulpes vulpes	1993	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148146	93046FIN	Finland			Finland	Red fox	Vulpes vulpes	1993	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KX148127	91047FRA	France			France	Red fox	Vulpes vulpes	1991	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+EU293115	9147FRA	France			France	Red fox	Vulpes vulpes	1991	Cosmopolitan	WE		[3]	Complete genome	Troupin
+KX148128	92044FRA	France			France	Red fox	Vulpes vulpes	1992	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148134	94029FRA	France			France	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148126	96002FRA	France			France	Red fox	Vulpes vulpes	1996	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148113	92002GER	Germany			Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148124	92010GER	Germany			Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148122	92012GER	Germany			Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148123	92017GER	Germany			Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148135	92001GER	Germany			Germany	Red fox	Vulpes vulpes	1991	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148143	93080HON	Hungary			Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148136	93083HON	Hungary			Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148137	93089HON	Hungary			Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148138	93091HON	Hungary			Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148139	93093HON	Hungary			Hungary	Red fox	Vulpes vulpes	1993	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+AF369280	V660.FX	Israel			Israel	Red fox	Vulpes vulpes		Cosmopolitan	ME1a		[18]	P	Troupin
+AF369274	RU7.FX	Kazakhstan			Kazakhstan	Red fox	Vulpes vulpes	1988	Cosmopolitan	CA1		[18]	P	Troupin
+U22480	9135OMA	Oman			Oman	Red fox	Vulpes vulpes	1990	Cosmopolitan	ME1a		[7]	N	Troupin
+KX148119	96045POL	Poland			Poland	Red fox	Vulpes vulpes	1993	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148121	96056POL	Poland			Poland	Red fox	Vulpes vulpes	1993	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148114	96104POL	Poland			Poland	Red fox	Vulpes vulpes	1995	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148115	96250POL	Poland			Poland	Red fox	Vulpes vulpes	1996	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148116	96256POL	Poland			Poland	Red fox	Vulpes vulpes	1996	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148117	97046POL	Poland			Poland	Red fox	Vulpes vulpes	1997	Cosmopolitan	CE	Original brain	This study	Complete genome	Kuzmin
+KX148141	96135POL	Poland			Poland	Red fox	Vulpes vulpes	1992	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148142	96177POL	Poland			Poland	Red fox	Vulpes vulpes	1994	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148151	96042POL	Poland			Poland	Red fox	Vulpes vulpes	1996	Cosmopolitan	NEE	Original brain	This study	Complete genome	Kuzmin
+KC595280	8052f	Russia			Russia	Red fox	Vulpes vulpes	2011	Cosmopolitan	CA1	Mouse		Complete genome	Kuzmin
+KC595282	8054f	Russia			Russia	Red fox	Vulpes vulpes	2011	Cosmopolitan	CA1	Mouse		Complete genome	Kuzmin
+KC595283	8057f	Russia			Russia	Red fox	Vulpes vulpes	2011	Cosmopolitan	CA1	Mouse		Complete genome	Kuzmin
+JQ944708	1564NNO	Russia			Russia	Red fox	Vulpes vulpes	2008	Cosmopolitan	CA3	Original brain	Chupin et al. unpublished	Complete genome	Kuzmin
+AY352474	RV1596	Russia		Pskov	Russia	Red fox	Vulpes vulpes	1987	Cosmopolitan	NEE	Mouse	[5]	N	Troupin
+U22481	8706ARS	Saudi Arabia			Saudi Arabia	Red fox	Vulpes vulpes	1987	Cosmopolitan	ME1a		[7]	N	Troupin
+KX148173	97139ARS	Saudi Arabia			Saudi Arabia	Red fox	Vulpes vulpes	1997	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148175	99004ARS	Saudi Arabia			Saudi Arabia	Red fox	Vulpes vulpes	1998	Cosmopolitan	ME1a	Original brain	This study	Complete genome	Kuzmin
+KX148161	86133SER	Serbia			Serbia	Red fox	Vulpes vulpes	1972	Cosmopolitan	YUGFOX	Mouse	This study	Complete genome	Kuzmin
+KX148140	86109YOU	Serbia			Serbia	Red fox	Vulpes vulpes	1986	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148144	94099SLN	Slovenia			Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan	EE	Original brain	This study	Complete genome	Kuzmin
+KX148131	94086SLN	Slovenia			Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148129	94091SLN	Slovenia			Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148132	94094SLN	Slovenia			Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148130	94096SLN	Slovenia			Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+KX148133	94096SLN	Slovenia			Slovenia	Red fox	Vulpes vulpes	1994	Cosmopolitan	WE	Original brain	This study	Complete genome	Kuzmin
+AF369272	V034.RFX	Switzerland			Switzerland	Red fox	Vulpes vulpes	1987	Cosmopolitan	WE		[18]	P	Troupin
+JQ685987	A10-6931	USA	MN		USA	Red fox	Vulpes vulpes		Cosmopolitan	AM1	Original brain	Troupin	G	Troupin
+JQ685988	A10-1431	USA	NH		USA	Red fox	Vulpes vulpes		Arctic	A	Original brain	Troupin	G	Troupin
+JQ685990	Fox-9064	USA	NH		USA	Red fox	Vulpes vulpes		Arctic	A	Original brain	Troupin	G	Troupin
+KX148106	91005USA	USA			USA	Red fox	Vulpes vulpes	1990	Arctic	A	Original brain	This study	Complete genome	Kuzmin
+JQ686009	A11-5737	USA	VA		USA	Red fox	Vulpes vulpes	2011	Bats	PS	Original brain	Troupin	G	Troupin
+U42703	86107YOU	Serbia			Serbia	Red fox	Vulpes vulpes	1976	Cosmopolitan	YUGFOX		[6]	N	Troupin
+U42706	86111YOU	Serbia			Serbia	Red fox	Vulpes vulpes	1986	Cosmopolitan	WE		[6]	N	Troupin
+KX148222	15003AFS	South Africa			South Africa	Ground squirrel 	Xerus Inauris	2014	Africa-3		Original brain	This study	Complete genome	Kuzmin

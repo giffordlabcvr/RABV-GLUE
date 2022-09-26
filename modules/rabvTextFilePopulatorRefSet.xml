@@ -18,18 +18,19 @@
 		<property>gb_country</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
 	</textFileColumn>
-	<!--
+	
 	<isoCountryTextFileColumn codeStyle="ALPHA_3">
 		<header>Country</header>
 		<property>m49_country</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>  
 	</isoCountryTextFileColumn>
-	-->
+	
 	<textFileColumn>
 		<header>Species_latin_binomial</header>
 		<property>host</property>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 		
 	</textFileColumn>
+	
 	<textFileColumn>
 		<header>Year</header>
 		<property>collection_year</property>

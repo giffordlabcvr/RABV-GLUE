@@ -111,10 +111,21 @@
 					<matchPattern>.*[cC]itellus undulatus (rodent).*</matchPattern>
 					<outputTemplate>Citellus undulatus</outputTemplate>
 				</valueConverter>
-	 				<valueConverter>
+	 			<valueConverter>
 					<matchPattern>.*[bB]eaver.*</matchPattern>
 					<outputTemplate>Castor canadensis</outputTemplate>
 				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[gG]eosciurus inauris.*</matchPattern>
+					<matchPattern>.*[xX]erus [iI]nauris.*</matchPattern>
+					<matchPattern>.*[sS]outh [aA]frican ground squirrel.*</matchPattern>
+					<outputTemplate>Geosciurus inauris</outputTemplate>
+				</valueConverter>
+	 			<valueConverter>
+					<matchPattern>.*[dD]ormouse.*</matchPattern>
+					<outputTemplate>Gliridae sp.</outputTemplate>
+				</valueConverter>
+
 			
 				<!-- #### Carnivora - Canids -->			
 				<valueConverter>
@@ -157,14 +168,14 @@
 					<matchPattern>.*[pP]uma [cC]oncolor.*</matchPattern>
 					<outputTemplate>Puma concolor</outputTemplate>
 				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*[kK]inkajou.*</matchPattern>
+					<outputTemplate>Potos flavus</outputTemplate>
+				</valueConverter>
 
 				<!-- #### Carnivora - Mustelids -->			
 				<valueConverter>
 					<matchPattern>.*[sS]triped [sS]kunk.*</matchPattern>
-					<outputTemplate>Mephitis mephitis</outputTemplate>
-				</valueConverter>
-				<valueConverter>
-					<matchPattern>.*[Nn]orth [cC]entral [sS]kunk.*</matchPattern>
 					<outputTemplate>Mephitis mephitis</outputTemplate>
 				</valueConverter>
 				<valueConverter>
@@ -310,6 +321,7 @@
 				</valueConverter>
  				<valueConverter>
 					<matchPattern>.*[bB]uffalo</matchPattern>
+					<matchPattern>.*[bB]uff [bB]rain</matchPattern>
 					<outputTemplate>Bison bison</outputTemplate>
 				</valueConverter>
  				<valueConverter>
@@ -333,6 +345,13 @@
 					<outputTemplate>Capra hircus</outputTemplate>
 				</valueConverter>
 
+				<!-- #### Artiodactyls - camels -->							
+ 				<valueConverter>
+					<matchPattern>.*[dD]romedary.*</matchPattern>
+					<matchPattern>.*[dD]romadery.*</matchPattern>
+					<outputTemplate>Camelus dromedarius</outputTemplate>
+				</valueConverter>		
+
 				<!-- #### Artiodactyls - Cervids -->							
  				<valueConverter>
 					<matchPattern>.*[Rr]eindeer.*</matchPattern>
@@ -349,7 +368,19 @@
   				<valueConverter>
 					<matchPattern>.*[eE]land.*</matchPattern>
 					<outputTemplate>Taurotragus oryx</outputTemplate>
-				</valueConverter> 
+				</valueConverter>
+  				<valueConverter>
+					<matchPattern>.*[kK]udu.*</matchPattern>
+					<outputTemplate>Tragelaphus sp.</outputTemplate>
+				</valueConverter>
+
+
+
+  				<valueConverter>
+  				    <matchPattern>.*[fF]allow [dD]eer.*</matchPattern>
+					<matchPattern>.*Dama dama (fallow deer).*</matchPattern>
+					<outputTemplate>Dama dama</outputTemplate>
+				</valueConverter>
 
 				<!-- #### Artiodactyls - Swine -->		
 				<valueConverter>

@@ -373,12 +373,13 @@
 					<matchPattern>.*[kK]udu.*</matchPattern>
 					<outputTemplate>Tragelaphus sp.</outputTemplate>
 				</valueConverter>
-
-
-
   				<valueConverter>
   				    <matchPattern>.*[fF]allow [dD]eer.*</matchPattern>
 					<matchPattern>.*Dama dama (fallow deer).*</matchPattern>
+					<outputTemplate>Dama dama</outputTemplate>
+				</valueConverter>
+  				<valueConverter>
+  				    <matchPattern>.*[sS]potted [dD]eer.*</matchPattern>
 					<outputTemplate>Dama dama</outputTemplate>
 				</valueConverter>
 

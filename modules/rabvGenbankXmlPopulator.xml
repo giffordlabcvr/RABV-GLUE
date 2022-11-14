@@ -88,7 +88,8 @@
 			
 			    <!-- #### Primates -->
 				<valueConverter>
-					<matchPattern>.*Homo [sS]apiens.*</matchPattern>
+					<matchPattern>.*[hH]omo [sS]apiens.*</matchPattern>
+					<matchPattern>.*[hH]uman.*</matchPattern>
 					<matchPattern>.*[rR]abies [pP]atient.*</matchPattern>				 
 					<outputTemplate>Homo sapiens</outputTemplate>
 				</valueConverter>
@@ -104,7 +105,7 @@
 					<outputTemplate>Marmota monax</outputTemplate>
 				</valueConverter>		
  				<valueConverter>
-					<matchPattern>.*[Mm]ice.*</matchPattern>
+					<matchPattern>.*^[Mm]ice$.*</matchPattern>
 					<outputTemplate>Mus musculus</outputTemplate>
 				</valueConverter>
  				<valueConverter>
@@ -130,14 +131,14 @@
 				<!-- #### Carnivora - Canids -->			
 				<valueConverter>
 					<matchPattern>.*[Cc]anine.*</matchPattern>
-					<matchPattern>.*[dD]og.*</matchPattern>				
+					<matchPattern>.*^[dD]og$.*</matchPattern>				
 					<matchPattern>.*[dD]omestic dog.*</matchPattern>
 					<matchPattern>.*[bB]itch brain.*</matchPattern>
 					<matchPattern>.*Canis lupus familiaris.*</matchPattern>		
 					<outputTemplate>Canis familiaris</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[fF]ox.*</matchPattern>
+					<matchPattern>.*^[fF]ox$.*</matchPattern>
 					<outputTemplate>Vulpes vulpes</outputTemplate>
 				</valueConverter>
 				<valueConverter>
@@ -160,7 +161,7 @@
 
 				<!-- #### Carnivora - Felids -->
 				<valueConverter>
-					<matchPattern>.*[cC]at.*</matchPattern>
+					<matchPattern>.*^[cC]at$.*</matchPattern>
 					<outputTemplate>Felis catus</outputTemplate>
 				</valueConverter>
 				<valueConverter>
@@ -206,7 +207,8 @@
 					<outputTemplate>Mellivora capensis</outputTemplate>
 				</valueConverter>
  				<valueConverter>
-					<matchPattern>.*[mM]ink.*</matchPattern>
+					<matchPattern>.*^[mM]ink$.*</matchPattern>
+					<matchPattern>.*[aA]merican [mM]ink$.*</matchPattern>
 					<outputTemplate>Neovison vison</outputTemplate>
 				</valueConverter>
  				<valueConverter>
@@ -226,15 +228,15 @@
 					<outputTemplate>Procyon lotor</outputTemplate>
 				</valueConverter>							
 				<valueConverter>
-					<matchPattern>.*[yY]ellow mongoose.*</matchPattern>
+					<matchPattern>.*[yY]ellow [mM]ongoose.*</matchPattern>
 					<outputTemplate>Cynictis penicillata</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[sS]lender mongoose.*</matchPattern>
+					<matchPattern>.*[sS]lender [mM]ongoose.*</matchPattern>
 					<outputTemplate>Galerella sanguinea</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[wW]hite-tailed mongoose.*</matchPattern>
+					<matchPattern>.*[wW]hite-tailed [mM]ongoose.*</matchPattern>
 					<outputTemplate>Ichneumia albicauda</outputTemplate>
 				</valueConverter>
 
@@ -319,6 +321,7 @@
 					<matchPattern>.*[Bb]ull</matchPattern>
 					<outputTemplate>Bos taurus</outputTemplate>
 				</valueConverter>
+				
  				<valueConverter>
 					<matchPattern>.*[bB]uffalo</matchPattern>
 					<matchPattern>.*[bB]uff [bB]rain</matchPattern>
@@ -327,20 +330,16 @@
  				<valueConverter>
 					<matchPattern>.*[yY]ak</matchPattern>
 					<outputTemplate>Bos grunniens</outputTemplate>
-				</valueConverter>						
+				</valueConverter>
+									
  				<valueConverter>
-					<matchPattern>.*[Ss]heep.*</matchPattern>
-					<outputTemplate>Ovis aries</outputTemplate>
-				</valueConverter>		
- 				<valueConverter>
+					<matchPattern>.*^[Ss]heep$.*</matchPattern>
 					<matchPattern>.*[Oo]vine.*</matchPattern>
 					<outputTemplate>Ovis aries</outputTemplate>
-				</valueConverter>								
+				</valueConverter>
+										
  				<valueConverter>
-					<matchPattern>.*[Gg]oat.*</matchPattern>
-					<outputTemplate>Capra hircus</outputTemplate>
-				</valueConverter>		
- 				<valueConverter>
+					<matchPattern>.*^[Gg]oat$.*</matchPattern>
 					<matchPattern>.*[Cc]aprine.*</matchPattern>
 					<outputTemplate>Capra hircus</outputTemplate>
 				</valueConverter>
@@ -385,13 +384,9 @@
 
 				<!-- #### Artiodactyls - Swine -->		
 				<valueConverter>
-					<matchPattern>.*[pP]ig.*</matchPattern>
+					<matchPattern>.*^[pP]ig$.*</matchPattern>
 					<outputTemplate>Sus scrofa</outputTemplate>
-				</valueConverter>			
-				<valueConverter>
-					<matchPattern>.*[pP]ig.*</matchPattern>
-					<outputTemplate>Sus scrofa</outputTemplate>
-				</valueConverter>			
+				</valueConverter>					
 				<valueConverter>
 					<matchPattern>.*[pP]orcine.*</matchPattern>
 					<outputTemplate>Sus scrofa</outputTemplate>
@@ -409,7 +404,7 @@
 					<outputTemplate>Equus caballus</outputTemplate>
 				</valueConverter>
 				<valueConverter>
-					<matchPattern>.*[aA]ss.*</matchPattern>
+					<matchPattern>.*^[aA]ss$.*</matchPattern>
 					<matchPattern>.*[dD]onkey.*</matchPattern>
 					<outputTemplate>Equus asinus</outputTemplate>
 				</valueConverter>			

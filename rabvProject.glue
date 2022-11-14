@@ -43,7 +43,7 @@ project rabv
   # Import alignment tree
   run file glue/rabvAlignmentTree.glue
 
-  # Check feature locations 
+  # Check feature locations  
   #run script glue/rabvCheckFeatureLocations.js
 
   # hack: the INFORMATIONAL metatag has overloaded semantics

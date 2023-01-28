@@ -35,7 +35,7 @@
     # Sequence & diversity information
 	create field major_clade VARCHAR 20
 	create field minor_clade VARCHAR 20
-	create field maddog_lineage VARCHAR 20
+	create field maddog_lineage VARCHAR 50
 	create field cluster INTEGER
 	  
 	exit

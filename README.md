@@ -14,7 +14,7 @@ If you have not done so already, install the GLUE software framework by followin
 
 Start the GLUE command line interpreter, and at the GLUE command prompt, run the 'rabvProject.glue' file as follows:
 
-`GLUE> run file rabvProject.glue.`
+`GLUE> run file rabvProject.glue`
 
 
 ## License

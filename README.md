@@ -8,18 +8,13 @@ You can learn more about it on the GLUE web site: [http://tools.glue.cvr.ac.uk](
 
 ## Build instructions
 
-If you have not done so already, install the GLUE software framework by following the installation instructions on the GLUE web site: [http://glue-tools.cvr.gla.ac.uk/#/installation)
+If you have not done so already, install the GLUE software framework by following the [installation instructions](http://glue-tools.cvr.gla.ac.uk/#/installation) on the GLUE web site: 
+
+
 
 Start the GLUE command line interpreter, and at the GLUE command prompt, run the 'rabvProject.glue' file as follows:
 
-`GLUE Version 1.1.107
-Copyright (C) 2015-2020 The University of Glasgow
-This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you
-are welcome to redistribute it under certain conditions. For details see
-GNU Affero General Public License v3: http://www.gnu.org/licenses/
-
-Mode path: /
-GLUE> run file rabvProject.glue`.
+`GLUE> run file rabvProject.glue.`
 
 
 ## License

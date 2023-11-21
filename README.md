@@ -6,7 +6,7 @@ RABV-GLUE is a sequence-oriented resource for comparative genomic analysis of ra
 
 GLUE (**G**enes **L**inked by **U**nderlying **E**volution) is a data-centric bioinformatics environment for virus sequence data, with a focus on variation, evolution and sequence interpretation.
 
-You can learn more about it on the GLUE web site: [http://tools.glue.cvr.ac.uk](http://glue-tools.cvr.gla.ac.uk).
+You can learn more about it on the [GLUE web site](http://glue-tools.cvr.gla.ac.uk).
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# RABV-GLUE: Comparative Genomic Analysis of Influenza Viruses
+# RABV-GLUE: Comparative Genomic Analysis of Rabies Virus
 
 ## Overview
 

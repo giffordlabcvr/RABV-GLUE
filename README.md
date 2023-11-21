@@ -41,9 +41,11 @@ If you have not done so already, install the GLUE software framework by followin
 
 Note the RABV-GLUE project has a layered structure. This approach simplifies project management because it allows data items that are likely to be used across a wide range of analysis contexts to be maintained separately from those only required for more specialized purposes. The ‘base’ layer of RABV-GLUE contains only a minimal set of essential data items required for comparative analysis.
 
-To build the base (or 'core') project, download the RABV-GLUE repository, navigate into the top-level directory, and start the GLUE command line interpreter:
+To build the base (or 'core') project, download the RABV-GLUE repository, navigate into the top-level directory, and start the GLUE command line interpreter, e.g.:
 
-```rob$ gluetools.sh 
+```
+rob$ gluetools.sh
+
 GLUE Version 1.1.107
 Copyright (C) 2015-2020 The University of Glasgow
 This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you

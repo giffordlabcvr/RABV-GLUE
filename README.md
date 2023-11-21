@@ -1,4 +1,4 @@
-# RABV-GLUE: Comparative Genomic Analysis of Rabies Virus
+# RABV-GLUE: Phylogenomic Analysis of Rabies Virus
 
 ## Overview
 

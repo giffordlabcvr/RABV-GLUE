@@ -29,6 +29,12 @@ You can learn more about it on the [GLUE web site](http://glue-tools.cvr.gla.ac.
 
 - **Rich Annotations**: Each sequence is annotated with gene features, enabling rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 
+- **Automated Genotyping**: RABV-GLUE can perform automated genotyping of RABV sequences (including subgenomic sequences) using GLUE's maximum likelihood clade assignment (MLCA) algorithm, as described [here](https://doi.org/10.1186/s12859-018-2459-9).
+
+- **Web user interface**: RABV-GLUE's open source code incorporates a [web user interface](https://github.com/giffordlabcvr/RABV-GLUE-WEB) (see instance hosted [here](http://rabv-glue.cvr.gla.ac.uk) that supports browsing of the RABV-GLUE sequence database, and includes an analysis tool that provides genotyping, analysis and visualisation of submitted FASTA sequences.
+
+An analysis tool providing genotyping, analysis and visualisation of submitted FASTA sequences.
+
 ## Installation
 
 If you have not done so already, install the GLUE software framework by following the [installation instructions](http://glue-tools.cvr.gla.ac.uk/#/installation) on the GLUE web site: 

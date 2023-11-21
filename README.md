@@ -39,12 +39,34 @@ An analysis tool providing genotyping, analysis and visualisation of submitted F
 
 If you have not done so already, install the GLUE software framework by following the [installation instructions](http://glue-tools.cvr.gla.ac.uk/#/installation) on the GLUE web site: 
 
-Start the GLUE command line interpreter, and at the GLUE command prompt, run the 'rabvProject.glue' file as follows:
+Note the RABV-GLUE project has a layered structure. This approach simplifies project management because it allows data items that are likely to be used across a wide range of analysis contexts to be maintained separately from those only required for more specialized purposes. The ‘base’ layer of RABV-GLUE contains only a minimal set of essential data items required for comparative analysis.
+
+To build the base (or 'core') project, download the RABV-GLUE repository, navigate into the top-level directory, and start the GLUE command line interpreter:
+
+```rob$ gluetools.sh 
+GLUE Version 1.1.107
+Copyright (C) 2015-2020 The University of Glasgow
+This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you
+are welcome to redistribute it under certain conditions. For details see
+GNU Affero General Public License v3: http://www.gnu.org/licenses/
+
+Mode path: /
+GLUE>
+```
+
+At the GLUE command prompt, run the 'buildCoreProject.glue' file as follows:
 
 `GLUE> run file rabvProject.glue`
 
+This will build the base project, which contains a minimal set of RABV 'reference' sequences. The base project can be extended to incorporate all RABV sequences in GenBank by downloading the extension project [NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE).
+
+From within the NCBI-RABV-GLUE project, run the 'ncbiRabvProjectBuild.glue' to build the extension layer:
+
+`GLUE> run file ncbiRabvProjectBuild.glue`
 
 ## Usage
+
+GLUE contains an interactive command line environment focused on the development and use of GLUE projects by bioinformaticians. This provides a range of productivity-oriented features such as automatic command completion, command history and interactive paging through tabular data. 
 
 For detailed instructions on how to use RABV-GLUE for your comparative genomic analysis, refer to the GLUE software environment's [reference documentation](http://glue-tools.cvr.gla.ac.uk/).
 

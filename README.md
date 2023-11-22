@@ -95,5 +95,5 @@ The project is licensed under the [GNU Affero General Public License v. 3.0](htt
 
 ## Contact
 
-For questions, issues, or feedback, please contact us at [robert.gifford@glasgow.ac.uk](mailto:robert.gifford@glasgow.ac.uk) or open an issue on the [GitHub repository](https://github.com/giffordlabcvr/RABV-GLUE/issues).
+For questions, issues, or feedback, please contact us at [gluetools@gmail.com](mailto:gluetools@gmail.com) or open an issue on the [GitHub repository](https://github.com/giffordlabcvr/RABV-GLUE/issues).
 

@@ -2,9 +2,14 @@
 
 ## Overview
 
-RABV-GLUE is a sequence-oriented resource for comparative genomic analysis of rabies virus (RABV), developed using the GLUE software framework. It provides a freely accessible, public-facing platform that offers a phylogenetically-structured collection of all publicly available RABV sequence data. 
+RABV-GLUE is a sequence-oriented resource for comparative genomic analysis of rabies virus (RABV), developed using the [GLUE](https://github.com/giffordlabcvr/gluetools) software framework.
 
-Sequences from the NCBI nucleotide database are curated along with complementary sequence metadata and are integrated together using [GLUE](https://github.com/giffordlabcvr/gluetools) (**G**enes **L**inked by **U**nderlying **E**volution) - a data-centric software package for capturing virus sequence data and organising it along evolutionary lines. 
+This base project can be extended with additional layers, including:
+
+  - **NCBI-RABV-GLUE**: extends RABV-GLUE through the incorporation of all RABV sequence data published in NCBI GenBank.
+  - **RABV-GLUE-WEB**: provides a web interface to RABV-GLUE.
+
+An web instance of RABV-GLUE incorporating both these extension layers is hosted by Glasgow University, and can be accessed here **[here](http://rabv-glue.cvr.gla.ac.uk/)**.
 
 RABV-GLUE has been developed with an explicit focus on supporting genomic surveillance of rabies virus, as described [here](https://doi.org/10.1371/journal.ppat.1010023). Effective and coordinated surveillance of RABV is essential to achieve the aims of [Zero by 30](https://www.who.int/publications/i/item/9789241513838) a global strategic plan to end human deaths from dog-mediated rabies by 2030.
 

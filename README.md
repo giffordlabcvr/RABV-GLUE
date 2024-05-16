@@ -87,8 +87,6 @@ RABV-GLUE relies on the following data sources:
 - [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore)
 - [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy)
 
-For more information on the data sources and how they are integrated, see [Data Sources](./md/data_sources.md).
-
 ## Contributing
 
 We welcome contributions from the community! If you're interested in contributing to RABV-GLUE, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).

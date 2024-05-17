@@ -34,7 +34,7 @@ While the primary focus of RABV-GLUE development is genomic surveillance, it pos
 
 - **Phylogenetic Structure**: The data in RABV-GLUE is organized in a phylogenetically-structured manner, allowing users to explore evolutionary relationships easily.
 
-- **Automated Updates**: RABV-GLUE provides an automatically-updated collection of influenza sequence data, ensuring users have access to the latest information for their analyses.
+- **Automated Updates**: RABV-GLUE provides an automatically-updated collection of RABV sequence data, ensuring users have access to the latest information for their analyses.
 
 - **Rich Annotations**: Each sequence is annotated with gene features, enabling rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 

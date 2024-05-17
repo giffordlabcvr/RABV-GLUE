@@ -68,11 +68,7 @@ At the GLUE command prompt, run the 'buildCoreProject.glue' file as follows:
 
 `GLUE> run file rabvProject.glue`
 
-This will build the base project, which contains a minimal set of RABV 'reference' sequences. The base project can be extended to incorporate all RABV sequences in GenBank by downloading the extension project [NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE).
-
-From within the NCBI-RABV-GLUE project, run the 'ncbiRabvProjectBuild.glue' to build the extension layer:
-
-`GLUE> run file ncbiRabvProjectBuild.glue`
+This will build the base project, which contains a minimal set of RABV 'reference' sequences. 
 
 ## Usage
 

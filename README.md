@@ -30,7 +30,7 @@ While the primary focus of RABV-GLUE development is genomic surveillance, it pos
 
 ## Key Features
 
-- **GLUE Framework Integration**: Built on the GLUE software framework, RABV-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of influenza viruses.
+- **GLUE Framework Integration**: Built on the GLUE software framework, RABV-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of RABV.
 
 - **Phylogenetic Structure**: The data in RABV-GLUE is organized in a phylogenetically-structured manner, allowing users to explore evolutionary relationships easily.
 

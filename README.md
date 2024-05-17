@@ -68,7 +68,6 @@ At the GLUE command prompt, run the 'buildCoreProject.glue' file as follows:
 
 `GLUE> run file rabvProject.glue`
 
-This will build the base project, which contains a minimal set of RABV 'reference' sequences. 
 
 ## Usage
 

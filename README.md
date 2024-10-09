@@ -2,6 +2,8 @@
 
 ## Overview
 
+<img src="md/glue-logo.png" align="right" alt="" width="280"/>
+
 RABV-GLUE is a sequence-oriented resource for comparative genomic analysis of rabies virus (RABV), developed using the [GLUE](https://github.com/giffordlabcvr/gluetools) software framework.
 
 GLUE is an open, integrated software toolkit designed for storing and interpreting sequence data. It supports the creation of bespoke projects, incorporating essential data items for comparative genomic analysis, such as sequences, multiple sequence alignments, genome feature annotations, and other associated data.

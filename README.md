@@ -15,7 +15,9 @@ This **RABV-GLUE** base project can be extended with additional layers, openly a
   - **[NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE)**: extends RABV-GLUE through the incorporation of all RABV sequence data published in NCBI GenBank.
   - **[RABV-GLUE-WEB](https://github.com/giffordlabcvr/RABV-GLUE-WEB)**: a web interface that can be used to create a RABV-GLUE web-server.
 
-A web instance of RABV-GLUE incorporating both these extension layers is hosted by the University of Glasgow, and can be accessed **[here](http://rabv-glue.cvr.gla.ac.uk/)**.
+To install RABV-GLUE locally, you can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
+
+You can also use some of RABV-GLUE's functionality via its web UI. A web instance of RABV-GLUE incorporating both these extension layers is hosted by the University of Glasgow, and can be accessed **[here](http://rabv-glue.cvr.gla.ac.uk/)**.
 
 RABV-GLUE has been developed with an explicit focus on supporting genomic surveillance of rabies virus, as described [here](https://doi.org/10.1371/journal.ppat.1010023). Effective and coordinated surveillance of RABV is essential to achieve the aims of [Zero by 30](https://www.who.int/publications/i/item/9789241513838) a global strategic plan to end human deaths from dog-mediated rabies by 2030.
 

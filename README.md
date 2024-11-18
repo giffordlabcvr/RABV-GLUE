@@ -39,14 +39,9 @@ While the primary focus of RABV-GLUE development is genomic surveillance, it pos
 
 - **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
 
-## Getting Started
+## Installation
 
-To begin using RABV-GLUE for comparative genomic analysis, follow these steps:
-
-1. **Install GLUE**: First, install the GLUE software framework, which forms the foundation of RABV-GLUE. You can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
-2. **Download and Install the RABV-GLUE Project**: RABV-GLUE can be installed as prebuilt database, or constructed from scratch via a local project build process. The prebuilt database allows for quick setup, while the local build process allows for more customization.
-
-Please see the **[User Guide](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Usage-Overview)** for guidance on usage.
+To install RABV-GLUE, you can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
 
 ## Data Sources
 

@@ -23,17 +23,6 @@ Sequence data are richly annotated with gene features and isolate-associated inf
 
 While the primary focus of RABV-GLUE development is genomic surveillance, it possesses the versatility to facilitate a diverse array of comparative genomic analyses for RABV.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Key Features
 
 - **GLUE Framework Integration**: Built on the GLUE software framework, RABV-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of RABV.
@@ -50,37 +39,14 @@ While the primary focus of RABV-GLUE development is genomic surveillance, it pos
 
 - **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
 
-## Installation
+## Getting Started
 
-If you have not done so already, install the GLUE software framework by following the [installation instructions](http://glue-tools.cvr.gla.ac.uk/#/installation) on the GLUE web site: 
+To begin using RABV-GLUE for comparative genomic analysis, follow these steps:
 
-Note the RABV-GLUE project has a layered structure. This approach simplifies project management because it allows data items that are likely to be used across a wide range of analysis contexts to be maintained separately from those only required for more specialized purposes. The ‘base’ layer of RABV-GLUE contains only a minimal set of essential data items required for comparative analysis.
+1. **Install GLUE**: First, install the GLUE software framework, which forms the foundation of RABV-GLUE. You can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
+2. **Download and Install the RABV-GLUE Project**: RABV-GLUE can be installed as prebuilt database, or constructed from scratch via a local project build process. The prebuilt database allows for quick setup, while the local build process allows for more customization.
 
-To build the base (or 'core') project, download the RABV-GLUE repository, navigate into the top-level directory, and start the GLUE command line interpreter, e.g.:
-
-```
-rob$ gluetools.sh
-
-GLUE Version 1.1.107
-Copyright (C) 2015-2020 The University of Glasgow
-This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you
-are welcome to redistribute it under certain conditions. For details see
-GNU Affero General Public License v3: http://www.gnu.org/licenses/
-
-Mode path: /
-GLUE>
-```
-
-At the GLUE command prompt, run the 'buildCoreProject.glue' file as follows:
-
-`GLUE> run file rabvProject.glue`
-
-
-## Usage
-
-GLUE contains an interactive command line environment focused on the development and use of GLUE projects by bioinformaticians. This provides a range of productivity-oriented features such as automatic command completion, command history and interactive paging through tabular data. 
-
-For detailed instructions on how to use RABV-GLUE for your comparative genomic analysis, refer to the GLUE software environment's [reference documentation](http://glue-tools.cvr.gla.ac.uk/).
+Please see the **[User Guide](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Usage-Overview)** for guidance on usage.
 
 ## Data Sources
 

@@ -10,7 +10,7 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
-RABV-GLUE provides a command line interface (CLI) and can be installed RABV-GLUE locally, opting either for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
+RABV-GLUE provides a command line interface (CLI) and can be installed RABV-GLUE locally, opting either for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)**.
 
 ### Web Access
 

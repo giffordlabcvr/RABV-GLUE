@@ -10,12 +10,6 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
-This **RABV-GLUE** base project can be extended with additional layers, openly available via GitHub, including:
-
-  - **[NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE)**: extends RABV-GLUE through the incorporation of all RABV sequence data published in NCBI GenBank.
-  - **[RABV-GLUE-WEB](https://github.com/giffordlabcvr/RABV-GLUE-WEB)**: a web interface that can be used to create a RABV-GLUE web-server.
-
-To install RABV-GLUE locally, you can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
 
 ### Web Access
 
@@ -23,11 +17,16 @@ You can also use some of RABV-GLUE's functionality via its web UI.
 
 **A web instance of RABV-GLUE incorporating both these extension layers is hosted by the University of Glasgow, and can be accessed [here](http://rabv-glue.cvr.gla.ac.uk/)**.
 
-RABV-GLUE has been developed with an explicit focus on supporting genomic surveillance of rabies virus, as described [here](https://doi.org/10.1371/journal.ppat.1010023). Effective and coordinated surveillance of RABV is essential to achieve the aims of [Zero by 30](https://www.who.int/publications/i/item/9789241513838) a global strategic plan to end human deaths from dog-mediated rabies by 2030.
 
-Sequence data are richly annotated with gene features and isolate-associated information. RABV-GLUE also contains reference sequences for all major and minor lineages of RABV, and heirarchically ordered multiple sequence alignments.
+### Extension Layers
 
-While the primary focus of RABV-GLUE development is genomic surveillance, it possesses the versatility to facilitate a diverse array of comparative genomic analyses for RABV.
+This **RABV-GLUE** base project can be extended with additional layers, openly available via GitHub, including:
+
+  - **[NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE)**: extends RABV-GLUE through the incorporation of all RABV sequence data published in NCBI GenBank.
+  - **[RABV-GLUE-WEB](https://github.com/giffordlabcvr/RABV-GLUE-WEB)**: a web interface that can be used to create a RABV-GLUE web-server.
+
+To install RABV-GLUE locally, you can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
+
 
 ## Key Features
 

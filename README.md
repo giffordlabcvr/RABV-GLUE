@@ -1,6 +1,6 @@
 # RABV-GLUE: Phylogenomic Analysis of Rabies Virus
 
-## Overview
+### Overview
 
 <img src="md/glue-logo.png" align="right" alt="" width="280"/>
 
@@ -18,16 +18,7 @@ You can also use some of RABV-GLUE's functionality via its web UI.
 
 **A web instance of RABV-GLUE incorporating both these extension layers is hosted by the MRC-University of Glasgow Centre for Virus Research, and can be accessed [here](http://rabv-glue.cvr.gla.ac.uk/)**.
 
-
-### Extension Layers
-
-This **RABV-GLUE** base project can be extended with additional layers, openly available via GitHub, including:
-
-  - **[NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE)**: extends RABV-GLUE through the incorporation of all RABV sequence data published in NCBI GenBank.
-  - **[RABV-GLUE-WEB](https://github.com/giffordlabcvr/RABV-GLUE-WEB)**: a web interface that can be used to create a RABV-GLUE web-server.
-
-
-## Key Features
+### Key Features
 
 - **GLUE Framework Integration**: Built on the GLUE software framework, RABV-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of RABV.
 
@@ -42,6 +33,15 @@ This **RABV-GLUE** base project can be extended with additional layers, openly a
 - **Web user interface**: The [RABV-GLUE-WEB](https://github.com/giffordlabcvr/RABV-GLUE-WEB) extension project defines a web user interface that supports online browsing of the RABV-GLUE sequence database, and provides web access to an in-built sequence analysis tool (provides genotyping, analysis and visualisation of submitted FASTA sequences).
 
 - **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
+
+
+### Extension Layers
+
+This **RABV-GLUE** base project can be extended with additional layers, openly available via GitHub, including:
+
+  - **[NCBI-RABV-GLUE](https://github.com/giffordlabcvr/NCBI-RABV-GLUE)**: extends RABV-GLUE through the incorporation of all RABV sequence data published in NCBI GenBank.
+  - **[RABV-GLUE-WEB](https://github.com/giffordlabcvr/RABV-GLUE-WEB)**: a web interface that can be used to create a RABV-GLUE web-server.
+
 
 ## Installation
 

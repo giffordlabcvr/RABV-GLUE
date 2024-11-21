@@ -51,9 +51,17 @@ This **RABV-GLUE** base project can be extended with additional layers, openly a
 
 * * * * *
 
-## Installation
+Installation
+------------
 
-To install RABV-GLUE, you can either opt for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
+To install RABV-GLUE, follow the instructions provided in the **[User Guide](https://github.com/giffordlabcvr/RABV-GLUE/wiki)**.
+
+You can choose between:
+
+-   **[Docker-based installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** for ease of deployment.
+-   **[Native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)** for traditional setup.
+
+RABV-GLUE can be installed as a prebuilt database for quick setup or constructed from scratch for more customization.
 
 * * * * *
 

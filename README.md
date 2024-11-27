@@ -12,6 +12,10 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 
 RABV-GLUE provides a command line interface (CLI) and can be installed locally, opting either for a **[Docker-based](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/RABV-GLUE/wiki/Native-Installation)**.
 
+For more details, please see the **[User Guide](https://github.com/giffordlabcvr/RABV-GLUE/wiki)**.
+
+
+
 * * * * *
 
 ### Web Access

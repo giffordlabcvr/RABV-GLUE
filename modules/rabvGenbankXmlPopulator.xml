@@ -61,7 +61,8 @@
 			<propertyPopulator property="iso_source"/>
 		</gbQualifier>
 
-		<gbQualifier name="country">
+		<gbQualifier name="geo_loc_name">
+		
 			<propertyPopulator property="gb_country"></propertyPopulator>
 			<propertyPopulator property="gb_place_sampled">
 				<matchPattern>^.*:(.*)$</matchPattern>

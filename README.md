@@ -14,18 +14,6 @@ RABV-GLUE provides a command line interface (CLI) and can be installed locally, 
 
 For more details, please see the **[User Guide](https://github.com/giffordlabcvr/RABV-GLUE/wiki)**.
 
-
-
-* * * * *
-
-### Web Access
-
-You can also use some of RABV-GLUE's functionality via its web UI. 
-
-**A web instance of RABV-GLUE incorporating both these extension layers is hosted by the MRC-University of Glasgow Centre for Virus Research, and can be accessed [here](http://rabv-glue.cvr.gla.ac.uk/)**.
-
-⚠️ Note: Externally hosted websites may not reflect the latest builds. This repository reflects the current state of the resource.
-
 * * * * *
 
 ### Key Features
